@@ -1,0 +1,150 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FRI Data Science_report LaTeX Template
+% Version 1.0 (28/1/2020)
+% 
+% Jure Demšar (jure.demsar@fri.uni-lj.si)
+%
+% Based on MicromouseSymp article template by:
+% Mathias Legrand (legrand.mathias@gmail.com) 
+% With extensive modifications by:
+% Antonio Valente (antonio.luis.valente@gmail.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+\documentclass[fleqn,moreauthors,10pt]{ds_report}
+\usepackage[english]{babel}
+\usepackage{array}
+
+\graphicspath{{fig/}}
+
+
+
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE INFORMATION
+%----------------------------------------------------------------------------------------
+
+% Header
+\JournalInfo{FRI Natural language processing course 2022}
+
+% Interim or final report
+\Archive{Project report} 
+%\Archive{Final report} 
+
+% Article title
+\PaperTitle{Automatic semantic relation extraction} 
+
+% Authors (student competitors) and their info
+\Authors{Aljoša Koren, Klemen Škrlj, and Tilen Kavčič}
+
+% Advisors
+\affiliation{\textit{Advisors: Slavko Žitnik}}
+
+% Keywords
+\Keywords{Semantic relation extraction, TermFrame knowledge base}
+\newcommand{\keywordname}{Keywords}
+
+
+%----------------------------------------------------------------------------------------
+%	ABSTRACT
+%----------------------------------------------------------------------------------------
+
+\Abstract{
+
+}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+% Makes all text pages the same height
+\flushbottom 
+
+% Print the title and abstract box
+\maketitle 
+
+% Removes page numbering from the first page
+\thispagestyle{empty} 
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+\section*{Introduction}
+		The purpose of our project is to research different approaches to automatic semantic relation extraction. Firstly, we will train and evaluate our models on the TermFrame knowledge base \cite{Vintar2019ModellingSK} which is a Karstology domain specific corpora for three languages; Slovenian, English and Croatian. The corpora contains scientific texts from the field of karstology. Combined the corpora contains more than 5 million tokens from 160 documents as it is shown in Table~\ref{table:1}. 
+		\begin{table}[h]
+		\begin{center}
+            \begin{tabular}{ | c| c| c | c |} 
+              \hline
+               & English & Slovene & Croatian \\ 
+              \hline
+              Tokens & 2,721,042  & 1,208,240 & 1,229,368 \\ 
+              \hline
+              Words & 2,195,982  & 987,801 & 969,735 \\ 
+              \hline
+              Sentences & 97,187 & 51,990 & 53,017 \\ 
+              \hline
+              Documents & 57  & 60 & 43 \\ 
+              \hline
+            \end{tabular}
+            \caption{The TermFrame corpora information.}
+            \label{table:1}
+        \end{center}
+        \end{table}
+        TermFrame corpus is annotated with 5 informations; canonical form, semantic category, definition element, semantic relation and relation definitor. We will be focusing on the definition element as it marks the definiendum and the genus. Definiendum is the term which is defined in the definition sentence, while genus represents its hypernym. We will then try to define other relationships, not just the hyponym-hypernym relations. For this we will use the semantic relation information, as it gives information about properties or features of the term that is being defined, such as location, cause, size etc.
+
+\subsection*{Corpus}
+\begin{itemize}
+    \item \href{TermFrame}{https://termframe.ff.uni-lj.si/visualizations/}
+    \item \href{Wordnet}{http://compling.hss.ntu.edu.sg/omw/}
+\end{itemize}
+
+
+\subsection*{Related works}
+There are usually two types of algorithms for discovering the hyponym-hypernym relation; pattern-based and distributional methods. The pattern-based approach is usually time-consuming and language dependent, even if we take the same language from a different time period. Distributional methods can be supervised or unsupervised. They use word distribution to extract hypernyms. Roller et al. \cite{DBLP:journals/corr/abs-1806-03191} compared both approaches in 2018. Both approaches use co-occurrences within a context, however pattern-based use predefined manually chosen patterns, while distributional methods use unconstrained word co-occurrences. They have extracted simple Hearst patterns and also broader patterns, took frequency of occurrences and sparsity into account and postpreprocessing which removed pairs that did not occur in enough sentences. This method was discovered to be better then the rest distributional methods they were comparing it with.  
+The work done by Atzori and Balloccu~\cite{Atzori2020} used a unsupervised learning for hypernym discovery. They used cosine distance in vector word embeddings as it was done before, but they added rank weighted by word frequencies in a corpus and level of similarity, to remove the semantic relations that might not be in the hyponym-hypernym relation. For example their system allows the inputs of co-hyponymes to discover a common hypernym. This is especially useful when one word could mean two different things. In the paper they show example for "apple". If it is the only input, it might output that its hypernym is "company", yet if we add a co-hyponym "pear" it will defiantly output "fruit".  Their system is domain and language independent, because they do not use Hearst patterns~\cite{hearst-1992-automatic} (realtions of the form x is-a y) or stopwords, but solely unstructured data. Their algoritm firstly processes the text by removing punctuations, making all words lowercased etc. They use word2vec algorithm which learns word associations from corpus. Then in the second step they extract the potential hypernyms by Nearest Neighbours Search with cosine similarity. They can use a single labeling or set labeling if we have multiple words with the same hypernym. At the end the algorithm gives scores to the returned candidates and returns the best guesses. 
+
+Paper \cite{bordea-etal-2016-semeval} describes results of a challenge where competitors had to extract hypernym-hyponym relations between a given list of domain-specific terms. The best approach was based on Hearst patterns where the team made use of large web corpus. The distributional approaches got competitive recall but struggled with precision. In a competition \cite{camacho-collados-etal-2018-semeval} teams were presented with a task of finding suitable hypernyms of a given word from the target corpus. The corpuses were multilingual and also domain-specific. Here a system that learned embeddings of hyponym-hypernym pairs combined with unsupervised learning of Hearst-style patterns performed the best. Overall supervised methods showed clear superiority over unsupervised ones.
+
+Dependency trees are commonly used to tackle extraction of new intra-sentence instances of semantic relations. To keep only the most relevant information pruning is used. Zhijiang Guo , Yan Zhang and Wei Lu (2019)~\cite{zhijiang_nodate}, for example, introduce Attention Guided Graph Convolutional Networks s (AGGCNs) which use a soft-pruning approach to clean up the dependency tree and keep the relevant sub-structures useful for the relation extraction task. AGGCNs transform the dependency tree into a fully connected edge-weighted graph. Weights represent the relatedness between nodes. 
+Since dependency trees don’t capture inter-sentence relations, recurrent neural networks (RNNs) and convolutional neural networks (CNNs) are often used. Sahu et al. 2019~\cite{sunil_kumar_nodate} employ their edge Graph CNN (GCNN) model to capture local and non-local dependencies. The graph nodes represent words while edges correspond to semantic dependencies. They use MIL-based bi-affine pairwise scoring function to infer relations between entities from the entity node representations. 
+
+%------------------------------------------------
+
+\section*{Methods}
+
+
+%------------------------------------------------
+
+\section*{Results}
+
+
+
+%------------------------------------------------
+
+\section*{Discussion}
+
+
+
+
+%------------------------------------------------
+
+\section*{Acknowledgments}
+
+
+
+%----------------------------------------------------------------------------------------
+%	REFERENCE LIST
+%----------------------------------------------------------------------------------------
+\bibliographystyle{unsrt}
+\bibliography{report}
+
+
+\end{document}
