@@ -82,7 +82,7 @@ class HearstPatterns(object):
                 ("((NP_\w+ ?(, )?)+(and |or )?sort of NP_\w+)", "last"),
 
 
-                ("((NP_\w+ ?(, )?)+(and |or )?is NP_a\w+)", "last")
+                ("((NP_\w+ ?(, )?)+(and |or )?is NP_\w+)", "last"),
             ])
 
         self.__pos_tagger = PerceptronTagger()
