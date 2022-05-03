@@ -1,0 +1,69 @@
+Loading model from saved_models_karst/01/checkpoint_epoch_150.pt
+Finetune all embeddings.
+Vocab size 2421 loaded from file
+Loading data from dataset/karst/test.json with batch size 32...
+12 batches created for dataset/karst/test.json
+
+Running with the following configs:
+	data_dir : dataset/karst
+	vocab_dir : dataset/vocab_karst
+	emb_dim : 300
+	pos_dim : 30
+	hidden_dim : 360
+	num_layers : 2
+	input_dropout : 0.5
+	gcn_dropout : 0.3
+	cnn_dropout : 0.5
+	word_dropout : 0.04
+	topn : 10000000000.0
+	lower : False
+	heads : 3
+	sublayer_first : 2
+	sublayer_second : 4
+	conv_l2 : 0
+	pooling : max
+	pooling_l2 : 0.002
+	mlp_layers : 1
+	no_adj : False
+	rnn : True
+	rnn_hidden : 300
+	rnn_layers : 1
+	rnn_dropout : 0.5
+	lr : 0.5
+	lr_decay : 0.9
+	decay_epoch : 6
+	optim : sgd
+	num_epoch : 150
+	batch_size : 32
+	max_grad_norm : 5.0
+	log_step : 20
+	log : logs.txt
+	save_epoch : 100
+	save_dir : ./saved_models_karst
+	id : 1
+	info : 
+	seed : 1
+	cuda : True
+	cpu : False
+	load : False
+	model_file : None
+	num_class : 6
+	vocab_size : 2421
+	model_save_dir : ./saved_models_karst/01
+
+
+['GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'HAS_LOCATION', 'HAS_SIZE', 'GENUS', 'HAS_SIZE', 'HAS_LOCATION', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS_rev', 'GENUS', 'HAS_LOCATION', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'HAS_SIZE', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'HAS_LOCATION', 'HAS_LOCATION', 'HAS_SIZE', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'HAS_SIZE', 'GENUS_rev', 'GENUS', 'HAS_LOCATION', 'HAS_LOCATION', 'GENUS_rev', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'GENUS_rev', 'GENUS', 'GENUS', 'GENUS_rev', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION_rev', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'HAS_LOCATION', 'HAS_SIZE', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION_rev', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'GENUS_rev', 'GENUS', 'GENUS', 'HAS_LOCATION', 'HAS_SIZE', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS_rev', 'GENUS', 'GENUS', 'GENUS', 'HAS_SIZE', 'HAS_SIZE', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'HAS_LOCATION', 'HAS_LOCATION', 'HAS_LOCATION', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'HAS_LOCATION_rev', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS_rev', 'GENUS', 'HAS_LOCATION', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'HAS_LOCATION', 'GENUS', 'HAS_LOCATION', 'HAS_LOCATION', 'GENUS', 'GENUS', 'HAS_LOCATION', 'HAS_SIZE', 'GENUS', 'GENUS', 'HAS_LOCATION_rev', 'GENUS', 'HAS_SIZE', 'GENUS', 'GENUS_rev', 'GENUS', 'HAS_LOCATION', 'GENUS', 'HAS_LOCATION', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'HAS_SIZE', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'HAS_LOCATION', 'GENUS', 'HAS_LOCATION_rev', 'GENUS_rev', 'GENUS', 'GENUS', 'GENUS', 'HAS_SIZE', 'GENUS_rev', 'GENUS', 'HAS_SIZE', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS_rev', 'HAS_SIZE', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_SIZE', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_SIZE', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS_rev', 'GENUS', 'HAS_SIZE', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION_rev', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'GENUS_rev', 'GENUS', 'HAS_LOCATION', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_SIZE', 'GENUS', 'HAS_LOCATION', 'HAS_LOCATION', 'HAS_SIZE', 'GENUS', 'GENUS', 'GENUS', 'HAS_SIZE', 'HAS_SIZE', 'GENUS_rev', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'HAS_LOCATION', 'GENUS', 'HAS_SIZE', 'HAS_SIZE', 'HAS_LOCATION', 'GENUS', 'GENUS', 'GENUS', 'GENUS_rev', 'GENUS', 'HAS_LOCATION_rev', 'HAS_LOCATION', 'GENUS', 'HAS_LOCATION', 'HAS_LOCATION', 'GENUS', 'GENUS', 'HAS_SIZE', 'GENUS', 'HAS_LOCATION', 'GENUS']
+Per-relation statistics:
+GENUS             P:  73.58%  R:  95.77%  F1:  83.22%  #: 189
+GENUS_rev         P:  87.50%  R:  60.87%  F1:  71.79%  #: 23
+HAS_LOCATION      P:  87.32%  R:  60.19%  F1:  71.26%  #: 103
+HAS_LOCATION_rev  P:  57.14%  R:  40.00%  F1:  47.06%  #: 10
+HAS_SIZE          P:  92.00%  R:  63.89%  F1:  75.41%  #: 36
+HAS_SIZE_rev      P: 100.00%  R:   0.00%  F1:   0.00%  #: 4
+
+Final Score:
+Precision (macro): 79.508%
+   Recall (macro): 53.453%
+       F1 (macro): 63.928%
+test set evaluate result: 0.80	0.53	0.64
+Evaluation ended.

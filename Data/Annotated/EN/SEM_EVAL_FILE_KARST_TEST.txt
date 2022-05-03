@@ -1,0 +1,1416 @@
+827	"<e1>Karst</e1> is a <e2>landscape</e2> created by the dissolution of carbonate rocks, although similar features can also be found in volcanic and permafrost areas."
+Genus(e1,e2)
+Comment:
+
+828	"<e1>Karst</e1> is a product of processes that operate <e2>on continental land masses</e2>, especially when the land masses are uplifted above sea level. <e2>on continental land masses</e2>"
+Has_location(e1,e2)
+Comment:
+
+829	"<e1>Karst</e1> is <e2>terrain</e2> with distinctive hydrology and landforms arising from the combination of high rock solubility and well-developed solution channel (secondary) porosity underground. rock"
+Genus(e1,e2)
+Comment:
+
+830	"<e1>Karst</e1> is the term used to describe a special style of <e2>landscape</e2> containing caves and extensive underground water systems that is developed on especially soluble rocks such as limestone, marble, and gypsum."
+Genus(e1,e2)
+Comment:
+
+831	"“ <e1>Karst conduit networks</e1> ” are defined as the total length of the existing conduits within a karst massif, i.e. <e2>the length of conduits wider than about 1 cm in diameter</e2> (as defined by Ford & Williams 1989)."
+Has_size(e1,e2)
+Comment:
+
+832	"<e1>Short steep-sided valleys</e1> caused by collapse of an underground cavern and exposing the river to the surface are called <e2>karst windows</e2>."
+Genus(e2,e1)
+Comment:
+
+833	"A <e1>losing <e2>stream</e2>flow</e1> is a surface <e2>stream</e2> that contributes water to the karst groundwater system in localized areas."
+Genus(e1,e2)
+Comment:
+
+834	"A <e1>losing streamflow</e1> is a surface stream that contributes water to the karst groundwater system <e2>in localized areas</e2>."
+Has_location(e1,e2)
+Comment:
+
+835	"A <e1>losing <e2>stream</e2>flow</e1> can be defined as an open <e2>stream</e2> or river that loses water as it flows down<e2>stream</e2>. water"
+Genus(e1,e2)
+Comment:
+
+836	"Joints that cross many beds are called <e1>master joints</e1>; they often <e2>extend to a depth of several tens of metres</e2> and control the orientation of master conduits (Dreybrodt 1988, Ford & Williams 1989)."
+Has_size(e1,e2)
+Comment:
+
+837	"<e1>Exokarst</e1> refers to the suit of karst features developed <e2>at the surface</e2>. <e2>at the surface</e2>"
+Has_location(e1,e2)
+Comment:
+
+838	"<e1>Crypto<e2>karst</e2></e1> refers to <e2>karst</e2> forms developed beneath a blanket of permeable sediments such as soil, till, periglacial deposits and residual clays."
+Genus(e1,e2)
+Comment:
+
+839	"<e1>Holokarst</e1> is pure karst uninfluenced by other rocks, and is developed on thick limestones <e2>extending well below baselevel</e2>."
+Has_location(e1,e2)
+Comment:
+
+840	"Ideal <e1>cave pearls</e1> are spheres that <e2>range ~ 0.2 to 10 – 15 mm in diameter</e2>."
+Has_size(e1,e2)
+Comment:
+
+841	"The <e1>static cave</e1> is a simple deep <e2>hole</e2> with no air drainage out of the bottom; thus it traps cold, dense air and excludes warmer air."
+Genus(e1,e2)
+Comment:
+
+842	"Shaft-like <e1>depressions</e1> deeply flooded by seawater in low-lying coral islands are known as <e2>blue holes</e2>."
+Genus(e2,e1)
+Comment:
+
+843	"<e1>Suffosion</e1> is the <e2>process</e2> whereby fines are evacuated through underlying pipes in the karstified bedrock by a combination of physical downwashing and chemical solution."
+Genus(e1,e2)
+Comment:
+
+844	"calcilutite: Clastic limestone or <e1>dolomite</e1> in which the grains have an average diameter of less than 1 / 16 millimeter; <e2>calcareous mudstone</e2>."
+Genus(e2,e1)
+Comment:
+
+845	"calcilutite: Clastic limestone or dolomite <e1>in which the grains have an average diameter of less than 1 / 16 millimeter</e1>; <e2>calcareous mudstone</e2>."
+Has_size(e2,e1)
+Comment:
+
+846	"<e1>calcilutite</e1>: Clastic <e2>limestone</e2> or dolomite in which the grains have an average diameter of less than 1 / 16 millimeter; calcareous mudstone."
+Genus(e1,e2)
+Comment:
+
+847	"<e1>calcirudite</e1>: A fragmental <e2>limestone</e2> in which the particles are generally larger than 2 millimeters."
+Genus(e1,e2)
+Comment:
+
+848	"<e1>canopy</e1>: A compound <e2>cave formation</e2> consisting of flowstone hanging from a sloping wall projection and forming a fringe of shawls or stalactites on the outer edge."
+Genus(e1,e2)
+Comment:
+
+849	"<e1>capillary <e2>stalagmite</e2></e1>: Hollow <e2>stalagmite</e2> formed by saturated karst water pushed up through capillaries and small cracks in a sinter crust; covering permeable fluvial deposits on the floor of a cave; first reported from Cuba, where such <e2>stalagmite</e2>s are composed of aragonite."
+Genus(e1,e2)
+Comment:
+
+850	"<e1>capillary stalagmite</e1>: Hollow stalagmite formed by saturated karst water pushed up through capillaries and small cracks in a sinter crust; covering permeable fluvial deposits <e2>on the floor of a cave</e2>; first reported from Cuba, where such stalagmites are composed of aragonite."
+Has_location(e1,e2)
+Comment:
+
+851	"<e1>capillary stalagmite</e1>: Hollow stalagmite formed by saturated karst water pushed up through capillaries and small cracks <e2>in a sinter crust</e2>; covering permeable fluvial deposits on the floor of a cave; first reported from Cuba, where such stalagmites are composed of aragonite."
+Has_location(e1,e2)
+Comment:
+
+852	"<e1>cave breakdown</e1>: <e2>Heaps of rock</e2> that have collapsed from the walls and ceiling of a cave, generally called cave breccia."
+Genus(e1,e2)
+Comment:
+
+853	"<e1>cave breccia</e1>: Angular fragments of rock forming a fill <e2>in a cave</e2>, either cemented together by dripstone or in a matrix of cave earth. See also solution breccia. <e2>in a cave</e2>"
+Has_location(e1,e2)
+Comment:
+
+854	"An <e1>aquifer</e1> is a <e2>body of rock</e2> that can store and transmit significant quantities of water (Gunn, 2004)."
+Genus(e1,e2)
+Comment:
+
+855	"<e1>Aragonite</e1> is a metastable <e2>modification of CaCO3</e2>, which sometimes forms in seawater and transforms into calcite during diagenesis."
+Genus(e1,e2)
+Comment:
+
+856	"The term <e1>bedding-plane cave</e1> is strictly applied to a passage that has not enlarged by growth into a major tube or canyon, but <e2>has remained almost entirely on the bedding plane</e2>."
+Has_location(e1,e2)
+Comment:
+
+857	"<e1>Glacial cirques</e1> have been transformed by solution into closed depressions, and are called <e2>cirque-dolines</e2>."
+Genus(e2,e1)
+Comment:
+
+858	"<e1>Dolomite</e1> is a type of <e2>rock</e2> that dissolves and is karstified similarly as limestone."
+Genus(e1,e2)
+Comment:
+
+859	"The <e1>vertical change in the level of the potentiometric surface</e1> at the well is called the <e2>drawdown</e2>."
+Genus(e2,e1)
+Comment:
+
+860	"<e1>Dry <e2>valley</e2></e1> is a <e2>valley</e2> that generally lacks a stream, although one may occasionally form during peak rainfall events."
+Genus(e1,e2)
+Comment:
+
+861	"<e1>Endokarst</e1> is defined as karst developing <e2>in the lower part of the karstosphere</e2>, where the internal (telluric) energy is dominant and the rock mass is under lithostatic pressure which exceeds its tensile strength."
+Has_location(e1,e2)
+Comment:
+
+862	"cupola: A hemispheric <e1>hill</e1> of limestone. <e2>Cupole</e2>. Halb-kugel."
+Genus(e2,e1)
+Comment:
+
+863	"<e1>current marking</e1>: Shallow asymmetrical <e2>hollows</e2>, caused by turbulent waterflow, that are distributed in rather regular fashion over limestone surfaces. See also scallop."
+Genus(e1,e2)
+Comment:
+
+864	"cutter: A Karren-like <e1>groove</e1> formed beneath the soil, more commonly referred to as <e2>subsoil Karren</e2>. See also Karren."
+Genus(e2,e1)
+Comment:
+
+865	"cutter: A <e1>Karren</e1>-like groove <e2>formed beneath the soil</e2>, more commonly referred to as subsoil <e1>Karren</e1>. See also <e1>Karren</e1>."
+Has_location(e1,e2)
+Comment:
+
+866	"<e1>cutter</e1>: A Karren-like <e2>groove</e2> formed beneath the soil, more commonly referred to as subsoil Karren. See also Karren."
+Genus(e1,e2)
+Comment:
+
+867	"<e1>cutter</e1>: A Karren-like groove <e2>formed beneath the soil</e2>, more commonly referred to as subsoil Karren. See also Karren."
+Has_location(e1,e2)
+Comment:
+
+868	"<e1>doline lake</e1>: A small <e2>karst lake</e2> occupying a doline."
+Genus(e1,e2)
+Comment:
+
+869	"dolomite: <e1>Rock</e1> chiefly composed of the mineral dolomite. Also called <e2>dolostone</e2>."
+Genus(e2,e1)
+Comment:
+
+870	"<e1>drapery</e1>: A thin <e2>sheet</e2> of dripstone, equivalent to curtain. See also bacon; blanket."
+Genus(e1,e2)
+Comment:
+
+871	"drapery: A thin <e1>sheet</e1> of dripstone, equivalent to curtain. See also bacon; <e2>blanket</e2>."
+Genus(e2,e1)
+Comment:
+
+872	"<e1>dripstone</e1>: <e2>Calcium carbonate</e2> deposited from water dripping from the ceiling or wall of a cave or from the overhanging edge of a rock shelter; commonly refers to the rock in stalactites, stalagmites, and other similar speleothems; in some places composed of aragonite or gypsum. See also flowstone. <e2>Calcium carbonate</e2> rock shelter"
+Genus(e1,e2)
+Comment:
+
+873	"<e1>outflow <e2>cave</e2></e1> - a <e2>cave</e2> from which a stream flows or formerly did so and which cannot be followed upstream to the surface."
+Genus(e1,e2)
+Comment:
+
+874	"palaeokarst ' <e1>fossil ' karst '</e1> - cave or karst <e2>features</e2> remnant from a previous period of karstification, characterized by the presence of ancient (buried) deposits, as lithified cave fills or breccias."
+Genus(e1,e2)
+Comment:
+
+875	"<e1>percolation <e2>water</e2></e1> - <e2>water</e2> moving mainly downwards through pores, cracks and tight fissures, in the vadose zone."
+Genus(e1,e2)
+Comment:
+
+876	"<e1>phreatic water</e1> - water <e2>below the level at which all voids in the rock are completely filled with water</e2>."
+Has_location(e1,e2)
+Comment:
+
+877	"<e1>pipe</e1> - a tubular cavity <e2>projecting as much as several metres down from the surface</e2> into ' karst rocks and often filled with earth, sand, gravel, breccia, etc. <e2>projecting as much as several metres down from the surface</e2>"
+Has_size(e1,e2)
+Comment:
+
+878	"<e1>plunge pool</e1> - a <e2>swirlhole</e2>, generally of large size, occurring at the foot of a waterfall or rapid, on the surface or underground."
+Genus(e1,e2)
+Comment:
+
+879	"<e1>plunge pool</e1> - a swirlhole, <e2>generally of large size</e2>, occurring at the foot of a waterfall or rapid, on the surface or underground."
+Has_size(e1,e2)
+Comment:
+
+880	"<e1>polje</e1> - a <e2>large</e2> closed depression draining underground, with a flat floor across which there may be an intermittent or perennial stream and which may be liable to flood and become a lake. the floor makes a sharp break with parts of surrounding slopes. depression stream"
+Has_size(e1,e2)
+Comment:
+
+881	"<e1>polygonal <e2>karst</e2></e1> - <e2>karst</e2> completely pitted by closed depressions so that divides between them form a crudely polygonal network."
+Genus(e1,e2)
+Comment:
+
+882	"<e1>relict karst</e1> - old <e2>cave forms</e2> produced by earlier geomorphic processes within the present cycle of karstification and open to modification by present-day processes such as deposition of speleothems, sediments or skeletal deposits."
+Genus(e1,e2)
+Comment:
+
+883	"<e1>Microrills</e1> are the <e2>smallest</e2> karren form showing a distinctive rilling appearance."
+Has_size(e1,e2)
+Comment:
+
+884	"<e1>Rainpits</e1> are small cup-like <e2>hollows</e2>, sub-circular in plan and nearly parabolic in cross section, whose diameter ranges from 0.5 – 5 cm and rarely exceed 2 cm in depth; they appear clustered in groups, or even packed by coalescence."
+Genus(e1,e2)
+Comment:
+
+885	"<e1>Rainpits</e1> are small cup-like hollows, sub-circular in plan and nearly parabolic in cross section, whose <e2>diameter ranges from 0.5 – 5 cm and rarely exceed 2 cm in depth</e2>; they appear clustered in groups, or even packed by coalescence."
+Has_size(e1,e2)
+Comment:
+
+886	"<e1>Rainpits</e1> are <e2>small</e2> cup-like hollows, sub-circular in plan and nearly parabolic in cross section, whose diameter ranges from 0.5 – 5 cm and rarely exceed 2 cm in depth; they appear clustered in groups, or even packed by coalescence."
+Has_size(e1,e2)
+Comment:
+
+887	"<e1>Decantation runnels</e1> are <e2>rills</e2>, which reduce in width and depth downslope because the solvent supply is not directly related to rainfall, but corresponds to overspilling stores of water, such as moss clumps, small snow banks, or soil remnants."
+Genus(e1,e2)
+Comment:
+
+888	"The term “ cutters ” is commonly used in North America as a synonym for <e1>grike</e1>, although it is best applied to a variety of <e1>grike</e1> that <e2>develops beneath soil cover</e2>."
+Has_location(e1,e2)
+Comment:
+
+889	"<e1>Karst</e1> is <e2>terrain</e2> with distinctive hydrology and landforms arising from the combination of high rock solubility and well-developed solution channel (secondary) porosity underground."
+Genus(e1,e2)
+Comment:
+
+890	"A spectacular form of <e1>gypsum</e1> is <e2>“ chandelier ” stalactites</e2>, such as those that occur in Lechuguilla Cave, New Mexico."
+Genus(e2,e1)
+Comment:
+
+891	"<e1>lycopodium spores</e1>: Spores of lycopodium claratum, which can be used in natural or dyed color as a label in studying ground-water movement <e2>in karst areas</e2>."
+Has_location(e1,e2)
+Comment:
+
+892	"<e1>microkarst</e1>: Karst topography in which all <e2>surficial features are small</e2>; an area dominated by minor karst features."
+Has_size(e1,e2)
+Comment:
+
+893	"<e1>natural tunnel</e1>: A nearly horizontal <e2>cave</e2> open at both ends, generally fairly straight in direction and fairly uniform in cross section."
+Genus(e1,e2)
+Comment:
+
+894	"<e1>Tafoni geomorphology</e1> designates a hollow shape <e2>rounded several decimeters to several meters</e2>, carved by erosion in the coastal carbonates."
+Has_size(e1,e2)
+Comment:
+
+895	"<e1>Caves</e1> are natural <e2>underground</e2> laboratories where crystal growth processes can be directly observed."
+Has_location(e1,e2)
+Comment:
+
+896	"polje: In areas of karst topography, a very large <e1>closed depression</e1>, in some places several kilometers long and wide, having a flat floor either of bare limestone or covered by alluvium, and surrounded by generally steep walls of limestone. Synonym: <e2>interior valley</e2>."
+Genus(e2,e1)
+Comment:
+
+897	"<e1>polje</e1>: In areas of karst topography, a very large closed depression, <e2>in some places several kilometers long and wide</e2>, having a flat floor either of bare limestone or covered by alluvium, and surrounded by generally steep walls of limestone. Synonym: interior valley."
+Has_size(e1,e2)
+Comment:
+
+898	"<e1>ponor</e1>: <e2>Hole</e2> in the bottom or side of a closed depression through which water passes to or from an underground channel. Compare swallet, swallow hole."
+Genus(e1,e2)
+Comment:
+
+899	"<e1>pool deposit</e1>: Crystalline material <e2>deposited in an isolated pool in a cave</e2>."
+Has_location(e1,e2)
+Comment:
+
+900	"<e1>pothole</e1>: A <e2>small</e2> rounded hole worn into rock in a streambed, at a waterfall, or near sea level by sand, gravel, and stones being spun around by force of the currents; a nature mill."
+Has_size(e1,e2)
+Comment:
+
+901	"<e1>pseudokarst</e1>: Karstlike terrain produced by a process other than the dissolving of rock, such as the <e2>rough surface above a lava field</e2>, where the ceilings of lava tubes have collapsed Features of <e1>pseudokarst</e1> include lava tunnels, lava tubes, lava stalactites, and lava stalagmites. <e2>rough surface above a lava field</e2>"
+Has_location(e1,e2)
+Comment:
+
+902	"<e1>rice paddy</e1>: <e2>In a cave</e2>, a terraced rimstone pool."
+Has_location(e1,e2)
+Comment:
+
+903	"<e1>Whiting</e1> is a specific category of fine-grained filler derived by fine grinding <e2>such that > 95% is < 44 µm</e2>."
+Has_size(e1,e2)
+Comment:
+
+904	"<e1>Littoral caves</e1>, more commonly known as sea caves, are <e2>found throughout the world</e2>, actively forming along present coastlines and as relict sea caves on former coastlines."
+Has_location(e1,e2)
+Comment:
+
+905	"The term “ <e1>margin</e1> ” refers to the <e2>position of the cave</e2> at the <e1>margin</e1> of the lens, and the term “ flank ” refers to the cave ’ s position under the flank of the high ground that forms the island."
+Genus(e1,e2)
+Comment:
+
+906	"<e1>Open anchialine pools</e1> are <e2>coastal pools</e2> connected to the sea by cave corridors."
+Genus(e1,e2)
+Comment:
+
+907	"<e1>Open anchialine pools</e1> are <e2>coastal</e2> pools connected to the sea by cave corridors."
+Has_location(e1,e2)
+Comment:
+
+908	"The term <e1>anchialine</e1> was coined by Holthuis (1973) to describe <e2>pools</e2> with no surface connection to the sea, containing salt or brackish water, which fluctuates with the tides."
+Genus(e1,e2)
+Comment:
+
+909	"Smectite (<e1>montmorillonite</e1>) is a layered clay <e2>mineral</e2>, product of intensive acidic weathering of volcaniclastic material."
+Genus(e1,e2)
+Comment:
+
+910	"<e1>Hard data</e1> are defined as long-term, measured time series, typically at a point within a watershed, while soft data are defined as <e2>information on individual processes</e2> within a budget that may not be directly measured within the study area, generally from literature information."
+Genus(e1,e2)
+Comment:
+
+911	"The <e1>step-wise calibration</e1> is a <e2>procedure</e2> that allowed calibrating the different components of the streamflow according to different hydrologic processes underpinning Pagliero et al."
+Genus(e1,e2)
+Comment:
+
+912	"<e1>Karst</e1> is a very heterogeneous <e2>space medium</e2> which can be explained only be applying a great number of measurement points and by monitoring and measuring various phenomena: the water levels, water discharge and velocity, chemical composition of water, its temperature, concentration of suspended particles and the microorganisms in water."
+Genus(e1,e2)
+Comment:
+
+913	"<e1>inflow <e2>cave</e2></e1> - a <e2>cave</e2> into which a stream enters or is known to have entered formerly but which cannot be followed downstream to the surface."
+Genus(e1,e2)
+Comment:
+
+914	"<e1>keyhole</e1> - a <e2>small</e2> passage or opening in a cave, which is round above and narrow below."
+Has_size(e1,e2)
+Comment:
+
+915	"<e1>lava-<e2>cave</e2></e1> - a <e2>cave</e2> in a lava flow; usually a tube or tunnel formed by flow of liquid lava through a solidified mass, or by roofing of an open channel of flowing lava."
+Genus(e1,e2)
+Comment:
+
+916	"<e1>limestone</e1> - a <e2>sedimentary rock</e2> consisting mainly of calcium carbonate cac03 •"
+Genus(e1,e2)
+Comment:
+
+917	"<e1>natural arch</e1> - an <e2>arch of rock</e2> formed by weathering."
+Genus(e1,e2)
+Comment:
+
+918	"<e1>Karst poljes</e1> are the largest flat-floored enclosed <e2>depressions</e2> in karst."
+Genus(e1,e2)
+Comment:
+
+919	"<e1>Karst poljes</e1> are the largest flat-floored enclosed depressions <e2>in karst</e2>."
+Has_location(e1,e2)
+Comment:
+
+920	"<e1>Uvalas</e1> are <e2>large</e2>, km-scale closed karst depressions of elongated or irregular plan form."
+Has_size(e1,e2)
+Comment:
+
+921	"The word “ <e1>uvala</e1> ” is a common toponym in the Dinaric karst, always denoting a large <e2>depression</e2>."
+Genus(e1,e2)
+Comment:
+
+922	"<e1>Caves</e1> are active or relict parts of the <e2>karst drainage system</e2>."
+Genus(e1,e2)
+Comment:
+
+923	"<e1>twilight zone</e1> - the part of a <e2>cave</e2> to which daylight penetrates."
+Genus(e1,e2)
+Comment:
+
+924	"<e1>uvala</e1> - a complex dosed <e2>depression</e2> with several lesser <e2>depression</e2>s within its rim."
+Genus(e1,e2)
+Comment:
+
+925	"<e1>vauclusian <e2>spring</e2></e1> - a <e2>spring</e2> rising up a deep, steeply inclined, waterfilled passage into a small surface pool."
+Genus(e1,e2)
+Comment:
+
+926	"<e1>active cave</e1>: <e2>Cave</e2> containing a running stream."
+Genus(e1,e2)
+Comment:
+
+927	"<e1>aquifer</e1>: A <e2>ground-water reservoir</e2>. Pervious rock that is completely saturated and will yield water to a well or spring."
+Genus(e1,e2)
+Comment:
+
+928	"<e1>bacon</e1>: Thin, elongated, translucent <e2>flowstone</e2> having parallel colored bands on or projecting from roofs and walls of some caves. See also blanket; curtain; drapery."
+Genus(e1,e2)
+Comment:
+
+929	"<e1>bacon</e1>: Thin, elongated, translucent flowstone having parallel colored bands on or <e2>projecting from roofs and walls of some caves</e2>. See also blanket; curtain; drapery."
+Has_location(e1,e2)
+Comment:
+
+930	"A <e1>tecto-karstic hollow</e1> is a closed basin that developed <e2>inside a tectonic depression</e2> that also evolved through karst processes."
+Has_location(e1,e2)
+Comment:
+
+931	"<e1>Poljes</e1> are the <e2>largest</e2> closed depressions observed in the karst terrains. <e2>largest</e2> closed depressions"
+Has_size(e1,e2)
+Comment:
+
+932	"The precise scientific name is <e1>littoral <e2>cave</e2></e1>, meaning a <e2>cave</e2> formed within the range of tides."
+Genus(e1,e2)
+Comment:
+
+933	"<e1>Blue holes</e1> are defined as <e2>subsurface voids</e2> that are developed in carbonate banks and islands; are open to the Earth ’ s surface; contain tidally-influenced waters of fresh, marine, or mixed chemistry; extend below sea level for a majority of their depth; and may provide access to submerged cave passages."
+Genus(e1,e2)
+Comment:
+
+934	"<e1>Blue holes</e1> are defined as subsurface voids that are <e2>developed in carbonate banks and islands</e2>; are open to the Earth ’ s surface; contain tidally-influenced waters of fresh, marine, or mixed chemistry; extend below sea level for a majority of their depth; and may provide access to submerged cave passages."
+Has_location(e1,e2)
+Comment:
+
+935	"The <e1>sandstone</e1> is a <e2>rock</e2> made of cemented quartz sand that is very resistant to erosion."
+Genus(e1,e2)
+Comment:
+
+936	"<e1>Collapse dolines</e1> are common features of the Dinaric karst and are especially numerous <e2>above known large caves</e2>."
+Has_location(e1,e2)
+Comment:
+
+937	"<e1>Karst poljes</e1> are large <e2>karst depressions</e2> with flat bottoms, which are the result of solutional processes and karst water drainage."
+Genus(e1,e2)
+Comment:
+
+938	"<e1>cave</e1> - a natural <e2>cavity</e2> in rock large enough to be entered by man. it may be water-filled. if it becomes full of ice or sediment and is impenetrable, the term applies but will need qualification."
+Genus(e1,e2)
+Comment:
+
+939	"<e1>cave fill</e1> - transported <e2>materials</e2> such as silt, day, sand and gravel which cover the bedrock floor or partially or wholly block some part of a cave."
+Genus(e1,e2)
+Comment:
+
+940	"<e1>cave pearl</e1> - a smooth, polished and rounded speleothem <e2>found in shallow hollows into which water drips</e2>."
+Has_location(e1,e2)
+Comment:
+
+941	"<e1>cave system</e1> - a <e2>collection of caves</e2> interconnected by enterable passages or linked hydrologically or a cave with an extensive complex of chambers and passages."
+Genus(e1,e2)
+Comment:
+
+942	"<e1>cavern</e1> - a very large chamber <e2>within a cave</e2>."
+Has_location(e1,e2)
+Comment:
+
+943	"<e1>ceiling <e2>tube</e2></e1>: A half <e2>tube</e2> remaining in the ceiling of a cave."
+Genus(e1,e2)
+Comment:
+
+944	"<e1>cenote</e1>: Steep-walled natural well that <e2>extends below the water tabl</e2>?; generally caused by collapse of a cave roof. Term used only for features in Yucatan. See also natural well."
+Has_location(e1,e2)
+Comment:
+
+945	"<e1>chamber</e1>: The largest order of cavity <e2>in a cave or cave system</e2>; it has considerable length and breadth but not necessarily great height."
+Has_location(e1,e2)
+Comment:
+
+946	"<e1>chamber</e1>: <e2>The largest</e2> order of cavity in a cave or cave system; it has considerable length and breadth but not necessarily great height."
+Has_size(e1,e2)
+Comment:
+
+947	"<e1>chockstone</e1>: A <e2>rock</e2> wedged between the walls of a cave passage."
+Genus(e1,e2)
+Comment:
+
+948	"<e1>choke</e1>: Rock <e2>debris</e2> or cave fill completely blocking a passage."
+Genus(e1,e2)
+Comment:
+
+949	"<e1>chute</e1>: An inclined channel or <e2>trough</e2> in a cave."
+Genus(e1,e2)
+Comment:
+
+950	"<e1>clay filling</e1>: According to Bretz, <e2>time interval</e2> between end of phreatic solution of a cave and beginning of deposition of flowstone."
+Genus(e1,e2)
+Comment:
+
+951	"<e1>rise</e1>: <e2>Spring</e2> rising from fractures in limestone. Point at which an underground stream comes to the surface. in limestone"
+Genus(e1,e2)
+Comment:
+
+952	"<e1>rise</e1>: Spring <e2>rising from fractures in limestone</e2>. Point at which an underground stream comes to the surface. in limestone"
+Has_location(e1,e2)
+Comment:
+
+953	"<e1>rock shelter</e1>: Shallow <e2>cave</e2> under an overhanging rock ledge. Many sea <e2>cave</e2>s are <e1>rock shelter</e1>s. Also found in limestone and other rock types where streams have undercut their banks at bends, or where there has been abrasion by blowing sand. Common in tropical areas at places where a secondarily hardened layer of limestone forms a ledge that projects over unindurated limestone."
+Genus(e1,e2)
+Comment:
+
+954	"<e1>roof crust</e1>: Flowstone <e2>deposited on ceilings of caves</e2> from thin films of water, which have crept over the rock from pore or crack sources."
+Has_location(e1,e2)
+Comment:
+
+955	"room: A part of a <e1>cave</e1> system that is wider than a passage. Synonym: <e2>chamber</e2>."
+Genus(e2,e1)
+Comment:
+
+956	"room: A part of a cave system <e1>that is wider than a passage</e1>. Synonym: <e2>chamber</e2>."
+Has_size(e2,e1)
+Comment:
+
+957	"<e1>sand <e2>stalagmite</e2></e1>: A <e2>stalagmite</e2> formed on sand and made of calcite cemented sandstone."
+Genus(e1,e2)
+Comment:
+
+958	"<e1>sand stalagmite</e1>: A stalagmite <e2>formed on sand</e2> and made of calcite cemented sandstone."
+Has_location(e1,e2)
+Comment:
+
+959	"<e1>scaling plate</e1>: A small flat <e2>piece of rock</e2> of rectangular or polygonal shape, that has fallen to the floor of a cave. A form of cave breakdown in thin-tedded impure limestone cut by closely spaced joints."
+Genus(e1,e2)
+Comment:
+
+960	"<e1>sea cave</e1>: A cave or cleft <e2>in a sea cliff</e2> eroded by waves or currerts or dissolved by water."
+Has_location(e1,e2)
+Comment:
+
+961	"<e1>struga</e1>: A <e2>corridor</e2> formed along a bedding plane in karst country."
+Genus(e1,e2)
+Comment:
+
+962	"<e1>subjacent karst</e1>: <e2>Karst landscape</e2> in noncarbonate rocks due to presence of karstified rocks beneath the surface formation."
+Genus(e1,e2)
+Comment:
+
+963	"<e1>submarine spring</e1>: Large <e2>offshore</e2> emergence, generally from cavernous limestone, but in some areas from beds of lava."
+Has_location(e1,e2)
+Comment:
+
+964	"<e1>subterranean river</e1>: <e2>Underground stream</e2> of flowing water, not necessarily large."
+Genus(e1,e2)
+Comment:
+
+965	"<e1>subterranean river</e1>: Underground stream of flowing water, <e2>not necessarily large</e2>."
+Has_size(e1,e2)
+Comment:
+
+966	"<e1>syngenetic karst</e1>: <e2>Karst</e2> developed in eolian calcarenite where lithification of dune sands and productior of karst phenomena occurred simultaneously."
+Genus(e1,e2)
+Comment:
+
+967	"<e1>torca</e1>: <e2>Large</e2> closed depression, more or less circular; a doline."
+Has_size(e1,e2)
+Comment:
+
+968	"<e1>torricellian chamber</e1>: A <e2>submerged</e2> airfilled chamber of a cave at a pressure below atmospheric pressure, sealed by water, having an air-water surface above that of adjacent free air-water surfaces."
+Has_location(e1,e2)
+Comment:
+
+969	"<e1>tourelle</e1>: A <e2>little</e2> tower; applied to small flat-topped buttes of limestone in karst areas. Contrasted with pitons, which have pointed tops, and with coupoles, which have rounded tops."
+Has_size(e1,e2)
+Comment:
+
+970	"tower karst, <e1>Turmkarst</e1>: <e2>Karst</e2> topography characterized by isolated limestone hills separated by areas of alluvium or other detrital sand; towers are generally steep-sided forest-covered hills, and many have flat tops."
+Genus(e1,e2)
+Comment:
+
+971	"grike, <e1>gryke</e1>: A vertical or subvertical <e2>fissure</e2> in a limestone pavement developed by solution along a joint. Synonym: Kluftkarren."
+Genus(e1,e2)
+Comment:
+
+972	"grike, gryke: A vertical or subvertical fissure in a limestone pavement developed by solution <e1>along a joint</e1>. Synonym: <e2>Kluftkarren</e2>."
+Has_location(e2,e1)
+Comment:
+
+973	"<e1>grotto</e1>: A <e2>small</e2> cave, natural or artificial."
+Has_size(e1,e2)
+Comment:
+
+974	"<e1>grotto</e1>: A <e2>room</e2>, in a cave system, of moderate dimensions but richly decorated."
+Genus(e1,e2)
+Comment:
+
+975	"<e1>grotto</e1>: A room, <e2>in a cave system</e2>, of moderate dimensions but richly decorated."
+Has_location(e1,e2)
+Comment:
+
+976	"<e1>gulf</e1>: Steep-walled closed <e2>depression</e2> having a flat alluviated bottom; in some <e1>gulf</e1>s a stream flows across the bottom."
+Genus(e1,e2)
+Comment:
+
+977	"<e1>gypsum</e1>: A <e2>mineral</e2> composed of hydrous calcium sulfate."
+Genus(e1,e2)
+Comment:
+
+978	"Halbkugel<e1>karst</e1>: Tropical <e1>karst</e1> topography containing domeshaped residual hills surrounding depressions, a kind of Kegel<e1>karst</e1>. Also called <e2>Kugel<e1>karst</e1></e2>."
+Genus(e2,e1)
+Comment:
+
+979	"<e1>Halbkugel<e2>karst</e2></e1>: Tropical <e2>karst</e2> topography containing domeshaped residual hills surrounding depressions, a kind of Kegel<e2>karst</e2>. Also called Kugel<e2>karst</e2>."
+Genus(e1,e2)
+Comment:
+
+980	"<e1>hall</e1>: In a cave, a lofty <e2>chamber</e2> which is much longer than it is wide."
+Genus(e1,e2)
+Comment:
+
+981	"<e1>ice <e2>cave</e2></e1>: A <e2>cave</e2>, generally in lava or limestone, in which the average temperature is below 0 ° C., and which ordinarily contains perennial ice. Ice may have the form of stalactites, stalagmites, or flowstone."
+Genus(e1,e2)
+Comment:
+
+982	"The <e1>halocline</e1> is a <e2>layer</e2> where the salinity abruptly changes (sometimes from polyhaline to nearly limnic)."
+Genus(e1,e2)
+Comment:
+
+983	"<e1>Glaciers</e1> are <e2>sedimentary formations of seasonal snow</e2> that accumulates on the upper elevations of a glacier and buries the previous season ’ s accumulation."
+Genus(e1,e2)
+Comment:
+
+984	"<e1>Gypsum needles</e1> are straight, clear crystals that grow by extrusion from the soil <e2>in some caves</e2>."
+Has_location(e1,e2)
+Comment:
+
+985	"In porous media aquifers, <e1>pores</e1> between mineral grains are <e2>the open spaces</e2> available for the storage of water."
+Genus(e1,e2)
+Comment:
+
+986	"<e1>Hydrothermal karst</e1> is a special case of <e2>hypogene karst</e2>."
+Genus(e1,e2)
+Comment:
+
+987	"<e1>Network caves</e1> are <e2>angular grids of intersecting passages</e2> formed by widening of nearly all major fractures within favorable areas of soluble rocks."
+Genus(e1,e2)
+Comment:
+
+988	"A particular type of <e1>ice stalagmite</e1>, known as <e2>bamboo</e2> or thermoindicator, consists of successions of perfectly transparent ice knobs and narrow sections of opaque ice."
+Genus(e2,e1)
+Comment:
+
+989	"<e1>In karst regions of the world</e1>, the <e2>carbonate reactions</e2> are calcite dissolution, tufa formation, and carbonate formation."
+Has_location(e2,e1)
+Comment:
+
+990	"The <e1>epikarst</e1> is a <e2>permeable boundary</e2> between the surface and subsurface environments and can be conceptualized as the vadose critical zone of epigenic karst systems."
+Genus(e1,e2)
+Comment:
+
+991	"The <e1>hyporheic <e2>zone</e2></e1> is a <e2>zone</e2> (usually associated with a coupled river - alluvial aquifer system) that has a variable thickness and lateral extent, through which surface water and groundwater exchange and mix. river - alluvial aquifer system"
+Genus(e1,e2)
+Comment:
+
+992	"<e1>Goethite</e1> is a very frequent <e2>mineral</e2> created in the oxidation of various iron <e2>mineral</e2>s, but can also be created as a precipitate in marshes and springs."
+Genus(e1,e2)
+Comment:
+
+993	"<e1>Smaller</e1> <e2>fluvial karst forms</e2> (mesoforms) are smaller dolines that can be found particularly on flat parts of land and can amount to several 10 per km2."
+Has_size(e2,e1)
+Comment:
+
+994	"Smaller fluvial karst forms (<e1>mesoforms</e1>) are smaller <e2>dolines</e2> that can be found particularly on flat parts of land and can amount to several 10 per km2."
+Genus(e1,e2)
+Comment:
+
+995	"<e1>Smaller</e1> fluvial karst forms (<e2>mesoforms</e2>) are smaller dolines that can be found particularly on flat parts of land and can amount to several 10 per km2."
+Has_size(e2,e1)
+Comment:
+
+996	"<e1>shaft</e1>: A vertical passage <e2>in a cave</e2>."
+Has_location(e1,e2)
+Comment:
+
+997	"<e1>shield</e1>: A disk-shaped <e2>speleothem</e2> standing edgewise at a high angle."
+Genus(e1,e2)
+Comment:
+
+998	"<e1>shield</e1>: A disk-shaped speleothem <e2>standing edgewise at a high angle</e2>."
+Has_location(e1,e2)
+Comment:
+
+999	"<e1>sink</e1>, <e1>sink</e1>hole: General terms for <e2>closed depressions</e2>. They may be basin, funnel, or cylindrical shaped."
+Genus(e1,e2)
+Comment:
+
+1000	"<e1>sinkhole plain</e1>: <e2>Plain</e2> on which most of the local relief is due to closed depressions and nearly all drainage is subterranean."
+Genus(e1,e2)
+Comment:
+
+1001	"<e1>sinkhole pond</e1>: Small lake <e2>in closed depression</e2> in limestone, due to an impervious clay floor or to intersection of depression with the water table."
+Has_location(e1,e2)
+Comment:
+
+1002	"<e1>sinkhole pond</e1>: <e2>Small</e2> lake in closed depression in limestone, due to an impervious clay floor or to intersection of depression with the water table."
+Has_size(e1,e2)
+Comment:
+
+1003	"<e1>sinking creek</e1>: A <e2>small</e2> stream that disappears underground."
+Has_size(e1,e2)
+Comment:
+
+1004	"<e1>siphon</e1>: In speleology, a <e2>cave passage</e2> in which the ceiling dips below a water surface. water"
+Genus(e1,e2)
+Comment:
+
+1005	"<e1>slump pit</e1>: A hollow in <e2>the clay fill of a cave floor</e2> caused by erosion beneath the fill."
+Has_location(e1,e2)
+Comment:
+
+1006	"solution pan: Shallow <e1>solution basin</e1> formed on bare limestone, generally characterized by flat bottom and overhanging sides. Synonyms: Kamenitza; <e2>Opferkessel</e2>; panhole; tinajita."
+Genus(e2,e1)
+Comment:
+
+1007	"solution pan: Shallow <e1>solution basin</e1> formed on bare limestone, generally characterized by flat bottom and overhanging sides. Synonyms: <e2>Kamenitza</e2>; Opferkessel; panhole; tinajita."
+Genus(e2,e1)
+Comment:
+
+1008	"<e1>sotano</e1>: Term used in Mexico for <e2>deep</e2> vertical shafts in limestone, which may or may not lead to a cave. <e2>deep</e2>"
+Has_size(e1,e2)
+Comment:
+
+1009	"<e1>outflow cave</e1>: <e2>Cave</e2> from which stream flows out or formerly did so. Synonym, effluent cave."
+Genus(e1,e2)
+Comment:
+
+1010	"phreas, <e1>phreatic water</e1>: <e2>Water</e2> in the zone of saturation; water below the water table."
+Genus(e1,e2)
+Comment:
+
+1011	"<e1>phreatic zone</e1>: The region <e2>below the water table</e2>, in which rock is saturated with water."
+Has_location(e1,e2)
+Comment:
+
+1012	"<e1>pit</e1>: A deep <e2>hole</e2>, generally circular in outline, having vertical or nearly vertical walls."
+Genus(e1,e2)
+Comment:
+
+1013	"<e1>piton</e1>: Limestone <e2>hill</e2> having sharply pointed peak."
+Genus(e1,e2)
+Comment:
+
+1014	"<e1>karst <e2>spring</e2></e1>: A <e2>spring</e2> emerging from karstified limestone."
+Genus(e1,e2)
+Comment:
+
+1015	"<e1>karst spring</e1>: A spring <e2>emerging from karstified limestone</e2>."
+Has_location(e1,e2)
+Comment:
+
+1016	"<e1>karst <e2>valley</e2></e1>: Elongate solution <e2>valley</e2>."
+Genus(e1,e2)
+Comment:
+
+1017	"<e1>karst window</e1>: A small <e2>natural bridge</e2> or arch which can be seen through."
+Genus(e1,e2)
+Comment:
+
+1018	"<e1>karstification</e1>: <e2>Action</e2> by water, mainly chemical but also mechanical, that produces features of a karst topography, including such surface features as dolines, Karren, and mogotes and such subsurface features as caves and shafts."
+Genus(e1,e2)
+Comment:
+
+1019	"<e1>Kegel<e2>karst</e2></e1>: A general term used to describe several types of tropical humid <e2>karst</e2> characterized by numerous, closely spaced hemispherical -, or tower-shaped hills having intervening closed depressions and narrow steep-walled <e2>karst</e2> valleys or passageways."
+Genus(e1,e2)
+Comment:
+
+1020	"<e1>choke</e1> - <e2>rock debris</e2> or cave fill blocking part of a cave."
+Genus(e1,e2)
+Comment:
+
+1021	"<e1>column</e1> - a <e2>speleothem</e2> from floor to ceiling, formed by the growth and joining of a stalactite and a stalagmite, or by the growth of either to meet bedrock."
+Genus(e1,e2)
+Comment:
+
+1022	"<e1>conduit</e1> - an underground <e2>stream course</e2> completely filled with water and under hydrostatic pressure or a circular or elliptical passage inferred to have been such a <e2>stream course</e2>."
+Genus(e1,e2)
+Comment:
+
+1023	"<e1>conduit</e1> - an <e2>underground</e2> stream course completely filled with water and under hydrostatic pressure or a circular or elliptical passage inferred to have been such a stream course."
+Has_location(e1,e2)
+Comment:
+
+1024	"<e1>dark zone</e1> - the <e2>part of a cave which daylight does not reach</e2>."
+Has_location(e1,e2)
+Comment:
+
+1025	"<e1>dome</e1> - a <e2>large</e2> hemispheroidal hollow in the roof of a cave, formed by breakdown and / or salt weathering, generally in mechanically weak rocks, which prevents bedding and joints dominating the form."
+Has_size(e1,e2)
+Comment:
+
+1026	"<e1>drip<e2>hole</e2></e1> - a <e2>hole</e2> formed by water dripping onto the cave floor. cave floor"
+Genus(e1,e2)
+Comment:
+
+1027	"<e1>driphole</e1> - a hole formed by water dripping onto the <e2>cave floor</e2>. <e2>cave floor</e2>"
+Has_location(e1,e2)
+Comment:
+
+1028	"<e1>dripline</e1> - a line <e2>on the ground</e2> at a cave entrance formed by drips from the rock above, useful in cave survey to define the beginning of the cave."
+Has_location(e1,e2)
+Comment:
+
+1029	"<e1>dripstone</e1> - a <e2>deposit</e2> formed from drops falling from cave roofs or walls, usually of calcite."
+Genus(e1,e2)
+Comment:
+
+1030	"<e1>dry <e2>cave</e2></e1> - a <e2>cave</e2> without a running stream, also dead <e2>cave</e2>."
+Genus(e1,e2)
+Comment:
+
+1031	"<e1>Stalactites</e1> are centimeter to meter in scale, <e2>hanging from the ceiling</e2> and growing toward the cave floor."
+Has_location(e1,e2)
+Comment:
+
+1032	"<e1>Stalagmitic flowstones</e1> are a particular type of stalagmite formed by a thin flowing film of water itself fed by groups of dripping stalactites, and <e2>coat the cave floor and walls</e2>. are a"
+Has_location(e1,e2)
+Comment:
+
+1033	"Also known as ponors, <e1>swallow holes</e1> are <e2>the point at which a sinking stream heads underground</e2>."
+Has_location(e1,e2)
+Comment:
+
+1034	"The word <e1>polje</e1> signifies a <e2>field</e2> or a large plain, and it is still widely used in Slav languages without particular reference to karstic terrain (Sweeting 1972, Roglič 1974), although <e1>polje</e1>s in the karst of Slovenia are usually called dolina or dol (Gams 1994)."
+Genus(e1,e2)
+Comment:
+
+1035	"The word <e1>polje</e1> signifies a field or a <e2>large</e2> plain, and it is still widely used in Slav languages without particular reference to karstic terrain (Sweeting 1972, Roglič 1974), although <e1>polje</e1>s in the karst of Slovenia are usually called dolina or dol (Gams 1994)."
+Has_size(e1,e2)
+Comment:
+
+1036	"Gypsum tumuli (<e1>bubbles</e1> or tents) are <e2>hollow domes</e2> of freshly formed gypsum that are round or elliptical in plan (Breish and Wefer 1981, Pulido-Bosch 1986, Macaluso and Sauro 1996)."
+Genus(e1,e2)
+Comment:
+
+1037	"<e1>Clasts</e1> with microrills are <e2>rillensteine</e2> (Laudermilk and Woodford 1932)."
+Genus(e2,e1)
+Comment:
+
+1038	"<e1>Solution runnels</e1> are normal Hortonian <e2>channels</e2>, heading where sheetflow or wash on a slope breaks down into linear threads."
+Genus(e1,e2)
+Comment:
+
+1039	"The term “ <e1>blue hole</e1> ” has been used in a variety of ways, but they are best defined as: “ subsurface voids that are <e2>developed in carbonate banks and islands</e2>; are open to the Earth ’ s surface; contain tidally influenced waters of fresh, marine, or mixed chemistry; extend below sea-level for a majority of their depth; and may provide access to submerged cave passages."
+Has_location(e1,e2)
+Comment:
+
+1040	"<e1>jama</e1>: <e2>Vertical</e2> or steeply inclined shaft in limestone, known as abime or aven in France and as pothole in England."
+Genus(e1,e2)
+Comment:
+
+1041	"jama: <e1>Vertical</e1> or steeply inclined shaft in limestone, known as abime or <e2>aven</e2> in France and as pothole in England."
+Genus(e2,e1)
+Comment:
+
+1042	"<e1>Karren</e1>: Channels or <e2>furrows</e2>, caused by solution on massive bare limestone surfaces; they vary in depth from a few millimeters to more than a meter and are separated by ridges."
+Genus(e1,e2)
+Comment:
+
+1043	"<e1>Rinnenkarren</e1>: Type of <e2>Karren</e2>, flat-bottomed grooves several centimeters apart."
+Genus(e1,e2)
+Comment:
+
+1044	"<e1>Rinnenkarren</e1>: Type of Karren, flat-bottomed grooves <e2>several centimeters apart</e2>."
+Has_size(e1,e2)
+Comment:
+
+1045	"<e1>Kluftkarren</e1>: Type of <e2>Karren</e2>; joints enlarged by solution."
+Genus(e1,e2)
+Comment:
+
+1046	"<e1>Meanderkarren</e1>: Type of <e2>Karren</e2>, small winding or meandering channels."
+Genus(e1,e2)
+Comment:
+
+1047	"<e1>Rundkarren</e1>: <e2>Karren</e2> having rounded channels and intervening rounded ridges, probably reexhumed after formation under soil or peat."
+Genus(e1,e2)
+Comment:
+
+1048	"<e1>Fachkarren</e1>: Type of <e2>Karren</e2>, equivalent to English clint."
+Genus(e1,e2)
+Comment:
+
+1049	"<e1>Bodenkarren</e1>: <e2>Karren</e2> formed beneath the soil. Synonym, lapils."
+Genus(e1,e2)
+Comment:
+
+1050	"<e1>karst <e2>plain</e2></e1>: A <e2>plain</e2> on which closed depressions, subterranean drainage, and other karst features may be developed. Also called karst plateau."
+Genus(e1,e2)
+Comment:
+
+1051	"<e1>karst pond</e1>: <e2>Closed depression</e2> in a karst area containing standing water."
+Genus(e1,e2)
+Comment:
+
+1052	"vauclusian spring: A large spring or <e1>exsurgence</e1> of an underground river, generally from limestone, that varies greatly in output and is impenetrable except with diving apparatus. Synonym: <e2>gushing spring</e2>."
+Genus(e2,e1)
+Comment:
+
+1053	"vauclusian <e1>spring</e1>: A large <e1>spring</e1> or exsurgence of an underground river, generally from limestone, that varies greatly in output and is impenetrable except with diving apparatus. Synonym: <e2>gushing <e1>spring</e1></e2>."
+Genus(e2,e1)
+Comment:
+
+1054	"<e1>vauclusian <e2>spring</e2></e1>: A large <e2>spring</e2> or exsurgence of an underground river, generally from limestone, that varies greatly in output and is impenetrable except with diving apparatus. Synonym: gushing <e2>spring</e2>."
+Genus(e1,e2)
+Comment:
+
+1055	"<e1>wall slab</e1>: A thin but <e2>large</e2> block of rock, which has fallen outward from the wall of a cave in limestone in which the dip is nearly vertical."
+Has_size(e1,e2)
+Comment:
+
+1056	"<e1>well</e1>: A <e2>shaft or hole</e2> sunk into the earth to obtain water, oil, gas, or minerals."
+Genus(e1,e2)
+Comment:
+
+1057	"<e1>window</e1>: The <e2>opening</e2> under the arch of a small natural bridge. small natural"
+Genus(e1,e2)
+Comment:
+
+1058	"<e1>window</e1>: The opening <e2>under the arch of a small natural bridge</e2>. small natural"
+Has_location(e1,e2)
+Comment:
+
+1059	"<e2><e1>zone</e1> of aeration</e2>: The <e1>zone</e1> in permeable soil or rock that is above the <e1>zone</e1> saturated with water; the <e1>zone</e1> of vadose water."
+Genus(e2,e1)
+Comment:
+
+1060	"<e1>shawl</e1> - a simple triangular-shaped <e2>curtain</e2>."
+Genus(e1,e2)
+Comment:
+
+1061	"<e1>show <e2>cave</e2></e1> - a <e2>cave</e2> that has been made accessible to the public for guided visits."
+Genus(e1,e2)
+Comment:
+
+1062	"<e1>solution flute</e1> - a <e2>solution hollow</e2> running down the maximum slope of the rock, of uniform fingertip width and depth, with sharp ribs between it and its neighbours."
+Genus(e1,e2)
+Comment:
+
+1063	"<e1>solution pan</e1> - a dish-shaped <e2>depression</e2> on flatfish rock; its sides may overhang and carry solution flutes. its bottom may have a cover of organic remains, silt, clay or rock fragments."
+Genus(e1,e2)
+Comment:
+
+1064	"<e1>solution pan</e1> - a dish-shaped depression <e2>on flatfish rock</e2>; its sides may overhang and carry solution flutes. its bottom may have a cover of organic remains, silt, clay or rock fragments."
+Has_location(e1,e2)
+Comment:
+
+1065	"<e1>solution runnel</e1> - a <e2>solution hollow</e2> running down the maximum slope of the rock, larger than a solution flute and increasing in depth and width down its length."
+Genus(e1,e2)
+Comment:
+
+1066	"<e1>solution runnel</e1> - a solution hollow running down the maximum slope of the rock, <e2>larger than a solution flute</e2> and increasing in depth and width down its length."
+Has_size(e1,e2)
+Comment:
+
+1067	"<e1>speleogen</e1> - a <e2>cave feature</e2> formed erosionally or by weathering in cave enlargement, such as current markings (cf. scallop) or rock pendants."
+Genus(e1,e2)
+Comment:
+
+1068	"<e1>speleogen</e1> - a cave feature formed erosionally or by weathering <e2>in cave enlargement</e2>, such as current markings (cf. scallop) or rock pendants."
+Has_location(e1,e2)
+Comment:
+
+1069	"<e1>speleothem</e1> - a secondary mineral deposit <e2>formed in caves</e2>, most commonly calcite."
+Has_location(e1,e2)
+Comment:
+
+1070	"<e1>splash cup</e1> - a <e2>shallow cavity</e2> in the top of a stalagmite."
+Genus(e1,e2)
+Comment:
+
+1071	"<e1>splash cup</e1> - a shallow cavity <e2>in the top of a stalagmite</e2>."
+Has_location(e1,e2)
+Comment:
+
+1072	"<e1>Fenglin</e1> is an extreme form of <e2>karst</e2> that only develops where dissolution rates, tectonic uplift, and alluviation maintain a critical balance (Zhang, 1980)."
+Genus(e1,e2)
+Comment:
+
+1073	"The principal surface karst landforms are shapely <e1>solution dolines</e1>, <e2>10 – 100 m in diameter and up to 30 m in depth</e2>."
+Has_size(e1,e2)
+Comment:
+
+1074	"<e1>Vertical shafts</e1> are common <e2>underground</e2>, and are often exposed at the surface, truncated by glaciation and filled with shattered rock and sediment."
+Has_location(e1,e2)
+Comment:
+
+1075	"Glacier pseudokarst also develops in debris where buried ice melts in situ, developing <e1>closed depressions</e1>, in isolation known as “ <e2>kettle holes</e2> ”, or assembled into extensive debris pseudokarst hillocks termed “ hummocky moraine ”."
+Genus(e2,e1)
+Comment:
+
+1076	"The <e1>springs</e1> in allogenic karst aquifers are known as <e2>resurgences</e2>, and are often characterized by substantial variation in water quality since they reflect the changing water quality of the sinking streams."
+Genus(e2,e1)
+Comment:
+
+1077	"Autogenic karst aquifers feed <e1>springs</e1> known as <e2>exsurgences</e2>."
+Genus(e2,e1)
+Comment:
+
+1078	"The <e1>zone of vertical circulation</e1> is an <e2>area</e2> with large joints through which the water circulates quickly, predominantly in the ver - tical direction, down to the groundwater level."
+Genus(e1,e2)
+Comment:
+
+1079	"<e1>Lava conduits</e1> (also known as tubes, tunnels, or pyroducts) <e2>form on the sides of volcanoes</e2> within streams of lava by a process called inflation or by the crusting over of channels."
+Has_location(e1,e2)
+Comment:
+
+1080	"<e1>Lava conduits</e1> (also known as tubes, tunnels, or pyroducts) form on the sides of volcanoes <e2>within streams of lava</e2> by a process called inflation or by the crusting over of channels."
+Has_location(e1,e2)
+Comment:
+
+1081	"Lava conduits (also known as <e1>tubes</e1>, tunnels, or pyroducts) <e2>form on the sides of volcanoes</e2> within streams of lava by a process called inflation or by the crusting over of channels."
+Has_location(e1,e2)
+Comment:
+
+1082	"Lava conduits (also known as tubes, tunnels, or <e1>pyroducts</e1>) <e2>form on the sides of volcanoes</e2> within streams of lava by a process called inflation or by the crusting over of channels."
+Has_location(e1,e2)
+Comment:
+
+1083	"Lava conduits (also known as tubes, tunnels, or <e1>pyroducts</e1>) form on the sides of volcanoes <e2>within streams of lava</e2> by a process called inflation or by the crusting over of channels."
+Has_location(e1,e2)
+Comment:
+
+1084	"Biofilms <e1>on subaerial cave-wall surfaces</e1>, referred to as microbial draperies, cave-wall biofilms, or <e2>snottites</e2>, have been described from the several active sulfidic caves."
+Has_location(e2,e1)
+Comment:
+
+1085	"Biofilms on subaerial cave-wall surfaces, referred to as microbial draperies, cave-wall biofilms, or <e1>snottites</e1>, have been described from the several <e2>active sulfidic caves</e2>."
+Has_location(e1,e2)
+Comment:
+
+1086	"<e1>Biofilms</e1> on subaerial cave-wall surfaces, referred to as microbial draperies, cave-wall biofilms, or snottites, have been described from the several <e2>active sulfidic caves</e2>."
+Has_location(e1,e2)
+Comment:
+
+1087	"A particular type of <e1>collapse doline</e1> is the <e2>cenotes</e2>, open depressions in the coastal karst belts giving access to the water table and resulting from the collapse of the roof of submerged cavities."
+Genus(e2,e1)
+Comment:
+
+1088	"A particular type of collapse doline is the <e1>cenotes</e1>, open depressions <e2>in the coastal karst belts</e2> giving access to the water table and resulting from the collapse of the roof of submerged cavities."
+Has_location(e1,e2)
+Comment:
+
+1089	"<e1>Subsidence dolines</e1> are <e2>closed depressions</e2> caused by the subsiding of an area."
+Genus(e1,e2)
+Comment:
+
+1090	"A <e1>polygenetic sink</e1> is a <e2>closed depression</e2> that clearly evolved through both the karst process and another morphogenetic process."
+Genus(e1,e2)
+Comment:
+
+1091	"<e1>conduit</e1>: A subterranean <e2>stream course</e2> filled completely with water and always under hydrostatic pressure. See also siphon."
+Genus(e1,e2)
+Comment:
+
+1092	"<e1>conduit</e1>: A <e2>subterranean</e2> stream course filled completely with water and always under hydrostatic pressure. See also siphon."
+Has_location(e1,e2)
+Comment:
+
+1093	"<e1>cone karst</e1>: A type of <e2>karst topography</e2>, common in the tropicr. characterized by star-shaped depressions at the feet of many steep-sided core-shaped hills. A variety of Kegelkarst. See also cockpit karst."
+Genus(e1,e2)
+Comment:
+
+1094	"crawl, <e1>crawlway</e1>: A cave <e2>passage</e2> that must be negotiated on hands and knees, crescentic wall niche. See meander niche."
+Genus(e1,e2)
+Comment:
+
+1095	"<e1>crystal <e2>pool</e2></e1>: In caves a <e2>pool</e2>, generally having little or no overflow, containing crystals."
+Genus(e1,e2)
+Comment:
+
+1096	"<e1>Dissolutional potholes</e1> are sharp-edged, rounded-interior <e2>basins</e2> in stream beds."
+Genus(e1,e2)
+Comment:
+
+1097	"<e1>Pendants</e1> are positive forms hanging from passage ceilings, <e2>typically B10 — 100 cm in dimension</e2>."
+Has_size(e1,e2)
+Comment:
+
+1098	"A <e1>cutter</e1> is a deep <e2>grike</e2> that has formed under an acidic soil cover, often with a complex curved cross section, some cavernous karren, and remnant rounded pinnacles."
+Genus(e1,e2)
+Comment:
+
+1099	"A <e1>cutter</e1> is a deep grike that <e2>has formed under an acidic soil cover</e2>, often with a complex curved cross section, some cavernous karren, and remnant rounded pinnacles."
+Has_location(e1,e2)
+Comment:
+
+1100	"<e1>Regions where closed depressions are the dominant landform</e1> are not typically dissected by surface streams and are known as <e2>sinkhole plains</e2> or doline karst."
+Genus(e2,e1)
+Comment:
+
+1101	"<e1>Regions where closed depressions are the dominant landform</e1> are not typically dissected by surface streams and are known as sinkhole plains or <e2>doline karst</e2>."
+Genus(e2,e1)
+Comment:
+
+1102	"<e1>Aragonite</e1> is the metastable, orthorhombic <e2>polymorph of calcite</e2> and occurs as short to long prismatic (along c), acicular or tabular (chisel-shaped) crystals, often twinned."
+Genus(e1,e2)
+Comment:
+
+1103	"<e1>Knickpoints</e1> are sudden <e2>changes in the gradient</e2> of a river ’ s long profile, such as rapids or waterfalls, and may form as a response to a sudden drop in the water table."
+Genus(e1,e2)
+Comment:
+
+1104	"A <e1>room</e1> is a type of passage that <e2>is wide relative to its length</e2>; <e1>room</e1>s often form where passages intersect and are circular, oval, or irregular in shape."
+Has_size(e1,e2)
+Comment:
+
+1105	"The <e1>fenglin</e1> is defined as <e2>limestone towers or peaks</e2> that are isolated from each other by flat limestone surfaces, which are generally covered by a thin layer of loose sediment."
+Genus(e1,e2)
+Comment:
+
+1106	"Various names have been ascribed to the towers and the overall landscape: in Chinese, <e1>tower karst</e1> is known as fenglin (<e2>peak forest</e2>) where towers are isolated, and fengcong (peak cluster) where groups of residual hills share a common exposed bedrock base; in Spanish the towers are termed mogotes; in French they are tourelles or pitons; in German Turmkarst; elsewhere they are known as “ haystacks ” and pepinos."
+Genus(e2,e1)
+Comment:
+
+1107	"<e1>Sinkholes</e1> or dolines are <e2>closed land surface depressions</e2> with internal drainage typically formed in karst environments (Ford and Williams, 2007)."
+Genus(e1,e2)
+Comment:
+
+1108	"<e1>Uvalas</e1> are <e2>hollows</e2> with undulating floors made up of more than one doline."
+Genus(e1,e2)
+Comment:
+
+1109	"<e1>Basins</e1> designed and maintained to filter sediments and pollutants are known as <e2>sedimentation and filtration basins</e2>."
+Genus(e2,e1)
+Comment:
+
+1110	"The <e1>exokarstic storey</e1> represents the <e2>upper part of the karstosphere</e2> between the topographic surface and a depth of 0.5 to 7.0 km."
+Genus(e1,e2)
+Comment:
+
+1111	"In structural geology, <e1>faults</e1> are defined as <e2>fractures</e2> in the rocks of the earth's crust along which movement has occurred or still occurs (Davis & Reynolds 1996)."
+Genus(e1,e2)
+Comment:
+
+1112	"Kluftkarren or <e1>grikes</e1> are merely the visible surface expression of the fissures of a karstifiable rock; as such, they <e2>are a significant component of the epikarst</e2>, or the outer skin of the whole karst system."
+Has_location(e1,e2)
+Comment:
+
+1113	"<e1>Hypogene karst</e1> is defined as <e2>the formation of caves</e2> by water that recharges the soluble formation from below, driven by hydrostatic pressure or other sources of energy, independent of the recharge from the overlying or immediately adjacent surface (Ford, 2000). caves"
+Genus(e1,e2)
+Comment:
+
+1114	"The term <e1>karst</e1> describes a distinctive <e2>topography</e2> that indicates dissolution (also called chemical solution) of underlying soluble rocks by surface water or ground water."
+Genus(e1,e2)
+Comment:
+
+1115	"<e1>Karst</e1> is defined as a <e2>terrain</e2>, generally underlain by limestone or dolomite, in which the topography is chiefly formed by the dissolving of rock, and which may be characterised by sinkholes, sinking streams, closed depressions, subterranean drainage and caves (Field 2002). underlain by limestone or dolomite"
+Genus(e1,e2)
+Comment:
+
+1116	"<e1>Karst</e1> is the term applied to <e2>terrains underlain by soluble rock</e2>: mainly limestone, dolomite and gypsum."
+Has_location(e1,e2)
+Comment:
+
+1117	"<e1>Collapse dolines</e1> are <e2>large</e2> depressions that were formed with slow collapsing of roofs above <e2>large</e2>r underground cavities and afterwards with transformation of slopes."
+Has_size(e1,e2)
+Comment:
+
+1118	"<e1>aeolian calcarenite</e1> - a <e2>limestone</e2> formed on land by solution and redeposition of calcium carbonate in coastal dune sands containing a large proportion of calcareous sand from mollusc shells and other organic remains."
+Genus(e1,e2)
+Comment:
+
+1119	"<e1>aeolian calcarenite</e1> - a limestone formed <e2>on land</e2> by solution and redeposition of calcium carbonate in coastal dune sands containing a large proportion of calcareous sand from mollusc shells and other organic remains."
+Has_location(e1,e2)
+Comment:
+
+1120	"<e1>aragonite</e1> - a less common crystalline form of <e2>calcium carbonate</e2> than calcite, denser and orthorhombic."
+Genus(e1,e2)
+Comment:
+
+1121	"<e1>bare <e2>karst</e2></e1> - <e2>karst</e2> with much exposed bedrock."
+Genus(e1,e2)
+Comment:
+
+1122	"<e1>bed</e1> - a depositional <e2>layer</e2> of sedimentary <e1>bed</e1>rock or. unconsolidated sediment."
+Genus(e1,e2)
+Comment:
+
+1123	"<e1>bedding-grike</e1> - a narrow, rectilinear slot in a karst rock outcrop as a result of solution <e2>along a bedding-plane</e2>. <e2>along a bedding-plane</e2>"
+Has_location(e1,e2)
+Comment:
+
+1124	"<e1>blind shaft</e1> - a vertical extension upwards from part of a cave but not reaching the surface; <e2>small in area in relation to its height</e2>."
+Has_size(e1,e2)
+Comment:
+
+1125	"<e1>branchwork</e1> - a dendritic <e2>system of underground streams</e2> or passages wherein branches join successively to form a major stream or passage."
+Genus(e1,e2)
+Comment:
+
+1126	"The outstanding <e1>landforms</e1> are <e2>dissolutional corridors</e2> (“ streets ”) in the limestone that follow major vertical fractures created by the doming (Brook & Ford, 1978)."
+Genus(e2,e1)
+Comment:
+
+1127	"<e1>Paleokarst</e1> is a worldwide phenomenon that is <e2>found on all continents</e2>, including Antarctica, and in the geological record from the early Proterozoic to the Holocene."
+Has_location(e1,e2)
+Comment:
+
+1128	"<e1>Caves without roofs</e1> are an important <e2>paleokarst landform</e2> which has only recently attracted scientific attention."
+Genus(e1,e2)
+Comment:
+
+1129	"“ <e1>Network mazes</e1> ” are <e2>angular grids</e2> of intersecting fissures guided by fractures."
+Genus(e1,e2)
+Comment:
+
+1130	"A <e1>pre-ponor retention</e1> is a temporary <e2>water accumulation</e2> in the surface depression just above the ponor. in the surface depression just above the ponor"
+Genus(e1,e2)
+Comment:
+
+1131	"<e1>Pseudokarstic caves</e1> are <e2>natural underground spaces</e2>, large enough to enter and investigate, extending beyond daylight, and produced by some process other than dissolution."
+Genus(e1,e2)
+Comment:
+
+1132	"<e1>Pseudokarstic caves</e1> are natural underground spaces, <e2>large enough to enter and investigate</e2>, extending beyond daylight, and produced by some process other than dissolution."
+Has_size(e1,e2)
+Comment:
+
+1133	"<e1>blanket</e1>: A thick layer of <e2>dripstone</e2>, not translucent, see also bacon; curtain; drapery."
+Genus(e1,e2)
+Comment:
+
+1134	"<e1>blind <e2>valley</e2></e1>: A <e2>valley</e2> that ends suddenly at the point where its stream disappears underground; some <e1>blind <e2>valley</e2></e1>s have no present-day streams. See also half-<e1>blind <e2>valley</e2></e1>; marginal polje."
+Genus(e1,e2)
+Comment:
+
+1135	"<e1>blind valley</e1>: A valley that ends suddenly <e2>at the point where its stream disappears underground</e2>; some <e1>blind valley</e1>s have no present-day streams. See also half-<e1>blind valley</e1>; marginal polje."
+Has_location(e1,e2)
+Comment:
+
+1136	"<e1>blow<e2>hole</e2></e1>: A small <e2>hole</e2> in the surface of the Nullarbor Plain through which air blows in and out with observable force, sometimes audibly. * blowing cave. A cave out of which or into which a current of air flows intermittently."
+Genus(e1,e2)
+Comment:
+
+1137	"botryoid: A grapelike <e1>deposit of calcium carbonate</e1> generally found on walls of caves. Synonyms, clusterite; <e2>grape formation</e2>."
+Genus(e2,e1)
+Comment:
+
+1138	"<e1>botryoid</e1>: A grapelike <e2>deposit of calcium carbonate</e2> generally found on walls of caves. Synonyms, clusterite; grape formation."
+Genus(e1,e2)
+Comment:
+
+1139	"<e1>botryoid</e1>: A grapelike deposit of calcium carbonate <e2>generally found on walls of caves</e2>. Synonyms, clusterite; grape formation."
+Has_location(e1,e2)
+Comment:
+
+1140	"<e1>bourne</e1>: Intermittent <e2>stream</e2> in a normally dry valley in chalk country."
+Genus(e1,e2)
+Comment:
+
+1141	"<e1>bridge</e1>: <e2>In a cave</e2>, a residual rock span across a passage. See also natural <e1>bridge</e1>"
+Has_location(e1,e2)
+Comment:
+
+1142	"<e1>buried karst</e1>: <e2>Karst topography</e2> buried by younger sediments. See also covered karst; paleokarst."
+Genus(e1,e2)
+Comment:
+
+1143	"<e1>calcarenite</e1>: Limestone or dolomite composed of coral or shell sand or of grains derived from the disintegration and erosion of older limestones. <e2>Size of particles ranges from 1 / 16 to 2 millimeters</e2>."
+Has_size(e1,e2)
+Comment:
+
+1144	"The result is the so-called <e1>lampenflora</e1>, that is, <e2>green plants</e2> (generally algae, fern, moss) developing on cave walls or formations close to a light source."
+Genus(e1,e2)
+Comment:
+
+1145	"<e1>Base level</e1> refers to sea level or <e2>the lowest level of master stream erosion</e2>."
+Genus(e1,e2)
+Comment:
+
+1146	"<e1>Cave pearls</e1> are near-spherical, unattached <e2>speleothem</e2> hat form in pools agitated by water dripping from considerable heights."
+Genus(e1,e2)
+Comment:
+
+1147	"<e1>dry <e2>valley</e2></e1> - a <e2>valley</e2> without a surface stream channel."
+Genus(e1,e2)
+Comment:
+
+1148	"<e1>dynamic phreas</e1> - a <e2>phreatic zone</e2> or part of a <e2>phreatic zone</e2> where water moves fast with turbulence under hydrostatic pressure."
+Genus(e1,e2)
+Comment:
+
+1149	"<e1>exsurgence</e1> - a <e2>spring</e2> fed only by percolation water."
+Genus(e1,e2)
+Comment:
+
+1150	"<e1>flowstone</e1> - a <e2>deposit</e2> formed from thin films or trickles of water over floors or walls, usually of calcite. cf. travertine."
+Genus(e1,e2)
+Comment:
+
+1151	"<e1>glacier cave</e1> - a cave <e2>formed within or beneath a glacier</e2>."
+Has_location(e1,e2)
+Comment:
+
+1152	"<e1>gypsum flower</e1> - an elongated and curving <e2>deposit of gypsum</e2> on a cave surface."
+Genus(e1,e2)
+Comment:
+
+1153	"<e1>half-<e2>blind valley</e2></e1> - a <e2>blind valley</e2> which overflows its threshold when the streamsink cannot accept all the water at a time of flood."
+Genus(e1,e2)
+Comment:
+
+1154	"<e1>half-tube</e1> - a semi-eylindrical, elongate <e2>recess</e2> in a cave surface, often meandering or anastomosing."
+Genus(e1,e2)
+Comment:
+
+1155	"epiphreas, <e1>epiphreatic zone</e1>: The zone in a cave system, immediately <e2>above the phreatic zone</e2>, affected morphologically and hydrologically by floods too large for the cave to absort at once."
+Has_location(e1,e2)
+Comment:
+
+1156	"<e1>epiphreas</e1>, epiphreatic zone: The zone <e2>in a cave system</e2>, immediately above the phreatic zone, affected morphologically and hydrologically by floods too large for the cave to absort at once."
+Has_location(e1,e2)
+Comment:
+
+1157	"<e1>fault <e2>cave</e2></e1>: A <e2>cave</e2> developed along a fault or fault zone."
+Genus(e1,e2)
+Comment:
+
+1158	"<e1>fault cave</e1>: A cave <e2>developed along a fault or fault zone</e2>."
+Has_location(e1,e2)
+Comment:
+
+1159	"<e1>flattener</e1>: A <e2>cave passage</e2>, which though wide, is so low that movement is only possible in a prone position. See also crawl."
+Genus(e1,e2)
+Comment:
+
+1160	"<e1>floe calcite</e1>: Very thin film of pure <e2>calcium carbonate</e2> floating on the surface of a subterranean pool of very calm water. thin film"
+Genus(e1,e2)
+Comment:
+
+1161	"<e1>foiba</e1>: A natural <e2>vertical shaft</e2> in soluble rock, tending toward cylindrical shape; it may or may not reach the surface. A dome pit."
+Genus(e1,e2)
+Comment:
+
+1162	"<e1>fungling</e1>: Isolated limestone hill <e2>in alluvial plain</e2>, probably similar to mogote."
+Has_location(e1,e2)
+Comment:
+
+1163	"<e1>gallery</e1>: A rather large, nearly <e2>horizontal passage</e2> in a cave."
+Genus(e1,e2)
+Comment:
+
+1164	"<e1>spring</e1>: Any natural discharge of water <e2>from rock or soil onto the surface of the land or into a body of surface water</e2>."
+Has_location(e1,e2)
+Comment:
+
+1165	"<e1>steephead</e1>: A deeply cut valley, <e2>generally short</e2>, terminating at its upslope end in an amphitheater, at the foot of which a stream may emerge."
+Has_size(e1,e2)
+Comment:
+
+1166	"<e1>cave flower</e1>: An elongate curved <e2>deposit</e2> of gypsum or epsomite on a cave wall in which growth occurs at the attached end. Synonyms, gypsum flower; oulo - pholite."
+Genus(e1,e2)
+Comment:
+
+1167	"<e1>cave group</e1>: A <e2>number of caves</e2> or cave systems, not interconnected but geographically associated in some relief feature or particular geological outcrop. See also cave series."
+Genus(e1,e2)
+Comment:
+
+1168	"<e1>cave ice</e1>: <e2>Ice</e2> formed in a cave by natural freezing of water. Loosely but incorrectly applied to calcium carbonate dripstone and flowstone. in a cave"
+Genus(e1,e2)
+Comment:
+
+1169	"<e1>cave ice</e1>: Ice formed <e2>in a cave</e2> by natural freezing of water. Loosely but incorrectly applied to calcium carbonate dripstone and flowstone. <e2>in a cave</e2>"
+Has_location(e1,e2)
+Comment:
+
+1170	"<e1>cave marble</e1>: Banded <e2>deposit</e2> of calcite or aragonite capable of taking a high polish. See also flowstone; onyx marble."
+Genus(e1,e2)
+Comment:
+
+1171	"<e1>cave pearl</e1>: <e2>Small</e2> concretion of calcite or aragonite formed by concentric precipitation around a nucleus. Synonyms, pisolite, pisolith."
+Has_size(e1,e2)
+Comment:
+
+1172	"cave pearl: <e1>Small</e1> concretion of calcite or aragonite formed by concentric precipitation around a nucleus. Synonyms, pisolite, <e2>pisolith</e2>."
+Has_size(e2,e1)
+Comment:
+
+1173	"cave pearl: <e1>Small</e1> concretion of calcite or aragonite formed by concentric precipitation around a nucleus. Synonyms, <e2>pisolite</e2>, pisolith."
+Has_size(e2,e1)
+Comment:
+
+1174	"<e1>cave series</e1>: A <e2>group of caves</e2> of similar morphology in a particular district. See also cave group."
+Genus(e1,e2)
+Comment:
+
+1175	"<e1>ceiling <e2>block</e2></e1>: Roughly cubical joint - bounded large <e2>block</e2>, which has fallen from the ceiling of a cave. See also cave breakdown; ceiling slab."
+Genus(e1,e2)
+Comment:
+
+1176	"<e1>ceiling meander</e1>: A winding upside-down channel <e2>in a cave ceiling</e2>."
+Has_location(e1,e2)
+Comment:
+
+1177	"<e1>stalagmite</e1> - <e2>a speleothem</e2> projecting vertically upwards from a cave floor and formed by precipitation from drips."
+Genus(e1,e2)
+Comment:
+
+1178	"<e1>tafoni</e1> - roughly hemispherical <e2>hollows</e2> weathered in rock either at the surface or in caves."
+Genus(e1,e2)
+Comment:
+
+1179	"<e1>tafoni</e1> - roughly hemispherical hollows weathered in rock <e2>either at the surface or in caves</e2>."
+Has_location(e1,e2)
+Comment:
+
+1180	"<e1>through cave</e1> - <e2>a cave</e2> which may be followed from entrance to exit along a stream course or along a passage which formerly carried a stream."
+Genus(e1,e2)
+Comment:
+
