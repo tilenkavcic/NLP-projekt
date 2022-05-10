@@ -1,0 +1,1548 @@
+827	"<e1>prenikajoča voda</e1>, pronicajoča voda: Padavinska voda, ki <e2>v aeracijski coni</e2> počasi premika skozi vodoprepustne skalne gmote. Voda, ki kaplja z jamskega stropa; od tod jamarski izraz kapnica. Združeno v potoček jo imenujemo tudi vodni curek, v nasprotju od globinskih žil."
+Has_location(e1,e2)
+Comment:
+
+828	"prenikajoča voda, pronicajoča voda: Padavinska voda, ki <e1>v aeracijski coni</e1> počasi premika skozi vodoprepustne skalne gmote. Voda, ki kaplja z jamskega stropa; od tod jamarski izraz kapnica. Združeno v potoček jo imenujemo tudi <e2>vodni curek</e2>, v nasprotju od globinskih žil."
+Has_location(e2,e1)
+Comment:
+
+829	"<e1>viseča <e2>voda</e2></e1>: Je <e2>voda</e2> v aeracijski (vadozni) coni, ki jo je od navzdolžnega prenikanja odklonil vododržni vložek. Tudi stoječa <e2>voda</e2>, ki je ujeta v kotanjah po upadu vodne gladine. prenikanja"
+Genus(e1,e2)
+Comment:
+
+830	"piezometrični nivo, tudi <e1>piezometer</e1>: Je vsakokratna predpostavljena ploskev, do katere sega vodna gladina <e2>v kraškem podzemlju v sistemu veznih posod</e2>."
+Has_location(e1,e2)
+Comment:
+
+831	"gravitacijska voda, <e1>gravitacijski vodni tok</e1>: Voda (vodni tok) <e2>v kraškem podzemlju</e2>, ki se pretaka gravitacijsko (težnostno) v kanalih ter v njih ne sega do stropa in ima prosto gladino (v nasprotju s tlačno gladino, ki je značilna za tlačni ali eforacijski tok)."
+Has_location(e1,e2)
+Comment:
+
+832	"<e1>freatična cona</e1>: Najnižja <e2>hidrografska cona</e2>, v kateri voda trajno zapolnjuje votline, prevladuje pa tlačno pretakanje."
+Genus(e1,e2)
+Comment:
+
+833	"freatična voda, <e1>freatični vodni tok</e1>: Kraška voda (vodni tok) <e2>v freatični coni</e2>. Zapolnjuje votline pod piezometričnim nivojem (nivojem kraške vode)."
+Has_location(e1,e2)
+Comment:
+
+834	"<e1>ujeta voda</e1>: <e2>Voda</e2>, ki v freatični coni stagnira v slepih ali nepovezanih kanalih."
+Genus(e1,e2)
+Comment:
+
+835	"<e1>hodnik</e1>: Precejšen, dokaj <e2>enakomerno širok</e2> in visok jamski rov, po katerem je hoja razmeroma lahka."
+Has_size(e1,e2)
+Comment:
+
+836	"<e1>ilovnate piramide</e1>: <e2>Nekaj centimetrov ali decimetrov visoke</e2> piramide v ilovnatem jamskem dnu, ki jih je izdelala kapljajoča voda."
+Has_size(e1,e2)
+Comment:
+
+837	"<e1>fazna meja</e1> - Ploskev, ki <e2>v speleogenetskem prostoru</e2> ločuje matično kamnino od speleofaktov oz. speleofakte med seboj."
+Has_location(e1,e2)
+Comment:
+
+838	"<e1>fosilizacija</e1> (kanala) - Preoblikovanje kanala <e2>v prežeti ali neprežeti coni</e2>. Poleg sedimentacije in rušenja vključuje tudi diagenezo. Polnilo v fosiliziranem kanalu se obnaša kot kompaktna kamnina in f. kanal pri možnem ponovnem zakrasevanju ne more služiti kot inicialna struktura. kamnina"
+Has_location(e1,e2)
+Comment:
+
+839	"<e1>freatično brezno</e1> - Strukturni segment, <e2>ki nastane v prežeti coni</e2> ob preskoku kanala z enega začetnega horizonta v drugega. Prostorska orientacija freatičnega brezna se ravna približno po padnici inicialne strukture. Manjša freatična brezna so v prečnem (približno vodoravnem) prerezu elipsasta in podobna kaminom. Od njih ločimo reatična brezna najlaže po tem, da se na nasprotnih straneh lezičnih kanalov, katere povezujejo, ne nadaljujejo. Ob nastajanju sledi vodni tok pravilu veznih posod in se lahko giba navzdol ali navzgor."
+Has_location(e1,e2)
+Comment:
+
+840	"<e1>gravitacijska voda</e1> - Prenikla voda, <e2>ki se skozi neprežeto cono spušča malone navpično proti prežeti coni</e2>. Gravitacijska voda ne le da ima prosto gladino, ampak lahko tudi prosto pada. Gravitacijska voda zapolni kanale le izjemoma. voda"
+Has_location(e1,e2)
+Comment:
+
+841	"<e1>haloklinala</e1> - <e2>Meja</e2> med slano podtalnico in sladkovodno lečo na morskih grebenih in atolih. Zaradi stika obeh voda se poveča agresivnost vode, ki oblikuje posebne tipe kraških votlin."
+Genus(e1,e2)
+Comment:
+
+842	"<e1>neprežeta cona</e1> - Zakraseli <e2>del speleogenetskega prostora</e2> nad gladino podtalnice. podtalnice"
+Genus(e1,e2)
+Comment:
+
+843	"<e1>prežeta cona</e1> - obsega zakraseli del speleogenetskega prostora <e2>pod njo</e2>."
+Has_location(e1,e2)
+Comment:
+
+844	"<e1>vodna jama</e1>: <e2>Jama</e2>, ki ima stalni ali obdobni vodni tok ali jo v velji meri zapolnjuje stojela voda. Nasprotje je suha jama."
+Genus(e1,e2)
+Comment:
+
+845	"<e1>izvirna jama</e1>: <e2>Jama</e2>, iz katere teče potok ali reka. ponorna jama, A: inflow cave, influent cave, inlet cave. <e2>Jama</e2>, v katero ponira vodni tok."
+Genus(e1,e2)
+Comment:
+
+846	"ledena jama, <e1>ledenica</e1>: <e2>Jama</e2> žepaste oblike z vhodom iznad glavne votline. Zato lahko priteka pozimi vanjo hladnejši zunanji zrak. V njej se velji del leta ali trajno zadržujejo ledene gmote. Navadno je žepaste oblike tipa hladnice."
+Genus(e1,e2)
+Comment:
+
+847	"<e1>erozijska jama</e1>: <e2>Jama</e2>, nastala pretežno z mehaničnim delovanjem tekoče vode (erozijo)."
+Genus(e1,e2)
+Comment:
+
+848	"<e1>srednejevropski kras</e1>, kras Jure, moravski tip: <e2>Kras</e2> s suhimi dolinami na planotastem nizkem reliefu in z redkimi drugimi kraškimi pojavi na površju."
+Genus(e1,e2)
+Comment:
+
+849	"<e1>srednejevropski kras</e1>, kras Jure, moravski tip: Kras s suhimi dolinami <e2>na planotastem nizkem reliefu</e2> in z redkimi drugimi kraškimi pojavi na površju."
+Has_location(e1,e2)
+Comment:
+
+850	"srednejevropski kras, kras Jure, <e1>moravski tip</e1>: Kras s suhimi dolinami <e2>na planotastem nizkem reliefu</e2> in z redkimi drugimi kraškimi pojavi na površju."
+Has_location(e1,e2)
+Comment:
+
+851	"subpolarni kras, <e1>subarktični kras</e1>: <e2>Kras</e2>, nastal v subpolarni (subarktični) klimi."
+Genus(e1,e2)
+Comment:
+
+852	"<e1>tropski kras</e1>: <e2>Kras</e2>, nastal v trajno ali sezonsko vlažni tropski klimi. V starejši literaturi sinonim za Kegelkarst. Značilne zanj so strme vzpetine (stogi, stolpi)."
+Genus(e1,e2)
+Comment:
+
+853	"<e1>poligonalni kras</e1>: <e2>Kras</e2>, kjer so kraške kotanje, nastale z zraščanjem vrtač, iz zraka vidne kot poligonalna mreža. Pogojen je s “ parketnim ” razporedom tektonskih prepok. Pogost v tropskem krasu."
+Genus(e1,e2)
+Comment:
+
+854	"<e1>kotlič</e1>: Skalnata <e2>globel</e2> okroglaste, podolgovate ali oglate oblike s premerom nekaj metrov, s strmimi stenami in snegom, ki se zadržuje v dnu večino leta. Značilen za visokogorski kras (Kunaver, 1962)."
+Genus(e1,e2)
+Comment:
+
+855	"<e1>kotlič</e1>: Skalnata globel okroglaste, podolgovate ali oglate oblike s premerom nekaj metrov, s strmimi stenami in snegom, ki se zadržuje v dnu večino leta. Značilen za <e2>visokogorski kras</e2> (Kunaver, 1962)."
+Has_location(e1,e2)
+Comment:
+
+856	"<e1>apneniški kras</e1>: <e2>Kras</e2> v apnencu."
+Genus(e1,e2)
+Comment:
+
+857	"<e1>kredni kras</e1>: <e2>Kras</e2> v kamnini kredi (ne iz geološke dobe krede!)."
+Genus(e1,e2)
+Comment:
+
+858	"<e1>puhlični kras</e1>: <e2>Kras</e2> v puhlici."
+Genus(e1,e2)
+Comment:
+
+859	"<e1>solnati kras</e1>: <e2>Kras</e2> v soli (kot kraški kamnini)."
+Genus(e1,e2)
+Comment:
+
+860	"<e1>Glaciokras</e1>: <e2>Površinski kras</e2>, ki je nastal ob delovanju kraških in glacialnih procesov. kras"
+Genus(e1,e2)
+Comment:
+
+861	"<e1>jamska postaja</e1>, jamsko nahajališce: <e2>Jama</e2>, v kateri so najdeni sledovi zadrževanja predzgodovinskega človeka. Jame s sledovi bivanja v paleolitu so jamske paleolitske postaje. Drug pomen za jamsko postajo: meteorološka postaja v jami."
+Genus(e1,e2)
+Comment:
+
+862	"jamski biser, <e1>pizolit</e1>: <e2>Droben</e2> obrušen kamen ali delček sige, ki ga v mirujoči vodi obrača in brusi nanj kapljajoča voda in (ali) debeli s koncentričnimi skorjami sige."
+Has_size(e1,e2)
+Comment:
+
+863	"<e1>jamski udor</e1>: <e2>Udor</e2>, s katerim se jamski prostor odpre na površje."
+Genus(e1,e2)
+Comment:
+
+864	"<e1>jamski rov</e1>: Del <e2>jame</e2>, ki je mnogo bolj razvita veni smeri."
+Genus(e1,e2)
+Comment:
+
+865	"jerina, <e1>rdeca <e2>zemlja</e2></e1>, terra rossa: Rdečkasta <e2>zemlja</e2>, ki je po prevladujočem naziranju v glavnem netopni ostanek karbonatov. Značilna za submediteranski in mediteranski kras."
+Genus(e1,e2)
+Comment:
+
+866	"<e1>jerina</e1>, rdeca <e2>zemlja</e2>, terra rossa: Rdečkasta <e2>zemlja</e2>, ki je po prevladujočem naziranju v glavnem netopni ostanek karbonatov. Značilna za submediteranski in mediteranski kras."
+Genus(e1,e2)
+Comment:
+
+867	"<e1>kal</e1>: Večja <e2>vodna kotanja</e2>, navadno trajno ali vsaj večji del leta z vodo napolnjena vrtača z nepropustnim dnom. To je redko prirodno nepropustno; navadno je pa tako šele po posegu človeka."
+Genus(e1,e2)
+Comment:
+
+868	"<e1>kal</e1>: <e2>Večja</e2> vodna kotanja, navadno trajno ali vsaj večji del leta z vodo napolnjena vrtača z nepropustnim dnom. To je redko prirodno nepropustno; navadno je pa tako šele po posegu človeka."
+Has_size(e1,e2)
+Comment:
+
+869	"<e1>Karbonski apnenec</e1> je osnovna <e2>matična kamnina</e2>."
+Genus(e1,e2)
+Comment:
+
+870	"<e1>Vzpetina</e1> je korozijski ostanek sredi korozijske uravnave, zato se <e2>hum</e2> imenuje tudi osamelec."
+Genus(e2,e1)
+Comment:
+
+871	"<e1>Turloughi</e1> so <e2>mokrišča</e2>, pomemben habitat za floro in favno, v poletnem času, ko turloughi presahnejo so pomembni za pašo drobnice."
+Genus(e1,e2)
+Comment:
+
+872	"<e1>Rečni otok</e1> je <e2>del kopnega</e2> v reki."
+Genus(e1,e2)
+Comment:
+
+873	"<e1>Rečni otok</e1> je del kopnega <e2>v reki</e2>."
+Has_location(e1,e2)
+Comment:
+
+874	"Raztekanje voda z istega območja v različna porečja in povodja je hidrološka posebnost, <e1>hidrološki pojav</e1>, ki ga imenujemo <e2>bifurkacija</e2>."
+Genus(e2,e1)
+Comment:
+
+875	"votlikavost, <e1>kavernoznost</e1>: Delež, ki odpade na votline <e2>v kraškem podzemlju</e2>."
+Has_location(e1,e2)
+Comment:
+
+876	"<e1>vodnjakasta <e2>vrtača</e2></e1>: Globoka <e2>vrtača</e2> s strmimi stenami."
+Genus(e1,e2)
+Comment:
+
+877	"<e1>aluvialna vrtača</e1>: <e2>Vrtača</e2>, nastala v naplavinah."
+Genus(e1,e2)
+Comment:
+
+878	"<e1>kraška morfologija</e1>: Panoga geomorfologije, ki se ukvarja s površinskimi kraškimi oblikami. V širšem smislu <e2>veda</e2> o površinskih in podzemeljskih oblikah krasa."
+Genus(e1,e2)
+Comment:
+
+879	"kraški dol, <e1>kraški suhi dol</e1>: Dolga suha dolina kanjonske oblike. Po Meliku <e2>večja</e2> izrazita suha dolina kot bivši rečni kanjon. Po Radinji niz dolastih vrtač."
+Has_size(e1,e2)
+Comment:
+
+880	"kraški dol, <e1>kraški suhi dol</e1>: <e2>Dolga</e2> suha dolina kanjonske oblike. Po Meliku večja izrazita suha dolina kot bivši rečni kanjon. Po Radinji niz dolastih vrtač."
+Has_size(e1,e2)
+Comment:
+
+881	"<e1>kraški dol</e1>, kraški suhi dol: Dolga suha dolina kanjonske oblike. Po Meliku <e2>večja</e2> izrazita suha dolina kot bivši rečni kanjon. Po Radinji niz dolastih vrtač."
+Has_size(e1,e2)
+Comment:
+
+882	"<e1>kraška piraterija</e1>: <e2>Razširitev porečja</e2> s pretočitvijo sosednjega površinskega vodnega toka skozi kraško podzemlje. toka"
+Genus(e1,e2)
+Comment:
+
+883	"<e1>kraška piraterija</e1>: Razširitev porečja s pretočitvijo sosednjega površinskega vodnega toka <e2>skozi kraško podzemlje</e2>. toka"
+Has_location(e1,e2)
+Comment:
+
+884	"<e1>kraška voda</e1>: V širšem pomenu vsa voda <e2>kraškega ozemlja</e2>, v ožjem pomenu samo voda kraškega podzemlja, ki se je nabrala s <e2>kraškega ozemlja</e2>. Po Grundu (1903) del vode v krasu, ki se pretaka iznad nivoja kraških izvirov v kanalih v coni kolebanja gladine kraške vode. podzemlja ozemlja izvirov"
+Has_location(e1,e2)
+Comment:
+
+885	"<e1>kraški izvir</e1>: Vsak naravni <e2>iztok kraške vode</e2> na površju. vode"
+Genus(e1,e2)
+Comment:
+
+886	"<e1>bruhalnik</e1>: Občasni <e2>kraški izvir</e2>, ki ob visoki vodi bruha vecje količine vode."
+Genus(e1,e2)
+Comment:
+
+887	"zaganjalka, minutnik, presihajoči izvir, intermitentni izvir, <e1>periodični izvir</e1>: <e2>Kraški izvir</e2>, ki v določenem časovnem razmaku narašča in upada ter Iahko obdobno tudi presiha."
+Genus(e1,e2)
+Comment:
+
+888	"brojnica, vrulja, <e1>podmorski izvor</e1>: <e2>Izvir</e2> sladke ali brakične vode pod morsko gladino ali gladino plime. vode"
+Genus(e1,e2)
+Comment:
+
+889	"kontaktni izvir, <e1>kontaktni kraški izvir</e1>: <e2>Izvir</e2> na stiku vodno prepustnih kamnin, ki so navadno v krovnini, in neprepustnih kamnin. kamnin kamnin"
+Genus(e1,e2)
+Comment:
+
+890	"<e1>škavnica</e1>, škalba: <e2>Skalna vdolbina</e2>, globoka in široka več centimetrov ali decimetrov, izjemoma nekaj metrov. Običajno ravnega dna in strmih, celo previsnih sten. Na krasu lj. škavna za večje škavnice."
+Genus(e1,e2)
+Comment:
+
+891	"škraplja, <e1>škrapa</e1>: <e2>Nekaj centimetrov do vec decimetrov in metrov razsežna</e2> izjedenina v skalnem površju, brez vzdolžnega pretakanja, ki ji smer določuje biološka linija najmanjšega odpora. V rabi tudi škraplje za skalni kompleks s škrapljami. Škraplje ločijo vmesni noži, grebeni, hrbti, poličke (z ravnim vrhom)."
+Has_size(e1,e2)
+Comment:
+
+892	"<e1>obalna škraplja</e1>: Škraplja <e2>na morski ali jezerski obali</e2>, ki nastaja na golih skalnih tleh zaradi pršavice (abrazije valov)."
+Has_location(e1,e2)
+Comment:
+
+893	"<e1>Kopasti vrhovi</e1> so <e2>višji deli kraškega reliefa</e2> in predstavljajo najpogostejši tip kraške vzpetine."
+Genus(e1,e2)
+Comment:
+
+894	"<e1>Dolec</e1> je plitva dolinasta <e2>reliefna oblika</e2> na pobočju in brez površinskega vodnega pretakanja."
+Genus(e1,e2)
+Comment:
+
+895	"<e1>Dolec</e1> je plitva dolinasta reliefna oblika <e2>na pobočju</e2> in brez površinskega vodnega pretakanja."
+Has_location(e1,e2)
+Comment:
+
+896	"<e1>Kopasti vrhovi</e1> so najpogostejši tip <e2>kraške vzpetine</e2>, ponavadi se pojavljajo med različnimi depresijskimi oblikami."
+Genus(e1,e2)
+Comment:
+
+897	"<e1>Fluviokras</e1> je <e2>tip kraškega površja</e2>, ki je razrezano z rečnimi dolinami, večina njihovih začetnih delov pa je na krasu."
+Genus(e1,e2)
+Comment:
+
+898	"<e1>Kontaktni kras</e1> je <e2>tip reliefa</e2>, značilen za stik med kraškimi in nekraškimi kamninami."
+Genus(e1,e2)
+Comment:
+
+899	"<e1>Ponorna dolina</e1> je <e2>depresijska oblika</e2>, ki jo izoblikujejo ponikalnice v krasu, vendar je dominantna vloga vrezovanje potoka, zato je vidnih le malo kraških potez (predvsem kraški ponor in dobro prevodni kanali, ki so sposobni odvajati vso alogeno vodo)."
+Genus(e1,e2)
+Comment:
+
+900	"<e1>Rečna struga</e1> je <e2>reliefna oblika</e2>, ki nastane z neposrednim delovanjem tekoče vode."
+Genus(e1,e2)
+Comment:
+
+901	"<e1>Kras</e1>, ki ga imenujemo tudi Tržaški, Goriški, Divaško – Komenski ali Sežanski <e1>Kras</e1> je okoli 500 km2 velika apneniška <e2>uravnava</e2> v jugozahodni Sloveniji. <e2>uravnava</e2>"
+Genus(e1,e2)
+Comment:
+
+902	"<e1>Kras</e1>, ki ga imenujemo tudi Tržaški, Goriški, Divaško – Komenski ali Sežanski <e1>Kras</e1> je <e2>okoli 500 km2 velika</e2> apneniška uravnava v jugozahodni Sloveniji. uravnava"
+Has_size(e1,e2)
+Comment:
+
+903	"<e1>Voda</e1> je <e2>element</e2> in hkrati medij, ki omogoča kemično raztapljanje karbonatov. raztapljanje"
+Genus(e1,e2)
+Comment:
+
+904	"<e1>Škraplje</e1> so <e2>korozijske razjede</e2>, ki nastajajo s korozijo vode bodisi na površju ali subkutano."
+Genus(e1,e2)
+Comment:
+
+905	"<e1>Škraplje</e1> so korozijske razjede, ki nastajajo s korozijo vode <e2>bodisi na površju ali subkutano</e2>."
+Has_location(e1,e2)
+Comment:
+
+906	"<e1>alogena voda</e1> - Voda v krasu, ki tja priteče z nekrasa. Nasprotje avtigeni vodi. Običajno imajo alogene vode veliko korozijsko sposobnost; ker pa so že zbrane v sorazmerno večje tokove, je tudi njihova mehanska erozivnost večja. Zato nastajajo najopaznejše kraške oblike na vtokih alogene vode. Vlogo alogene vode imajo tudi tokovi, ki dolbejo invazijske jame, ne glede na to, ali res pritekajo z nekraškega obrobja, ali pa npr. <e2>s talečega se ledenika</e2>. Nasprotje avtigeni vodi."
+Has_location(e1,e2)
+Comment:
+
+907	"<e1>alogena voda</e1> - Voda v krasu, ki tja priteče z nekrasa. Nasprotje avtigeni vodi. Običajno imajo alogene vode veliko korozijsko sposobnost; ker pa so že zbrane v sorazmerno večje tokove, je tudi njihova mehanska erozivnost večja. Zato nastajajo najopaznejše kraške oblike <e2>na vtokih alogene vode</e2>. Vlogo alogene vode imajo tudi tokovi, ki dolbejo invazijske jame, ne glede na to, ali res pritekajo z nekraškega obrobja, ali pa npr. s talečega se ledenika. Nasprotje avtigeni vodi."
+Has_location(e1,e2)
+Comment:
+
+908	"<e1>eforacijski rov</e1> - Opuščen opisen izraz za <e2>freatični rov</e2>. Izpeljan je iz pojma eforacija, ki nima fizikalne osnove."
+Genus(e1,e2)
+Comment:
+
+909	"<e1>eksokras</e1> - Skupnost vseh kraških oblik, <e2>ki nastanejo na stiku med kraško kamnin o in ozračjem</e2>. Sinonim je površinski kras."
+Has_location(e1,e2)
+Comment:
+
+910	"<e1>epikraška voda</e1> - <e2>Vodno telo</e2>, ki naj bi po večjih padavinah nastalo v tleh tik nad zakraselo kamnino. Padavinska voda naj bi se zbrala že v tem območju in v neprežeto cono vtekala v obliki posameznih curkov. Zato naj bi bile vse jame neprežete cone do neke mere invazijske. V Sloveniji <e1>epikraška voda</e1> doslej ni bila ugotovljena, pa tudi večina votlin neprežete cone ni invazijskih."
+Genus(e1,e2)
+Comment:
+
+911	"<e1>epikraška voda</e1> - <e2>Vodno telo</e2>, ki naj bi po večjih padavinah nastalo v tleh tik nad zakraselo kamnino. Padavinska voda naj bi se zbrala že v tem območju in v neprežeto cono vtekala v obliki posameznih curkov. Zato naj bi bile vse jame neprežete cone do neke mere invazijske. V Sloveniji <e1>epikraška voda</e1> doslej ni bila ugotovljena, pa tudi večina votlin neprežete cone ni invazijskih."
+Genus(e1,e2)
+Comment:
+
+912	"<e1>epikraška voda</e1> - Vodno telo, ki naj bi po večjih padavinah nastalo <e2>v tleh tik nad zakraselo kamnino</e2>. Padavinska voda naj bi se zbrala že v tem območju in v neprežeto cono vtekala v obliki posameznih curkov. Zato naj bi bile vse jame neprežete cone do neke mere invazijske. V Sloveniji <e1>epikraška voda</e1> doslej ni bila ugotovljena, pa tudi večina votlin neprežete cone ni invazijskih."
+Has_location(e1,e2)
+Comment:
+
+913	"<e1>kapelica</e1>: <e2>Večja</e2> niša ali zaokrožena, bogato zakapana votlinica."
+Has_size(e1,e2)
+Comment:
+
+914	"<e1>karbonatna kamnina</e1>: <e2>Usedlina</e2>, ki jo v glavnem sestavljajo soli ogljikove kisline. Na Dinarskem krasu sta apnenec in dolomit najbolj razširjeni karbonatni kamnini, na katerih se razvija karbonatni kras. Dinarskem krasu"
+Genus(e1,e2)
+Comment:
+
+915	"<e1>kevderc</e1>: Ljudsko ime za manjšo <e2>jamo</e2>, ki jo sestavlja ena sama manjša votlina."
+Genus(e1,e2)
+Comment:
+
+916	"<e1>kevderc</e1>: Ljudsko ime za <e2>manjšo</e2> jamo, ki jo sestavlja ena sama manjša votlina."
+Has_size(e1,e2)
+Comment:
+
+917	"<e1>koliševka</e1>, koleševka: <e2>Več deset metrov globoka in široka</e2> kotanja, običajno s skalnim, prepadnim pobočjem, z vidnim dnom. Po prevladujočem naziranju je udornega postanka. Ljudski izraz na Notranjskem, kjer se javlja tudi ime koleševc."
+Has_size(e1,e2)
+Comment:
+
+918	"koliševka, <e1>koleševka</e1>: <e2>Več deset metrov globoka in široka</e2> kotanja, običajno s skalnim, prepadnim pobočjem, z vidnim dnom. Po prevladujočem naziranju je udornega postanka. Ljudski izraz na Notranjskem, kjer se javlja tudi ime koleševc."
+Has_size(e1,e2)
+Comment:
+
+919	"kolks, <e1>kovk</e1>: <e2>Oblika fosilnega krasa</e2>. Kopasta holmasta vzpetina, nastala v osnovi domnevno v terciarni dobi."
+Has_location(e1,e2)
+Comment:
+
+920	"<e1>kondenzacijska voda</e1>: <e2>Voda</e2>, ki se zaradi kondenzacije nabira v kapljicah na jamskih stenah ali stropu, navadno na mestu mešanja toplejšega in hladnejšega zraka."
+Genus(e1,e2)
+Comment:
+
+921	"<e1>konta</e1>: Uvala. Visokogorska uvala. Glaciokraška <e2>globel</e2>, več deset ali sto metrov dolga in široka, običajno skledaste oblike. Mnogokrat širša kot globlja. Ljudsko ime v Julijskih Alpah, kjer je zelo pogosta."
+Genus(e1,e2)
+Comment:
+
+922	"<e1>glavni rov</e1>: <e2>Rov</e2>, ki predstavlja hrbtenico jamskega sistema."
+Genus(e1,e2)
+Comment:
+
+923	"<e1>stranski rov</e1>: <e2>Rov</e2>, ki se cepi od glavnega rova ali od dvorane."
+Genus(e1,e2)
+Comment:
+
+924	"<e1>eforacijski rov</e1>: <e2>Jamski rov</e2> z značilno obliko, ki je nastala s pretokom vode pod pritiskom (tlakom)."
+Genus(e1,e2)
+Comment:
+
+925	"<e1>gravitacijski rov</e1>:. <e2>Jamski rov</e2> značilne oblike, ki je nastal s pretokom vode s prosto (nepritisnjeno) gladino - z gravitacijskim tokom. Prim. gravitacijski prečni profil."
+Genus(e1,e2)
+Comment:
+
+926	"<e1>Udornice</e1> so zaprte kraške globeli različnih dimenzij in oblik, ki so nastale z udori stropov <e2>nad podzemnimi votlinami</e2>. različnih"
+Has_location(e1,e2)
+Comment:
+
+927	"<e1>Udornice</e1> so <e2>površinske kraške oblike</e2>, ki so nastale s spelogenetskimi procesi (Mihevc, 2009)."
+Genus(e1,e2)
+Comment:
+
+928	"<e1>Udornice</e1> so <e2>površinske</e2> kraške oblike, ki so nastale s spelogenetskimi procesi (Mihevc, 2009)."
+Has_location(e1,e2)
+Comment:
+
+929	"<e1>Udornice</e1> so površinske kraške globeli različnih oblik in <e2>velikosti</e2>, katerih nastanek povezujemo s točkastim vertikalnim odnašanjem kamnine v podzemlje, bodisi z nenadnimi udori nad jamskimi prostori, bodisi s postopnim odnašanjem kamnine nad aktivnimi jamskimi rovi (Stepišnik, 2001). različnih"
+Has_size(e1,e2)
+Comment:
+
+930	"<e1>Udornice</e1> so zaprte centrične globeli <e2>na krasu</e2>."
+Has_location(e1,e2)
+Comment:
+
+931	"<e1>Jame</e1> so <e2>podzemni kanali</e2>, ki jih je izoblikovala tekoča voda s procesom korozije."
+Genus(e1,e2)
+Comment:
+
+932	"Jame <e1>so</e1> <e2>podzemni kanali</e2>, ki jih je naredila skozi kras tekoča voda."
+Genus(e1,e2)
+Comment:
+
+933	"<e1>Jame</e1> so <e2>podzemni kanali</e2>, ki jih je naredila skozi kras tekoča voda."
+Genus(e1,e2)
+Comment:
+
+934	"<e1>Jame brez stropa</e1> so stare <e2>jame</e2>, ki so zaradi znižanja in razčlenjevanja kraškega površja razkrite ali presekane. zaradi znižanja in razčlenjevanja kraškega površja"
+Genus(e1,e2)
+Comment:
+
+935	"<e1>Jama brez stropa</e1> je stara <e2>kraška jama</e2>, ki jo je denudacijsko spuščanje površja razgalilo na površje in lahko vsebuje alohtone ter / ali avtohtone sedimente."
+Genus(e1,e2)
+Comment:
+
+936	"<e1>Kontaktni kras</e1> je poseben <e2>tip oblikovanosti in delovanja površja</e2>, ki je na območjih, kjer vode pritekajo iz fluvialnega geomorfnega sistema v kraškega ali obratno."
+Genus(e1,e2)
+Comment:
+
+937	"<e1>Kemično preperevanje</e1> oziroma raztapljanje kraških kamnin imenujemo <e2>korozija</e2>."
+Genus(e2,e1)
+Comment:
+
+938	"<e1>Proces</e1>, ki povzroča nastanek uravnav, imenujemo <e2>korozijsko uravnavanje</e2> (ang. corrosional planation) ter vključuje kombinacijo vertikalnega raztapljanja s padavinami, bočne korozije morfološko vzpetih delov, korozije pod naplavino ter zadenjske rečne erozije."
+Genus(e2,e1)
+Comment:
+
+939	"<e1>Ledeniške krnice</e1>, ki so dodatno poglobljene zaradi zakrasevanja, imenujemo <e2>kraške krnice</e2>."
+Genus(e2,e1)
+Comment:
+
+940	"<e1>poroznost</e1> - <e2>Delež praznega prostora</e2> v določeni prostomini kamnine. v določeni prostomini kamnine"
+Genus(e1,e2)
+Comment:
+
+941	"<e1>porušena cona</e1> - Območje tektonsko pretrtih kamnin, <e2>največkrat med dvema prelomoma ter na zunanji strani zdrobljene cone</e2>."
+Has_location(e1,e2)
+Comment:
+
+942	"<e1>pospešena <e2>korozija</e2></e1> - Krajevno učinkovitejša <e2>korozija</e2>, katere učinki se pokažejo kot izrazite površinske ali podzemske reliefue oblike."
+Genus(e1,e2)
+Comment:
+
+943	"<e1>prevajanje</e1> - <e2>speleogenetska faza</e2> ko je paragenetski prag prekoračen."
+Genus(e1,e2)
+Comment:
+
+944	"<e1>prežeta cona</e1> - <e2>Območje speleogenetskega prostora</e2> pod gladino podtalnice. Prevaja s soseščine doteklo freatično vodo in zbira krajevne dotoke padavinske vode skozi neprežeto cono."
+Genus(e1,e2)
+Comment:
+
+945	"<e1>prežeta cona</e1> - Območje speleogenetskega prostora <e2>pod gladino podtalnice</e2>. Prevaja s soseščine doteklo freatično vodo in zbira krajevne dotoke padavinske vode skozi neprežeto cono."
+Has_location(e1,e2)
+Comment:
+
+946	"<e1>rast</e1> - <e2>Speleogenetska faza</e2> med prebojem in paragenetskim pragom."
+Genus(e1,e2)
+Comment:
+
+947	"<e1>razpoka</e1> - Mehansko nastala <e2>ploskev nezveznosti</e2> v kamnini, ob kateri je prišlo le do neznatnih premikov. ploskev v kamnini"
+Genus(e1,e2)
+Comment:
+
+948	"<e1>razpoklinska cona</e1> - Bolj ali manj gost, <e2>do več 10O m širok</e2>, usmerjen sistem razpok. Premiki ob razpokah so neznatni ali zelo majhni."
+Has_size(e1,e2)
+Comment:
+
+949	"<e1>rov</e1> - <e2>Jamski kanal</e2> brez izrazitih prepadnih odsekov, prehoden človeku. Izvor ni pomemben. kanal"
+Genus(e1,e2)
+Comment:
+
+950	"<e1>rov</e1> - Jamski kanal brez izrazitih prepadnih odsekov, <e2>prehoden človeku</e2>. Izvor ni pomemben. kanal"
+Has_size(e1,e2)
+Comment:
+
+951	"<e1>snovanje</e1> - <e2>Speleogenetska faza</e2> med začetjem in prebojem. V času snovanja je tok skozi kanal laminaren."
+Genus(e1,e2)
+Comment:
+
+952	"Prvi <e1>jamo</e1> opredeljujejo kot vsako naravno votlino v kamnini, ki je prehodna človeku in je vsaj 10 m dolga ali globoka, drugi pa, da je jama <e2>naravna podzemna votlina</e2> v kamnini, ki je dovolj velika, da je prehodna za človeka (cv: Stepišnik, 2011)."
+Genus(e1,e2)
+Comment:
+
+953	"Prvi <e1>jamo</e1> opredeljujejo kot vsako naravno votlino <e2>v kamnini</e2>, ki je prehodna človeku in je vsaj 10 m dolga ali globoka, drugi pa, da je jama naravna podzemna votlina <e2>v kamnini</e2>, ki je dovolj velika, da je prehodna za človeka (cv: Stepišnik, 2011)."
+Has_location(e1,e2)
+Comment:
+
+954	"Po Jamarski zvezi Slovenije je <e1>jama</e1> vsaka naravna votlina <e2>v kamnini</e2>, ki je prehodna človeku in je vsaj deset metrov dolga ali globoka."
+Has_location(e1,e2)
+Comment:
+
+955	"<e1>Kraška polja</e1> so <e2>površinska kraška oblika</e2>."
+Genus(e1,e2)
+Comment:
+
+956	"<e1>inicialne strukture</e1> - <e2>Geološke strukture</e2>, ki lahko ob primernih pogojih prerastejo v kraške votline. Inicialne strukture so lezike in druge sedimentne teksture, prelomnice in narivne strukture, razpoke, poškodbe in špranje, nastale kot posledica medplastovnih zdrsov. V primeru večfaznega zakrasevanja tudi podedovane speleogene strukture prejšnjih faz."
+Genus(e1,e2)
+Comment:
+
+957	"<e1>invazijska jama</e1> - <e2>Jama</e2> neprežete cone, kamor visoko nad gladino podtalnice vteka že oblikovan vodotok (ponome jame kontaktnega krasa, odtočne jame ledenikov). Značilen je profil ključavnice. Nasprotje kaminu, ki nastane kot zbiralnik krajevne deževnice. Približno ustreza pojmu požiralnika, ki pa doslej še ni bil tako definiran."
+Genus(e1,e2)
+Comment:
+
+958	"invazijska jama - Jama <e1>neprežete cone</e1>, kamor visoko nad gladino podtalnice vteka že oblikovan vodotok (ponome jame kontaktnega krasa, odtočne jame ledenikov). Značilen je profil ključavnice. Nasprotje kaminu, ki nastane kot zbiralnik krajevne deževnice. Približno ustreza pojmu <e2>požiralnika</e2>, ki pa doslej še ni bil tako definiran."
+Has_location(e2,e1)
+Comment:
+
+959	"<e1>JAMA</e1> (KRAŠKA) - Vsaka naravna votlina <e2>v krasu</e2>, prehodna človeku. Po kriterijih katastra JZS naj bi bila vsaj 10 m dolga ali globoka. Če je manjša, mora biti jamarjem pomembna iz drugih razlogov. Ohlapen sinonim za kraško votlino."
+Has_location(e1,e2)
+Comment:
+
+960	"jamski splet - Eden sinonimov za <e1>jamski sistem</e1>. Izraz sistem, ki ga speleologi uporabljamo v več različnih smislih, v naravoslovju zaradi prodora fizikalne teorije sistemov zgublja prvotno vsebino. Poleg tega uporabljamo sistem <e2>pri opisovanju podzemskega krasa</e2> v nekoliko različnih, a še vedno preveč podobnih zvezah: (1) kot zapletenejšo jamo; (2) kot skupnost več jam skupnega nastanka, ki jih ne vežejo prehodni rovi; kot skupnost vseh nezveznosti v kamnini, ki " obratujejo " kraško; (4) kot sistem v smislu teorije sistemov. V podobnih zvezah kot splet in sistem se uporabljata še izraza sklop in sestav."
+Has_location(e1,e2)
+Comment:
+
+961	"<e1>kraška <e2>votlina</e2></e1> - Poljubno oblikovana <e2>votlina</e2>, nastala s procesi, ki jih definiramo kot kraške. Ne podlega velikostnemu kriteriju, ki opredeljuje kraško jamo, je pa večja od dimenzije preboja. Ohlapen sinonim za speleogen."
+Genus(e1,e2)
+Comment:
+
+962	"<e1>speleofakt</e1> - Vsaka <e2>speleološka struktura</e2>, nastala kot neposredna ali posredna posledica nadomeščanja trdne faze s tekočo in posledično lete s tekočo, plinasto ali sekundarno trdno fazo. Speleofakti so speleogeni in speleotemi."
+Genus(e1,e2)
+Comment:
+
+963	"<e1>speleogenetska faza</e1> - <e2>Časovno obdobje</e2>, v katerem vladajo v svežnju oz. kanalih stalne hidrodinamske razmere, na katere se oblikovanje kanala odziva na značilen način."
+Genus(e1,e2)
+Comment:
+
+964	"<e1>speleološki objekt</e1> - Sinonim za individualno, človeku prehodno <e2>kraško votlino</e2>, modrejši izraz ja jamo. Dobesedno bi <e1>speleološki objekt</e1> pomenil raziskovalni predmet speleologije, vendar se v tem smislu ne uporablja."
+Genus(e1,e2)
+Comment:
+
+965	"<e1>tunelski rov</e1> - Rov <e2>v epifreatični coni</e2>, ki po obliki spominja na predor. Nastane za ponori večjih alogenih tokov, v manjšem obsegu kot učinek Gospo­daričevega efekta v avtigenem okolju."
+Has_location(e1,e2)
+Comment:
+
+966	"<e1>začetje</e1> - Najzgodnejša speleogenetska faza, ko se " zapiše " prihodnji potek kanala (ov). Tedaj nastane med časom / krajem, kjer doslej ni bilo speleogenetske aktivnosti, laminaren tok. Praviloma se <e1>začetje</e1> odvije ob leziki. Bistveni faktorji začetja še niso povsem znani, zdi pa se, da odločajo večje liološke razlike med skladoma (transbedding contrast), navzočnost pelitov ali navzočnost pirita oz. organske snovi. Kaže, da se <e1>začetje</e1> mnogokrat izvrši že v času diageneze."
+Has_location(e1,e2)
+Comment:
+
+967	"<e1>začetni horizont</e1> - Ploskev <e2>v kamninski skladovnici</e2>, kjer se lahko (ali se je že) izvrši (lo) začetje. Terenske raziskave kažejo, da so to jasno določljive lezike, redkeje oblične ploskve. V doslej preiskanih jamah (Škocjanske, Najdena, Friar's Hole) se kaže, da ima lastnosti z. h. manj kot 10% vseh lezik v kamninskem paketu."
+Has_location(e1,e2)
+Comment:
+
+968	"<e1>zgodnjediagenetski kras</e1> - <e2>Kras</e2>, ki nastane v času zgodnje diageneze z raztapljanjem (korozijo) povsem ali delno strjenega apnenca. Votline zapolni mlajši karbonatni material (karbonatno blato), sparitni kalcit (kokardne teksture), glineni material, pa tudi breče, ki nastanejo s porušenjem stropov teh jam. Zgodnjediagenetski kras nastane vrh sladkovodne leče oz. vzdolž haloklinale v morskih grebenih in atolih. grebenih"
+Genus(e1,e2)
+Comment:
+
+969	"Manjše <e1>votline</e1> narečno imenujejo <e2>lisičina</e2>, brlog, rupa, luknja, kevderc, frlinka, jazbina, polšna, kamra, skedenj."
+Genus(e2,e1)
+Comment:
+
+970	"Manjše <e1>votline</e1> narečno imenujejo lisičina, brlog, rupa, luknja, kevderc, <e2>frlinka</e2>, jazbina, polšna, kamra, skedenj."
+Genus(e2,e1)
+Comment:
+
+971	"Manjše <e1>votline</e1> narečno imenujejo lisičina, brlog, rupa, luknja, kevderc, frlinka, jazbina, <e2>polšna</e2>, kamra, skedenj."
+Genus(e2,e1)
+Comment:
+
+972	"Manjše <e1>votline</e1> narečno imenujejo lisičina, brlog, rupa, luknja, kevderc, frlinka, <e2>jazbina</e2>, polšna, kamra, skedenj."
+Genus(e2,e1)
+Comment:
+
+973	"Beseda <e1>jama</e1> lahko pomeni vodoravno votlino ali pa <e2>brezno</e2>, ki se poglablja navzdol."
+Genus(e1,e2)
+Comment:
+
+974	"<e1>Umetno mlako</e1> so imenovali kal, ponekod tudi <e2>lokev</e2> ali lokva."
+Genus(e2,e1)
+Comment:
+
+975	"<e1>Ponvice</e1> so <e2>pregrade</e2> iz kalcijevega karbonata, velike od nekaj milimetrov do nekaj metrov."
+Genus(e1,e2)
+Comment:
+
+976	"<e1>alogena voda</e1>: <e2>Voda</e2>, ki priteka na kraško površje ali v podzemlje z nekraškega sveta."
+Genus(e1,e2)
+Comment:
+
+977	"<e1>artefakt</e1>: Kos predhistoričnega <e2>orodja</e2> iz kamna ali kosti."
+Genus(e1,e2)
+Comment:
+
+978	"<e1>boksit</e1>: <e2>Usedlina</e2>, sestavljena v pretežni meri iz aluminijevih hidroksidov. Ta aluminijeva ruda je rezultat preperevanja apnenca v vlažni tropski ali subtropski klimi."
+Genus(e1,e2)
+Comment:
+
+979	"brezno: Navpična ali strma <e1>votlina</e1>, bolj globoka kot široka, ki se ji ne vidi dna, “ brez dna ”. V nekaterih kraških predelih Slovenije lj. <e2>jama</e2>."
+Genus(e2,e1)
+Comment:
+
+980	"<e1>ponorno brezno</e1>, požiralno brezno: <e2>Brezno</e2>, v katerega ponika voda."
+Genus(e1,e2)
+Comment:
+
+981	"ponikalnica, <e1>ponornica</e1>: <e2>Vodni tok</e2>, ki ponikne v kraško podzemlje."
+Genus(e1,e2)
+Comment:
+
+982	"<e1>ponikalnica</e1>, ponornica: <e2>Vodni tok</e2>, ki ponikne v kraško podzemlje."
+Genus(e1,e2)
+Comment:
+
+983	"<e1>ponikev</e1>, ponikva: <e2>Odprtina</e2>, kamor se izgublja voda. Priporočljiv pomen za <e1>ponikev</e1>: ponikanje vodnega toka v odprtino, večidel prekrito z naplavino, v nasprotju s ponikanjem v jamo (ponor), ali špranjo v skali (požiralnik) (Primer: <e1>ponikev</e1> Temenice pri vasi Ponikve)."
+Genus(e1,e2)
+Comment:
+
+984	"ponikev, <e1>ponikva</e1>: Odprtina, kamor se izgublja voda. Priporočljiv pomen za ponikev: ponikanje vodnega toka <e2>v odprtino</e2>, večidel prekrito z naplavino, v nasprotju s ponikanjem v jamo (ponor), ali špranjo v skali (požiralnik) (Primer: ponikev Temenice pri vasi Ponikve)."
+Has_location(e1,e2)
+Comment:
+
+985	"<e1>ponor</e1>: <e2>Večja</e2> odprtina, v kateri ponika voda. Priporočljiv pomen: večja vodoravna luknja (jama), v katero teče potok ali reka (na primer vtok Pivke v Postojnsko jamo)."
+Has_size(e1,e2)
+Comment:
+
+986	"<e1>požiralnik</e1>: Mesto izgubljanja vode v kraško podzemlje. Priporočljiv pomen: špranja ali brezno <e2>v skalnem koritu</e2>, ki požira vodo."
+Has_location(e1,e2)
+Comment:
+
+987	"<e1>presihajoče jezero</e1>: <e2>Jezero</e2>, ki se občasno presuši."
+Genus(e1,e2)
+Comment:
+
+988	"<e1>rov</e1>: <e2>Del jame ali brezna</e2>, neglede na dimenzije in oblike. V ožjem smislu enakomerno širok cevast <e1>rov</e1>."
+Has_location(e1,e2)
+Comment:
+
+989	"<e1>rov</e1>: Del jame ali brezna, neglede na dimenzije in oblike. V ožjem smislu <e2>enakomerno širok</e2> cevast <e1>rov</e1>."
+Has_size(e1,e2)
+Comment:
+
+990	"<e1>Karbonatni prag</e1> je <e2>globina</e2> v oceanih, do katere se karbonati še odlagajo oziroma kjer je dinamika odlaganja večja od dinamike raztapljanja karbonatov."
+Genus(e1,e2)
+Comment:
+
+991	"<e1>Karbonatni prag</e1> je globina v oceanih, do katere se karbonati še odlagajo oziroma <e2>kjer je dinamika odlaganja večja od dinamike raztapljanja karbonatov</e2>."
+Has_location(e1,e2)
+Comment:
+
+992	"<e1>Dolomit</e1> je <e2>sedimentna karbonatna kamnina</e2>, ki jo sestavljata minerala dolomit (več kot 50 utežnih odstotkov) in kalcit."
+Genus(e1,e2)
+Comment:
+
+993	"<e1>Evaporiti</e1> so sedimentne kamnine, <e2>ki so prisotne pod približno 25 odstotki celinskega površja</e2>, vendar na površini izdanjajo v manjši meri kakor karbonati."
+Has_location(e1,e2)
+Comment:
+
+994	"<e1>Marmor</e1> je <e2>metamorfna kamnina</e2>, ki nastane z metamorfozo apnencev in dolomitov pri povišanih tlakih in temperaturi."
+Genus(e1,e2)
+Comment:
+
+995	"<e1>Razpoke</e1> so <e2>presledki v kamnini</e2>, ki nastanejo zaradi delovanja napetosti."
+Genus(e1,e2)
+Comment:
+
+996	"<e1>Sadra</e1> je pogost mineral na Zemljinem površju, <e2>predvsem v sušnejših klimatskih okoljih</e2>."
+Has_location(e1,e2)
+Comment:
+
+997	"<e1>lezična jama</e1>: <e2>Jama</e2>, ki kaže jasne znake nastanka ob leziki."
+Genus(e1,e2)
+Comment:
+
+998	"etažna jama, <e1>jama v nadstropjih</e1>: <e2>Jama</e2>, ki ima rove vidno razvrščene v dveh ali več nadstropjih (etažah), ki jih lahko povezujejo brezna ali skoki."
+Genus(e1,e2)
+Comment:
+
+999	"<e1>turistična jama</e1>: <e2>Jama</e2>, ki je opremljena za splošni obisk turistov in ima organizirano vodniško službo."
+Genus(e1,e2)
+Comment:
+
+1000	"<e1>jamar</e1>: <e2>Človek</e2>, ki odkriva, obiskuje in opisuje jame iz neturističnih namenov. V vsakdanji rabi človek, ki organizirano raziskuje jame bolj iz športnih nagibov."
+Genus(e1,e2)
+Comment:
+
+1001	"<e1>Fluvio<e2>kras</e2></e1> je <e2>kras</e2> brez površinskih depresijskih oblik, vrtač ni oziroma jih je manj."
+Genus(e1,e2)
+Comment:
+
+1002	"<e1>Pol<e2>suha dolina</e2></e1> je <e2>suha dolina</e2>, v kateri se občasno pojavlja površinski vodni tok."
+Genus(e1,e2)
+Comment:
+
+1003	"<e1>Kontaktni kras</e1> je <e2>tip površja</e2>, kjer pritekajo vode iz fluvialnega geomorfnega sistema v kraškega (ali obratno) oz. je kras preoblikovan pod vplivom alogenih vodotokov."
+Genus(e1,e2)
+Comment:
+
+1004	"<e1>Požiralnik</e1> je <e2>špranja</e2> ali brezno v skalnem koritu, ki požira vodo."
+Genus(e1,e2)
+Comment:
+
+1005	"<e1>Požiralnik</e1> je špranja ali brezno <e2>v skalnem koritu</e2>, ki požira vodo."
+Has_location(e1,e2)
+Comment:
+
+1006	"Dele krasa, kjer <e1>na površju</e1> delujeta tako kraški kot fluvialni geomorfni sistem, Roglić (1959) imenuje <e2>fluviokras</e2>. <e1>na površju</e1>"
+Has_location(e2,e1)
+Comment:
+
+1007	"Najpogostejši <e1>kemogeni sediment</e1> v jamah je <e2>siga</e2>, ki je na slovenskem krasu večinoma kalcitne sestave."
+Genus(e2,e1)
+Comment:
+
+1008	"<e1>Izločanje kalcita</e1> je obraten <e2>pojav</e2> od raztapljanja, nastane pa zaradi porušenega dinamičnega ravnotežja v raztopini."
+Genus(e1,e2)
+Comment:
+
+1009	"Večje <e1>visokogorske kotanje</e1>, do kilometer široke in do 100 metrov globoke, imenujemo <e2>konte</e2>."
+Genus(e2,e1)
+Comment:
+
+1010	"Večje visokogorske kotanje, <e1>do kilometer široke in do 100 metrov globoke</e1>, imenujemo <e2>konte</e2>."
+Has_size(e2,e1)
+Comment:
+
+1011	"Večje uravnane <e1>dele kraškega površja</e1> imenujemo <e2>kraške uravnave</e2>."
+Genus(e2,e1)
+Comment:
+
+1012	"<e1>Kopasti vrhovi</e1> so <e2>višji deli kraškega reliefa</e2> in so najpogostejši tip kraške vzpetine."
+Has_location(e1,e2)
+Comment:
+
+1013	"Osamelce <e1>na kraških poljih</e1>, ki so redki, a zelo značilni za kras, imenujemo <e2>humi</e2>."
+Has_location(e2,e1)
+Comment:
+
+1014	"<e1>Naplavna ravnica</e1> je fluvialna akumulacijska <e2>reliefna oblika</e2>."
+Genus(e1,e2)
+Comment:
+
+1015	"<e1>Kraško polje</e1> je <e2>kotanja</e2> v kraškem ozemlju s sklenjenim višjim obodom in ravnim dnom."
+Genus(e1,e2)
+Comment:
+
+1016	"<e1>Kras</e1> je <e2>območje</e2>, na katerem so se zaradi razpoklinske prepustnosti in topnosti kamnin razvile posebne površinske in podzemne reliefne oblike, ki so nastale kot posledica kemičnega in mehanskega delovanja vode v karbonatnih kamninah, v apnencu in dolomitu."
+Genus(e1,e2)
+Comment:
+
+1017	"<e1>prelivni izvir</e1>: Kraški izvir, ki deluje ob višji vodi, <e2>ko nižji stalnejši izvir ne zmore vse iz podzemlja pritekajoče vode</e2>. Je lahko neposredno nad stalnejšim izvirom (primer: Krška jama), ali vstran od njega (npr. Škratovka, Lijak)."
+Has_location(e1,e2)
+Comment:
+
+1018	"<e1>prelivni izvir</e1>: Kraški izvir, ki deluje ob višji vodi, ko nižji stalnejši izvir ne zmore vse iz podzemlja pritekajoče vode. Je lahko <e2>neposredno nad stalnejšim izvirom</e2> (primer: Krška jama), ali vstran od njega (npr. Škratovka, Lijak)."
+Has_location(e1,e2)
+Comment:
+
+1019	"<e1>kraški jarek</e1>, bogaz: Do nekaj metrov širok in globok premočrten jarek vzdolž razpok, navadno s strmimi ali navpičnimi pobočji. V slovenski kraški literaturi tudi prelomniški žleb, prelomniški jarek za večje kraške jarke <e2>v visokogorskem krasu</e2>. Za manjše kraške jarke internacionalni bogaz, sprejet preko srbohrvatske literature. Podobne oblike v krasu na Portoriku imenujejo zanjon."
+Has_location(e1,e2)
+Comment:
+
+1020	"<e1>kraški jarek</e1>, bogaz: Do <e2>nekaj metrov širok</e2> in globok premočrten jarek vzdolž razpok, navadno s strmimi ali navpičnimi pobočji. V slovenski kraški literaturi tudi prelomniški žleb, prelomniški jarek za večje kraške jarke v visokogorskem krasu. Za manjše kraške jarke internacionalni bogaz, sprejet preko srbohrvatske literature. Podobne oblike v krasu na Portoriku imenujejo zanjon."
+Has_size(e1,e2)
+Comment:
+
+1021	"kraški jarek, <e1>bogaz</e1>: Do nekaj metrov širok in globok premočrten jarek vzdolž razpok, navadno s strmimi ali navpičnimi pobočji. V slovenski kraški literaturi tudi prelomniški žleb, prelomniški jarek za večje kraške jarke <e2>v visokogorskem krasu</e2>. Za manjše kraške jarke internacionalni <e1>bogaz</e1>, sprejet preko srbohrvatske literature. Podobne oblike v krasu na Portoriku imenujejo zanjon."
+Has_location(e1,e2)
+Comment:
+
+1022	"<e1>robni ravnik</e1>: <e2>Ravnik</e2> v robnih apnencih ob vododržnih kamninah, s katerih priteka agresivna voda. kamninah"
+Genus(e1,e2)
+Comment:
+
+1023	"<e1>kontaktno kraško polje</e1>: Kraško polje <e2>na stiku med vododržnimi in vodoprepustnimi kamninami</e2>. Tudi robno ali semi-polje."
+Has_location(e1,e2)
+Comment:
+
+1024	"<e1>robno kraško polje</e1>: <e2>Polje</e2> na robnih karbonatnih kamninah na stiku z večjim kompleksom neprepustnih kamnin."
+Genus(e1,e2)
+Comment:
+
+1025	"<e1>robno kraško polje</e1>: Polje <e2>na robnih karbonatnih kamninah na stiku z večjim kompleksom neprepustnih kamnin</e2>."
+Has_location(e1,e2)
+Comment:
+
+1026	"<e1>fosilna <e2>škraplja</e2></e1>: Z neprepustnimi sedimenti prekrita <e2>škraplja</e2> ali vsaka <e2>škraplja</e2>, ki ni v skladu s procesi v novem okolju."
+Genus(e1,e2)
+Comment:
+
+1027	"<e1>škrapljišce</e1>: Na gosto s škrapljami posejano <e2>skalno površje</e2>."
+Genus(e1,e2)
+Comment:
+
+1028	"<e1>troglofil</e1>: <e2>Jamoljubna žival</e2>, ki živi obdobno na zemeljskem površju (npr. netopir)."
+Genus(e1,e2)
+Comment:
+
+1029	"<e1>trogloksen</e1>: <e2>Žival</e2>, ki se v jamo samo zateče, biva v njej le obdobno."
+Genus(e1,e2)
+Comment:
+
+1030	"udornica: Depresijska oblika z očitno udornim nastankom <e1>nad votlino</e1>. Pogosto ime za <e2>udorno vrtačo</e2>."
+Has_location(e2,e1)
+Comment:
+
+1031	"<e1>ugrez</e1>, grez: <e2>Vrtača</e2> ali manjša depresija v sipkih sedimentih, ki se ji pozna, da je nastala ali se poglobila z <e1>ugrez</e1>anjem."
+Genus(e1,e2)
+Comment:
+
+1032	"<e1>ugrez</e1>, grez: Vrtača ali <e2>manjša</e2> depresija v sipkih sedimentih, ki se ji pozna, da je nastala ali se poglobila z <e1>ugrez</e1>anjem."
+Has_size(e1,e2)
+Comment:
+
+1033	"<e1>uvala</e1>: Skledasta <e2>vdolbina</e2>, navadno manjša od kraškega polja in večja od vrtače, z neravnim, običajno z vrtacami razčlenjenim dnom. Ljudski izraz z dinarskega krasa."
+Genus(e1,e2)
+Comment:
+
+1034	"<e1>Fluvioglacialni vršaj</e1> je prodno-peščena <e2>nasutina</e2> stožčaste oblike, ki nastane pred čelom mirujočega ledenika."
+Genus(e1,e2)
+Comment:
+
+1035	"<e1>Vršaji</e1> na krasu niso tipične <e2>površinske globeli</e2>, kot so ostale oblike kontaktnega krasa, ki nastanejo s korozijo karbonatov."
+Genus(e1,e2)
+Comment:
+
+1036	"<e1>Reliktni vršaji</e1> so značilne <e2>oblike kontaktnega krasa</e2>, ki nastanejo s postopno denudacijo flišne naplavine in kemično denudacijo karbonatne podlage na območjih vršajev."
+Genus(e1,e2)
+Comment:
+
+1037	"Vrtače se pogosto nahajajo na karbonatih in evaporitih (Williams, 2006). Po obliki jih Slovenska kraška terminologija (Gams in sod., 1973) deli na skledaste, lijakaste, kotlaste in vodnjakaste. Po nastanku pa jih ločimo na korozijske, udorne, sufozijske in posedne (Ford, Williams, 2007) Veliko gostoto <e1>vrtač</e1> najdemo na apnencih, <e2>na dolomitih jih navadno ni</e2>, razvijejo se tudi na pleistocenskih in oligocenskih konglomeratih. Na njihovo razporeditev vpliva tudi relief, saj se manj pogosto pojavljajo na strmih pobočjih, zato sta pobočni naklon in gostota <e1>vrtač</e1> obratno sorazmerna. Odvisne so tudi od skladovitosti apnencev."
+Has_location(e1,e2)
+Comment:
+
+1038	"<e1>Vrtače</e1> se pogosto nahajajo na karbonatih in evaporitih (Williams, 2006). Po obliki jih Slovenska kraška terminologija (Gams in sod., 1973) deli na skledaste, lijakaste, kotlaste in vodnjakaste. Po nastanku pa jih ločimo na korozijske, udorne, sufozijske in posedne (Ford, Williams, 2007) Veliko gostoto vrtač najdemo na apnencih, na dolomitih jih navadno ni, razvijejo se tudi <e2>na pleistocenskih in oligocenskih konglomeratih</e2>. Na njihovo razporeditev vpliva tudi relief, saj se manj pogosto pojavljajo na strmih pobočjih, zato sta pobočni naklon in gostota vrtač obratno sorazmerna. Odvisne so tudi od skladovitosti apnencev."
+Has_location(e1,e2)
+Comment:
+
+1039	"<e1>Vrtače</e1> se pogosto nahajajo na karbonatih in evaporitih (Williams, 2006). Po obliki jih Slovenska kraška terminologija (Gams in sod., 1973) deli na skledaste, lijakaste, kotlaste in vodnjakaste. Po nastanku pa jih ločimo na korozijske, udorne, sufozijske in posedne (Ford, Williams, 2007) Veliko gostoto vrtač najdemo na apnencih, <e2>na dolomitih jih navadno ni</e2>, razvijejo se tudi na pleistocenskih in oligocenskih konglomeratih. Na njihovo razporeditev vpliva tudi relief, saj se manj pogosto pojavljajo na strmih pobočjih, zato sta pobočni naklon in gostota vrtač obratno sorazmerna. Odvisne so tudi od skladovitosti apnencev."
+Has_location(e1,e2)
+Comment:
+
+1040	"<e1>Vrtače</e1> se pogosto nahajajo na karbonatih in evaporitih (Williams, 2006). Po obliki jih Slovenska kraška terminologija (Gams in sod., 1973) deli na skledaste, lijakaste, kotlaste in vodnjakaste. Po nastanku pa jih ločimo na korozijske, udorne, sufozijske in posedne (Ford, Williams, 2007) Veliko gostoto vrtač najdemo <e2>na apnencih</e2>, na dolomitih jih navadno ni, razvijejo se tudi na pleistocenskih in oligocenskih konglomeratih. Na njihovo razporeditev vpliva tudi relief, saj se manj pogosto pojavljajo na strmih pobočjih, zato sta pobočni naklon in gostota vrtač obratno sorazmerna. Odvisne so tudi od skladovitosti apnencev."
+Has_location(e1,e2)
+Comment:
+
+1041	"<e1>Vrtača</e1> je <e2>depresijska oblika</e2>, navadno globoka več metrov in je bolj široka kot globoka ". (Slovenska kraška terminologija, 1973, 29)"
+Genus(e1,e2)
+Comment:
+
+1042	"<e1>Požiralnik</e1>, ponikva oziroma ponor je lijakasta <e2>odprtina</e2> v tleh zakraselega območja, kjer površinsko tekoča voda izginja v podzemlje."
+Genus(e1,e2)
+Comment:
+
+1043	"<e1>Požiralnik</e1>, ponikva oziroma ponor je lijakasta odprtina <e2>v tleh zakraselega območja</e2>, kjer površinsko tekoča voda izginja v podzemlje."
+Has_location(e1,e2)
+Comment:
+
+1044	"Požiralnik, <e1>ponikva</e1> oziroma ponor je lijakasta odprtina <e2>v tleh zakraselega območja</e2>, kjer površinsko tekoča voda izginja v podzemlje."
+Has_location(e1,e2)
+Comment:
+
+1045	"<e1>Reynoldsovo <e2>število</e2></e1> (Re) - je kombinacija štirih parametrov (premera kanala, gostote, hitrost in viskoznosti tekoči ­ ne) in je neimenovane <e2>število</e2>. Pri vrednostih Reynoldsovega števila 2000 < Re < 3000 tok prehaja iz laminamega v turbulentnega, pri Re > 3000 pa je tok samo še turbulenten."
+Genus(e1,e2)
+Comment:
+
+1046	"<e1>lezični kanal</e1> - Jamski kanal, <e2>kije nastal vzdolž lezike in ji popolnoma sledi</e2>. Doslej je v uporabi izraz ob<e1>lezični kanal</e1>. Ker je preveč podoben izrazu 7oblezična ploskev, ki pa z njim nima prave zveze, predlagava, da ga opustimo."
+Has_location(e1,e2)
+Comment:
+
+1047	"<e1>meteorni kras</e1> - <e2>Kras</e2>, nastal zaradi delovanja padavinskih voda na kraške kamni ne. Vključuje epi - in endokraške pojave. Nasprotje hidrotermalnemu krasu."
+Genus(e1,e2)
+Comment:
+
+1048	"<e1>nosilna lezika</e1> - <e2>Lezika</e2>, vzdolž katere je nastal pomemben del svežnja. Približno ustreza materializaciji pojma začetni horizont."
+Genus(e1,e2)
+Comment:
+
+1049	"<e1>oblezična ploskev</e1> - Speleogenetsko pomembna nezveznost v kamnini, <e2>ki je v okviru natančnosti opazovanj vzporedna pravim lezikam</e2>, a se ne razteza na večje razdalje. v kamnini"
+Has_location(e1,e2)
+Comment:
+
+1050	"<e1>paragenetski prag</e1> - <e2>Dimenzija kanala</e2>, pri kateri netopno plavje prekrije stene in bistveno zavre nadaljnje korozijsko večanje. plavje"
+Genus(e1,e2)
+Comment:
+
+1051	"stožčasti kras, <e1>stogasti kras</e1>: Posebna oblika <e2>tropskega krasa</e2> z značilnimi vzpetinicami v obliki stožcev (stogov)."
+Genus(e1,e2)
+Comment:
+
+1052	"<e1>merokras</e1>: Po Cvijiču delni, nepopolni kras. Sinonim <e2>za srednjeevropski kras</e2>."
+Has_location(e1,e2)
+Comment:
+
+1053	"<e1>Parakras</e1>: <e2>Kras</e2> z neizrazitimi kraškimi oblikami, v kamninah, kot je dolomit, ki le delno podlegajo zakrasevanju. Pogosto ime v italijanskem krasoslovju."
+Genus(e1,e2)
+Comment:
+
+1054	"kontaktni kras, <e1>stični kras</e1>: Kras <e2>na sticišču prepustnih in vodno neprepustnih kamnin</e2>."
+Has_location(e1,e2)
+Comment:
+
+1055	"<e1>obalni kras</e1>: Površinski kras <e2>na morski ali jezerski obali</e2>. kras obali"
+Has_location(e1,e2)
+Comment:
+
+1056	"<e1>globoki kras</e1>: Kras <e2>z več sto metrov debelo cono vertikalnega kraškega pretakanja</e2>. Kras, kjer najgloblje reliefne depresije ne dosegajo freatične cone. Po drugem pojmovanju kras z več sto metrov debelimi kraškimi kamninami ne glede na globino piezometra. pretakanja depresije kamninami"
+Has_size(e1,e2)
+Comment:
+
+1057	"<e1>plitvi kras</e1>: <e2>Kras</e2>, v katerem je cona vertikalnega pretakanja plitva. Globlje reliefne depresije segajo do freatične cone. Po drugem pojmovanju kras s plitvimi kraškimi (vodoprepustnimi) kamninami. pretakanja"
+Genus(e1,e2)
+Comment:
+
+1058	"<e1>plitvi kras</e1>: Kras, <e2>v katerem je cona vertikalnega pretakanja plitva</e2>. Globlje reliefne depresije segajo do freatične cone. Po drugem pojmovanju kras s plitvimi kraškimi (vodoprepustnimi) kamninami. pretakanja"
+Has_size(e1,e2)
+Comment:
+
+1059	"<e1>podtalni kras</e1>, podpreperelinski kras: Kraške oblike v apnencu, nastale neposredno pod prstjo (zemljo). Številne so podobne površinskim (pokrite škraplje, pokrite vrtace) ali tem v podzemlju (zapolnjeno brezno), <e2>nekatere pa najdemo samo pod prstjo</e2> (gl. korozijski vdolbek, zapolnjen jašek, skalne luknje)."
+Has_location(e1,e2)
+Comment:
+
+1060	"<e1>paleta</e1>, ščit: Sigova tvorba v obliki diska ali palete, ki je <e2>pritrjena na jamsko steno ali na strop</e2>. Raz njene poševne, gladke stene pogosto vise majhni stalaktiti."
+Has_location(e1,e2)
+Comment:
+
+1061	"<e1>sigovi slap</e1>: Vodnemu slapu podobna sigova tvorba <e2>večje širine</e2> na strmi ali navpični steni."
+Has_size(e1,e2)
+Comment:
+
+1062	"<e1>sigova polička</e1>: Do nekaj centimetrov široka stopnička <e2>na rahlo položnih ali strmih pobočjih</e2>."
+Has_location(e1,e2)
+Comment:
+
+1063	"jamsko mleko, <e1>gorsko mleko</e1>: Lahka <e2>usedlina</e2> iz kalcita, huntita ali magnezija, pri katere nastanku so sodelovali mikroorganizmi. Mokro je pastozno, suho pa krhko."
+Genus(e1,e2)
+Comment:
+
+1064	"<e1>sigova ponvica</e1>: <e2>Kotanjica</e2> iz sige, z značilno, navpično do gladine vode segajočo steno na odtočni strani, stalno ali obdobno zapolnjena s stoječo vodo."
+Genus(e1,e2)
+Comment:
+
+1065	"<e1>čebulaste tvorbe</e1>, sferične tvorbe: Sigove tvorbe okroglaste, čebuli podobne oblike, <e2>zrasle na jamski steni ali jamskem stropu</e2>."
+Has_location(e1,e2)
+Comment:
+
+1066	"čebulaste tvorbe, <e1>sferične tvorbe</e1>: <e2>Sigove tvorbe</e2> okroglaste, čebuli podobne oblike, zrasle na jamski steni ali jamskem stropu."
+Genus(e1,e2)
+Comment:
+
+1067	"<e1>stalaktit</e1>: Viseči <e2>kapnik</e2>. Po obliki cevast, korenast, kijast, svedrast, itd."
+Genus(e1,e2)
+Comment:
+
+1068	"<e1>Preboj</e1> je <e2>trenutek</e2>, ko vzdolž celotnega segmenta od ponorov do izvirov laminarni tok preide v turbulentnega."
+Genus(e1,e2)
+Comment:
+
+1069	"<e1>dvorana</e1>: <e2>Večji</e2> razširjeni del jame."
+Has_size(e1,e2)
+Comment:
+
+1070	"<e1>faseta</e1>: <e2>Nekaj cm ali dm dolga</e2> ovalna vdolbinica v jamski steni ali dnu rova. Globlja in strmejša je na strani, iz katere je pritekla voda, ki je faseto izdelala. Po tem znaku so fasete indikatorji smeri vodnega toka. Možen je tudi drugačen nastanek. dnu"
+Has_size(e1,e2)
+Comment:
+
+1071	"<e1>geološke orgle</e1>: Oblika podtalnega krasa z globokimi žepi ilovice ali alohtonega gradiva <e2>v razjedeni kraški kamnini</e2>. gradiva kamnini"
+Has_location(e1,e2)
+Comment:
+
+1072	"<e1>golobinka</e1>, golobina, golobnjača: Lj. za večjo udornico ali <e2>brezno</e2> s širokim skalnatim vhodom, kjer se zadržujejo golobi."
+Genus(e1,e2)
+Comment:
+
+1073	"<e1>golobinka</e1>, golobina, golobnjača: Lj. za <e2>večjo</e2> udornico ali brezno s širokim skalnatim vhodom, kjer se zadržujejo golobi."
+Has_size(e1,e2)
+Comment:
+
+1074	"golobinka, golobina, <e1>golobnjača</e1>: Lj. za večjo <e2>udornico</e2> ali brezno s širokim skalnatim vhodom, kjer se zadržujejo golobi."
+Genus(e1,e2)
+Comment:
+
+1075	"golobinka, golobina, <e1>golobnjača</e1>: Lj. za <e2>večjo</e2> udornico ali brezno s širokim skalnatim vhodom, kjer se zadržujejo golobi."
+Has_size(e1,e2)
+Comment:
+
+1076	"hidrografska cona, <e1>kraška hidrografska cona</e1>: Značilen <e2>hidrološki sloj</e2> v vertikalni razčlenitvi kraške gmote. Hidrološke cone se ločijo po smeri pretakanja vode in po zapolnjenosti votlin (gl. aeracijska oz. vadozna cona, freatična cona). sloj"
+Genus(e1,e2)
+Comment:
+
+1077	"<e1>areacijska cona</e1>, vadozna cona, vadozna voda: Stalno <e2>suha cona</e2>, vrhnja hidrografska cona, kjer padavinska voda pretežno navzdol premika in se obdobno in lokalno zbira v vodne curke. Pretaka se po kanalih, ki so večinoma zapolnjeni z zrakom (odtod ime <e1>areacijska cona</e1>). Po Čvijiču tudi <e2>suha cona</e2>. Po nekaterih pojmovanjih pomenita vadozna cona in vadozna voda najnižjo aeracijsko cono, ki jo ob visokem vodostaju preplavlja voda iz freatične cone. voda curke"
+Genus(e1,e2)
+Comment:
+
+1078	"areacijska cona, <e1>vadozna cona</e1>, vadozna voda: Stalno suha cona, vrhnja <e2>hidrografska cona</e2>, kjer padavinska voda pretežno navzdol premika in se obdobno in lokalno zbira v vodne curke. Pretaka se po kanalih, ki so večinoma zapolnjeni z zrakom (odtod ime areacijska cona). Po Čvijiču tudi suha cona. Po nekaterih pojmovanjih pomenita <e1>vadozna cona</e1> in vadozna voda najnižjo aeracijsko cono, ki jo ob visokem vodostaju preplavlja voda iz freatične cone. voda curke"
+Genus(e1,e2)
+Comment:
+
+1079	"areacijska cona, vadozna cona, <e1>vadozna voda</e1>: Stalno suha cona, <e2>vrhnja</e2> hidrografska cona, kjer padavinska voda pretežno navzdol premika in se obdobno in lokalno zbira v vodne curke. Pretaka se po kanalih, ki so večinoma zapolnjeni z zrakom (odtod ime areacijska cona). Po Čvijiču tudi suha cona. Po nekaterih pojmovanjih pomenita vadozna cona in <e1>vadozna voda</e1> najnižjo aeracijsko cono, ki jo ob visokem vodostaju preplavlja voda iz freatične cone. voda curke"
+Has_location(e1,e2)
+Comment:
+
+1080	"<e1>Preperevanje kamnine</e1> je naravni <e2>proces</e2>, ki kamnino v času razkroji na delce, iz katerih je sestavljena."
+Genus(e1,e2)
+Comment:
+
+1081	"<e1>Ponvice</e1> so pogosta <e2>oblika sige</e2>."
+Genus(e1,e2)
+Comment:
+
+1082	"Najpomembnejši <e1>proces preoblikovanja kraškega površja</e1> je raztapljanje oziroma kemično preperevanje in <e2>odnašanje mase</e2> v raztopini v podzemlje."
+Genus(e2,e1)
+Comment:
+
+1083	"Najpomembnejše razlike pri <e1>oblikovanju krasa</e1> <e2>v tropskih geografskih širinah</e2> so intenzivna evapotranspiracija in zanemarljivo mehansko preperevanje, pri čemer je mišljena predvsem odsotnost zmrzalnega preperevanja."
+Has_location(e1,e2)
+Comment:
+
+1084	"Večje kamnito, gruščnato površje iz razpadlega kamenja, <e1>značilno za polgoli in goli kras</e1>, imenujemo <e2>griža</e2>."
+Has_location(e2,e1)
+Comment:
+
+1085	"<e1>Večje</e1> kamnito, gruščnato površje iz razpadlega kamenja, značilno za polgoli in goli kras, imenujemo <e2>griža</e2>."
+Has_size(e2,e1)
+Comment:
+
+1086	"Večje <e1>kotanje</e1>, v tlorisu bolj nepravilnih oblik, imenujemo <e2>uvale</e2>."
+Genus(e2,e1)
+Comment:
+
+1087	"Osnovni mehanizem nastanka <e1>udor</e1>nic je <e2>rušenje jamskih stropov</e2> do površja oziroma <e1>udor</e1>."
+Genus(e1,e2)
+Comment:
+
+1088	"Ime <e1>cockpit</e1> izhaja z Jamajke, saj naj bi bile <e2>kotanje</e2> podobne arenam za petelinje boje (območje stožčastega krasa v severnem in osrednjem delu Jamajke se imenuje Cockpit Country)."
+Genus(e1,e2)
+Comment:
+
+1089	"<e1>odprto kraško polje</e1>: <e2>Polje</e2> s prekinjenim obodom na eni strani."
+Genus(e1,e2)
+Comment:
+
+1090	"<e1>kreda</e1>: Porozna, drobnozrnata, pretežno iz skeletov mikroorganizmov v kredni dobi nastala <e2>karbonatna kamnina</e2>. Prim. kredni kras."
+Genus(e1,e2)
+Comment:
+
+1091	"<e1>ledeni kapnik</e1>: Sigovim kapnikom podobna <e2>ledena tvorba</e2>, ki visi ali stoji v jami."
+Genus(e1,e2)
+Comment:
+
+1092	"<e1>lezika</e1>: Stik dveh skladov, medskladovna (medslojna) <e2>ploskev</e2> ali špranja."
+Genus(e1,e2)
+Comment:
+
+1093	"<e1>lezika</e1>: Stik dveh skladov, medskladovna (medslojna) ploskev ali <e2>špranja</e2>."
+Genus(e1,e2)
+Comment:
+
+1094	"<e1>lisičina</e1>: Ožji, navadno zavit rov, ki povezuje večje podzemeljske prostore, <e2>prehoden s plazenjem po vseh štirih</e2>."
+Has_size(e1,e2)
+Comment:
+
+1095	"<e1>lisičina</e1>: <e2>Ožji</e2>, navadno zavit rov, ki povezuje večje podzemeljske prostore, prehoden s plazenjem po vseh štirih."
+Has_size(e1,e2)
+Comment:
+
+1096	"<e1>morski mlin</e1>: <e2>Mlin</e2>, ki ga poganja tok morske vode v strugi proti morskemu požiralniku. morske vode"
+Genus(e1,e2)
+Comment:
+
+1097	"<e1>morski mlin</e1>: Mlin, ki ga poganja tok morske vode <e2>v strugi proti morskemu požiralniku</e2>. morske vode"
+Has_location(e1,e2)
+Comment:
+
+1098	"<e1>morski <e2>požiralnik</e2></e1>: V nivoju morske gladine ležeči <e2>požiralnik</e2>, kamor teče morska voda."
+Genus(e1,e2)
+Comment:
+
+1099	"<e1>prekriti <e2>kras</e2></e1>: Pod vodoprepustnimi (kvartarnimi) naplavinami razviti <e2>kras</e2>, ki se odraža tudi v površinskih oblikah. skriti <e2>kras</e2>4. Kras, ki je prekrit z neprepustnimi sedimenti do tolike mere, da je brez površinskih kraških pojavov."
+Genus(e1,e2)
+Comment:
+
+1100	"<e1>linearni kras</e1>: <e2>Kras</e2>, v katerem je opazna linearna razvrstitev depresijskih oblik, reber ali večjih vzpetinic."
+Genus(e1,e2)
+Comment:
+
+1101	"kraška <e1>bifurkacija</e1>, <e1>bifurkacija</e1>: <e2>Na krasu</e2> se pri podzemeljski bifurkaciji voda istega toka javlja v dveh kraških izvirih (primer:. Loški potok, ki izvira v Rinži in Rakitnici). Pri vertikalni bifurkaciji se višje vode iz iste kotanje izlivajo v drugo smer kot nižje (na primer Cerkniško jezero, katerega vode odtekajo v višji legi proti Raku in Uncu, istočasno pa se skozi aluvialne požiralnike odtekajo proti Bistri)."
+Has_location(e1,e2)
+Comment:
+
+1102	"<e1>kraška dolina</e1>: Z vseh strani zaprta <e2>rečna dolina</e2> z izviri na eni in ponori na drugi strani. Prim. Rakov Škocjan."
+Genus(e1,e2)
+Comment:
+
+1103	"<e1>kraška miza</e1>: Ledeniški <e2>balvan</e2>, podorna ali druga alohtona skala, ki je zašlitila apneniško podlago pred zniževanjem in zato leži na podstavku. leži"
+Genus(e1,e2)
+Comment:
+
+1104	"<e1>primarna vrtača</e1>: <e2>Vrtača</e2>, v kateri so nastale sekundarne vrtače."
+Genus(e1,e2)
+Comment:
+
+1105	"<e1>sufozijska vrtača</e1>: <e2>Vrtača</e2> v sipskem gradivu, ki je nastala s sufozijo (to je spiranjem pod rušo)."
+Genus(e1,e2)
+Comment:
+
+1106	"<e2><e1>vrtač</e1>asti jarek</e2>: Vrsta <e1>vrtač</e1>, ki tvorijo dolinasto depresijo."
+Genus(e2,e1)
+Comment:
+
+1107	"<e1>žlebič</e1>: Žlebaste <e2>izjedenine</e2> s polkrožnim prečnim prerezom, potekajoče po smeri največjega strmca po kompaktni kamnini."
+Genus(e1,e2)
+Comment:
+
+1108	"<e1>koritasti žlebič</e1>: <e2>Žlebič</e2> v obliki korita z okroglastimi previsnimi stenami, ki je posledica nekdanje zapolnjenosti s humusom."
+Genus(e1,e2)
+Comment:
+
+1109	"<e1>meandrasti žlebiči</e1>: Zaviti žlebiči, podobni zvijugani tokavi, <e2>navadno na zložnejšem pobočju</e2>."
+Has_location(e1,e2)
+Comment:
+
+1110	"<e1>mikro<e2>žlebiči</e2></e1>: Na vrhu golih skalnih reber začenjajoči se drobni <e2>žlebiči</e2>, ki se navzdol zgubljajo v gladkem površju."
+Genus(e1,e2)
+Comment:
+
+1111	"<e1>mikrožlebiči</e1>: <e2>Na vrhu golih skalnih reber začenjajoči se</e2> drobni žlebiči, ki se navzdol zgubljajo v gladkem površju."
+Has_location(e1,e2)
+Comment:
+
+1112	"<e1>mikrožlebiči</e1>: Na vrhu golih skalnih reber začenjajoči se <e2>drobni</e2> žlebiči, ki se navzdol zgubljajo v gladkem površju."
+Has_size(e1,e2)
+Comment:
+
+1113	"<e1>žlebičje</e1>: Skalno <e2>površje</e2> z gostimi žlebiči."
+Genus(e1,e2)
+Comment:
+
+1114	"<e1>delana škavna</e1>: Lj. na Krasu, pomeni meter ali bolj široko odprto <e2>škavno</e2> (škavnico), ki so jo zaprli, da bi držala vodo za napajanje drobnice (ovac) (prim. škavnica)."
+Genus(e1,e2)
+Comment:
+
+1115	"<e1>delana škavna</e1>: Lj. na Krasu, <e2>pomeni meter ali bolj široko</e2> odprto škavno (škavnico), ki so jo zaprli, da bi držala vodo za napajanje drobnice (ovac) (prim. škavnica)."
+Has_size(e1,e2)
+Comment:
+
+1116	"<e1>Diaklaza</e1>: <e2>Razpoka</e2>, ki seka več skladov kamnine, ki obakraj nje niso premaknjeni."
+Genus(e1,e2)
+Comment:
+
+1117	"<e1>Dimnica</e1>: <e2>Jama</e2> z meglo ob vhodu, ki nastaja ob določenem vremenu zaradi mešanja hladnejšega zunanjega in toplejšega jamskega zraka."
+Genus(e1,e2)
+Comment:
+
+1118	"<e1>dimnik</e1>: Ožji <e2>rov</e2> v jamskem stropu, ki ima zvezo s površjem."
+Genus(e1,e2)
+Comment:
+
+1119	"<e1>dimnik</e1>: Ožji rov <e2>v jamskem stropu</e2>, ki ima zvezo s površjem."
+Has_location(e1,e2)
+Comment:
+
+1120	"<e1>dinamična jama</e1>, klimo<e1>dinamična jama</e1>: <e2>Jama</e2>, ki je vse leto dobro prezračena, ker vse leto živahno komunicira z zunanjim zrakom. Navadno ima dva vhoda v neenaki višini, kar omogoča prepih vse leto. zrakom"
+Genus(e1,e2)
+Comment:
+
+1121	"dinamična jama, <e1>klimodinamična jama</e1>: <e2>Jama</e2>, ki je vse leto dobro prezračena, ker vse leto živahno komunicira z zunanjim zrakom. Navadno ima dva vhoda v neenaki višini, kar omogoča prepih vse leto. zrakom"
+Genus(e1,e2)
+Comment:
+
+1122	"<e1>Dolek</e1>: Plitva, <e2>do nekaj metrov globoka</e2> odprta suha dolinica, navadno v smeri največje strmine na pobočju, pogosta zlasti na dolomitih in dolomitiziranih apnencih."
+Has_size(e1,e2)
+Comment:
+
+1123	"<e1>dol</e1>: Lj. na Dinarskem krasu za različne površinske v<e1>dol</e1>bine (suho <e1>dol</e1>ino, kraško polje). Prim. suha <e1>dol</e1>ina, kraško polje. na Dinarskem krasu"
+Genus(e1,e2)
+Comment:
+
+1124	"<e1>korozija mešanice</e1>: <e2>Korozija</e2> mešanice temperaturno ali kemično neenakih vod, ki je postala po mešanju ponovno agresivna."
+Genus(e1,e2)
+Comment:
+
+1125	"<e1>aluvialna korozija</e1>: Pospešena korozija karbonatne podlage, ki nastane zaradi premikanja vode skozi aluvialno odejo, bogato z ogljikovim dioksidom. Je <e2>značilna za prepustna dna kraških polj in slepih dolin</e2>, ki jih poglablja."
+Has_location(e1,e2)
+Comment:
+
+1126	"robna korozija, <e1>obrobna korozija</e1>, krajna korozija: <e2>Korozija</e2> karbonatne kamnine ob robu neprepustne naplavine, zaradi katere so stene kotanj ali kraških polj na kraju ponikanja korozijsko izpodžrte. Robna korozija razširja kraška polja, slepe doline, vrtače in druge kotanje z naplavljenim dnom. kotanj"
+Genus(e1,e2)
+Comment:
+
+1127	"<e1>pospešena korozija</e1>: <e2>Korozijski proces</e2>, ki lokalno hitreje poglablja površje in lahko ustvarja kotanje."
+Genus(e1,e2)
+Comment:
+
+1128	"<e1>linearna korozija</e1>: <e2>Korozija</e2>, ki deluje linearno in ustvarja linearne (to je v določeni smeri razporejene) depresijske površinske oblike."
+Genus(e1,e2)
+Comment:
+
+1129	"<e1>korozijski vdolbek</e1>: Nekaj dm široka in globoka ovalna <e2>vdolbinica</e2> v apneniški skali pod prstjo (zemljo, preperino). Ena od oblik podtalnega krasa."
+Genus(e1,e2)
+Comment:
+
+1130	"<e1>korozijski vdolbek</e1>: <e2>Nekaj dm široka in globoka</e2> ovalna vdolbinica v apneniški skali pod prstjo (zemljo, preperino). Ena od oblik podtalnega krasa."
+Has_size(e1,e2)
+Comment:
+
+1131	"<e1>korozijska polica</e1>: Redke, nekaj dm ali metrov široke, skoraj vodoravne ploskve <e2>na skalnem površju</e2> visokogorskega (subnivalnega) krasa. Nastanejo z retrogradno ploskovno korozija; zato so obicajno navzgor omejene s strmo stopnjo. Genetsko sorodne korozijskim stopnickam."
+Has_location(e1,e2)
+Comment:
+
+1132	"<e1>korozijski stalaktit</e1>: S selektivno korozijo nastali, večinoma skalni izrastki na jamskem stropu, <e2>pogosti v tropski klimi</e2>. korozijo"
+Has_location(e1,e2)
+Comment:
+
+1133	"<e1>korozijska stopnička</e1>: Polkrožna <e2>izjedenina</e2>, podobna odtisu pete, ki je specifičen pojav razčlenjenih golih, največkrat visokogorskih skalnatih površin. Nastaja z omejeno retrogradno ploskovno korozijo. ploskovno korozijo"
+Genus(e1,e2)
+Comment:
+
+1134	"<e1>korozijski relief</e1>: <e2>Relief</e2>, nastal s prevladujočim korozijskim procesom in so zanj značilne korozijske reliefne oblike."
+Genus(e1,e2)
+Comment:
+
+1135	"<e1>kotlica</e1>: Okroglasta <e2>vdolbina</e2> gladkih sten s premerom nekaj centimetrov ali decimetrov, v stropu, na steni ali dnu jame. Poznamo korozijsko in erozijsko kotlico."
+Genus(e1,e2)
+Comment:
+
+1136	"<e1>kotlica</e1>: Okroglasta vdolbina gladkih sten <e2>s premerom nekaj centimetrov ali decimetrov</e2>, v stropu, na steni ali dnu jame. Poznamo korozijsko in erozijsko kotlico."
+Has_size(e1,e2)
+Comment:
+
+1137	"<e1>nasičena <e2>voda</e2></e1>: V kraški geomorfologiji <e2>voda</e2>, ki ni več sposobna korodirati. Nasprotje agresivni vodi."
+Genus(e1,e2)
+Comment:
+
+1138	"<e1>odcedna voda</e1>: <e2>Kraška voda</e2>, ki tvori glavnino recnega pretoka po daljši suši. Voda, ki se počasi preceja skozi kraško gmoto do vecjih žil."
+Genus(e1,e2)
+Comment:
+
+1139	"Pečnica, <e1>topla <e2>jama</e2></e1>: Topla, v notranjosti se dvigajoča <e2>jama</e2>, v kateri je pozimi ujet toplejši zrak. zrak"
+Genus(e1,e2)
+Comment:
+
+1140	"<e1>podorni stožec</e1>: Stožčast <e2>kup skalovja</e2> v jami, najčešce na dnu vhodnih brezen."
+Genus(e1,e2)
+Comment:
+
+1141	"<e1>podorni stožec</e1>: Stožčast kup skalovja v jami, najčešce <e2>na dnu vhodnih brezen</e2>."
+Has_location(e1,e2)
+Comment:
+
+1142	"<e1>podorni stožec</e1>: Stožčast kup skalovja <e2>v jami</e2>, najčešce na dnu vhodnih brezen."
+Has_location(e1,e2)
+Comment:
+
+1143	"podzemeljsko jezero; <e1>jamsko jezero</e1>: Večja <e2>jamska</e2> kotanja stoječe vode."
+Has_location(e1,e2)
+Comment:
+
+1144	"<e1>podzemeljsko jezero</e1>; jamsko jezero: Večja <e2>jamska</e2> kotanja stoječe vode."
+Has_location(e1,e2)
+Comment:
+
+1145	"<e1>podzemeljska bifurkacija</e1>: Hidrološki pojav, da se enotni podzemski tok <e2>v podzemlju</e2> vilici, razteka in izvira v dveh oddaljenih krajih, v dveh porečjih ali morjih (npr. raztekanje Loškega potoka v izvire Rinže - Kolpe in Krke). <e2>v podzemlju</e2>"
+Has_location(e1,e2)
+Comment:
+
+1146	"<e1>podzemeljska hidrografska mreža</e1>: <e2>Sistem</e2> stalno, periodično ali obdobno z vodo zalitih votlin v kraškem podzemlju."
+Genus(e1,e2)
+Comment:
+
+1147	"<e1>podzemeljska reka</e1>: <e2>Reka</e2> v kraškem podzemlju."
+Genus(e1,e2)
+Comment:
+
+1148	"<e1>polšna</e1>: Na Slovenskem ljudsko ime za jamo ali <e2>brezno</e2> z majhnim vhodom."
+Genus(e1,e2)
+Comment:
+
+1149	"<e1>Udornice</e1> so <e2>površinske kraške globeli</e2> različnih oblik in velikosti, katerih nastanek povezujemo s točkastim vertikalnim odnašanjem kamnine v podzemlje, bodisi z nenadnimi udori nad jamskimi prostori, bodisi s postopnim odnašanjem kamnine nad aktivnimi jamskimi rovi (Stepišnik, 2001). različnih"
+Genus(e1,e2)
+Comment:
+
+1150	"Za <e1>kraška polja</e1> sta značilna sklenjen obod nad razmeroma uravnanim obsežnim dnom in kraška hidrologija. Slovenska kraška terminologija (cit. Gams, 2004) opredeljuje, da je za kraško polje bistvena <e2>najmanj pol kilometra široka uravnava z višjim obodom</e2>. obod obsežnim"
+Has_size(e1,e2)
+Comment:
+
+1151	"Za <e1>kraška polja</e1> sta značilna sklenjen obod nad razmeroma uravnanim <e2>obsežnim</e2> dnom in kraška hidrologija. Slovenska kraška terminologija (cit. Gams, 2004) opredeljuje, da je za kraško polje bistvena najmanj pol kilometra široka uravnava z višjim obodom. obod <e2>obsežnim</e2>"
+Has_size(e1,e2)
+Comment:
+
+1152	"Slovenska kraška terminologija (1973) <e1>jamo</e1> definira kot <e2>prehodno podzemeljsko votlino</e2>, ki je lahko vodoravna ali navpična."
+Genus(e1,e2)
+Comment:
+
+1153	"Jame so najznačilnejši kraški pojav. V ožjem smislu je <e1>jama</e1> prehodna, pretežno horizontalna <e2>podzemna</e2> votlina, ravno nasprotno od brezna, ki je navpično."
+Has_location(e1,e2)
+Comment:
+
+1154	"Požiralnik, <e1>ponikva</e1> oziroma ponor je lijakasta <e2>odprtina</e2> v tleh zakraselega območja, kjer površinsko tekoča voda izginja v podzemlje."
+Genus(e1,e2)
+Comment:
+
+1155	"<e1>Slepa <e2>dolina</e2></e1> je ena od najpogostejših oblik kontaktnega krasa. To je <e2>dolina</e2>, ki jo oblikujejo fluvialni procesi, ki se končajo ob vznožju prepadnega ali strmega pobočja, kjer reka, ki je dolino izdolbla, ponika v jamski sistem."
+Genus(e1,e2)
+Comment:
+
+1156	"<e1>Zatrepna dolina</e1> je značilna <e2>površinska oblika</e2> izvirnega kontaktnega krasa, ki nastane na območju izvirov, kjer vode pritekajo iz kraške kamnine."
+Genus(e1,e2)
+Comment:
+
+1157	"Posebna <e1>reliefna oblika</e1>, ki kaže na akumulacijo, so tako imenovani <e2>reliktni vršaji</e2> (Stepišnik et al, 2007) oziroma psevdovršaji (Gams, 2004). Pri reliktnih vršajih je prišlo, v primerjavi s " pravimi " vršaji, do prekinitve fluvialne akumulacije alohtonega materiala ter postopnega preoblikovanja te oblike z denudacijo alohtonih nanosov v obliko na karbonatni podlagi. V karbonatni kamnini so se ohranile oblike vršajev, ki so bili nekoč razviti na tem površju (Stepišnik et al, 2007). "
+Genus(e2,e1)
+Comment:
+
+1158	"<e1>Kraški vodonosnik</e1> je <e2>masa apnenca</e2>, ki zadržuje vodo, ki se steka s kraškega površja v podzemlje. Poleg zadrževanja vode poteka v vodonosniku tudi napajanje z vodo in njeno odtekanje"
+Genus(e1,e2)
+Comment:
+
+1159	"<e1>Merokras</e1> je <e2>nepopolni kras</e2>, ki se deli na podtipe: kras v kredi v južni Angliji in severni Franciji, moravski kras, kras v Belgiji itd. Nekatere novejše tipologije po analogiji delijo kras na nižji in valovit srednjeevropski ter bolje razvit sredozemski kras."
+Genus(e1,e2)
+Comment:
+
+1160	"<e1>Merokras</e1> je nepopolni kras, ki se deli na podtipe: <e2>kras v kredi</e2> v južni Angliji in severni Franciji, moravski kras, kras v Belgiji itd. Nekatere novejše tipologije po analogiji delijo kras na nižji in valovit srednjeevropski ter bolje razvit sredozemski kras."
+Has_location(e1,e2)
+Comment:
+
+1161	"<e1>Kamnine</e1>, kot so glinenci ali meljevci, ki lahko vsebujejo pomembnejše količine vode, prepojene z vodo pa vode ne prevajajo, imenujemo <e2>akviklud</e2>."
+Genus(e2,e1)
+Comment:
+
+1162	"<e1>Piezometri</e1> so <e2>vrtine</e2>, v katerih se meri višino podzemne vode v vodonosnikih."
+Genus(e1,e2)
+Comment:
+
+1163	"Zgornji del vadozne cone predstavlja <e1>tanka prst</e1>, ki jo imenujemo <e2>cona talnega prenikanja</e2>."
+Genus(e2,e1)
+Comment:
+
+1164	"<e1>Zgornji del vadozne cone predstavlja</e1> tanka prst, ki jo imenujemo <e2>cona talnega prenikanja</e2>."
+Has_location(e2,e1)
+Comment:
+
+1165	"<e1>Prehodno cono med vadozno in freatično cono</e1> imenujemo občasno zalita, <e2>epifreatična</e2> ali poplavna cona."
+Has_location(e2,e1)
+Comment:
+
+1166	"<e1>Najnižja cona kraškega vodonosnika</e1> je nasičena ali <e2>freatična cona</e2>, ki jo literatura imenuje tudi prežeta cona."
+Has_location(e2,e1)
+Comment:
+
+1167	"Celokupnost <e1>oblik nekega kraškega področja</e1> imenujemo <e2>kraško pokrajino</e2>."
+Genus(e2,e1)
+Comment:
+
+1168	"<e1>Ravnovesna <e2>meja</e2></e1> je navidezna <e2>meja</e2> na ledeniku, vzdolž katere je masna bilanca enaka nič (Porter, 2000); nahaja se na nadmorski višini, na kateri sta akumulacija in ablacija ledu v ravnovesju (Benn, Evans, 1998)."
+Genus(e1,e2)
+Comment:
+
+1169	"Habič je s <e1>kukavo</e1> poimenoval <e2>udornice</e2>, ki imajo v dnu dostop do podzemnih prostorov injih ločil od koliševk, ki so brez dostopa do podzemnih prostorov (Stepišnik, 2006). poimenoval"
+Genus(e1,e2)
+Comment:
+
+1170	"<e1>Nagnjenost gladine vode</e1> je <e2>hidravlični gradient</e2>, ki je vektor, katerega dolžina je enaka spremembi hidravličnega potenciala na enoto dolžine in ima smer proti največjemu naraščanju hidravličnega potenciala."
+Genus(e1,e2)
+Comment:
+
+1171	"<e1>Zatrpano <e2>brezno</e2></e1> je <e2>brezno</e2>, pretežno zapolnjeno s klastičnimi sedimenti (Radinja, 1967, b), to je gruščem, prodom, ilovico ipd."
+Genus(e1,e2)
+Comment:
+
+1172	"Vršaje na krasu, ki nimajo aktivnega procesa sedimentacije rečnih nanosov <e1>na svojem površju</e1>, imenuje <e2>psevdovršaji</e2>."
+Has_location(e2,e1)
+Comment:
+
+1173	"Prevladujoč način <e1>na kraškem površju</e1> je <e2>kemično preperevanje</e2> oziroma korozija."
+Has_location(e2,e1)
+Comment:
+
+1174	"Prevladujoč način <e1>na kraškem površju</e1> je kemično preperevanje oziroma <e2>korozija</e2>."
+Has_location(e2,e1)
+Comment:
+
+1175	"<e1>Aktivna pobočja</e1> so deli pobočij udornic, kjer so aktivni pobočni procesi polzenja tal oziroma prepereline <e2>vzporedno s pobočjem navzdol</e2>. <e2>vzporedno s pobočjem navzdol</e2>"
+Has_location(e1,e2)
+Comment:
+
+1176	"Večje <e1>globeli</e1>, ki naj bi bile v tlorisu bolj nepravilnih oblik, imenujemo <e2>uvale</e2>."
+Genus(e2,e1)
+Comment:
+
+1177	"Večje <e1>globeli</e1> od uval imenujemo <e2>kraška polja</e2>."
+Genus(e2,e1)
+Comment:
+
+1178	"Tip <e1>reliefa</e1>, ki združuje kraške reliefne oblike, kraško hidrologijo ter podedovane ledeniške erozijske in akumulacijske oblike, se imenuje ledeniški kras (angl. glaciated karst) ali <e2>glaciokras</e2> (angl. glaciokarst)."
+Genus(e2,e1)
+Comment:
+
+1179	"skalni nos, <e1>korozijski nož</e1>: Iz skalne stene ali poševnega pobočja moleča <e2>izboklina</e2> v obliki nosu. Domnevno ostanki žlebičastih reber."
+Genus(e1,e2)
+Comment:
+
+1180	"<e1>skalni nos</e1>, korozijski nož: <e2>Iz skalne stene ali poševnega pobočja moleča izboklina</e2> v obliki nosu. Domnevno ostanki žlebičastih reber."
+Has_location(e1,e2)
+Comment:
+
+1181	"<e1>Spodmol</e1>: Krajša horizontalna <e2>jama</e2> s širokim vhodom."
+Genus(e1,e2)
+Comment:
+
+1182	"<e1>Spodmol</e1>: <e2>Krajša</e2> horizontalna jama s širokim vhodom."
+Has_size(e1,e2)
+Comment:
+
+1183	"<e1>Statična jama</e1>, klimostatična jama: Izraz je iz jamske klimatologije. Pomeni <e2>jamo</e2>, ki pozimi in poleti zračno slabo komunicira z zunanjim zrakom in so v njej zračne razmere statične."
+Genus(e1,e2)
+Comment:
+
+1184	"Statična jama, <e1>klimostatična jama</e1>: Izraz je iz jamske klimatologije. Pomeni <e2>jamo</e2>, ki pozimi in poleti zračno slabo komunicira z zunanjim zrakom in so v njej zračne razmere statične."
+Genus(e1,e2)
+Comment:
+
+1185	"<e1>statodinamična jama</e1>: <e2>Jama</e2>, ki živahno komunicira z zunanjim zrakom v eni sezoni, medtem ko je v ostalem letu statična. komunicira z zunanjim zrakom v eni sezoni, medtem ko je v ostalem letu statična"
+Genus(e1,e2)
+Comment:
+
+1186	"<e1>sufozija</e1>: Spiranje gmote <e2>izpod ruše ali krovnih sedimentov</e2> po tekoči vodi."
+Has_location(e1,e2)
+Comment:
+
+1187	"suha dolina, <e1>zakrasela dolina</e1>: Dolinasta oblika <e2>na krasu</e2>, brez stalnega površinskega vodnega toka. Glede na trajanje toka so trajno in obdobno suhe doline."
+Has_location(e1,e2)
+Comment:
+
+1188	"<e1>suha dolina</e1>, zakrasela dolina: Dolinasta oblika <e2>na krasu</e2>, brez stalnega površinskega vodnega toka. Glede na trajanje toka so trajno in obdobno suhe doline."
+Has_location(e1,e2)
+Comment:
+
+1189	"<e1>delno suha dolina</e1>: <e2>Dolinasta oblika</e2> s površinskim vodnim tokom v delu doline."
+Genus(e1,e2)
+Comment:
+
+1190	"<e1>polsuha dolina</e1>: <e2>Suha dolina</e2>, v kateri se občasno pojavlja površinski vodni tok."
+Genus(e1,e2)
+Comment:
+
+1191	"suhi zid, <e1>kraški zid</e1>: <e2>Zid</e2> iz kamnov, ki niso vezani z malto ali s cementom. Za kraško pokrajino značilen zid ob mejah parcel, ob poteh ali kot škarpa na spodnji strani njiv in vinogradov, ki so ga sezidali iz otrebljenega kamenja. So eno -, dvo - ali večredni."
+Genus(e1,e2)
+Comment:
+
+1192	"<e1>suhi zid</e1>, kraški zid: <e2>Zid</e2> iz kamnov, ki niso vezani z malto ali s cementom. Za kraško pokrajino značilen zid ob mejah parcel, ob poteh ali kot škarpa na spodnji strani njiv in vinogradov, ki so ga sezidali iz otrebljenega kamenja. So eno -, dvo - ali večredni."
+Genus(e1,e2)
+Comment:
+
+1193	"<e1>sušica</e1>, šica: <e2>Vodni tok</e2>, ki ob nizki vodi presiha."
+Genus(e1,e2)
+Comment:
+
+1194	"su<e1>šica</e1>, <e1>šica</e1>: <e2>Vodni tok</e2>, ki ob nizki vodi presiha."
+Genus(e1,e2)
+Comment:
+
+1195	"Vodna gladina precej niha, zato <e1>pas med najvišjo in najnižjo piezometrično vodno gladino</e1> imenujemo <e2>epifreatična cona</e2>."
+Genus(e2,e1)
+Comment:
+
+1196	"Vodna gladina precej niha, zato <e1>pas med najvišjo in najnižjo piezometrično vodno gladino</e1> imenujemo <e2>epifreatična cona</e2>."
+Has_location(e2,e1)
+Comment:
+
+1197	"<e1>Estavela</e1> je kraški <e2>vodni objekt</e2>, ki ob naraščanju vode deluje kot bruhalnik, ob upadanju pa kot požiralnik."
+Genus(e1,e2)
+Comment:
+
+1198	"Kot občno ime (<e1>kras</e1>) pomeni v ljudskem jeziku <e2>kamnito ozemlje</e2>, kar je v skladu s paleoevropsko osnovo."
+Genus(e1,e2)
+Comment:
+
+1199	"<e1>Uvala</e1> je kraška <e2>depresijska oblika</e2> na zemeljskem površju v obliki skledaste vdolbine."
+Genus(e1,e2)
+Comment:
+
+1200	"<e1>Uvala</e1> je kraška depresijska oblika <e2>na zemeljskem površju</e2> v obliki skledaste vdolbine."
+Has_location(e1,e2)
+Comment:
+
+1201	"<e1>ŠKRAPLJE</e1>: So manjša <e2>kraška oblika</e2>, dolga od nekaj centimetrov do več decimetrov in metrov, izjedena v trdi kamnini (apnencu ali drugih karbonatnih kamninah), nastala zaradi kemičnega delovanja vode."
+Genus(e1,e2)
+Comment:
+
+1202	"<e1>ŠKRAPLJE</e1>: So manjša kraška oblika, <e2>dolga od nekaj centimetrov do več decimetrov in metrov</e2>, izjedena v trdi kamnini (apnencu ali drugih karbonatnih kamninah), nastala zaradi kemičnega delovanja vode."
+Has_size(e1,e2)
+Comment:
+
+1203	"SUHA DOLINA: <e1>Suha dolina</e1> (zakrasela dolina) je <e2>dolinasta oblika</e2> na krasu, brez stalnega površinskega vodnega toka."
+Genus(e1,e2)
+Comment:
+
+1204	"SUHA DOLINA: <e1>Suha dolina</e1> (zakrasela dolina) je dolinasta oblika <e2>na krasu</e2>, brez stalnega površinskega vodnega toka."
+Has_location(e1,e2)
+Comment:
+
+1205	"SUHA DOLINA: Suha dolina (<e1>zakrasela dolina</e1>) je <e2>dolinasta oblika</e2> na krasu, brez stalnega površinskega vodnega toka."
+Genus(e1,e2)
+Comment:
+
+1206	"SUHA DOLINA: Suha dolina (<e1>zakrasela dolina</e1>) je dolinasta oblika <e2>na krasu</e2>, brez stalnega površinskega vodnega toka."
+Has_location(e1,e2)
+Comment:
+
+1207	"<e1>Škraplje</e1> so <e2>kraške oblike</e2>, ki nastanejo zaradi korozije vode na površju ali subkutano."
+Genus(e1,e2)
+Comment:
+
+1208	"<e1>Žlebiči</e1> so <e2>razjede</e2> pravilnih žlebastih oblik, ki potekajo v smeri največjega strmca stene."
+Genus(e1,e2)
+Comment:
+
+1209	"<e1>Jame</e1> so <e2>podzemni kanali</e2>, ki jih je naredila skozi kras tekoča voda."
+Genus(e1,e2)
+Comment:
+
+1210	"<e1>stopnjasto brezno</e1>: <e2>Brezno</e2>, sestavljeno iz zaporednih vertikalnih stopenj, ki jih povezujejo police ali zvezni rovi. Globlja brezna so navadno stopnjasta. rovi"
+Genus(e1,e2)
+Comment:
+
+1211	"<e1>zapolnjeno brezno</e1>: Oblika podtalnega krasa. <e2>Brezno</e2>, zapolnjeno z ilovico."
+Genus(e1,e2)
+Comment:
+
+1212	"<e1>zatrpano <e2>brezno</e2></e1>: Je <e2>brezno</e2>, pretežno zapolnjeno s klastičnimi sedimenti, to je gruščem, prodom, ilovico in pod. sedimenti"
+Genus(e1,e2)
+Comment:
+
+1213	"<e1>fosilno brezno</e1>: <e2>Brezno</e2>, nastalo v preteklih geoloških dobah. Po nekaterih razlagah je zatrpano in mrtvo, po drugih pa se spričo drugačnih speleogenetskih procesov v sedanjosti ne spreminja."
+Genus(e1,e2)
+Comment:
+
