@@ -1,17 +1,17 @@
 import random
 
-SEM_EVAL_FILE = "./data/Annotated/EN/SEM_EVAL_FILE_KARST.txt"
+SEM_EVAL_FILE = "./Data/Annotated/EN/SEM_EVAL_FILE_KARST.txt"
 
-SEM_EVAL_FILE_TRAIN = "./data/Annotated/EN/SEM_EVAL_FILE_KARST_TRAIN.txt"
+SEM_EVAL_FILE_TRAIN = "./Data/Annotated/EN/SEM_EVAL_FILE_KARST_TRAIN.txt"
 
-SEM_EVAL_FILE_TEST = "./data/Annotated/EN/SEM_EVAL_FILE_KARST_TEST.txt"
+SEM_EVAL_FILE_TEST = "./Data/Annotated/EN/SEM_EVAL_FILE_KARST_TEST.txt"
 
 f_train = open(SEM_EVAL_FILE_TRAIN, "w")
 f_test = open(SEM_EVAL_FILE_TEST, "w")
 
 N = 4
 
-a = list(range(1, 1181))
+a = list(range(1, 2041))
 train_len = int(0.7*len(a))
 sample = random.sample(a, train_len)
 

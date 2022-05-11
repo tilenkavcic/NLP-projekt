@@ -1,9 +1,9 @@
 import os
 import pandas as pd
 
-DATA_PATH = "./data/Annotated/EN/TERM_CAT_GEN_SENT_REL.csv"
+DATA_PATH = "./Data/Annotated/EN/TERM_CAT_GEN_SENT_REL.csv"
 
-SEM_EVAL_FILE = "./data/Annotated/EN/SEM_EVAL_FILE_KARST.txt"
+SEM_EVAL_FILE = "./Data/Annotated/EN/SEM_EVAL_FILE_KARST.txt"
 
 
 df = pd.read_csv(DATA_PATH)
@@ -47,12 +47,37 @@ for index, row in df.iterrows():
     sizes = [] if type(row['HAS_SIZE']) == float or len(
         row['HAS_SIZE']) <= 0 else row['HAS_SIZE'].split("|")
 
+    species = [] if type(row['SPECIES']) == float or len(
+        row['SPECIES']) <= 0 else row['SPECIES'].split("|")
+    occurs = [] if type(row['OCCURS_IN_TIME']) == float or len(
+        row['OCCURS_IN_TIME']) <= 0 else row['OCCURS_IN_TIME'].split("|")
+    results = [] if type(row['HAS_RESULT']) == float or len(
+        row['HAS_RESULT']) <= 0 else row['HAS_RESULT'].split("|")
+    forms = [] if type(row['HAS_FORM']) == float or len(
+        row['HAS_FORM']) <= 0 else row['HAS_FORM'].split("|")
+    functions = [] if type(row['HAS_FUNCTION']) == float or len(
+        row['HAS_FUNCTION']) <= 0 else row['HAS_FUNCTION'].split("|")
+    cause = [] if type(row['HAS_CAUSE']) == float or len(
+        row['HAS_CAUSE']) <= 0 else row['HAS_CAUSE'].split("|")
+
     row_index = write_to_file(f, sentence, definendium,
                               genuses, "Genus", row_index)
     row_index = write_to_file(f, sentence, definendium,
                               locations, "Has_location", row_index)
     row_index = write_to_file(f, sentence, definendium,
                               sizes, "Has_size", row_index)
+    row_index = write_to_file(f, sentence, definendium,
+                              species, "Species", row_index)
+    row_index = write_to_file(f, sentence, definendium,
+                              occurs, "Occurs_in_time", row_index)
+    row_index = write_to_file(f, sentence, definendium,
+                              results, "Has_result", row_index)
+    row_index = write_to_file(f, sentence, definendium,
+                              forms, "Has_form", row_index)
+    row_index = write_to_file(f, sentence, definendium,
+                              functions, "Has_function", row_index)
+    row_index = write_to_file(f, sentence, definendium,
+                              cause, "Has_cause", row_index)
 
 
 f.close()

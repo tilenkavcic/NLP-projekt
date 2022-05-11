@@ -1,0 +1,382 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Canonicalform|Canonical
+#T_SP=webanno.custom.Category|Category
+#T_SP=webanno.custom.Definitionelement|Def_element
+#T_SP=webanno.custom.Relation|Relation
+#T_SP=webanno.custom.Relation_definitor|Rel_verb_frame
+
+
+#Text=Tidal flats are banks of mud or sand that are exposed at low tide.
+1-1	0-5	Tidal	_	A. Landform[1]	DEFINIENDUM[6]	_	_	
+1-2	6-11	flats	_	A. Landform[1]	DEFINIENDUM[6]	_	_	
+1-3	12-15	are	_	_	DEFINITOR	_	_	
+1-4	16-21	banks	_	A. Landform	GENUS	_	_	
+1-5	22-24	of	_	_	_	_	_	
+1-6	25-28	mud	_	_	_	COMPOSITION\_MEDIUM[23]	_	
+1-7	29-31	or	_	_	_	COMPOSITION\_MEDIUM[23]	_	
+1-8	32-36	sand	_	_	_	COMPOSITION\_MEDIUM[23]	_	
+1-9	37-41	that	_	_	_	_	_	
+1-10	42-45	are	_	_	_	_	_	
+1-11	46-53	exposed	_	_	_	HAS\_FORM[24]	_	
+1-12	54-56	at	_	_	_	HAS\_FORM[24]	_	
+1-13	57-60	low	_	_	_	HAS\_FORM[24]	_	
+1-14	61-65	tide	_	_	_	HAS\_FORM[24]	_	
+1-15	65-66	.	_	_	_	_	_	
+
+#Text=Greywackes are sandstones containing rock fragments and clay minerals.
+2-1	67-77	Greywackes	_	D.1 Abiotic	DEFINIENDUM	_	_	
+2-2	78-81	are	_	_	DEFINITOR	_	_	
+2-3	82-92	sandstones	_	D.1 Abiotic	GENUS	_	_	
+2-4	93-103	containing	_	_	_	_	frame\_COMPOSITION	
+2-5	104-108	rock	_	_	_	COMPOSITION\_MEDIUM[25]	_	
+2-6	109-118	fragments	_	_	_	COMPOSITION\_MEDIUM[25]	_	
+2-7	119-122	and	_	_	_	COMPOSITION\_MEDIUM[25]	_	
+2-8	123-127	clay	_	_	_	COMPOSITION\_MEDIUM[25]	_	
+2-9	128-136	minerals	_	_	_	COMPOSITION\_MEDIUM[25]	_	
+2-10	136-137	.	_	_	_	_	_	
+
+#Text=Caldera is a large crater or depression resulting from a powerful volcanic explosion or the collapse of the central part of a volcano.
+3-1	138-145	Caldera	_	A.1 Surface landform	DEFINIENDUM	_	_	
+3-2	146-148	is	_	_	DEFINITOR[7]	_	_	
+3-3	149-150	a	_	_	DEFINITOR[7]	_	_	
+3-4	151-156	large	_	_	_	HAS\_SIZE	_	
+3-5	157-163	crater	_	A.1 Surface landform	GENUS	_	_	
+3-6	164-166	or	_	_	_	_	_	
+3-7	167-177	depression	_	A.1 Surface landform	GENUS	_	_	
+3-8	178-187	resulting	_	_	_	_	frame\_CAUSE[51]	
+3-9	188-192	from	_	_	_	_	frame\_CAUSE[51]	
+3-10	193-194	a	_	_	_	_	_	
+3-11	195-203	powerful	_	_	_	HAS\_CAUSE[26]	_	
+3-12	204-212	volcanic	_	_	_	HAS\_CAUSE[26]	_	
+3-13	213-222	explosion	_	_	_	HAS\_CAUSE[26]	_	
+3-14	223-225	or	_	_	_	_	_	
+3-15	226-229	the	_	_	_	_	_	
+3-16	230-238	collapse	_	_	_	HAS\_CAUSE[27]	_	
+3-17	239-241	of	_	_	_	HAS\_CAUSE[27]	_	
+3-18	242-245	the	_	_	_	HAS\_CAUSE[27]	_	
+3-19	246-253	central	_	_	_	HAS\_CAUSE[27]	_	
+3-20	254-258	part	_	_	_	HAS\_CAUSE[27]	_	
+3-21	259-261	of	_	_	_	HAS\_CAUSE[27]	_	
+3-22	262-263	a	_	_	_	HAS\_CAUSE[27]	_	
+3-23	264-271	volcano	_	_	_	HAS\_CAUSE[27]	_	
+3-24	271-272	.	_	_	_	HAS\_CAUSE[27]	_	
+
+#Text=Catchment is an area that is drained by a river and defined by the surrounding watershed.
+4-1	273-282	Catchment	_	A.3 Hydrological form	DEFINIENDUM	_	_	
+4-2	283-285	is	_	_	DEFINITOR[8]	_	_	
+4-3	286-288	an	_	_	DEFINITOR[8]	_	_	
+4-4	289-293	area	_	_	GENUS	_	_	
+4-5	294-298	that	_	_	_	_	_	
+4-6	299-301	is	_	_	_	_	_	
+4-7	302-309	drained	_	_	_	HAS\_CAUSE[28]	_	
+4-8	310-312	by	_	_	_	HAS\_CAUSE[28]	_	
+4-9	313-314	a	_	_	_	HAS\_CAUSE[28]	_	
+4-10	315-320	river	_	_	_	HAS\_CAUSE[28]	_	
+4-11	321-324	and	_	_	_	_	_	
+4-12	325-332	defined	_	_	_	HAS\_CAUSE[29]	_	
+4-13	333-335	by	_	_	_	HAS\_CAUSE[29]	_	
+4-14	336-339	the	_	_	_	HAS\_CAUSE[29]	_	
+4-15	340-351	surrounding	_	_	_	HAS\_CAUSE[29]	_	
+4-16	352-361	watershed	_	_	_	HAS\_CAUSE[29]	_	
+4-17	361-362	.	_	_	_	_	_	
+
+#Text=Chute is a narrow channel with a swift current, applied to rivers, the straits between the mainland and islands, and to furrows produced by avalanches on hill slopes.
+5-1	363-368	Chute	_	A.3 Hydrological form	DEFINIENDUM	_	_	
+5-2	369-371	is	_	_	DEFINITOR[9]	_	_	
+5-3	372-373	a	_	_	DEFINITOR[9]	_	_	
+5-4	374-380	narrow	_	_	_	_	_	
+5-5	381-388	channel	_	A.3 Hydrological form	GENUS	_	_	
+5-6	389-393	with	_	_	_	_	_	
+5-7	394-395	a	_	_	_	_	_	
+5-8	396-401	swift	_	_	_	CONTAINS[30]	_	
+5-9	402-409	current	_	_	_	CONTAINS[30]	_	
+5-10	409-410	,	_	_	_	_	_	
+5-11	411-418	applied	_	_	_	_	_	
+5-12	419-421	to	_	_	_	_	_	
+5-13	422-428	rivers	_	_	_	HAS\_LOCATION	_	
+5-14	428-429	,	_	_	_	_	_	
+5-15	430-433	the	_	_	_	_	_	
+5-16	434-441	straits	_	_	_	HAS\_LOCATION[31]	_	
+5-17	442-449	between	_	_	_	HAS\_LOCATION[31]	_	
+5-18	450-453	the	_	_	_	HAS\_LOCATION[31]	_	
+5-19	454-462	mainland	_	_	_	HAS\_LOCATION[31]	_	
+5-20	463-466	and	_	_	_	HAS\_LOCATION[31]	_	
+5-21	467-474	islands	_	_	_	HAS\_LOCATION[31]	_	
+5-22	474-475	,	_	_	_	_	_	
+5-23	476-479	and	_	_	_	_	_	
+5-24	480-482	to	_	_	_	_	_	
+5-25	483-490	furrows	_	_	_	HAS\_LOCATION[32]	_	
+5-26	491-499	produced	_	_	_	HAS\_LOCATION[32]	_	
+5-27	500-502	by	_	_	_	HAS\_LOCATION[32]	_	
+5-28	503-513	avalanches	_	_	_	HAS\_LOCATION[32]	_	
+5-29	514-516	on	_	_	_	HAS\_LOCATION[32]	_	
+5-30	517-521	hill	_	_	_	HAS\_LOCATION[32]	_	
+5-31	522-528	slopes	_	_	_	HAS\_LOCATION[32]	_	
+5-32	528-529	.	_	_	_	_	_	
+
+#Text=Coquina is a carbonate rock which consists largely or wholly of mechanically sorted, weakly to moderately cemented fossil debris.
+6-1	530-537	Coquina	_	D.1 Abiotic	DEFINIENDUM	_	_	
+6-2	538-540	is	_	_	DEFINITOR[10]	_	_	
+6-3	541-542	a	_	_	DEFINITOR[10]	_	_	
+6-4	543-552	carbonate	_	_	_	COMPOSITION\_MEDIUM	_	
+6-5	553-557	rock	_	D.1 Abiotic	GENUS	_	_	
+6-6	558-563	which	_	_	_	_	_	
+6-7	564-572	consists	_	_	_	_	frame\_COMPOSITION[52]	
+6-8	573-580	largely	_	_	_	_	frame\_COMPOSITION[52]	
+6-9	581-583	or	_	_	_	_	frame\_COMPOSITION[52]	
+6-10	584-590	wholly	_	_	_	_	frame\_COMPOSITION[52]	
+6-11	591-593	of	_	_	_	_	frame\_COMPOSITION[52]	
+6-12	594-606	mechanically	_	_	_	COMPOSITION\_MEDIUM[33]	_	
+6-13	607-613	sorted	_	_	_	COMPOSITION\_MEDIUM[33]	_	
+6-14	613-614	,	_	_	_	COMPOSITION\_MEDIUM[33]	_	
+6-15	615-621	weakly	_	_	_	COMPOSITION\_MEDIUM[33]	_	
+6-16	622-624	to	_	_	_	COMPOSITION\_MEDIUM[33]	_	
+6-17	625-635	moderately	_	_	_	COMPOSITION\_MEDIUM[33]	_	
+6-18	636-644	cemented	_	_	_	COMPOSITION\_MEDIUM[33]	_	
+6-19	645-651	fossil	_	_	_	COMPOSITION\_MEDIUM[33]	_	
+6-20	652-658	debris	_	_	_	COMPOSITION\_MEDIUM[33]	_	
+6-21	658-659	.	_	_	_	_	_	
+
+#Text=Corestone is a spheroidal boulder of relatively unweathered rock surrounded by saprolite and formed by sub-surface weathering of a joint block.
+7-1	660-669	Corestone	_	D.1 Abiotic	DEFINIENDUM	_	_	
+7-2	670-672	is	_	_	DEFINITOR[11]	_	_	
+7-3	673-674	a	_	_	DEFINITOR[11]	_	_	
+7-4	675-685	spheroidal	_	_	_	HAS\_FORM	_	
+7-5	686-693	boulder	_	_	GENUS	_	_	
+7-6	694-696	of	_	_	_	_	_	
+7-7	697-707	relatively	_	_	_	_	_	
+7-8	708-719	unweathered	_	_	_	COMPOSITION\_MEDIUM[34]	_	
+7-9	720-724	rock	_	_	_	COMPOSITION\_MEDIUM[34]	_	
+7-10	725-735	surrounded	_	_	_	HAS\_LOCATION[35]	_	
+7-11	736-738	by	_	_	_	HAS\_LOCATION[35]	_	
+7-12	739-748	saprolite	_	_	_	HAS\_LOCATION[35]	_	
+7-13	749-752	and	_	_	_	_	_	
+7-14	753-759	formed	_	_	_	_	frame\_CAUSE[53]	
+7-15	760-762	by	_	_	_	_	frame\_CAUSE[53]	
+7-16	763-774	sub-surface	_	_	_	HAS\_CAUSE[36]	_	
+7-17	775-785	weathering	_	_	_	HAS\_CAUSE[36]	_	
+7-18	786-788	of	_	_	_	HAS\_CAUSE[36]	_	
+7-19	789-790	a	_	_	_	HAS\_CAUSE[36]	_	
+7-20	791-796	joint	_	_	_	HAS\_CAUSE[36]	_	
+7-21	797-802	block	_	_	_	HAS\_CAUSE[36]	_	
+7-22	802-803	.	_	_	_	_	_	
+
+#Text=Corrasion is the mechanical erosion of rock surfaces by the impact of moving debris.
+8-1	804-813	Corrasion	_	B.2 Loss	DEFINIENDUM	_	_	
+8-2	814-816	is	_	_	DEFINITOR[12]	_	_	
+8-3	817-820	the	_	_	DEFINITOR[12]	_	_	
+8-4	821-831	mechanical	_	B.2 Loss[2]	_	_	_	
+8-5	832-839	erosion	_	B.2 Loss[2]	GENUS	_	_	
+8-6	840-842	of	_	_	_	_	_	
+8-7	843-847	rock	_	_	_	_	_	
+8-8	848-856	surfaces	_	_	_	_	_	
+8-9	857-859	by	_	_	_	HAS\_CAUSE[37]	frame\_CAUSE[54]	
+8-10	860-863	the	_	_	_	HAS\_CAUSE[37]	frame\_CAUSE[54]	
+8-11	864-870	impact	_	_	_	HAS\_CAUSE[37]	frame\_CAUSE[54]	
+8-12	871-873	of	_	_	_	HAS\_CAUSE[37]	frame\_CAUSE[54]	
+8-13	874-880	moving	_	_	_	HAS\_CAUSE[37]	_	
+8-14	881-887	debris	_	_	_	HAS\_CAUSE[37]	_	
+8-15	887-888	.	_	_	_	_	_	
+
+#Text=Corridor karst is a type of karst characterized by long, narrow chasms enlarged by the action of water and into which surface runoff or stream may flow.
+9-1	889-897	Corridor	_	C. Geome[3]	DEFINIENDUM[13]	_	_	
+9-2	898-903	karst	_	C. Geome[3]	DEFINIENDUM[13]	_	_	
+9-3	904-906	is	_	_	DEFINITOR[14]	_	_	
+9-4	907-908	a	_	_	DEFINITOR[14]	_	_	
+9-5	909-913	type	_	_	DEFINITOR[14]	_	_	
+9-6	914-916	of	_	_	DEFINITOR[14]	_	_	
+9-7	917-922	karst	_	C. Geome	GENUS	_	_	
+9-8	923-936	characterized	_	_	_	_	_	
+9-9	937-939	by	_	_	_	_	_	
+9-10	940-944	long	_	_	_	CONTAINS[38]	_	
+9-11	944-945	,	_	_	_	CONTAINS[38]	_	
+9-12	946-952	narrow	_	_	_	CONTAINS[38]	_	
+9-13	953-959	chasms	_	_	_	CONTAINS[38]	_	
+9-14	960-968	enlarged	_	_	_	_	_	
+9-15	969-971	by	_	_	_	_	_	
+9-16	972-975	the	_	_	_	_	_	
+9-17	976-982	action	_	_	_	_	_	
+9-18	983-985	of	_	_	_	_	_	
+9-19	986-991	water	_	_	_	_	_	
+9-20	992-995	and	_	_	_	_	_	
+9-21	996-1000	into	_	_	_	_	_	
+9-22	1001-1006	which	_	_	_	_	_	
+9-23	1007-1014	surface	_	_	_	CONTAINS[39]	_	
+9-24	1015-1021	runoff	_	_	_	CONTAINS[39]	_	
+9-25	1022-1024	or	_	_	_	CONTAINS[39]	_	
+9-26	1025-1031	stream	_	_	_	CONTAINS[39]	_	
+9-27	1032-1035	may	_	_	_	_	_	
+9-28	1036-1040	flow	_	_	_	_	_	
+9-29	1040-1041	.	_	_	_	_	_	
+
+#Text=Daya is a shallow depression found primarily in areas underlain by limestone bedrock or calcrete as a result of solution.
+10-1	1042-1046	Daya	daya	_	DEFINIENDUM	_	_	
+10-2	1047-1049	is	_	_	DEFINITOR[15]	_	_	
+10-3	1050-1051	a	_	_	DEFINITOR[15]	_	_	
+10-4	1052-1059	shallow	_	_	_	_	_	
+10-5	1060-1070	depression	_	_	GENUS	_	_	
+10-6	1071-1076	found	_	_	_	_	frame\_LOCATION[55]	
+10-7	1077-1086	primarily	_	_	_	_	frame\_LOCATION[55]	
+10-8	1087-1089	in	_	_	_	_	frame\_LOCATION[55]	
+10-9	1090-1095	areas	_	_	_	HAS\_LOCATION[40]	_	
+10-10	1096-1105	underlain	_	_	_	HAS\_LOCATION[40]	_	
+10-11	1106-1108	by	_	_	_	HAS\_LOCATION[40]	_	
+10-12	1109-1118	limestone	_	_	_	HAS\_LOCATION[40]	_	
+10-13	1119-1126	bedrock	_	_	_	HAS\_LOCATION[40]	_	
+10-14	1127-1129	or	_	_	_	HAS\_LOCATION[40]	_	
+10-15	1130-1138	calcrete	_	_	_	HAS\_LOCATION[40]	_	
+10-16	1139-1141	as	_	_	_	HAS\_CAUSE[41]	frame\_CAUSE[56]	
+10-17	1142-1143	a	_	_	_	HAS\_CAUSE[41]	frame\_CAUSE[56]	
+10-18	1144-1150	result	_	_	_	HAS\_CAUSE[41]	frame\_CAUSE[56]	
+10-19	1151-1153	of	_	_	_	HAS\_CAUSE[41]	frame\_CAUSE[56]	
+10-20	1154-1162	solution	_	_	_	HAS\_CAUSE[41]	_	
+10-21	1162-1163	.	_	_	_	HAS\_CAUSE[41]	_	
+
+#Text=De Geer Moraine is a glacial landform consisting of swarms of small ridges oriented perpendicular to the ice flow direction.
+11-1	1164-1166	De	_	A.4 Other[4]	DEFINIENDUM[16]	_	_	
+11-2	1167-1171	Geer	_	A.4 Other[4]	DEFINIENDUM[16]	_	_	
+11-3	1172-1179	Moraine	_	A.4 Other[4]	DEFINIENDUM[16]	_	_	
+11-4	1180-1182	is	_	_	DEFINITOR[17]	_	_	
+11-5	1183-1184	a	_	_	DEFINITOR[17]	_	_	
+11-6	1185-1192	glacial	_	_	_	_	_	
+11-7	1193-1201	landform	_	A. Landform	GENUS	_	_	
+11-8	1202-1212	consisting	_	_	_	_	_	
+11-9	1213-1215	of	_	_	_	_	_	
+11-10	1216-1222	swarms	_	_	_	_	_	
+11-11	1223-1225	of	_	_	_	_	_	
+11-12	1226-1231	small	_	_	_	HAS\_FORM[42]	_	
+11-13	1232-1238	ridges	_	_	_	HAS\_FORM[42]	_	
+11-14	1239-1247	oriented	_	_	_	HAS\_FORM[42]	_	
+11-15	1248-1261	perpendicular	_	_	_	HAS\_FORM[42]	_	
+11-16	1262-1264	to	_	_	_	HAS\_FORM[42]	_	
+11-17	1265-1268	the	_	_	_	HAS\_FORM[42]	_	
+11-18	1269-1272	ice	_	_	_	HAS\_FORM[42]	_	
+11-19	1273-1277	flow	_	_	_	HAS\_FORM[42]	_	
+11-20	1278-1287	direction	_	_	_	HAS\_FORM[42]	_	
+11-21	1287-1288	.	_	_	_	_	_	
+
+#Text=Dreikanter is a shaped pebble found on the surface in desert regions and periglacial areas with three distinct facets on its upper surface as a result of wind abrasion.
+12-1	1289-1299	Dreikanter	_	D.1 Abiotic	DEFINIENDUM	_	_	
+12-2	1300-1302	is	_	_	DEFINITOR[18]	_	_	
+12-3	1303-1304	a	_	_	DEFINITOR[18]	_	_	
+12-4	1305-1311	shaped	_	_	_	_	_	
+12-5	1312-1318	pebble	_	D.1 Abiotic	GENUS	_	_	
+12-6	1319-1324	found	_	_	_	_	frame\_LOCATION[57]	
+12-7	1325-1327	on	_	_	_	_	frame\_LOCATION[57]	
+12-8	1328-1331	the	_	_	_	_	_	
+12-9	1332-1339	surface	_	_	_	HAS\_LOCATION[43]	_	
+12-10	1340-1342	in	_	_	_	HAS\_LOCATION[43]	_	
+12-11	1343-1349	desert	_	_	_	HAS\_LOCATION[43]	_	
+12-12	1350-1357	regions	_	_	_	HAS\_LOCATION[43]	_	
+12-13	1358-1361	and	_	_	_	HAS\_LOCATION[43]	_	
+12-14	1362-1373	periglacial	_	_	_	HAS\_LOCATION[43]	_	
+12-15	1374-1379	areas	_	_	_	HAS\_LOCATION[43]	_	
+12-16	1380-1384	with	_	_	_	_	_	
+12-17	1385-1390	three	_	_	_	HAS\_FORM[44]	_	
+12-18	1391-1399	distinct	_	_	_	HAS\_FORM[44]	_	
+12-19	1400-1406	facets	_	_	_	HAS\_FORM[44]	_	
+12-20	1407-1409	on	_	_	_	HAS\_FORM[44]	_	
+12-21	1410-1413	its	_	_	_	HAS\_FORM[44]	_	
+12-22	1414-1419	upper	_	_	_	HAS\_FORM[44]	_	
+12-23	1420-1427	surface	_	_	_	HAS\_FORM[44]	_	
+12-24	1428-1430	as	_	_	_	_	frame\_CAUSE[58]	
+12-25	1431-1432	a	_	_	_	_	frame\_CAUSE[58]	
+12-26	1433-1439	result	_	_	_	_	frame\_CAUSE[58]	
+12-27	1440-1442	of	_	_	_	_	frame\_CAUSE[58]	
+12-28	1443-1447	wind	_	_	_	HAS\_CAUSE[45]	_	
+12-29	1448-1456	abrasion	_	_	_	HAS\_CAUSE[45]	_	
+12-30	1456-1457	.	_	_	_	_	_	
+
+#Text=Drift ice is any type of floating ice that has drifted from its point of origin and broken into pieces small enough for a ship to sail through.
+13-1	1458-1463	Drift	_	D.1 Abiotic[5]	DEFINIENDUM[19]	_	_	
+13-2	1464-1467	ice	_	D.1 Abiotic[5]	DEFINIENDUM[19]	_	_	
+13-3	1468-1470	is	_	_	DEFINITOR[20]	_	_	
+13-4	1471-1474	any	_	_	DEFINITOR[20]	_	_	
+13-5	1475-1479	type	_	_	DEFINITOR[20]	_	_	
+13-6	1480-1482	of	_	_	DEFINITOR[20]	_	_	
+13-7	1483-1491	floating	_	_	_	HAS\_ATTRIBUTE	_	
+13-8	1492-1495	ice	_	D.1 Abiotic	GENUS	_	_	
+13-9	1496-1500	that	_	_	_	_	_	
+13-10	1501-1504	has	_	_	_	HAS\_CAUSE[46]	_	
+13-11	1505-1512	drifted	_	_	_	HAS\_CAUSE[46]	_	
+13-12	1513-1517	from	_	_	_	HAS\_CAUSE[46]	_	
+13-13	1518-1521	its	_	_	_	HAS\_CAUSE[46]	_	
+13-14	1522-1527	point	_	_	_	HAS\_CAUSE[46]	_	
+13-15	1528-1530	of	_	_	_	HAS\_CAUSE[46]	_	
+13-16	1531-1537	origin	_	_	_	HAS\_CAUSE[46]	_	
+13-17	1538-1541	and	_	_	_	_	_	
+13-18	1542-1548	broken	_	_	_	HAS\_RESULT[47]	_	
+13-19	1549-1553	into	_	_	_	HAS\_RESULT[47]	_	
+13-20	1554-1560	pieces	_	_	_	HAS\_RESULT[47]	_	
+13-21	1561-1566	small	_	_	_	HAS\_RESULT[47]	_	
+13-22	1567-1573	enough	_	_	_	HAS\_RESULT[47]	_	
+13-23	1574-1577	for	_	_	_	HAS\_RESULT[47]	_	
+13-24	1578-1579	a	_	_	_	HAS\_RESULT[47]	_	
+13-25	1580-1584	ship	_	_	_	HAS\_RESULT[47]	_	
+13-26	1585-1587	to	_	_	_	HAS\_RESULT[47]	_	
+13-27	1588-1592	sail	_	_	_	HAS\_RESULT[47]	_	
+13-28	1593-1600	through	_	_	_	HAS\_RESULT[47]	_	
+13-29	1600-1601	.	_	_	_	HAS\_RESULT[47]	_	
+
+#Text=Ferricrete is a type of duricrust consisting of an iron-pan or near-surface zone of iron sesquioxide cementation.
+14-1	1602-1612	Ferricrete	_	_	DEFINIENDUM	_	_	
+14-2	1613-1615	is	_	_	DEFINITOR[21]	_	_	
+14-3	1616-1617	a	_	_	DEFINITOR[21]	_	_	
+14-4	1618-1622	type	_	_	DEFINITOR[21]	_	_	
+14-5	1623-1625	of	_	_	DEFINITOR[21]	_	_	
+14-6	1626-1635	duricrust	_	D.1 Abiotic	GENUS	_	_	
+14-7	1636-1646	consisting	_	_	_	_	frame\_COMPOSITION[59]	
+14-8	1647-1649	of	_	_	_	_	frame\_COMPOSITION[59]	
+14-9	1650-1652	an	_	_	_	_	_	
+14-10	1653-1661	iron-pan	_	_	_	COMPOSITION\_MEDIUM[48]	_	
+14-11	1662-1664	or	_	_	_	COMPOSITION\_MEDIUM[48]	_	
+14-12	1665-1677	near-surface	_	_	_	COMPOSITION\_MEDIUM[48]	_	
+14-13	1678-1682	zone	_	_	_	COMPOSITION\_MEDIUM[48]	_	
+14-14	1683-1685	of	_	_	_	COMPOSITION\_MEDIUM[48]	_	
+14-15	1686-1690	iron	_	_	_	COMPOSITION\_MEDIUM[48]	_	
+14-16	1691-1702	sesquioxide	_	_	_	COMPOSITION\_MEDIUM[48]	_	
+14-17	1703-1714	cementation	_	_	_	COMPOSITION\_MEDIUM[48]	_	
+14-18	1714-1715	.	_	_	_	_	_	
+
+#Text=Fiard is a coastal inlet produced by the drowning of an undulating landscape of shallow valleys and low interfluves.
+15-1	1716-1721	Fiard	_	A.3 Hydrological form	DEFINIENDUM	_	_	
+15-2	1722-1724	is	_	_	DEFINITOR[22]	_	_	
+15-3	1725-1726	a	_	_	DEFINITOR[22]	_	_	
+15-4	1727-1734	coastal	_	_	_	HAS\_LOCATION	_	
+15-5	1735-1740	inlet	_	A.3 Hydrological form	GENUS	_	_	
+15-6	1741-1749	produced	_	_	_	_	frame\_CAUSE[60]	
+15-7	1750-1752	by	_	_	_	_	frame\_CAUSE[60]	
+15-8	1753-1756	the	_	_	_	_	_	
+15-9	1757-1765	drowning	_	_	_	HAS\_CAUSE[49]	_	
+15-10	1766-1768	of	_	_	_	HAS\_CAUSE[49]	_	
+15-11	1769-1771	an	_	_	_	HAS\_CAUSE[49]	_	
+15-12	1772-1782	undulating	_	_	_	HAS\_CAUSE[49]	_	
+15-13	1783-1792	landscape	_	_	_	HAS\_CAUSE[49]	_	
+15-14	1793-1795	of	_	_	_	HAS\_CAUSE[49]	_	
+15-15	1796-1803	shallow	_	_	_	HAS\_CAUSE[49]	_	
+15-16	1804-1811	valleys	_	_	_	HAS\_CAUSE[49]	_	
+15-17	1812-1815	and	_	_	_	HAS\_CAUSE[49]	_	
+15-18	1816-1819	low	_	_	_	HAS\_CAUSE[49]	_	
+15-19	1820-1831	interfluves	_	_	_	HAS\_CAUSE[49]	_	
+15-20	1831-1832	.	_	_	_	_	_	
+
+#Text=Foreshore is the part of a coast lying between the lowest low-water line and the average high-water mark.
+16-1	1833-1842	Foreshore	_	A. Landform	DEFINIENDUM	_	_	
+16-2	1843-1845	is	_	_	_	_	_	
+16-3	1846-1849	the	_	_	_	_	_	
+16-4	1850-1854	part	_	_	_	_	_	
+16-5	1855-1857	of	_	_	_	_	_	
+16-6	1858-1859	a	_	_	_	_	_	
+16-7	1860-1865	coast	_	A. Landform	GENUS	_	_	
+16-8	1866-1871	lying	_	_	_	_	frame\_LOCATION[61]	
+16-9	1872-1879	between	_	_	_	HAS\_LOCATION[50]	frame\_LOCATION[61]	
+16-10	1880-1883	the	_	_	_	HAS\_LOCATION[50]	_	
+16-11	1884-1890	lowest	_	_	_	HAS\_LOCATION[50]	_	
+16-12	1891-1900	low-water	_	_	_	HAS\_LOCATION[50]	_	
+16-13	1901-1905	line	_	_	_	HAS\_LOCATION[50]	_	
+16-14	1906-1909	and	_	_	_	HAS\_LOCATION[50]	_	
+16-15	1910-1913	the	_	_	_	HAS\_LOCATION[50]	_	
+16-16	1914-1921	average	_	_	_	HAS\_LOCATION[50]	_	
+16-17	1922-1932	high-water	_	_	_	HAS\_LOCATION[50]	_	
+16-18	1933-1937	mark	_	_	_	HAS\_LOCATION[50]	_	
+16-19	1937-1938	.	_	_	_	_	_	
