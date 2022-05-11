@@ -1,0 +1,407 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Canonicalform|Canonical
+#T_SP=webanno.custom.Category|Category
+#T_SP=webanno.custom.Definitionelement|Def_element
+#T_SP=webanno.custom.Relation|Relation
+#T_SP=webanno.custom.Relation_definitor|Rel_verb_frame
+
+
+#Text=Vsako obdobje otoplitve in s tem zmanjšanje obsega ledenikov imenujemo medledena doba ali interglacial.
+1-1	0-5	Vsako	_	_	_	_	_	
+1-2	6-13	obdobje	_	_	_	OCCURS\_IN\_TIME[51]	_	
+1-3	14-23	otoplitve	_	B.4 Transformation	GENUS	OCCURS\_IN\_TIME[51]	_	
+1-4	24-26	in	_	_	_	_	_	
+1-5	27-28	s	_	_	_	_	_	
+1-6	29-32	tem	_	_	_	_	_	
+1-7	33-43	zmanjšanje	_	B.2 Loss	_	_	_	
+1-8	44-50	obsega	_	_	_	_	_	
+1-9	51-60	ledenikov	_	A.3 Hydrological form	_	_	_	
+1-10	61-70	imenujemo	_	_	DEFINITOR	_	_	
+1-11	71-80	medledena	_	D.3 Property[2]	DEFINIENDUM[27]	_	_	
+1-12	81-85	doba	_	D.3 Property[2]	DEFINIENDUM[27]	_	_	
+1-13	86-89	ali	_	_	_	_	_	
+1-14	90-102	interglacial	_	D.3 Property	DEFINIENDUM	_	_	
+1-15	102-103	.	_	_	_	_	_	
+
+#Text=Holocen predstavlja medledeno dobo, ki se je začela pred približno 11.000 leti s hitrim zviševanjem morske gladine.
+2-1	104-111	Holocen	_	D.3 Property	DEFINIENDUM	_	_	
+2-2	112-123	predstavlja	_	_	DEFINITOR	_	_	
+2-3	124-133	medledeno	_	_	GENUS[28]	_	_	
+2-4	134-138	dobo	_	_	GENUS[28]	_	_	
+2-5	138-139	,	_	_	_	_	_	
+2-6	140-142	ki	_	_	_	_	_	
+2-7	143-145	se	_	_	_	_	frame\_TIME[73]	
+2-8	146-148	je	_	_	_	_	frame\_TIME[73]	
+2-9	149-155	začela	_	_	_	_	frame\_TIME[73]	
+2-10	156-160	pred	_	_	_	_	frame\_TIME[73]	
+2-11	161-170	približno	_	_	_	_	frame\_TIME[73]	
+2-12	171-177	11.000	_	_	_	OCCURS\_IN\_TIME[52]	_	
+2-13	178-182	leti	_	_	_	OCCURS\_IN\_TIME[52]	_	
+2-14	183-184	s	_	_	_	HAS\_RESULT[53]	_	
+2-15	185-191	hitrim	_	_	_	HAS\_RESULT[53]	_	
+2-16	192-203	zviševanjem	_	B.3 Addition	_	HAS\_RESULT[53]	_	
+2-17	204-210	morske	_	A.3 Hydrological form[3]	_	HAS\_RESULT[53]	_	
+2-18	211-218	gladine	_	A.3 Hydrological form[3]	_	HAS\_RESULT[53]	_	
+2-19	218-219	.	_	_	_	_	_	
+
+#Text=Vse pojave premeščanja gradiva, ki nastanejo zaradi vpliva gravitacije in so pomemben dejavnik denudacije površja, imenujemo pobočni procesi.
+3-1	220-223	Vse	_	_	_	_	_	
+3-2	224-230	pojave	_	_	GENUS	_	_	
+3-3	231-242	premeščanja	_	B. Process[4]	_	_	_	
+3-4	243-250	gradiva	_	B. Process[4]	_	_	_	
+3-5	250-251	,	_	_	_	_	_	
+3-6	252-254	ki	_	_	_	_	_	
+3-7	255-264	nastanejo	_	_	_	_	frame\_CAUSE[74]	
+3-8	265-271	zaradi	_	_	_	_	frame\_CAUSE[74]	
+3-9	272-278	vpliva	_	_	_	_	_	
+3-10	279-290	gravitacije	_	E.2 Method	_	HAS\_CAUSE	_	
+3-11	291-293	in	_	_	_	_	_	
+3-12	294-296	so	_	_	_	_	_	
+3-13	297-305	pomemben	_	_	_	_	_	
+3-14	306-314	dejavnik	_	_	_	HAS\_RESULT[54]	_	
+3-15	315-325	denudacije	_	B. Process	_	HAS\_RESULT[54]	_	
+3-16	326-333	površja	_	A. Landform	_	HAS\_RESULT[54]	_	
+3-17	333-334	,	_	_	_	_	_	
+3-18	335-344	imenujemo	_	_	DEFINITOR	_	_	
+3-19	345-352	pobočni	_	B. Process[5]	DEFINIENDUM[29]	_	_	
+3-20	353-360	procesi	_	B. Process[5]	DEFINIENDUM[29]	_	_	
+3-21	360-361	.	_	_	_	_	_	
+
+#Text=Pri izrazu pobočni procesi ime pove, da gre za procese, ki se dogajajo na pobočjih.
+4-1	362-365	Pri	_	_	_	_	_	
+4-2	366-372	izrazu	_	_	_	_	_	
+4-3	373-380	pobočni	_	B. Process[6]	DEFINIENDUM[30]	_	_	
+4-4	381-388	procesi	_	B. Process[6]	DEFINIENDUM[30]	_	_	
+4-5	389-392	ime	_	_	DEFINITOR[31]	_	_	
+4-6	393-397	pove	_	_	DEFINITOR[31]	_	_	
+4-7	397-398	,	_	_	_	_	_	
+4-8	399-401	da	_	_	_	_	_	
+4-9	402-405	gre	_	_	_	_	_	
+4-10	406-408	za	_	_	_	_	_	
+4-11	409-416	procese	_	B. Process	GENUS	_	_	
+4-12	416-417	,	_	_	_	_	_	
+4-13	418-420	ki	_	_	_	_	_	
+4-14	421-423	se	_	_	_	_	_	
+4-15	424-432	dogajajo	_	_	_	_	_	
+4-16	433-435	na	_	_	_	HAS\_LOCATION[55]	frame\_LOCATION	
+4-17	436-444	pobočjih	_	A. Landform	_	HAS\_LOCATION[55]	_	
+4-18	444-445	.	_	_	_	_	_	
+
+#Text=Proces, v katerem se trdna kompaktna kamnina pod vplivom eksogenih dejavnikov razkraja v manjše in med seboj nepovezane delce, imenujemo preperevanje.
+5-1	446-452	Proces	_	_	GENUS	_	_	
+5-2	452-453	,	_	_	_	_	_	
+5-3	454-455	v	_	_	_	_	_	
+5-4	456-463	katerem	_	_	_	_	_	
+5-5	464-466	se	_	_	_	_	_	
+5-6	467-472	trdna	_	_	_	AFFECTS[56]	_	
+5-7	473-482	kompaktna	_	_	_	AFFECTS[56]	_	
+5-8	483-490	kamnina	_	D.1 Abiotic	_	AFFECTS[56]	_	
+5-9	491-494	pod	_	_	_	_	frame\_CAUSE[75]	
+5-10	495-502	vplivom	_	_	_	_	frame\_CAUSE[75]	
+5-11	503-512	eksogenih	_	_	_	HAS\_CAUSE[57]	_	
+5-12	513-523	dejavnikov	_	_	_	HAS\_CAUSE[57]	_	
+5-13	524-532	razkraja	_	_	_	HAS\_RESULT[58]	_	
+5-14	533-534	v	_	_	_	HAS\_RESULT[58]	_	
+5-15	535-541	manjše	_	_	_	HAS\_RESULT[58]	_	
+5-16	542-544	in	_	_	_	HAS\_RESULT[58]	_	
+5-17	545-548	med	_	_	_	HAS\_RESULT[58]	_	
+5-18	549-554	seboj	_	_	_	HAS\_RESULT[58]	_	
+5-19	555-565	nepovezane	_	_	_	HAS\_RESULT[58]	_	
+5-20	566-571	delce	_	_	_	HAS\_RESULT[58]	_	
+5-21	571-572	,	_	_	_	_	_	
+5-22	573-582	imenujemo	_	_	DEFINITOR	_	_	
+5-23	583-595	preperevanje	_	B.4 Transformation	DEFINIENDUM	_	_	
+5-24	595-596	.	_	_	_	_	_	
+
+#Text=V gradbeništvu oziroma vodarstvu pojem težnostna erozija obsega pojave plazne, usadne in podorne erozije oziroma pojave, ki jih pogosto imenujemo skupaj kar zemeljski plazovi.
+6-1	597-598	V	_	_	_	_	_	
+6-2	599-611	gradbeništvu	_	E.2 Method	_	_	_	
+6-3	612-619	oziroma	_	_	_	_	_	
+6-4	620-629	vodarstvu	_	E.2 Method	_	_	_	
+6-5	630-635	pojem	_	_	_	_	_	
+6-6	636-645	težnostna	_	B.1 Movement[7]	DEFINIENDUM[32]	_	_	
+6-7	646-653	erozija	_	B.1 Movement[7]	DEFINIENDUM[32]	_	_	
+6-8	654-660	obsega	_	_	DEFINITOR	_	_	
+6-9	661-667	pojave	_	_	_	_	_	
+6-10	668-674	plazne	plazna erozija	_	SPECIES	_	_	
+6-11	674-675	,	_	_	_	_	_	
+6-12	676-682	usadne	usadna erozija	_	SPECIES	_	_	
+6-13	683-685	in	_	_	_	_	_	
+6-14	686-693	podorne	_	B.1 Movement[8]	SPECIES[33]	_	_	
+6-15	694-701	erozije	_	B.1 Movement[8]	SPECIES[33]	_	_	
+6-16	702-709	oziroma	_	_	_	_	_	
+6-17	710-716	pojave	_	_	_	_	_	
+6-18	716-717	,	_	_	_	_	_	
+6-19	718-720	ki	_	_	_	_	_	
+6-20	721-724	jih	_	_	_	_	_	
+6-21	725-732	pogosto	_	_	_	_	_	
+6-22	733-742	imenujemo	_	_	_	_	_	
+6-23	743-749	skupaj	_	_	_	_	_	
+6-24	750-753	kar	_	_	_	_	_	
+6-25	754-763	zemeljski	_	D.1 Abiotic[9]	_	HAS\_RESULT[59]	_	
+6-26	764-771	plazovi	_	D.1 Abiotic[9]	_	HAS\_RESULT[59]	_	
+6-27	771-772	.	_	_	_	_	_	
+
+#Text=Pojav prištevamo k skalnim podorom in ga v geografiji imenujemo kamniti zdrs.
+7-1	773-778	Pojav	_	_	_	_	_	
+7-2	779-789	prištevamo	_	_	_	_	_	
+7-3	790-791	k	_	_	_	_	_	
+7-4	792-799	skalnim	_	B.1 Movement[10]	GENUS[34]	_	_	
+7-5	800-807	podorom	_	B.1 Movement[10]	GENUS[34]	_	_	
+7-6	808-810	in	_	_	_	_	_	
+7-7	811-813	ga	_	_	_	_	_	
+7-8	814-815	v	_	_	_	_	_	
+7-9	816-826	geografiji	_	E.2 Method	_	_	_	
+7-10	827-836	imenujemo	_	_	DEFINITOR	_	_	
+7-11	837-844	kamniti	_	B.1 Movement[11]	DEFINIENDUM[35]	_	_	
+7-12	845-849	zdrs	_	B.1 Movement[11]	DEFINIENDUM[35]	_	_	
+7-13	849-850	.	_	_	_	_	_	
+
+#Text=Spodnji del plazu imenujemo čelo.
+8-1	851-858	Spodnji	_	_	_	HAS\_POSITION	_	
+8-2	859-862	del	_	_	_	_	_	
+8-3	863-868	plazu	_	B.1 Movement	GENUS	_	_	
+8-4	869-878	imenujemo	_	_	DEFINITOR	_	_	
+8-5	879-883	čelo	_	D.1 Abiotic	DEFINIENDUM	_	_	
+8-6	883-884	.	_	_	_	_	_	
+
+#Text=Dejavnike, ki v sistemu dokončno podrejo ravnovesje imenujemo "povod" za nastanek zemeljskih plazov.
+9-1	886-895	Dejavnike	_	_	GENUS	_	_	
+9-2	895-896	,	_	_	_	_	_	
+9-3	897-899	ki	_	_	_	_	_	
+9-4	900-901	v	_	_	_	_	_	
+9-5	902-909	sistemu	_	_	_	_	_	
+9-6	910-918	dokončno	_	_	_	_	_	
+9-7	919-926	podrejo	_	_	_	_	_	
+9-8	927-937	ravnovesje	_	_	_	_	_	
+9-9	938-947	imenujemo	_	_	DEFINITOR	_	_	
+9-10	948-949	"	_	_	_	_	_	
+9-11	949-954	povod	_	_	DEFINIENDUM	_	_	
+9-12	954-955	"	_	_	_	_	_	
+9-13	956-958	za	_	_	_	_	_	
+9-14	959-967	nastanek	_	_	_	_	_	
+9-15	968-978	zemeljskih	_	D.1 Abiotic[12]	_	_	_	
+9-16	979-985	plazov	_	D.1 Abiotic[12]	_	_	_	
+9-17	985-986	.	_	_	_	_	_	
+
+#Text=Zato lahko mehaniko trdnih kamnin imenujemo tudi "mehaniko razpok".
+10-1	987-991	Zato	_	_	_	_	_	
+10-2	992-997	lahko	_	_	_	_	_	
+10-3	998-1006	mehaniko	_	E.2 Method	DEFINIENDUM[36]	_	_	
+10-4	1007-1013	trdnih	_	_	DEFINIENDUM[36]	_	_	
+10-5	1014-1020	kamnin	_	D.1 Abiotic	DEFINIENDUM[36]	_	_	
+10-6	1021-1030	imenujemo	_	_	DEFINITOR	_	_	
+10-7	1031-1035	tudi	_	_	_	_	_	
+10-8	1036-1037	"	_	_	_	_	_	
+10-9	1037-1045	mehaniko	_	E.2 Method	DEFINIENDUM[37]	_	_	
+10-10	1046-1052	razpok	_	A.1 Surface landform	DEFINIENDUM[37]	_	_	
+10-11	1052-1053	"	_	_	_	_	_	
+10-12	1053-1054	.	_	_	_	_	_	
+
+#Text=Takšnim meandrom pravimo tudi ujeti meandri in jih najdemo tudi v nekaterih drugih slovenskih pokrajinah.
+11-1	1055-1062	Takšnim	_	_	_	_	_	
+11-2	1063-1071	meandrom	_	A.3 Hydrological form	GENUS	_	_	
+11-3	1072-1079	pravimo	_	_	DEFINITOR[38]	_	_	
+11-4	1080-1084	tudi	_	_	DEFINITOR[38]	_	_	
+11-5	1085-1090	ujeti	_	A.3 Hydrological form[13]	DEFINIENDUM[39]	HAS\_FORM	_	
+11-6	1091-1098	meandri	_	A.3 Hydrological form[13]	DEFINIENDUM[39]	_	_	
+11-7	1099-1101	in	_	_	_	_	_	
+11-8	1102-1105	jih	_	_	_	_	_	
+11-9	1106-1113	najdemo	_	_	_	_	_	
+11-10	1114-1118	tudi	_	_	_	_	_	
+11-11	1119-1120	v	_	_	_	_	_	
+11-12	1121-1130	nekaterih	_	_	_	_	_	
+11-13	1131-1137	drugih	_	_	_	_	_	
+11-14	1138-1148	slovenskih	_	D.3.1 Geolocation	_	_	_	
+11-15	1149-1159	pokrajinah	_	_	_	_	_	
+11-16	1159-1160	.	_	_	_	_	_	
+
+#Text=V leksikonu je spodmol definiran kot "kratka votlina z visoko previsno steno na vhodu" in kot "zaradi delovanja valov izpodjeden previs na morski, jezerski obali"
+12-1	1161-1162	V	_	_	_	_	_	
+12-2	1163-1172	leksikonu	_	E.1 Instrument	_	_	_	
+12-3	1173-1175	je	_	_	_	_	_	
+12-4	1176-1183	spodmol	_	A.1 Surface landform	DEFINIENDUM	_	_	
+12-5	1184-1193	definiran	je definiran kot[1]	_	DEFINITOR[40]	_	_	
+12-6	1194-1197	kot	je definiran kot[1]	_	DEFINITOR[40]	_	_	
+12-7	1198-1199	"	_	_	_	_	_	
+12-8	1199-1205	kratka	_	_	_	HAS\_FORM	_	
+12-9	1206-1213	votlina	_	A.2 Underground landform	GENUS	_	_	
+12-10	1214-1215	z	_	_	_	_	_	
+12-11	1216-1222	visoko	_	_	_	HAS\_FORM	_	
+12-12	1223-1231	previsno	_	A.2 Underground landform[14]	_	_	_	
+12-13	1232-1237	steno	_	A.2 Underground landform[14]	_	_	_	
+12-14	1238-1240	na	_	_	_	HAS\_LOCATION[60]	_	
+12-15	1241-1246	vhodu	_	_	_	HAS\_LOCATION[60]	_	
+12-16	1246-1247	"	_	_	_	_	_	
+12-17	1248-1250	in	_	_	_	_	_	
+12-18	1251-1254	kot	_	_	_	_	_	
+12-19	1255-1256	"	_	_	_	_	_	
+12-20	1256-1262	zaradi	_	_	_	HAS\_CAUSE[61]	frame\_CAUSE	
+12-21	1263-1272	delovanja	_	_	_	HAS\_CAUSE[61]	_	
+12-22	1273-1278	valov	_	A.3 Hydrological form	_	HAS\_CAUSE[61]	_	
+12-23	1279-1289	izpodjeden	_	_	_	HAS\_FORM[62]	_	
+12-24	1290-1296	previs	_	A.2 Underground landform	_	HAS\_FORM[62]	_	
+12-25	1297-1299	na	_	_	_	HAS\_LOCATION[63]	_	
+12-26	1300-1306	morski	_	_	_	HAS\_LOCATION[63]	_	
+12-27	1306-1307	,	_	_	_	HAS\_LOCATION[63]	_	
+12-28	1308-1316	jezerski	_	_	_	HAS\_LOCATION[63]	_	
+12-29	1317-1322	obali	_	A.3 Hydrological form	_	HAS\_LOCATION[63]	_	
+12-30	1322-1323	"	_	_	_	_	_	
+
+#Text=V geologiji je zemeljski plaz definiran kot območje preperine, usedline ali kamnine, ki se je hitro ali počasi premaknila s prvotnega kraja in ima vidno spremenjeno površje.
+13-1	1324-1325	V	_	_	_	_	_	
+13-2	1326-1335	geologiji	_	E.2 Method	_	_	_	
+13-3	1336-1338	je	_	_	_	_	_	
+13-4	1339-1348	zemeljski	_	D.1 Abiotic[15]	DEFINIENDUM[41]	_	_	
+13-5	1349-1353	plaz	_	D.1 Abiotic[15]	DEFINIENDUM[41]	_	_	
+13-6	1354-1363	definiran	_	E.2 Method[16]	DEFINITOR[42]	_	_	
+13-7	1364-1367	kot	_	E.2 Method[16]	DEFINITOR[42]	_	_	
+13-8	1368-1375	območje	_	_	GENUS	_	_	
+13-9	1376-1385	preperine	_	D.1 Abiotic	_	_	_	
+13-10	1385-1386	,	_	_	_	_	_	
+13-11	1387-1395	usedline	_	D.1 Abiotic	_	_	_	
+13-12	1396-1399	ali	_	_	_	_	_	
+13-13	1400-1407	kamnine	_	D.1 Abiotic	_	_	_	
+13-14	1407-1408	,	_	_	_	_	_	
+13-15	1409-1411	ki	_	_	_	_	_	
+13-16	1412-1414	se	_	_	_	_	_	
+13-17	1415-1417	je	_	_	_	_	_	
+13-18	1418-1423	hitro	_	_	_	_	_	
+13-19	1424-1427	ali	_	_	_	_	_	
+13-20	1428-1434	počasi	_	_	_	_	_	
+13-21	1435-1445	premaknila	_	_	_	_	_	
+13-22	1446-1447	s	_	_	_	_	_	
+13-23	1448-1457	prvotnega	_	_	_	_	_	
+13-24	1458-1463	kraja	_	_	_	_	_	
+13-25	1464-1466	in	_	_	_	_	_	
+13-26	1467-1470	ima	_	_	_	_	_	
+13-27	1471-1476	vidno	_	_	_	_	_	
+13-28	1477-1488	spremenjeno	_	_	_	HAS\_RESULT[64]	_	
+13-29	1489-1496	površje	_	A.1 Surface landform	_	HAS\_RESULT[64]	_	
+13-30	1496-1497	.	_	_	_	_	_	
+
+#Text=V najstarejši literaturi izraz spodmol pomeni majhno izravnavo na povešenih gorskih hrbtih in slemenih.
+14-1	1498-1499	V	_	_	_	_	_	
+14-2	1500-1511	najstarejši	_	_	_	_	_	
+14-3	1512-1522	literaturi	_	E.1 Instrument	_	_	_	
+14-4	1523-1528	izraz	_	_	_	_	_	
+14-5	1529-1536	spodmol	_	A.1 Surface landform	DEFINIENDUM	_	_	
+14-6	1537-1543	pomeni	_	_	DEFINITOR	_	_	
+14-7	1544-1550	majhno	_	_	_	HAS\_FORM	_	
+14-8	1551-1560	izravnavo	_	_	GENUS	_	_	
+14-9	1561-1563	na	_	_	_	HAS\_LOCATION[65]	_	
+14-10	1564-1573	povešenih	_	_	_	HAS\_LOCATION[65]	_	
+14-11	1574-1581	gorskih	_	A.1 Surface landform[17]	_	HAS\_LOCATION[65]	_	
+14-12	1582-1588	hrbtih	_	A.1 Surface landform[17]	_	HAS\_LOCATION[65]	_	
+14-13	1589-1591	in	_	_	_	HAS\_LOCATION[65]	_	
+14-14	1592-1600	slemenih	_	A.1 Surface landform	_	HAS\_LOCATION[65]	_	
+14-15	1600-1601	.	_	_	_	_	_	
+
+#Text=Spodmole opišejo kot vodoravne vdolbine/zajede v obliki črke C v navpičnem prerezu, izdolbene na pobočjih in v skalnih stenah.
+15-1	1602-1610	Spodmole	_	A.1 Surface landform	DEFINIENDUM	_	_	
+15-2	1611-1618	opišejo	_	_	DEFINITOR[43]	_	_	
+15-3	1619-1622	kot	_	_	DEFINITOR[43]	_	_	
+15-4	1623-1632	vodoravne	_	_	_	HAS\_FORM	_	
+15-5	1633-1641	vdolbine	_	A.1 Surface landform	GENUS	_	_	
+15-6	1641-1642	/	_	_	_	_	_	
+15-7	1642-1648	zajede	_	A.1 Surface landform	GENUS	_	_	
+15-8	1649-1650	v	_	_	_	HAS\_FORM[66]	frame\_FORM[76]	
+15-9	1651-1657	obliki	_	_	_	HAS\_FORM[66]	frame\_FORM[76]	
+15-10	1658-1662	črke	_	_	_	HAS\_FORM[66]	_	
+15-11	1663-1664	C	_	_	_	HAS\_FORM[66]	_	
+15-12	1665-1666	v	_	_	_	_	_	
+15-13	1667-1676	navpičnem	_	_	_	_	_	
+15-14	1677-1684	prerezu	_	A.1 Surface landform	_	_	_	
+15-15	1684-1685	,	_	_	_	_	_	
+15-16	1686-1695	izdolbene	_	_	_	HAS\_FORM	_	
+15-17	1696-1698	na	_	_	_	HAS\_LOCATION[67]	_	
+15-18	1699-1707	pobočjih	_	A.1 Surface landform	_	HAS\_LOCATION[67]	_	
+15-19	1708-1710	in	_	_	_	HAS\_LOCATION[67]	_	
+15-20	1711-1712	v	_	_	_	HAS\_LOCATION[67]	_	
+15-21	1713-1720	skalnih	_	_	_	HAS\_LOCATION[67]|COMPOSITION\_MEDIUM[68]	_	
+15-22	1721-1727	stenah	_	A.1 Surface landform	_	HAS\_LOCATION[67]	_	
+15-23	1727-1728	.	_	_	_	_	_	
+
+#Text=Uporablja se pojem prebojna dolina, kar pa je samo slovenski izraz za antecedentno dolino, to je tisti del rečne doline, ki se je ob dviganju antiklinale vrezal prečno na antiklinalo.
+16-1	1729-1738	Uporablja	_	_	DEFINITOR[44]	_	_	
+16-2	1739-1741	se	_	_	DEFINITOR[44]	_	_	
+16-3	1742-1747	pojem	_	_	DEFINITOR[44]	_	_	
+16-4	1748-1756	prebojna	_	A.1 Surface landform[18]	DEFINIENDUM[45]	_	_	
+16-5	1757-1763	dolina	_	A.1 Surface landform[18]	DEFINIENDUM[45]	_	_	
+16-6	1763-1764	,	_	_	_	_	_	
+16-7	1765-1768	kar	_	_	_	_	_	
+16-8	1769-1771	pa	_	_	_	_	_	
+16-9	1772-1774	je	_	_	_	_	_	
+16-10	1775-1779	samo	_	_	_	_	_	
+16-11	1780-1789	slovenski	_	D.3.1 Geolocation	_	_	_	
+16-12	1790-1795	izraz	_	_	_	_	_	
+16-13	1796-1798	za	_	_	_	_	_	
+16-14	1799-1811	antecedentno	_	A.1 Surface landform[19]	DEFINIENDUM[46]	_	_	
+16-15	1812-1818	dolino	_	A.1 Surface landform[19]	DEFINIENDUM[46]	_	_	
+16-16	1818-1819	,	_	_	_	_	_	
+16-17	1820-1822	to	_	_	_	_	_	
+16-18	1823-1825	je	_	_	_	_	_	
+16-19	1826-1831	tisti	_	_	_	_	_	
+16-20	1832-1835	del	_	_	_	_	_	
+16-21	1836-1841	rečne	_	A.1 Surface landform[20]	GENUS[47]	_	_	
+16-22	1842-1848	doline	_	A.1 Surface landform[20]	GENUS[47]	_	_	
+16-23	1848-1849	,	_	_	_	_	_	
+16-24	1850-1852	ki	_	_	_	_	_	
+16-25	1853-1855	se	_	_	_	_	_	
+16-26	1856-1858	je	_	_	_	_	_	
+16-27	1859-1861	ob	_	_	_	HAS\_CAUSE[69]	_	
+16-28	1862-1870	dviganju	_	B.1 Movement	_	HAS\_CAUSE[69]	_	
+16-29	1871-1882	antiklinale	_	A. Landform	_	HAS\_CAUSE[69]	_	
+16-30	1883-1889	vrezal	_	_	_	HAS\_CAUSE[69]	_	
+16-31	1890-1896	prečno	_	_	_	HAS\_CAUSE[69]	_	
+16-32	1897-1899	na	_	_	_	HAS\_CAUSE[69]	_	
+16-33	1900-1911	antiklinalo	_	A. Landform	_	HAS\_CAUSE[69]	_	
+16-34	1911-1912	.	_	_	_	_	_	
+
+#Text=Izraz denudacija označuje razgaljanje površja oziroma ploskovno odstranjevanje preperelih snovi s površja zemlje z eksogenimi procesi.
+17-1	1913-1918	Izraz	_	_	_	_	_	
+17-2	1919-1929	denudacija	_	B.4 Transformation	DEFINIENDUM	_	_	
+17-3	1930-1938	označuje	_	_	DEFINITOR	_	_	
+17-4	1939-1950	razgaljanje	_	B.4 Transformation[21]	GENUS[48]	_	_	
+17-5	1951-1958	površja	_	B.4 Transformation[21]|A. Landform[22]	GENUS[48]	_	_	
+17-6	1959-1966	oziroma	_	_	_	_	_	
+17-7	1967-1976	ploskovno	_	_	_	HAS\_RESULT[70]|HAS\_FORM[71]	_	
+17-8	1977-1991	odstranjevanje	_	B.2 Loss[23]	GENUS[49]	HAS\_RESULT[70]	_	
+17-9	1992-2002	preperelih	_	B.2 Loss[23]|D.1 Abiotic[24]	GENUS[49]	HAS\_RESULT[70]	_	
+17-10	2003-2008	snovi	_	B.2 Loss[23]|D.1 Abiotic[24]	GENUS[49]	HAS\_RESULT[70]	_	
+17-11	2009-2010	s	_	_	_	_	_	
+17-12	2011-2018	površja	_	A. Landform	_	_	_	
+17-13	2019-2025	zemlje	_	D.1 Abiotic	_	_	_	
+17-14	2026-2027	z	_	_	_	_	_	
+17-15	2028-2038	eksogenimi	_	B. Process[25]	_	_	_	
+17-16	2039-2046	procesi	_	B. Process[25]	_	_	_	
+17-17	2046-2047	.	_	_	_	_	_	
+
+#Text=Z izrazom zemeljski plaz razumejo tako proces, to je " … premikanje kamnin ali zemlje po pobočju navzdol pod vplivom gravitacije ...".
+18-1	2048-2049	Z	_	_	_	_	_	
+18-2	2050-2057	izrazom	_	_	_	_	_	
+18-3	2058-2067	zemeljski	_	D.1 Abiotic[26]	DEFINIENDUM[50]	_	_	
+18-4	2068-2072	plaz	_	D.1 Abiotic[26]	DEFINIENDUM[50]	_	_	
+18-5	2073-2081	razumejo	z izrazom razumejo	_	DEFINITOR	_	_	
+18-6	2082-2086	tako	_	_	_	_	_	
+18-7	2087-2093	proces	_	_	GENUS	_	_	
+18-8	2093-2094	,	_	_	_	_	_	
+18-9	2095-2097	to	_	_	_	_	_	
+18-10	2098-2100	je	_	_	_	_	_	
+18-11	2101-2102	"	_	_	_	_	_	
+18-12	2103-2104	…	_	_	_	_	_	
+18-13	2105-2115	premikanje	_	B.1 Movement	_	HAS\_RESULT[72]	_	
+18-14	2116-2122	kamnin	_	D.1 Abiotic	_	HAS\_RESULT[72]	_	
+18-15	2123-2126	ali	_	_	_	HAS\_RESULT[72]	_	
+18-16	2127-2133	zemlje	_	D.1 Abiotic	_	HAS\_RESULT[72]	_	
+18-17	2134-2136	po	_	_	_	HAS\_RESULT[72]	_	
+18-18	2137-2144	pobočju	_	A. Landform	_	HAS\_RESULT[72]	_	
+18-19	2145-2152	navzdol	_	_	_	HAS\_RESULT[72]	_	
+18-20	2153-2156	pod	_	_	_	_	_	
+18-21	2157-2164	vplivom	_	_	_	_	_	
+18-22	2165-2176	gravitacije	_	E.2 Method	_	HAS\_CAUSE	_	
+18-23	2177-2178	.	_	_	_	_	_	
+18-24	2178-2179	.	_	_	_	_	_	
+18-25	2179-2180	.	_	_	_	_	_	
+18-26	2180-2181	"	_	_	_	_	_	
+18-27	2181-2182	.	_	_	_	_	_	

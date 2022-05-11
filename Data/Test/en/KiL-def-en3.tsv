@@ -1,0 +1,524 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Canonicalform|Canonical
+#T_SP=webanno.custom.Category|Category
+#T_SP=webanno.custom.Definitionelement|Def_element
+#T_SP=webanno.custom.Relation|Relation
+#T_SP=webanno.custom.Relation_definitor|Rel_verb_frame
+
+
+#Text=Clast shape is a measure of the overall shape of a particle.
+1-1	0-5	Clast	_	D.3 Property[1]	DEFINIENDUM[12]	_	_	
+1-2	6-11	shape	_	D.3 Property[1]	DEFINIENDUM[12]	_	_	
+1-3	12-14	is	_	_	DEFINITOR[13]	_	_	
+1-4	15-16	a	_	_	DEFINITOR[13]	_	_	
+1-5	17-24	measure	_	_	GENUS	_	_	
+1-6	25-27	of	_	_	_	_	_	
+1-7	28-31	the	_	_	_	_	_	
+1-8	32-39	overall	_	_	_	MEASURES[30]	_	
+1-9	40-45	shape	_	_	_	MEASURES[30]	_	
+1-10	46-48	of	_	_	_	MEASURES[30]	_	
+1-11	49-50	a	_	_	_	MEASURES[30]	_	
+1-12	51-59	particle	_	_	_	MEASURES[30]	_	
+1-13	59-60	.	_	_	_	_	_	
+
+#Text=A profilometer is a comb equipped with fine, closely spaced teeth that advance or retreat through the housing when depressed against a rough surface.
+2-1	61-62	A	_	_	_	_	_	
+2-2	63-75	profilometer	_	E.1 Instrument	DEFINIENDUM	_	_	
+2-3	76-78	is	_	_	DEFINITOR[14]	_	_	
+2-4	79-80	a	_	_	DEFINITOR[14]	_	_	
+2-5	81-85	comb	_	E.1 Instrument	GENUS	_	_	
+2-6	86-94	equipped	_	_	_	HAS\_ATTRIBUTE[31]	frame\_ATTRIBUTE[66]	
+2-7	95-99	with	_	_	_	HAS\_ATTRIBUTE[31]	frame\_ATTRIBUTE[66]	
+2-8	100-104	fine	_	_	_	HAS\_ATTRIBUTE[31]	_	
+2-9	104-105	,	_	_	_	HAS\_ATTRIBUTE[31]	_	
+2-10	106-113	closely	_	_	_	HAS\_ATTRIBUTE[31]	_	
+2-11	114-120	spaced	_	_	_	HAS\_ATTRIBUTE[31]	_	
+2-12	121-126	teeth	_	_	_	HAS\_ATTRIBUTE[31]	_	
+2-13	127-131	that	_	_	_	_	_	
+2-14	132-139	advance	_	_	_	HAS\_FUNCTION[32]	_	
+2-15	140-142	or	_	_	_	HAS\_FUNCTION[32]	_	
+2-16	143-150	retreat	_	_	_	HAS\_FUNCTION[32]	_	
+2-17	151-158	through	_	_	_	HAS\_FUNCTION[32]	_	
+2-18	159-162	the	_	_	_	HAS\_FUNCTION[32]	_	
+2-19	163-170	housing	_	_	_	HAS\_FUNCTION[32]	_	
+2-20	171-175	when	_	_	_	HAS\_FUNCTION[32]	_	
+2-21	176-185	depressed	_	_	_	HAS\_FUNCTION[32]	_	
+2-22	186-193	against	_	_	_	HAS\_FUNCTION[32]	_	
+2-23	194-195	a	_	_	_	HAS\_FUNCTION[32]	_	
+2-24	196-201	rough	_	_	_	HAS\_FUNCTION[32]	_	
+2-25	202-209	surface	_	_	_	HAS\_FUNCTION[32]	_	
+2-26	209-210	.	_	_	_	_	_	
+
+#Text=Amino-acid geochronology is a relative-age dating technique based on the premise that proteins in bones and shells are affected by a number of chemical reactions that are partly time-dependent.
+3-1	211-221	Amino-acid	_	E.2 Method[2]	DEFINIENDUM[15]	_	_	
+3-2	222-235	geochronology	_	E.2 Method[2]	DEFINIENDUM[15]	_	_	
+3-3	236-238	is	_	_	GENUS[16]	_	_	
+3-4	239-240	a	_	_	GENUS[16]	_	_	
+3-5	241-253	relative-age	_	_	_	HAS\_FUNCTION[33]	_	
+3-6	254-260	dating	_	_	_	HAS\_FUNCTION[33]	_	
+3-7	261-270	technique	_	E.2 Method	GENUS	_	_	
+3-8	271-276	based	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-9	277-279	on	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-10	280-283	the	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-11	284-291	premise	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-12	292-296	that	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-13	297-305	proteins	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-14	306-308	in	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-15	309-314	bones	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-16	315-318	and	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-17	319-325	shells	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-18	326-329	are	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-19	330-338	affected	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-20	339-341	by	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-21	342-343	a	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-22	344-350	number	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-23	351-353	of	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-24	354-362	chemical	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-25	363-372	reactions	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-26	373-377	that	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-27	378-381	are	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-28	382-388	partly	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-29	389-403	time-dependent	_	_	_	HAS\_ATTRIBUTE[34]	_	
+3-30	403-404	.	_	_	_	_	_	
+
+#Text=A suture is a surface or zone separating two non-subductable pieces of crust that are juxtaposed following disappearance of an intervening ocean.
+4-1	405-406	A	_	_	_	_	_	
+4-2	407-413	suture	_	A.1 Surface landform	DEFINIENDUM	_	_	
+4-3	414-416	is	_	_	DEFINITOR[17]	_	_	
+4-4	417-418	a	_	_	DEFINITOR[17]	_	_	
+4-5	419-426	surface	_	_	GENUS	_	_	
+4-6	427-429	or	_	_	_	_	_	
+4-7	430-434	zone	_	_	GENUS	_	_	
+4-8	435-445	separating	_	_	_	HAS\_FUNCTION[35]	_	
+4-9	446-449	two	_	_	_	HAS\_FUNCTION[35]	_	
+4-10	450-465	non-subductable	_	_	_	HAS\_FUNCTION[35]	_	
+4-11	466-472	pieces	_	_	_	HAS\_FUNCTION[35]	_	
+4-12	473-475	of	_	_	_	HAS\_FUNCTION[35]	_	
+4-13	476-481	crust	_	_	_	HAS\_FUNCTION[35]	_	
+4-14	482-486	that	_	_	_	HAS\_FUNCTION[35]	_	
+4-15	487-490	are	_	_	_	HAS\_FUNCTION[35]	_	
+4-16	491-501	juxtaposed	_	_	_	HAS\_FUNCTION[35]	_	
+4-17	502-511	following	_	_	_	HAS\_CAUSE[36]	_	
+4-18	512-525	disappearance	_	_	_	HAS\_CAUSE[36]	_	
+4-19	526-528	of	_	_	_	HAS\_CAUSE[36]	_	
+4-20	529-531	an	_	_	_	HAS\_CAUSE[36]	_	
+4-21	532-543	intervening	_	_	_	HAS\_CAUSE[36]	_	
+4-22	544-549	ocean	_	_	_	HAS\_CAUSE[36]	_	
+4-23	549-550	.	_	_	_	HAS\_CAUSE[36]	_	
+
+#Text=A paleoseismic record is a record of large or great earthquakes (because geologic evidence of small and moderate-sized earthquakes is rarely created or preserved near the surface).
+5-1	551-552	A	_	_	_	_	_	
+5-2	553-565	paleoseismic	_	D. Entity/Element/Property[3]	DEFINIENDUM[18]	_	_	
+5-3	566-572	record	_	D. Entity/Element/Property[3]	DEFINIENDUM[18]	_	_	
+5-4	573-575	is	_	_	DEFINITOR[19]	_	_	
+5-5	576-577	a	_	_	DEFINITOR[19]	_	_	
+5-6	578-584	record	_	D. Entity/Element/Property	GENUS	_	_	
+5-7	585-587	of	_	_	_	HAS\_ATTRIBUTE[37]	_	
+5-8	588-593	large	_	_	_	HAS\_ATTRIBUTE[37]	_	
+5-9	594-596	or	_	_	_	HAS\_ATTRIBUTE[37]	_	
+5-10	597-602	great	_	_	_	HAS\_ATTRIBUTE[37]	_	
+5-11	603-614	earthquakes	_	_	_	HAS\_ATTRIBUTE[37]	_	
+5-12	615-616	(	_	_	_	_	_	
+5-13	616-623	because	_	_	_	HAS\_CAUSE[38]	frame\_CAUSE	
+5-14	624-632	geologic	_	_	_	HAS\_CAUSE[38]	_	
+5-15	633-641	evidence	_	_	_	HAS\_CAUSE[38]	_	
+5-16	642-644	of	_	_	_	HAS\_CAUSE[38]	_	
+5-17	645-650	small	_	_	_	HAS\_CAUSE[38]	_	
+5-18	651-654	and	_	_	_	HAS\_CAUSE[38]	_	
+5-19	655-669	moderate-sized	_	_	_	HAS\_CAUSE[38]	_	
+5-20	670-681	earthquakes	_	_	_	HAS\_CAUSE[38]	_	
+5-21	682-684	is	_	_	_	HAS\_CAUSE[38]	_	
+5-22	685-691	rarely	_	_	_	HAS\_CAUSE[38]	_	
+5-23	692-699	created	_	_	_	HAS\_CAUSE[38]	_	
+5-24	700-702	or	_	_	_	HAS\_CAUSE[38]	_	
+5-25	703-712	preserved	_	_	_	HAS\_CAUSE[38]	_	
+5-26	713-717	near	_	_	_	HAS\_CAUSE[38]	_	
+5-27	718-721	the	_	_	_	HAS\_CAUSE[38]	_	
+5-28	722-729	surface	_	_	_	HAS\_CAUSE[38]	_	
+5-29	729-730	)	_	_	_	_	_	
+5-30	730-731	.	_	_	_	_	_	
+
+#Text=Glaciers are large masses of ice formed of compressed snow that move slowly under their own weight.
+6-1	733-741	Glaciers	_	A.4 Other	DEFINIENDUM	_	_	
+6-2	742-745	are	_	_	DEFINITOR	_	_	
+6-3	746-751	large	_	_	_	HAS\_SIZE	_	
+6-4	752-758	masses	_	D.1 Abiotic[4]	GENUS[20]	_	_	
+6-5	759-761	of	_	D.1 Abiotic[4]	GENUS[20]	_	_	
+6-6	762-765	ice	_	D.1 Abiotic[4]	GENUS[20]	_	_	
+6-7	766-772	formed	_	_	_	_	frame\_COMPOSITION[67]	
+6-8	773-775	of	_	_	_	_	frame\_COMPOSITION[67]	
+6-9	776-786	compressed	_	_	_	COMPOSITION\_MEDIUM[39]	_	
+6-10	787-791	snow	_	_	_	COMPOSITION\_MEDIUM[39]	_	
+6-11	792-796	that	_	_	_	_	_	
+6-12	797-801	move	_	_	_	HAS\_FUNCTION[40]	_	
+6-13	802-808	slowly	_	_	_	HAS\_FUNCTION[40]	_	
+6-14	809-814	under	_	_	_	HAS\_FUNCTION[40]	_	
+6-15	815-820	their	_	_	_	HAS\_FUNCTION[40]	_	
+6-16	821-824	own	_	_	_	HAS\_FUNCTION[40]	_	
+6-17	825-831	weight	_	_	_	HAS\_FUNCTION[40]	_	
+6-18	831-832	.	_	_	_	_	_	
+
+#Text=Sills are concordant intrusions and frequently form resistant, tabular bands within sedimentary beds, although they may cross beds to spread along other bedding planes.
+7-1	833-838	Sills	_	A. Landform	DEFINIENDUM	_	_	
+7-2	839-842	are	_	_	DEFINITOR	_	_	
+7-3	843-853	concordant	_	_	_	_	_	
+7-4	854-864	intrusions	_	D.1 Abiotic	GENUS	_	_	
+7-5	865-868	and	_	_	_	_	_	
+7-6	869-879	frequently	_	_	_	_	frame\_FORM[68]	
+7-7	880-884	form	_	_	_	_	frame\_FORM[68]	
+7-8	885-894	resistant	_	_	_	HAS\_FORM[41]	_	
+7-9	894-895	,	_	_	_	HAS\_FORM[41]	_	
+7-10	896-903	tabular	_	_	_	HAS\_FORM[41]	_	
+7-11	904-909	bands	_	_	_	HAS\_FORM[41]	_	
+7-12	910-916	within	_	_	_	HAS\_FORM[41]	_	
+7-13	917-928	sedimentary	_	_	_	HAS\_FORM[41]	_	
+7-14	929-933	beds	_	_	_	HAS\_FORM[41]	_	
+7-15	933-934	,	_	_	_	_	_	
+7-16	935-943	although	_	_	_	_	_	
+7-17	944-948	they	_	_	_	_	_	
+7-18	949-952	may	_	_	_	HAS\_LOCATION[42]	_	
+7-19	953-958	cross	_	_	_	HAS\_LOCATION[42]	_	
+7-20	959-963	beds	_	_	_	HAS\_LOCATION[42]	_	
+7-21	964-966	to	_	_	_	HAS\_LOCATION[42]	_	
+7-22	967-973	spread	_	_	_	HAS\_LOCATION[42]	_	
+7-23	974-979	along	_	_	_	HAS\_LOCATION[42]	_	
+7-24	980-985	other	_	_	_	HAS\_LOCATION[42]	_	
+7-25	986-993	bedding	_	_	_	HAS\_LOCATION[42]	_	
+7-26	994-1000	planes	_	_	_	HAS\_LOCATION[42]	_	
+7-27	1000-1001	.	_	_	_	_	_	
+
+#Text=Laccoliths are sills that have thickened to produce domes.
+8-1	1002-1012	Laccoliths	_	A.1 Surface landform	DEFINIENDUM	_	_	
+8-2	1013-1016	are	_	_	DEFINITOR	_	_	
+8-3	1017-1022	sills	_	A. Landform	GENUS	_	_	
+8-4	1023-1027	that	_	_	_	HAS\_RESULT[43]	frame\_RESULT	
+8-5	1028-1032	have	_	_	_	HAS\_RESULT[43]	_	
+8-6	1033-1042	thickened	_	_	_	HAS\_RESULT[43]	_	
+8-7	1043-1045	to	_	_	_	HAS\_RESULT[43]	_	
+8-8	1046-1053	produce	_	_	_	HAS\_RESULT[43]	_	
+8-9	1054-1059	domes	_	_	_	HAS\_RESULT[43]	_	
+8-10	1059-1060	.	_	_	_	_	_	
+
+#Text=Phacoliths are lens-shaped masses seated in anticlinal crests and synclinal troughs.
+9-1	1061-1071	Phacoliths	_	A. Landform	DEFINIENDUM	_	_	
+9-2	1072-1075	are	_	_	DEFINITOR	_	_	
+9-3	1076-1087	lens-shaped	_	_	_	HAS\_FORM	_	
+9-4	1088-1094	masses	_	D.1 Abiotic	GENUS	_	_	
+9-5	1095-1101	seated	_	_	_	HAS\_LOCATION[44]	frame\_LOCATION[69]	
+9-6	1102-1104	in	_	_	_	HAS\_LOCATION[44]	frame\_LOCATION[69]	
+9-7	1105-1115	anticlinal	_	_	_	HAS\_LOCATION[44]	_	
+9-8	1116-1122	crests	_	_	_	HAS\_LOCATION[44]	_	
+9-9	1123-1126	and	_	_	_	HAS\_LOCATION[44]	_	
+9-10	1127-1136	synclinal	_	_	_	HAS\_LOCATION[44]	_	
+9-11	1137-1144	troughs	_	_	_	HAS\_LOCATION[44]	_	
+9-12	1144-1145	.	_	_	_	_	_	
+
+#Text=Blockfields are large expanses of coarse and angular rock rubble.
+10-1	1146-1157	Blockfields	_	A. Landform	DEFINIENDUM	_	_	
+10-2	1158-1161	are	_	_	DEFINITOR	_	_	
+10-3	1162-1167	large	_	_	_	HAS\_SIZE[45]	_	
+10-4	1168-1176	expanses	_	_	_	HAS\_SIZE[45]	_	
+10-5	1177-1179	of	_	_	_	COMPOSITION\_MEDIUM[46]	_	
+10-6	1180-1186	coarse	_	_	_	COMPOSITION\_MEDIUM[46]	_	
+10-7	1187-1190	and	_	_	_	COMPOSITION\_MEDIUM[46]	_	
+10-8	1191-1198	angular	_	_	_	COMPOSITION\_MEDIUM[46]	_	
+10-9	1199-1203	rock	_	_	GENUS[21]	COMPOSITION\_MEDIUM[46]	_	
+10-10	1204-1210	rubble	_	_	GENUS[21]	COMPOSITION\_MEDIUM[46]	_	
+10-11	1210-1211	.	_	_	_	COMPOSITION\_MEDIUM[46]	_	
+
+#Text=Grab samplers are buckets or segments that drive into the sediment layer and enclose and retain a layer.
+11-1	1212-1216	Grab	_	E.1 Instrument[5]	DEFINIENDUM[22]	_	_	
+11-2	1217-1225	samplers	_	E.1 Instrument[5]	DEFINIENDUM[22]	_	_	
+11-3	1226-1229	are	_	_	DEFINITOR	_	_	
+11-4	1230-1237	buckets	_	E.1 Instrument	GENUS	_	_	
+11-5	1238-1240	or	_	_	_	_	_	
+11-6	1241-1249	segments	_	E.1 Instrument	GENUS	_	_	
+11-7	1250-1254	that	_	_	_	_	_	
+11-8	1255-1260	drive	_	_	_	HAS\_FUNCTION[47]	_	
+11-9	1261-1265	into	_	_	_	HAS\_FUNCTION[47]	_	
+11-10	1266-1269	the	_	_	_	HAS\_FUNCTION[47]	_	
+11-11	1270-1278	sediment	_	_	_	HAS\_FUNCTION[47]	_	
+11-12	1279-1284	layer	_	_	_	HAS\_FUNCTION[47]	_	
+11-13	1285-1288	and	_	_	_	HAS\_FUNCTION[47]	_	
+11-14	1289-1296	enclose	_	_	_	HAS\_FUNCTION[47]	_	
+11-15	1297-1300	and	_	_	_	HAS\_FUNCTION[47]	_	
+11-16	1301-1307	retain	_	_	_	HAS\_FUNCTION[47]	_	
+11-17	1308-1309	a	_	_	_	HAS\_FUNCTION[47]	_	
+11-18	1310-1315	layer	_	_	_	HAS\_FUNCTION[47]	_	
+11-19	1315-1316	.	_	_	_	_	_	
+
+#Text=Ophiolites are sections of the earth's oceanic crust and the underlying upper mantle that have been uplifted or emplaced and exposed within the continental crustal rocks.
+12-1	1317-1327	Ophiolites	_	C. Geome	DEFINIENDUM	_	_	
+12-2	1328-1331	are	_	_	DEFINITOR	_	_	
+12-3	1332-1340	sections	_	_	GENUS	_	_	
+12-4	1341-1343	of	_	_	_	_	_	
+12-5	1344-1347	the	_	_	_	_	_	
+12-6	1348-1355	earth's	_	_	_	HAS\_LOCATION[48]	_	
+12-7	1356-1363	oceanic	_	_	_	HAS\_LOCATION[48]	_	
+12-8	1364-1369	crust	_	_	_	HAS\_LOCATION[48]	_	
+12-9	1370-1373	and	_	_	_	HAS\_LOCATION[48]	_	
+12-10	1374-1377	the	_	_	_	HAS\_LOCATION[48]	_	
+12-11	1378-1388	underlying	_	_	_	HAS\_LOCATION[48]	_	
+12-12	1389-1394	upper	_	_	_	HAS\_LOCATION[48]	_	
+12-13	1395-1401	mantle	_	_	_	HAS\_LOCATION[48]	_	
+12-14	1402-1406	that	_	_	_	_	_	
+12-15	1407-1411	have	_	_	_	_	_	
+12-16	1412-1416	been	_	_	_	_	_	
+12-17	1417-1425	uplifted	_	_	_	HAS\_CAUSE[49]	_	
+12-18	1426-1428	or	_	_	_	HAS\_CAUSE[49]	_	
+12-19	1429-1437	emplaced	_	_	_	HAS\_CAUSE[49]	_	
+12-20	1438-1441	and	_	_	_	HAS\_CAUSE[49]	_	
+12-21	1442-1449	exposed	_	_	_	HAS\_CAUSE[49]	_	
+12-22	1450-1456	within	_	_	_	_	frame\_LOCATION[70]	
+12-23	1457-1460	the	_	_	_	_	frame\_LOCATION[70]	
+12-24	1461-1472	continental	_	_	_	HAS\_LOCATION[50]	_	
+12-25	1473-1480	crustal	_	_	_	HAS\_LOCATION[50]	_	
+12-26	1481-1486	rocks	_	_	_	HAS\_LOCATION[50]	_	
+12-27	1486-1487	.	_	_	_	_	_	
+
+#Text=Collisions are zones where a continent, island arc, oceanic plateau, or other thick piece of crust on a downgoing plate arrives at a subduction zone.
+13-1	1488-1498	Collisions	_	C. Geome	DEFINIENDUM	_	_	
+13-2	1499-1502	are	_	_	DEFINITOR	_	_	
+13-3	1503-1508	zones	_	_	GENUS	_	_	
+13-4	1509-1514	where	_	_	_	HAS\_LOCATION[51]	_	
+13-5	1515-1516	a	_	_	_	HAS\_LOCATION[51]	_	
+13-6	1517-1526	continent	_	_	_	HAS\_LOCATION[51]	_	
+13-7	1526-1527	,	_	_	_	HAS\_LOCATION[51]	_	
+13-8	1528-1534	island	_	_	_	HAS\_LOCATION[51]	_	
+13-9	1535-1538	arc	_	_	_	HAS\_LOCATION[51]	_	
+13-10	1538-1539	,	_	_	_	HAS\_LOCATION[51]	_	
+13-11	1540-1547	oceanic	_	_	_	HAS\_LOCATION[51]	_	
+13-12	1548-1555	plateau	_	_	_	HAS\_LOCATION[51]	_	
+13-13	1555-1556	,	_	_	_	HAS\_LOCATION[51]	_	
+13-14	1557-1559	or	_	_	_	HAS\_LOCATION[51]	_	
+13-15	1560-1565	other	_	_	_	HAS\_LOCATION[51]	_	
+13-16	1566-1571	thick	_	_	_	HAS\_LOCATION[51]	_	
+13-17	1572-1577	piece	_	_	_	HAS\_LOCATION[51]	_	
+13-18	1578-1580	of	_	_	_	HAS\_LOCATION[51]	_	
+13-19	1581-1586	crust	_	_	_	HAS\_LOCATION[51]	_	
+13-20	1587-1589	on	_	_	_	HAS\_LOCATION[51]	_	
+13-21	1590-1591	a	_	_	_	HAS\_LOCATION[51]	_	
+13-22	1592-1601	downgoing	_	_	_	HAS\_LOCATION[51]	_	
+13-23	1602-1607	plate	_	_	_	HAS\_LOCATION[51]	_	
+13-24	1608-1615	arrives	_	_	_	HAS\_LOCATION[51]	_	
+13-25	1616-1618	at	_	_	_	HAS\_LOCATION[51]	_	
+13-26	1619-1620	a	_	_	_	HAS\_LOCATION[51]	_	
+13-27	1621-1631	subduction	_	_	_	HAS\_LOCATION[51]	_	
+13-28	1632-1636	zone	_	_	_	HAS\_LOCATION[51]	_	
+13-29	1636-1637	.	_	_	_	HAS\_LOCATION[51]	_	
+
+#Text=Volcanic rift zones are belts of aligned volcanic vents and associated magma-induced extensional structures such as subparallel normal faults, anastomosing tensile cracks, monoclines, and eruptive fissure.
+14-1	1638-1646	Volcanic	_	A.1 Surface landform[6]	DEFINIENDUM[23]	_	_	
+14-2	1647-1651	rift	_	A.1 Surface landform[6]	DEFINIENDUM[23]	_	_	
+14-3	1652-1657	zones	_	A.1 Surface landform[6]	DEFINIENDUM[23]	_	_	
+14-4	1658-1661	are	_	_	_	_	_	
+14-5	1662-1667	belts	_	A.1 Surface landform	GENUS	_	_	
+14-6	1668-1670	of	_	_	_	_	_	
+14-7	1671-1678	aligned	_	_	_	COMPOSITION\_MEDIUM[52]	_	
+14-8	1679-1687	volcanic	_	_	_	COMPOSITION\_MEDIUM[52]	_	
+14-9	1688-1693	vents	_	_	_	COMPOSITION\_MEDIUM[52]	_	
+14-10	1694-1697	and	_	_	_	COMPOSITION\_MEDIUM[52]	_	
+14-11	1698-1708	associated	_	_	_	COMPOSITION\_MEDIUM[52]	_	
+14-12	1709-1722	magma-induced	_	_	_	COMPOSITION\_MEDIUM[52]	_	
+14-13	1723-1734	extensional	_	_	_	COMPOSITION\_MEDIUM[52]	_	
+14-14	1735-1745	structures	_	_	_	COMPOSITION\_MEDIUM[52]	_	
+14-15	1746-1750	such	_	_	_	_	_	
+14-16	1751-1753	as	_	_	_	_	_	
+14-17	1754-1765	subparallel	_	_	_	CONTAINS[53]	_	
+14-18	1766-1772	normal	_	_	_	CONTAINS[53]	_	
+14-19	1773-1779	faults	_	_	_	CONTAINS[53]	_	
+14-20	1779-1780	,	_	_	_	CONTAINS[53]	_	
+14-21	1781-1793	anastomosing	_	_	_	CONTAINS[53]	_	
+14-22	1794-1801	tensile	_	_	_	CONTAINS[53]	_	
+14-23	1802-1808	cracks	_	_	_	CONTAINS[53]	_	
+14-24	1808-1809	,	_	_	_	CONTAINS[53]	_	
+14-25	1810-1820	monoclines	monocline	_	_	CONTAINS[53]	_	
+14-26	1820-1821	,	_	_	_	CONTAINS[53]	_	
+14-27	1822-1825	and	_	_	_	CONTAINS[53]	_	
+14-28	1826-1834	eruptive	_	_	_	CONTAINS[53]	_	
+14-29	1835-1842	fissure	_	_	_	CONTAINS[53]	_	
+14-30	1842-1843	.	_	_	_	_	_	
+
+#Text=Landslides are disequilibrium landforms that change through time more rapidly than surrounding terrain.
+15-1	1844-1854	Landslides	_	B.1 Movement	DEFINIENDUM	_	_	
+15-2	1855-1858	are	_	_	DEFINITOR	_	_	
+15-3	1859-1873	disequilibrium	_	_	_	HAS\_ATTRIBUTE	_	
+15-4	1874-1883	landforms	_	_	GENUS	_	_	
+15-5	1884-1888	that	_	_	_	HAS\_RESULT[54]	frame\_RESULT	
+15-6	1889-1895	change	_	_	_	HAS\_RESULT[54]	_	
+15-7	1896-1903	through	_	_	_	HAS\_RESULT[54]	_	
+15-8	1904-1908	time	_	_	_	HAS\_RESULT[54]	_	
+15-9	1909-1913	more	_	_	_	HAS\_RESULT[54]	_	
+15-10	1914-1921	rapidly	_	_	_	HAS\_RESULT[54]	_	
+15-11	1922-1926	than	_	_	_	HAS\_RESULT[54]	_	
+15-12	1927-1938	surrounding	_	_	_	HAS\_RESULT[54]	_	
+15-13	1939-1946	terrain	_	_	_	HAS\_RESULT[54]	_	
+15-14	1946-1947	.	_	_	_	_	_	
+
+#Text=Consociations are map units which delineate a single geomorphic process or landform, depending on scale.
+16-1	1948-1961	Consociations	_	E.1 Instrument	DEFINIENDUM	_	_	
+16-2	1962-1965	are	_	_	_	_	_	
+16-3	1966-1969	map	_	E.1 Instrument[7]	GENUS[24]	_	_	
+16-4	1970-1975	units	_	E.1 Instrument[7]	GENUS[24]	_	_	
+16-5	1976-1981	which	_	_	_	_	_	
+16-6	1982-1991	delineate	_	_	_	HAS\_FUNCTION[55]	_	
+16-7	1992-1993	a	_	_	_	HAS\_FUNCTION[55]	_	
+16-8	1994-2000	single	_	_	_	HAS\_FUNCTION[55]	_	
+16-9	2001-2011	geomorphic	_	_	_	HAS\_FUNCTION[55]	_	
+16-10	2012-2019	process	_	_	_	HAS\_FUNCTION[55]	_	
+16-11	2020-2022	or	_	_	_	HAS\_FUNCTION[55]	_	
+16-12	2023-2031	landform	_	_	_	HAS\_FUNCTION[55]	_	
+16-13	2031-2032	,	_	_	_	_	_	
+16-14	2033-2042	depending	_	_	_	_	_	
+16-15	2043-2045	on	_	_	_	_	_	
+16-16	2046-2051	scale	_	_	_	_	_	
+16-17	2051-2052	.	_	_	_	_	_	
+
+#Text=Placer deposits are mixtures of heavy metals with specific location, geomorphic principles have been applied other than any other phase of economic geology.
+17-1	2054-2060	Placer	_	D.1 Abiotic[8]	DEFINIENDUM[25]	_	_	
+17-2	2061-2069	deposits	_	D.1 Abiotic[8]	DEFINIENDUM[25]	_	_	
+17-3	2070-2073	are	_	_	DEFINITOR	_	_	
+17-4	2074-2082	mixtures	_	D.1 Abiotic	DEFINITOR	_	_	
+17-5	2083-2085	of	_	_	_	COMPOSITION\_MEDIUM[56]	_	
+17-6	2086-2091	heavy	_	_	_	COMPOSITION\_MEDIUM[56]	_	
+17-7	2092-2098	metals	_	_	_	COMPOSITION\_MEDIUM[56]	_	
+17-8	2099-2103	with	_	_	_	COMPOSITION\_MEDIUM[56]	_	
+17-9	2104-2112	specific	_	_	_	COMPOSITION\_MEDIUM[56]	_	
+17-10	2113-2121	location	_	_	_	COMPOSITION\_MEDIUM[56]	_	
+17-11	2121-2122	,	_	_	_	_	_	
+17-12	2123-2133	geomorphic	_	_	_	_	_	
+17-13	2134-2144	principles	_	_	_	_	_	
+17-14	2145-2149	have	_	_	_	_	_	
+17-15	2150-2154	been	_	_	_	_	_	
+17-16	2155-2162	applied	_	_	_	_	_	
+17-17	2163-2168	other	_	_	_	_	_	
+17-18	2169-2173	than	_	_	_	_	_	
+17-19	2174-2177	any	_	_	_	_	_	
+17-20	2178-2183	other	_	_	_	_	_	
+17-21	2184-2189	phase	_	_	_	_	_	
+17-22	2190-2192	of	_	_	_	_	_	
+17-23	2193-2201	economic	_	_	_	_	_	
+17-24	2202-2209	geology	_	_	_	_	_	
+17-25	2209-2210	.	_	_	_	_	_	
+
+#Text=Nunataks are rock outcrops, ranging from less than a kilometre to hundreds of kilometres in size, surrounded by ice.
+18-1	2211-2219	Nunataks	_	A.1 Surface landform	DEFINIENDUM	_	_	
+18-2	2220-2223	are	_	_	DEFINITOR	_	_	
+18-3	2224-2228	rock	_	A.1 Surface landform[9]	GENUS[26]	_	_	
+18-4	2229-2237	outcrops	_	A.1 Surface landform[9]	GENUS[26]	_	_	
+18-5	2237-2238	,	_	_	_	_	_	
+18-6	2239-2246	ranging	_	_	_	HAS\_SIZE[57]	frame\_SIZE[71]	
+18-7	2247-2251	from	_	_	_	HAS\_SIZE[57]	frame\_SIZE[71]	
+18-8	2252-2256	less	_	_	_	HAS\_SIZE[57]	_	
+18-9	2257-2261	than	_	_	_	HAS\_SIZE[57]	_	
+18-10	2262-2263	a	_	_	_	HAS\_SIZE[57]	_	
+18-11	2264-2273	kilometre	_	_	_	HAS\_SIZE[57]	_	
+18-12	2274-2276	to	_	_	_	HAS\_SIZE[57]	_	
+18-13	2277-2285	hundreds	_	_	_	HAS\_SIZE[57]	_	
+18-14	2286-2288	of	_	_	_	HAS\_SIZE[57]	_	
+18-15	2289-2299	kilometres	_	_	_	HAS\_SIZE[57]	_	
+18-16	2300-2302	in	_	_	_	HAS\_SIZE[57]	_	
+18-17	2303-2307	size	_	_	_	HAS\_SIZE[57]	_	
+18-18	2307-2308	,	_	_	_	_	_	
+18-19	2309-2319	surrounded	_	_	_	HAS\_FORM[58]	_	
+18-20	2320-2322	by	_	_	_	HAS\_FORM[58]	_	
+18-21	2323-2326	ice	_	_	_	HAS\_FORM[58]	_	
+18-22	2326-2327	.	_	_	_	HAS\_FORM[58]	_	
+
+#Text=Jökulhlaups are outbursts of meltwater stored beneath a glacier or ice sheet as a subglacial lake.
+19-1	2328-2339	Jökulhlaups	_	B.1 Movement	DEFINIENDUM	_	_	
+19-2	2340-2343	are	_	_	_	_	_	
+19-3	2344-2353	outbursts	_	B.1 Movement	GENUS	_	_	
+19-4	2354-2356	of	_	_	_	_	_	
+19-5	2357-2366	meltwater	_	_	_	COMPOSITION\_MEDIUM	_	
+19-6	2367-2373	stored	_	_	_	HAS\_LOCATION[59]	frame\_LOCATION[72]	
+19-7	2374-2381	beneath	_	_	_	HAS\_LOCATION[59]	frame\_LOCATION[72]	
+19-8	2382-2383	a	_	_	_	HAS\_LOCATION[59]	_	
+19-9	2384-2391	glacier	_	_	_	HAS\_LOCATION[59]	_	
+19-10	2392-2394	or	_	_	_	HAS\_LOCATION[59]	_	
+19-11	2395-2398	ice	_	_	_	HAS\_LOCATION[59]	_	
+19-12	2399-2404	sheet	_	_	_	HAS\_LOCATION[59]	_	
+19-13	2405-2407	as	_	_	_	HAS\_LOCATION[59]	_	
+19-14	2408-2409	a	_	_	_	HAS\_LOCATION[59]	_	
+19-15	2410-2420	subglacial	_	_	_	HAS\_LOCATION[59]	_	
+19-16	2421-2425	lake	_	_	_	HAS\_LOCATION[59]	_	
+19-17	2425-2426	.	_	_	_	HAS\_LOCATION[59]	_	
+
+#Text=Rock glaciers are lobes or tongues of frozen, angular rock and fine debris mixed with interstitial ice and ice lenses.
+20-1	2427-2431	Rock	_	A.1 Surface landform[10]	DEFINIENDUM[27]	_	_	
+20-2	2432-2440	glaciers	_	A.1 Surface landform[10]	DEFINIENDUM[27]	_	_	
+20-3	2441-2444	are	_	_	_	_	_	
+20-4	2445-2450	lobes	_	_	_	_	_	
+20-5	2451-2453	or	_	_	_	_	_	
+20-6	2454-2461	tongues	_	_	_	_	_	
+20-7	2462-2464	of	_	_	_	_	_	
+20-8	2465-2471	frozen	_	_	GENUS[28]	COMPOSITION\_MEDIUM[60]	_	
+20-9	2471-2472	,	_	_	GENUS[28]	COMPOSITION\_MEDIUM[60]	_	
+20-10	2473-2480	angular	_	_	GENUS[28]	COMPOSITION\_MEDIUM[60]	_	
+20-11	2481-2485	rock	_	_	GENUS[28]	COMPOSITION\_MEDIUM[60]	_	
+20-12	2486-2489	and	_	_	_	COMPOSITION\_MEDIUM[60]	_	
+20-13	2490-2494	fine	_	_	_	COMPOSITION\_MEDIUM[60]	_	
+20-14	2495-2501	debris	_	_	_	COMPOSITION\_MEDIUM[60]	_	
+20-15	2502-2507	mixed	_	_	_	COMPOSITION\_MEDIUM[60]	_	
+20-16	2508-2512	with	_	_	_	COMPOSITION\_MEDIUM[60]	_	
+20-17	2513-2525	interstitial	_	_	_	COMPOSITION\_MEDIUM[60]	_	
+20-18	2526-2529	ice	_	_	_	COMPOSITION\_MEDIUM[60]	_	
+20-19	2530-2533	and	_	_	_	COMPOSITION\_MEDIUM[60]	_	
+20-20	2534-2537	ice	_	_	_	COMPOSITION\_MEDIUM[60]	_	
+20-21	2538-2544	lenses	_	_	_	COMPOSITION\_MEDIUM[60]	_	
+20-22	2544-2545	.	_	_	_	_	_	
+
+#Text=Fumaroles are vents through which volcanic gases are released at the surface.
+21-1	2546-2555	Fumaroles	_	A. Landform	DEFINIENDUM	_	_	
+21-2	2556-2559	are	_	_	DEFINITOR	_	_	
+21-3	2560-2565	vents	_	A. Landform	GENUS	_	_	
+21-4	2566-2573	through	_	_	_	HAS\_FUNCTION[61]	frame\_FUNCTION[73]	
+21-5	2574-2579	which	_	_	_	HAS\_FUNCTION[61]	frame\_FUNCTION[73]	
+21-6	2580-2588	volcanic	_	_	_	HAS\_FUNCTION[61]	_	
+21-7	2589-2594	gases	_	_	_	HAS\_FUNCTION[61]	_	
+21-8	2595-2598	are	_	_	_	HAS\_FUNCTION[61]	_	
+21-9	2599-2607	released	_	_	_	HAS\_FUNCTION[61]	_	
+21-10	2608-2610	at	_	_	_	HAS\_FUNCTION[61]	_	
+21-11	2611-2614	the	_	_	_	HAS\_FUNCTION[61]	_	
+21-12	2615-2622	surface	_	_	_	HAS\_FUNCTION[61]	_	
+21-13	2622-2623	.	_	_	_	_	_	
+
+#Text=Karst springs are locations where groundwater emerges from the limestone and flows across the surface forming a stream or contained pool.
+22-1	2624-2629	Karst	_	A.3 Hydrological form[11]	DEFINIENDUM[29]	_	_	
+22-2	2630-2637	springs	_	A.3 Hydrological form[11]	DEFINIENDUM[29]	_	_	
+22-3	2638-2641	are	_	_	DEFINITOR	_	_	
+22-4	2642-2651	locations	_	_	GENUS	_	_	
+22-5	2652-2657	where	_	_	_	HAS\_LOCATION[62]	_	
+22-6	2658-2669	groundwater	_	_	_	HAS\_LOCATION[62]	_	
+22-7	2670-2677	emerges	_	_	_	HAS\_LOCATION[62]	_	
+22-8	2678-2682	from	_	_	_	HAS\_LOCATION[62]	_	
+22-9	2683-2686	the	_	_	_	HAS\_LOCATION[62]	_	
+22-10	2687-2696	limestone	_	_	_	HAS\_LOCATION[62]	_	
+22-11	2697-2700	and	_	_	_	_	_	
+22-12	2701-2706	flows	_	_	_	HAS\_LOCATION[63]	_	
+22-13	2707-2713	across	_	_	_	HAS\_LOCATION[63]	_	
+22-14	2714-2717	the	_	_	_	HAS\_LOCATION[63]	_	
+22-15	2718-2725	surface	_	_	_	HAS\_LOCATION[63]	_	
+22-16	2726-2733	forming	_	_	_	HAS\_RESULT[64]	frame\_RESULT	
+22-17	2734-2735	a	_	_	_	HAS\_RESULT[64]	_	
+22-18	2736-2742	stream	_	_	_	HAS\_RESULT[64]	_	
+22-19	2743-2745	or	_	_	_	HAS\_RESULT[64]	_	
+22-20	2746-2755	contained	_	_	_	HAS\_RESULT[64]	_	
+22-21	2756-2760	pool	_	_	_	HAS\_RESULT[64]	_	
+22-22	2760-2761	.	_	_	_	_	_	
+
+#Text=Zeolites are silicate minerals that typically form during low-grade metamorphism of volcanic rocks.
+23-1	2762-2770	Zeolites	_	D.1 Abiotic	DEFINIENDUM	_	_	
+23-2	2771-2774	are	_	_	DEFINITOR	_	_	
+23-3	2775-2783	silicate	_	_	_	_	_	
+23-4	2784-2792	minerals	_	D.1 Abiotic	GENUS	_	_	
+23-5	2793-2797	that	_	_	_	_	_	
+23-6	2798-2807	typically	_	_	_	_	_	
+23-7	2808-2812	form	_	_	_	_	frame\_CAUSE[74]	
+23-8	2813-2819	during	_	_	_	_	frame\_CAUSE[74]	
+23-9	2820-2829	low-grade	_	_	_	HAS\_CAUSE[65]	_	
+23-10	2830-2842	metamorphism	_	_	_	HAS\_CAUSE[65]	_	
+23-11	2843-2845	of	_	_	_	HAS\_CAUSE[65]	_	
+23-12	2846-2854	volcanic	_	_	_	HAS\_CAUSE[65]	_	
+23-13	2855-2860	rocks	_	_	_	HAS\_CAUSE[65]	_	
+23-14	2860-2861	.	_	_	_	_	_	

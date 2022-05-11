@@ -1,0 +1,333 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Canonicalform|Canonical
+#T_SP=webanno.custom.Category|Category
+#T_SP=webanno.custom.Definitionelement|Def_element
+#T_SP=webanno.custom.Relation|Relation
+#T_SP=webanno.custom.Relation_definitor|Rel_verb_frame
+
+
+#Text=Tovrstno izoblikovanost krasa, kjer se osamljeno dvigajo več deset ali sto metrov visoke vzpetine, imenujemo kopasti kras.
+1-1	0-8	Tovrstno	_	_	_	DEFINED\_AS[56]	_	
+1-2	9-23	izoblikovanost	_	_	GENUS[27]	DEFINED\_AS[56]	_	
+1-3	24-29	krasa	_	A.2 Underground landform	GENUS[27]	DEFINED\_AS[56]	_	
+1-4	29-30	,	_	_	_	_	_	
+1-5	31-35	kjer	_	_	_	_	_	
+1-6	36-38	se	_	_	_	_	_	
+1-7	39-48	osamljeno	_	_	_	_	_	
+1-8	49-56	dvigajo	se dvigajo	_	_	_	frame\_SIZE	
+1-9	57-60	več	_	_	_	HAS\_SIZE[57]	_	
+1-10	61-66	deset	_	_	_	HAS\_SIZE[57]	_	
+1-11	67-70	ali	_	_	_	HAS\_SIZE[57]	_	
+1-12	71-74	sto	_	_	_	HAS\_SIZE[57]	_	
+1-13	75-81	metrov	_	_	_	HAS\_SIZE[57]	_	
+1-14	82-88	visoke	_	_	_	CONTAINS[58]	_	
+1-15	89-97	vzpetine	_	A.1 Surface landform	_	CONTAINS[58]	_	
+1-16	97-98	,	_	_	_	_	_	
+1-17	99-108	imenujemo	_	_	DEFINITOR	_	_	
+1-18	109-116	kopasti	_	C. Geome[2]	DEFINIENDUM[28]	_	_	
+1-19	117-121	kras	_	C. Geome[2]	DEFINIENDUM[28]	_	_	
+1-20	121-122	.	_	_	_	_	_	
+
+#Text=Tip kraškega površja, kjer je prevladujoča oblika vrtače, imenujemo vrtačasti kras.
+2-1	123-126	Tip	_	_	GENUS[29]	_	_	
+2-2	127-135	kraškega	_	_	GENUS[29]	_	_	
+2-3	136-143	površja	_	_	GENUS[29]	_	_	
+2-4	143-144	,	_	_	_	_	_	
+2-5	145-149	kjer	_	_	_	_	_	
+2-6	150-152	je	_	_	_	_	_	
+2-7	153-165	prevladujoča	_	_	_	_	_	
+2-8	166-172	oblika	_	_	_	_	_	
+2-9	173-179	vrtače	_	A.1 Surface landform	_	CONTAINS	_	
+2-10	179-180	,	_	_	_	_	_	
+2-11	181-190	imenujemo	_	_	DEFINITOR	_	_	
+2-12	191-200	vrtačasti	_	C. Geome[3]	DEFINIENDUM[30]	_	_	
+2-13	201-205	kras	_	C. Geome[3]	DEFINIENDUM[30]	_	_	
+2-14	205-206	.	_	_	_	_	_	
+
+#Text=Te razmeroma zaprte kotanje z obsežnim, z vrtačami razčlenjenim dnom, imenujemo uvale.
+3-1	207-209	Te	_	_	_	_	_	
+3-2	210-219	razmeroma	_	_	_	_	_	
+3-3	220-226	zaprte	_	_	GENUS[31]	HAS\_FORM	_	
+3-4	227-234	kotanje	_	A.1 Surface landform	GENUS[31]	_	_	
+3-5	235-236	z	_	_	_	_	_	
+3-6	237-245	obsežnim	_	_	_	HAS\_SIZE[59]	_	
+3-7	245-246	,	_	_	_	HAS\_SIZE[59]	_	
+3-8	247-248	z	_	_	_	HAS\_FORM[60]	_	
+3-9	249-257	vrtačami	_	A.1 Surface landform	_	HAS\_FORM[60]	_	
+3-10	258-270	razčlenjenim	_	D. Entity/Element/Property[4]	_	HAS\_FORM[60]	_	
+3-11	271-275	dnom	_	D. Entity/Element/Property[4]	_	HAS\_FORM[60]	_	
+3-12	275-276	,	_	_	_	_	_	
+3-13	277-286	imenujemo	_	_	DEFINITOR	_	_	
+3-14	287-292	uvale	_	A.1 Surface landform	DEFINIENDUM	_	_	
+3-15	292-293	.	_	_	_	_	_	
+
+#Text=Ta proces oblikovanja rovov na kontaktnem krasu imenujemo parageneza.
+4-1	294-296	Ta	_	_	_	_	_	
+4-2	297-303	proces	_	_	GENUS	_	_	
+4-3	304-315	oblikovanja	_	B. Process[5]	_	_	_	
+4-4	316-321	rovov	_	B. Process[5]|A.2 Underground landform[6]	_	HAS\_RESULT	_	
+4-5	322-324	na	_	_	_	HAS\_LOCATION[61]	frame\_LOCATION	
+4-6	325-335	kontaktnem	_	A.2 Underground landform[7]	_	HAS\_LOCATION[61]	_	
+4-7	336-341	krasu	_	A.2 Underground landform[7]	_	HAS\_LOCATION[61]	_	
+4-8	342-351	imenujemo	_	_	DEFINITOR	_	_	
+4-9	352-362	parageneza	_	B. Process	DEFINIENDUM	_	_	
+4-10	362-363	.	_	_	_	_	_	
+
+#Text=Take jame imenujemo paragenetske jame, zaradi njihove lege v občasno zaliti coni pa jih lahko imenujemo tudi epifreatične jame.
+5-1	364-368	Take	_	_	_	_	_	
+5-2	369-373	jame	_	A.2 Underground landform	GENUS	_	_	
+5-3	374-383	imenujemo	_	_	DEFINITOR	_	_	
+5-4	384-396	paragenetske	paragenetska jama[1]	A.2 Underground landform[8]	DEFINIENDUM[32]	_	_	
+5-5	397-401	jame	paragenetska jama[1]	A.2 Underground landform[8]	DEFINIENDUM[32]	_	_	
+5-6	401-402	,	_	A.2 Underground landform[8]	_	_	_	
+5-7	403-409	zaradi	_	_	_	_	_	
+5-8	410-417	njihove	_	_	_	_	_	
+5-9	418-422	lege	_	_	_	_	_	
+5-10	423-424	v	_	_	_	HAS\_LOCATION[62]	frame\_LOCATION	
+5-11	425-432	občasno	_	_	_	HAS\_LOCATION[62]	_	
+5-12	433-439	zaliti	_	_	_	HAS\_LOCATION[62]	_	
+5-13	440-444	coni	_	_	_	HAS\_LOCATION[62]	_	
+5-14	445-447	pa	_	_	_	_	_	
+5-15	448-451	jih	_	_	_	_	_	
+5-16	452-457	lahko	_	_	_	_	_	
+5-17	458-467	imenujemo	_	_	DEFINITOR	_	_	
+5-18	468-472	tudi	_	_	_	_	_	
+5-19	473-485	epifreatične	_	A.2 Underground landform[9]	DEFINIENDUM[33]	_	_	
+5-20	486-490	jame	_	A.2 Underground landform[9]	DEFINIENDUM[33]	_	_	
+5-21	490-491	.	_	_	_	_	_	
+
+#Text=Nad kraškim izvirom se pojavlja strm konec doline, ki ga imenujemo zatrep.
+6-1	492-495	Nad	_	_	_	HAS\_LOCATION[63]	frame\_LOCATION	
+6-2	496-503	kraškim	_	A.3 Hydrological form[10]	_	HAS\_LOCATION[63]	_	
+6-3	504-511	izvirom	_	A.3 Hydrological form[10]	_	HAS\_LOCATION[63]	_	
+6-4	512-514	se	_	_	_	_	_	
+6-5	515-523	pojavlja	_	_	_	_	_	
+6-6	524-528	strm	_	_	_	HAS\_FORM	_	
+6-7	529-534	konec	_	_	GENUS[34]	_	_	
+6-8	535-541	doline	_	A.1 Surface landform	GENUS[34]	_	_	
+6-9	541-542	,	_	_	_	_	_	
+6-10	543-545	ki	_	_	_	_	_	
+6-11	546-548	ga	_	_	_	_	_	
+6-12	549-558	imenujemo	_	_	DEFINITOR	_	_	
+6-13	559-565	zatrep	_	A.1 Surface landform	DEFINIENDUM	_	_	
+6-14	565-566	.	_	_	_	_	_	
+
+#Text=Oznaka okno se v geografiji uporablja za večjo odprtino, skozi katero se vidi ozadje.
+7-1	567-573	Oznaka	_	_	DEFINITOR	_	_	
+7-2	574-578	okno	_	A. Landform	DEFINIENDUM	_	_	
+7-3	579-581	se	_	_	_	_	_	
+7-4	582-583	v	_	_	_	_	_	
+7-5	584-594	geografiji	_	E.2 Method	_	_	_	
+7-6	595-604	uporablja	se uporablja	_	DEFINITOR	_	_	
+7-7	605-607	za	_	_	_	_	_	
+7-8	608-613	večjo	_	_	GENUS[35]	_	_	
+7-9	614-622	odprtino	_	A. Landform	GENUS[35]	_	_	
+7-10	622-623	,	_	_	_	_	_	
+7-11	624-629	skozi	_	_	_	_	_	
+7-12	630-636	katero	_	_	_	_	_	
+7-13	637-639	se	_	_	_	HAS\_FUNCTION[64]	_	
+7-14	640-644	vidi	_	_	_	HAS\_FUNCTION[64]	_	
+7-15	645-651	ozadje	_	A. Landform	_	HAS\_FUNCTION[64]	_	
+7-16	651-652	.	_	_	_	_	_	
+
+#Text=Sloj med najvišjim in najnižjim nivojem podzemne vode v krasu imenujemo epifreatična cona.
+8-1	653-657	Sloj	_	_	GENUS	_	_	
+8-2	658-661	med	_	_	_	HAS\_LOCATION[65]	_	
+8-3	662-671	najvišjim	_	_	_	HAS\_LOCATION[65]	_	
+8-4	672-674	in	_	_	_	HAS\_LOCATION[65]	_	
+8-5	675-684	najnižjim	_	_	_	HAS\_LOCATION[65]	_	
+8-6	685-692	nivojem	_	_	_	HAS\_LOCATION[65]	_	
+8-7	693-701	podzemne	_	A.3 Hydrological form[11]	_	HAS\_LOCATION[65]	_	
+8-8	702-706	vode	_	A.3 Hydrological form[11]	_	HAS\_LOCATION[65]	_	
+8-9	707-708	v	_	_	_	_	_	
+8-10	709-714	krasu	_	C. Geome	_	_	_	
+8-11	715-724	imenujemo	_	_	DEFINITOR	_	_	
+8-12	725-737	epifreatična	_	C. Geome[12]	DEFINIENDUM[36]	_	_	
+8-13	738-742	cona	_	C. Geome[12]	DEFINIENDUM[36]	_	_	
+8-14	742-743	.	_	_	_	_	_	
+
+#Text=Gladino vodnega telesa v freatični coni imenujemo nivo podzemne vode v krasu.
+9-1	744-751	Gladino	_	A.3 Hydrological form[13]	GENUS[37]	_	_	
+9-2	752-759	vodnega	_	A.3 Hydrological form[13]	GENUS[37]	_	_	
+9-3	760-766	telesa	_	A.3 Hydrological form[13]	GENUS[37]	_	_	
+9-4	767-768	v	_	_	_	_	_	
+9-5	769-778	freatični	_	C. Geome[14]	_	_	_	
+9-6	779-783	coni	_	C. Geome[14]	_	_	_	
+9-7	784-793	imenujemo	_	_	DEFINITOR	_	_	
+9-8	794-798	nivo	_	_	DEFINIENDUM[38]	_	_	
+9-9	799-807	podzemne	_	A.3 Hydrological form[15]	DEFINIENDUM[38]	_	_	
+9-10	808-812	vode	_	A.3 Hydrological form[15]	DEFINIENDUM[38]	_	_	
+9-11	813-814	v	_	A.2 Underground landform[16]	_	_	_	
+9-12	815-820	krasu	_	A.2 Underground landform[16]	_	_	_	
+9-13	820-821	.	_	_	_	_	_	
+
+#Text=Višina točke, ki jo imenujemo raven združevanja, je sorazmerna meri različnosti med skupinama.
+10-1	822-828	Višina	_	_	GENUS[39]	_	_	
+10-2	829-834	točke	_	_	GENUS[39]	_	_	
+10-3	834-835	,	_	_	_	_	_	
+10-4	836-838	ki	_	_	DEFINITOR[40]	_	_	
+10-5	839-841	jo	_	_	DEFINITOR[40]	_	_	
+10-6	842-851	imenujemo	_	_	DEFINITOR[40]	_	_	
+10-7	852-857	raven	_	_	DEFINIENDUM[41]	_	_	
+10-8	858-869	združevanja	_	_	DEFINIENDUM[41]	_	_	
+10-9	869-870	,	_	_	_	_	_	
+10-10	871-873	je	_	_	_	_	_	
+10-11	874-884	sorazmerna	_	_	_	DEFINED\_AS[66]	_	
+10-12	885-889	meri	_	_	_	DEFINED\_AS[66]	_	
+10-13	890-901	različnosti	_	_	_	DEFINED\_AS[66]	_	
+10-14	902-905	med	_	_	_	DEFINED\_AS[66]	_	
+10-15	906-915	skupinama	_	_	_	DEFINED\_AS[66]	_	
+10-16	915-916	.	_	_	_	_	_	
+
+#Text=Enote površja, v katerih potekajo enaki ali podobni procesi, homogeni po vrsti in intenzivnosti, imenujemo morfogenetske enote.
+11-1	917-922	Enote	_	_	GENUS[42]	_	_	
+11-2	923-930	površja	_	D.1 Abiotic	GENUS[42]	_	_	
+11-3	930-931	,	_	_	_	_	_	
+11-4	932-933	v	_	_	_	_	_	
+11-5	934-941	katerih	_	_	_	_	_	
+11-6	942-950	potekajo	_	_	_	_	_	
+11-7	951-956	enaki	_	_	_	_	_	
+11-8	957-960	ali	_	_	_	_	_	
+11-9	961-968	podobni	_	_	_	_	_	
+11-10	969-976	procesi	_	_	_	_	_	
+11-11	976-977	,	_	_	_	_	_	
+11-12	978-986	homogeni	_	_	_	HAS\_FORM	_	
+11-13	987-989	po	_	_	_	_	_	
+11-14	990-995	vrsti	_	_	_	_	_	
+11-15	996-998	in	_	_	_	_	_	
+11-16	999-1012	intenzivnosti	_	_	_	_	_	
+11-17	1012-1013	,	_	_	_	_	_	
+11-18	1014-1023	imenujemo	_	_	DEFINITOR	_	_	
+11-19	1024-1037	morfogenetske	_	D.1 Abiotic[17]	DEFINIENDUM[43]	_	_	
+11-20	1038-1043	enote	_	D.1 Abiotic[17]	DEFINIENDUM[43]	_	_	
+11-21	1043-1044	.	_	_	_	_	_	
+
+#Text=Zelo strmo pobočje z naklonom nad 55° ali 65° imenujemo stena ali klif.
+12-1	1045-1049	Zelo	_	_	_	_	_	
+12-2	1050-1055	strmo	_	_	GENUS[44]	HAS\_FORM	_	
+12-3	1056-1063	pobočje	_	A.1 Surface landform	GENUS[44]	_	_	
+12-4	1064-1065	z	_	_	_	_	frame\_SIZE[73]	
+12-5	1066-1074	naklonom	_	_	_	_	frame\_SIZE[73]	
+12-6	1075-1078	nad	_	_	_	_	_	
+12-7	1079-1081	55	_	_	_	HAS\_SIZE[67]	_	
+12-8	1081-1082	°	_	_	_	HAS\_SIZE[67]	_	
+12-9	1083-1086	ali	_	_	_	HAS\_SIZE[67]	_	
+12-10	1087-1089	65	_	_	_	HAS\_SIZE[67]	_	
+12-11	1089-1090	°	_	_	_	HAS\_SIZE[67]	_	
+12-12	1091-1100	imenujemo	_	_	DEFINITOR	_	_	
+12-13	1101-1106	stena	_	A.1 Surface landform	DEFINIENDUM	_	_	
+12-14	1107-1110	ali	_	_	_	_	_	
+12-15	1111-1115	klif	_	A.1 Surface landform	DEFINIENDUM	_	_	
+12-16	1115-1116	.	_	_	_	_	_	
+
+#Text=Spremembo Shannonove entropije imenujemo Kolmogorovova entropija in je enaka vsoti pozitivnih Lyapunovovih eksponentov.
+13-1	1117-1126	Spremembo	_	_	GENUS	_	_	
+13-2	1127-1137	Shannonove	_	E.2 Method[18]	_	_	_	
+13-3	1138-1147	entropije	_	E.2 Method[18]	_	_	_	
+13-4	1148-1157	imenujemo	_	_	DEFINITOR	_	_	
+13-5	1158-1171	Kolmogorovova	_	E.2 Method[19]	DEFINIENDUM[45]	_	_	
+13-6	1172-1181	entropija	_	E.2 Method[19]	DEFINIENDUM[45]	_	_	
+13-7	1182-1184	in	_	_	_	_	_	
+13-8	1185-1187	je	_	_	_	DEFINED\_AS[68]	_	
+13-9	1188-1193	enaka	_	_	_	DEFINED\_AS[68]	_	
+13-10	1194-1199	vsoti	_	_	_	DEFINED\_AS[68]	_	
+13-11	1200-1210	pozitivnih	_	_	_	DEFINED\_AS[68]	_	
+13-12	1211-1223	Lyapunovovih	_	E.2 Method[20]	_	DEFINED\_AS[68]	_	
+13-13	1224-1235	eksponentov	_	E.2 Method[20]	_	DEFINED\_AS[68]	_	
+13-14	1235-1236	.	_	_	_	_	_	
+
+#Text=Samo-podobne geometrične objekte imenujemo tudi fraktali.
+14-1	1237-1249	Samo-podobne	_	_	_	_	_	
+14-2	1250-1261	geometrične	_	_	GENUS[46]	_	_	
+14-3	1262-1269	objekte	_	_	GENUS[46]	_	_	
+14-4	1270-1279	imenujemo	_	_	DEFINITOR[47]	_	_	
+14-5	1280-1284	tudi	_	_	DEFINITOR[47]	_	_	
+14-6	1285-1293	fraktali	_	E.2 Method	DEFINIENDUM	_	_	
+14-7	1293-1294	.	_	_	_	_	_	
+
+#Text=Fraktalna dimenzija je tudi mera razgibanosti površja.
+15-1	1295-1304	Fraktalna	_	_	DEFINIENDUM[48]	_	_	
+15-2	1305-1314	dimenzija	_	_	DEFINIENDUM[48]	_	_	
+15-3	1315-1317	je	_	_	DEFINITOR[49]	_	_	
+15-4	1318-1322	tudi	_	_	DEFINITOR[49]	_	_	
+15-5	1323-1327	mera	_	_	GENUS	_	_	
+15-6	1328-1340	razgibanosti	_	_	_	_	_	
+15-7	1341-1348	površja	_	A.1 Surface landform	_	_	_	
+15-8	1348-1349	.	_	_	_	_	_	
+
+#Text=S preperevanjem apnenca in dolomita nastane iz netopnih ostankov ilovica, ki jo skupaj s huminskimi snovmi imenujemo jerovica.
+16-1	1350-1351	S	_	_	_	HAS\_CAUSE[69]	_	
+16-2	1352-1365	preperevanjem	_	B. Process	_	HAS\_CAUSE[69]	_	
+16-3	1366-1373	apnenca	_	D.1 Abiotic	_	HAS\_CAUSE[69]	_	
+16-4	1374-1376	in	_	_	_	HAS\_CAUSE[69]	_	
+16-5	1377-1385	dolomita	_	D.1 Abiotic	_	HAS\_CAUSE[69]	_	
+16-6	1386-1393	nastane	_	_	_	_	frame\_AFFECTS	
+16-7	1394-1396	iz	_	_	_	COMPOSITION\_MEDIUM[70]	_	
+16-8	1397-1405	netopnih	_	_	_	COMPOSITION\_MEDIUM[70]|HAS\_FORM[71]	_	
+16-9	1406-1414	ostankov	_	_	_	COMPOSITION\_MEDIUM[70]	_	
+16-10	1415-1422	ilovica	_	D.1 Abiotic	GENUS	_	_	
+16-11	1422-1423	,	_	_	_	_	_	
+16-12	1424-1426	ki	_	_	_	_	_	
+16-13	1427-1429	jo	_	_	_	_	_	
+16-14	1430-1436	skupaj	_	_	_	_	_	
+16-15	1437-1438	s	_	_	_	_	_	
+16-16	1439-1449	huminskimi	_	D.1 Abiotic[21]	_	_	frame\_COMPOSITION	
+16-17	1450-1456	snovmi	_	D.1 Abiotic[21]	_	_	_	
+16-18	1457-1466	imenujemo	_	_	DEFINITOR	_	_	
+16-19	1467-1475	jerovica	_	D.1 Abiotic	DEFINIENDUM	_	_	
+16-20	1475-1476	.	_	_	_	_	_	
+
+#Text=Jerovica je povečini zmes kremenice, aluminijevih in železovih oksidov.
+17-1	1477-1485	Jerovica	_	D.1 Abiotic	DEFINIENDUM	_	_	
+17-2	1486-1488	je	_	_	DEFINITOR	_	_	
+17-3	1489-1497	povečini	_	_	_	_	_	
+17-4	1498-1502	zmes	_	_	GENUS	COMPOSITION\_MEDIUM[72]	_	
+17-5	1503-1512	kremenice	_	D.1 Abiotic	_	COMPOSITION\_MEDIUM[72]	_	
+17-6	1512-1513	,	_	_	_	COMPOSITION\_MEDIUM[72]	_	
+17-7	1514-1526	aluminijevih	aluminijevi oksidi	D.1 Abiotic	_	COMPOSITION\_MEDIUM[72]	_	
+17-8	1527-1529	in	_	_	_	COMPOSITION\_MEDIUM[72]	_	
+17-9	1530-1539	železovih	_	D.1 Abiotic[22]	_	COMPOSITION\_MEDIUM[72]	_	
+17-10	1540-1547	oksidov	_	D.1 Abiotic[22]	_	COMPOSITION\_MEDIUM[72]	_	
+17-11	1547-1548	.	_	_	_	_	_	
+
+#Text=Kronometrične in inkrementalne metode datiranja imenujemo tudi absolutne metode ali radiometrične metode.
+18-1	1549-1562	Kronometrične	kronometrične metode	E.2 Method	_	_	_	
+18-2	1563-1565	in	_	_	_	_	_	
+18-3	1566-1579	inkrementalne	_	E.2 Method[23]	_	_	_	
+18-4	1580-1586	metode	_	E.2 Method[23]	GENUS[50]	_	_	
+18-5	1587-1596	datiranja	_	E.2 Method	GENUS[50]	_	_	
+18-6	1597-1606	imenujemo	_	_	DEFINITOR[51]	_	_	
+18-7	1607-1611	tudi	_	_	DEFINITOR[51]	_	_	
+18-8	1612-1621	absolutne	_	E.2 Method[24]	_	_	_	
+18-9	1622-1628	metode	_	E.2 Method[24]	_	_	_	
+18-10	1629-1632	ali	_	_	_	_	_	
+18-11	1633-1646	radiometrične	_	E.2 Method[25]	DEFINIENDUM[52]	_	_	
+18-12	1647-1653	metode	_	E.2 Method[25]	DEFINIENDUM[52]	_	_	
+18-13	1653-1654	.	_	_	_	_	_	
+
+#Text=Sediment nastane s trenjem in ga imenujemo tektonska glina zaradi velikosti delcev.
+19-1	1655-1663	Sediment	_	D.1 Abiotic	GENUS	_	_	
+19-2	1664-1671	nastane	_	_	_	_	frame\_CAUSE[74]	
+19-3	1672-1673	s	_	_	_	_	frame\_CAUSE[74]	
+19-4	1674-1681	trenjem	_	B.1 Movement	_	HAS\_CAUSE	_	
+19-5	1682-1684	in	_	_	_	_	_	
+19-6	1685-1687	ga	_	_	DEFINITOR[53]	_	_	
+19-7	1688-1697	imenujemo	_	_	DEFINITOR[53]	_	_	
+19-8	1698-1707	tektonska	_	D.1 Abiotic[26]	DEFINIENDUM[54]	_	_	
+19-9	1708-1713	glina	_	D.1 Abiotic[26]	DEFINIENDUM[54]	_	_	
+19-10	1714-1720	zaradi	_	_	_	_	_	
+19-11	1721-1730	velikosti	_	_	_	_	_	
+19-12	1731-1737	delcev	_	_	_	_	_	
+19-13	1737-1738	.	_	_	_	_	_	
+
+#Text=Vsako povečanje obsega poledenitve imenujemo ledena doba ali glacial.
+20-1	1739-1744	Vsako	_	_	_	_	_	
+20-2	1745-1754	povečanje	_	B.3 Addition	_	_	_	
+20-3	1755-1761	obsega	_	_	_	_	_	
+20-4	1762-1773	poledenitve	_	B.4 Transformation	GENUS	_	_	
+20-5	1774-1783	imenujemo	_	_	DEFINITOR	_	_	
+20-6	1784-1790	ledena	_	_	DEFINIENDUM[55]	_	_	
+20-7	1791-1795	doba	_	_	DEFINIENDUM[55]	_	_	
+20-8	1796-1799	ali	_	_	_	_	_	
+20-9	1800-1807	glacial	_	_	DEFINIENDUM	_	_	
+20-10	1807-1808	.	_	_	_	_	_	

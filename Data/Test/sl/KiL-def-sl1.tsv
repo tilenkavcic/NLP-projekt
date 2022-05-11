@@ -1,0 +1,496 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Canonicalform|Canonical
+#T_SP=webanno.custom.Category|Category
+#T_SP=webanno.custom.Definitionelement|Def_element
+#T_SP=webanno.custom.Relation|Relation
+#T_SP=webanno.custom.Relation_definitor|Rel_verb_frame
+
+
+#Text=Ljudsko ime lašt izhaja iz območja Julijskih Alp in ponazarja specifično obliko škrapelj. Gre za večje skladovne police ali kamnite ploskve z velikimi ravnimi strukturnimi površinami in enakim strmcem.
+1-1	0-7	Ljudsko	_	_	_	_	_	
+1-2	8-11	ime	_	_	_	_	_	
+1-3	12-16	lašt	_	A.1 Surface landform	DEFINIENDUM	_	_	
+1-4	17-23	izhaja	_	_	_	_	_	
+1-5	24-26	iz	_	_	_	_	_	
+1-6	27-34	območja	_	_	_	_	_	
+1-7	35-44	Julijskih	_	D.3.1 Geolocation[1]	_	_	_	
+1-8	45-48	Alp	_	D.3.1 Geolocation[1]	_	_	_	
+1-9	49-51	in	_	_	_	_	_	
+1-10	52-61	ponazarja	_	_	DEFINITOR	_	_	
+1-11	62-72	specifično	_	_	_	HAS\_FORM[34]	_	
+1-12	73-79	obliko	_	_	_	HAS\_FORM[34]	_	
+1-13	80-88	škrapelj	_	A.1 Surface landform	GENUS	HAS\_FORM[34]	_	
+1-14	88-89	.	_	_	_	_	_	
+1-15	90-93	Gre	_	_	_	_	_	
+1-16	94-96	za	_	_	_	_	_	
+1-17	97-102	večje	_	_	_	HAS\_FORM[35]	_	
+1-18	103-112	skladovne	_	_	_	HAS\_FORM[35]	_	
+1-19	113-119	police	_	_	_	HAS\_FORM[35]	_	
+1-20	120-123	ali	_	_	_	HAS\_FORM[35]	_	
+1-21	124-131	kamnite	_	_	_	HAS\_FORM[35]	_	
+1-22	132-139	ploskve	_	_	_	HAS\_FORM[35]	_	
+1-23	140-141	z	_	_	_	HAS\_FORM[35]	_	
+1-24	142-150	velikimi	_	_	_	HAS\_FORM[35]	_	
+1-25	151-158	ravnimi	_	_	_	HAS\_FORM[35]	_	
+1-26	159-171	strukturnimi	_	_	_	HAS\_FORM[35]	_	
+1-27	172-182	površinami	_	_	_	HAS\_FORM[35]	_	
+1-28	183-185	in	_	_	_	HAS\_FORM[35]	_	
+1-29	186-192	enakim	_	_	_	HAS\_FORM[35]	_	
+1-30	193-200	strmcem	_	_	_	HAS\_FORM[35]	_	
+1-31	200-201	.	_	_	_	_	_	
+
+#Text=Preperevanje ali vodna erozija odnese/izpodje manj odporno kamnino, ostane pa bolj odporna kamnina, ki predstavlja streho spodmola.
+2-1	203-215	Preperevanje	_	B.4 Transformation	DEFINIENDUM	_	_	
+2-2	216-219	ali	_	_	_	_	_	
+2-3	220-225	vodna	_	_	DEFINIENDUM[17]	_	_	
+2-4	226-233	erozija	_	B.4 Transformation	DEFINIENDUM[17]	_	_	
+2-5	234-240	odnese	_	_	_	HAS\_RESULT[36]	_	
+2-6	240-241	/	_	_	_	HAS\_RESULT[36]	_	
+2-7	241-248	izpodje	_	_	_	HAS\_RESULT[36]	_	
+2-8	249-253	manj	_	_	_	HAS\_RESULT[36]	_	
+2-9	254-261	odporno	_	_	_	HAS\_RESULT[36]	_	
+2-10	262-269	kamnino	_	D.1 Abiotic	_	HAS\_RESULT[36]	_	
+2-11	269-270	,	_	_	_	HAS\_RESULT[36]	_	
+2-12	271-277	ostane	_	_	_	HAS\_RESULT[36]	_	
+2-13	278-280	pa	_	_	_	HAS\_RESULT[36]	_	
+2-14	281-285	bolj	_	_	_	HAS\_RESULT[36]	_	
+2-15	286-293	odporna	_	_	_	HAS\_RESULT[36]	_	
+2-16	294-301	kamnina	_	D.1 Abiotic	_	HAS\_RESULT[36]	_	
+2-17	301-302	,	_	_	_	HAS\_RESULT[36]	_	
+2-18	303-305	ki	_	_	_	HAS\_RESULT[36]	_	
+2-19	306-317	predstavlja	_	_	_	HAS\_RESULT[36]	_	
+2-20	318-324	streho	_	_	_	HAS\_RESULT[36]	_	
+2-21	325-333	spodmola	_	A.1 Surface landform	_	HAS\_RESULT[36]	_	
+2-22	333-334	.	_	_	_	HAS\_RESULT[36]	_	
+
+#Text=Uvala je večja kraška globel skledaste oblike z neravnim dnom in sklenjenim višjim obodom. Praviloma je manjša od kraškega polja in večja od vrtače.
+3-1	336-341	Uvala	_	A.1 Surface landform	DEFINIENDUM	_	_	
+3-2	342-344	je	_	_	DEFINITOR	_	_	
+3-3	345-350	večja	_	_	_	HAS\_SIZE	_	
+3-4	351-357	kraška	_	_	GENUS[18]	_	_	
+3-5	358-364	globel	_	A.1 Surface landform	GENUS[18]	_	_	
+3-6	365-374	skledaste	_	_	_	HAS\_FORM[37]	_	
+3-7	375-381	oblike	_	_	_	HAS\_FORM[37]	frame\_FORM	
+3-8	382-383	z	_	_	_	HAS\_FORM[37]	_	
+3-9	384-392	neravnim	_	_	_	HAS\_FORM[37]	_	
+3-10	393-397	dnom	_	_	_	HAS\_FORM[37]	_	
+3-11	398-400	in	_	_	_	HAS\_FORM[37]	_	
+3-12	401-411	sklenjenim	_	_	_	HAS\_FORM[37]	_	
+3-13	412-418	višjim	_	_	_	HAS\_FORM[37]	_	
+3-14	419-425	obodom	_	_	_	HAS\_FORM[37]	_	
+3-15	425-426	.	_	_	_	_	_	
+3-16	427-436	Praviloma	_	_	_	_	_	
+3-17	437-439	je	_	_	_	_	_	
+3-18	440-446	manjša	_	_	_	HAS\_SIZE[38]	_	
+3-19	447-449	od	_	_	_	HAS\_SIZE[38]	_	
+3-20	450-458	kraškega	_	A.1 Surface landform[2]	_	HAS\_SIZE[38]	_	
+3-21	459-464	polja	_	A.1 Surface landform[2]	_	HAS\_SIZE[38]	_	
+3-22	465-467	in	_	_	_	_	_	
+3-23	468-473	večja	_	_	_	HAS\_SIZE[39]	_	
+3-24	474-476	od	_	_	_	HAS\_SIZE[39]	_	
+3-25	477-483	vrtače	_	A.1 Surface landform	_	HAS\_SIZE[39]	_	
+3-26	483-484	.	_	_	_	_	_	
+
+#Text=Slovenska kraška terminologija navaja, da je vrtača: depresijska oblika okroglaste oblike, navadno globoka več metrov in je bolj široka kot globoka.
+4-1	486-495	Slovenska	_	_	_	_	_	
+4-2	496-502	kraška	_	_	_	_	_	
+4-3	503-516	terminologija	_	_	_	_	_	
+4-4	517-523	navaja	_	_	_	_	_	
+4-5	523-524	,	_	_	_	_	_	
+4-6	525-527	da	_	_	_	_	_	
+4-7	528-530	je	_	_	DEFINITOR	_	_	
+4-8	531-537	vrtača	_	A.1 Surface landform	DEFINIENDUM	_	_	
+4-9	537-538	:	_	_	_	_	_	
+4-10	539-550	depresijska	_	_	GENUS[19]	_	_	
+4-11	551-557	oblika	_	_	GENUS[19]	_	_	
+4-12	558-568	okroglaste	_	_	_	HAS\_FORM[40]	_	
+4-13	569-575	oblike	_	_	_	HAS\_FORM[40]	frame\_FORM	
+4-14	575-576	,	_	_	_	_	_	
+4-15	577-584	navadno	_	_	_	_	_	
+4-16	585-592	globoka	_	_	_	HAS\_SIZE[41]	_	
+4-17	593-596	več	_	_	_	HAS\_SIZE[41]	_	
+4-18	597-603	metrov	_	_	_	HAS\_SIZE[41]	_	
+4-19	604-606	in	_	_	_	_	_	
+4-20	607-609	je	_	_	_	_	_	
+4-21	610-614	bolj	_	_	_	HAS\_FORM[42]	_	
+4-22	615-621	široka	_	_	_	HAS\_FORM[42]	_	
+4-23	622-625	kot	_	_	_	HAS\_FORM[42]	_	
+4-24	626-633	globoka	_	_	_	HAS\_FORM[42]	_	
+4-25	633-634	.	_	_	_	_	_	
+
+#Text=Požiralnik je definiran kot špranja ali brezno v skalnem koritu, ki požira vodo, ponikev kot odprtina, v katero ponika voda in je večinoma prekrita z naplavino, ponor pa kot večja vodoravna odprtina v katero teče potok ali reka
+5-1	636-646	Požiralnik	_	A.1 Surface landform	DEFINIENDUM	_	_	
+5-2	647-649	je	_	_	DEFINITOR[20]	_	_	
+5-3	650-659	definiran	_	_	DEFINITOR[20]	_	_	
+5-4	660-663	kot	_	_	DEFINITOR[20]	_	_	
+5-5	664-671	špranja	_	A.1 Surface landform	GENUS	_	frame\_FORM	
+5-6	672-675	ali	_	_	_	_	_	
+5-7	676-682	brezno	_	A.1 Surface landform	GENUS	_	frame\_FORM	
+5-8	683-684	v	_	_	_	HAS\_LOCATION[43]	_	
+5-9	685-692	skalnem	_	_	_	HAS\_LOCATION[43]	_	
+5-10	693-699	koritu	_	_	_	HAS\_LOCATION[43]	_	
+5-11	699-700	,	_	_	_	_	_	
+5-12	701-703	ki	_	_	_	_	_	
+5-13	704-710	požira	_	_	_	HAS\_FUNCTION[44]	_	
+5-14	711-715	vodo	_	_	_	HAS\_FUNCTION[44]	_	
+5-15	715-716	,	_	_	_	_	_	
+5-16	717-724	ponikev	_	A.1 Surface landform	_	_	_	
+5-17	725-728	kot	_	_	_	_	_	
+5-18	729-737	odprtina	_	_	_	_	_	
+5-19	737-738	,	_	_	_	_	_	
+5-20	739-740	v	_	_	_	_	_	
+5-21	741-747	katero	_	_	_	_	_	
+5-22	748-754	ponika	_	_	_	_	_	
+5-23	755-759	voda	_	_	_	_	_	
+5-24	760-762	in	_	_	_	_	_	
+5-25	763-765	je	_	_	_	_	_	
+5-26	766-774	večinoma	_	_	_	_	_	
+5-27	775-783	prekrita	_	_	_	_	_	
+5-28	784-785	z	_	_	_	_	_	
+5-29	786-795	naplavino	_	_	_	_	_	
+5-30	795-796	,	_	_	_	_	_	
+5-31	797-802	ponor	_	A.1 Surface landform	_	_	_	
+5-32	803-805	pa	_	_	_	_	_	
+5-33	806-809	kot	_	_	_	_	_	
+5-34	810-815	večja	_	_	_	_	_	
+5-35	816-825	vodoravna	_	_	_	_	_	
+5-36	826-834	odprtina	_	_	_	_	_	
+5-37	835-836	v	_	_	_	_	_	
+5-38	837-843	katero	_	_	_	_	_	
+5-39	844-848	teče	_	_	_	_	_	
+5-40	849-854	potok	_	A.3 Hydrological form	_	_	_	
+5-41	855-858	ali	_	_	_	_	_	
+5-42	859-863	reka	_	A.3 Hydrological form	_	_	_	
+
+#Text=Slovenska kraška terminologija opredeli hum kot osamljen korozijsko-erozijsko-denudacijski ostanek višjega reliefa, zlasti na dnu kraškega polja.
+6-1	865-874	Slovenska	_	_	_	_	_	
+6-2	875-881	kraška	_	_	_	_	_	
+6-3	882-895	terminologija	_	_	_	_	_	
+6-4	896-904	opredeli	_	_	DEFINITOR	_	_	
+6-5	905-908	hum	_	A.1 Surface landform	DEFINIENDUM	_	_	
+6-6	909-912	kot	_	_	DEFINITOR	_	_	
+6-7	913-921	osamljen	_	_	_	_	_	
+6-8	922-955	korozijsko-erozijsko-denudacijski	_	_	_	HAS\_CAUSE	_	
+6-9	956-963	ostanek	_	_	GENUS[21]	_	_	
+6-10	964-971	višjega	_	_	GENUS[21]	_	_	
+6-11	972-979	reliefa	_	_	GENUS[21]	_	_	
+6-12	979-980	,	_	_	_	_	_	
+6-13	981-987	zlasti	_	_	_	_	_	
+6-14	988-990	na	_	_	_	HAS\_LOCATION[45]	_	
+6-15	991-994	dnu	_	_	_	HAS\_LOCATION[45]	_	
+6-16	995-1003	kraškega	_	_	_	HAS\_LOCATION[45]	_	
+6-17	1004-1009	polja	_	_	_	HAS\_LOCATION[45]	_	
+6-18	1009-1010	.	_	_	_	_	_	
+
+#Text=Ford in Williams opišeta hume kot eno izmed štirih tipov stolpičastega krasa, in sicer kot ostanke vzpetin, ki štrlijo iz izravnanega karbonatnega površja, ki ga prekriva aluvij.
+7-1	1012-1016	Ford	_	_	_	_	_	
+7-2	1017-1019	in	_	_	_	_	_	
+7-3	1020-1028	Williams	_	_	_	_	_	
+7-4	1029-1036	opišeta	_	_	DEFINITOR	_	_	
+7-5	1037-1041	hume	_	A.1 Surface landform	DEFINIENDUM	_	_	
+7-6	1042-1045	kot	_	_	DEFINITOR	_	_	
+7-7	1046-1049	eno	_	_	_	_	_	
+7-8	1050-1055	izmed	_	_	_	_	_	
+7-9	1056-1062	štirih	_	_	_	_	_	
+7-10	1063-1068	tipov	_	_	GENUS[22]	_	_	
+7-11	1069-1082	stolpičastega	_	C. Geome[3]	GENUS[22]	_	_	
+7-12	1083-1088	krasa	_	C. Geome[3]	GENUS[22]	_	_	
+7-13	1088-1089	,	_	_	_	_	_	
+7-14	1090-1092	in	_	_	_	_	_	
+7-15	1093-1098	sicer	_	_	_	_	_	
+7-16	1099-1102	kot	_	_	_	_	_	
+7-17	1103-1110	ostanke	_	_	_	HAS\_FORM[46]	_	
+7-18	1111-1118	vzpetin	_	A.1 Surface landform	_	HAS\_FORM[46]	_	
+7-19	1118-1119	,	_	_	_	HAS\_FORM[46]	_	
+7-20	1120-1122	ki	_	_	_	HAS\_FORM[46]	_	
+7-21	1123-1130	štrlijo	_	_	_	HAS\_FORM[46]	_	
+7-22	1131-1133	iz	_	_	_	HAS\_FORM[46]	_	
+7-23	1134-1145	izravnanega	_	_	_	HAS\_FORM[46]	_	
+7-24	1146-1158	karbonatnega	_	_	_	HAS\_FORM[46]|COMPOSITION\_MEDIUM[47]	_	
+7-25	1159-1166	površja	_	_	_	HAS\_FORM[46]	_	
+7-26	1166-1167	,	_	_	_	HAS\_FORM[46]	_	
+7-27	1168-1170	ki	_	_	_	HAS\_FORM[46]	_	
+7-28	1171-1173	ga	_	_	_	HAS\_FORM[46]	_	
+7-29	1174-1182	prekriva	_	_	_	HAS\_FORM[46]	_	
+7-30	1183-1189	aluvij	_	D.1 Abiotic	_	HAS\_FORM[46]	_	
+7-31	1189-1190	.	_	_	_	_	_	
+
+#Text=Kraška polja so največje in gospodarsko najpomembnejše kotanje v dinarskem krasu.
+8-1	1193-1199	Kraška	_	A.1 Surface landform[4]	DEFINIENDUM[23]	_	_	
+8-2	1200-1205	polja	_	A.1 Surface landform[4]	DEFINIENDUM[23]	_	_	
+8-3	1206-1208	so	_	_	DEFINITOR	_	_	
+8-4	1209-1217	največje	_	_	_	_	_	
+8-5	1218-1220	in	_	_	_	_	_	
+8-6	1221-1232	gospodarsko	_	_	_	_	_	
+8-7	1233-1247	najpomembnejše	_	_	_	_	_	
+8-8	1248-1255	kotanje	_	A.1 Surface landform	GENUS	_	_	
+8-9	1256-1257	v	_	_	_	HAS\_LOCATION[48]	_	
+8-10	1258-1267	dinarskem	_	C. Geome[5]	_	HAS\_LOCATION[48]	_	
+8-11	1268-1273	krasu	_	C. Geome[5]	_	HAS\_LOCATION[48]	_	
+8-12	1273-1274	.	_	_	_	_	_	
+
+#Text=Škavnice so skledaste vdolbine na vodoravni ali rahlo nagnjeni skalni podlagi.
+9-1	1276-1284	Škavnice	_	A.1 Surface landform	DEFINIENDUM	_	_	
+9-2	1285-1287	so	_	_	DEFINITOR	_	_	
+9-3	1288-1297	skledaste	_	_	_	HAS\_FORM	_	
+9-4	1298-1306	vdolbine	_	A.1 Surface landform	GENUS	_	_	
+9-5	1307-1309	na	_	_	_	HAS\_LOCATION[49]	_	
+9-6	1310-1319	vodoravni	_	_	_	HAS\_LOCATION[49]	_	
+9-7	1320-1323	ali	_	_	_	HAS\_LOCATION[49]	_	
+9-8	1324-1329	rahlo	_	_	_	HAS\_LOCATION[49]	_	
+9-9	1330-1338	nagnjeni	_	_	_	HAS\_LOCATION[49]	_	
+9-10	1339-1345	skalni	_	_	_	HAS\_LOCATION[49]	_	
+9-11	1346-1353	podlagi	_	_	_	HAS\_LOCATION[49]	_	
+9-12	1353-1354	.	_	_	_	_	_	
+
+#Text=Žlebiči in žlebovi so žlebaste izjedenine s polkrožnim prečnim prerezom, ki se oblikujejo na ravnem kompaktnem skalnem površju in potekajo v smeri največjega naklona
+10-1	1356-1363	Žlebiči	_	A.1 Surface landform	DEFINIENDUM	_	_	
+10-2	1364-1366	in	_	_	_	_	_	
+10-3	1367-1374	žlebovi	_	A.1 Surface landform	DEFINIENDUM	_	_	
+10-4	1375-1377	so	_	_	DEFINITOR	_	_	
+10-5	1378-1386	žlebaste	_	_	GENUS[24]	HAS\_FORM[50]	_	
+10-6	1387-1397	izjedenine	_	_	GENUS[24]	HAS\_FORM[50]	_	
+10-7	1398-1399	s	_	_	_	HAS\_FORM[50]	_	
+10-8	1400-1410	polkrožnim	_	_	_	HAS\_FORM[50]	_	
+10-9	1411-1418	prečnim	_	_	_	HAS\_FORM[50]	_	
+10-10	1419-1427	prerezom	_	_	_	HAS\_FORM[50]	_	
+10-11	1427-1428	,	_	_	_	_	_	
+10-12	1429-1431	ki	_	_	_	_	_	
+10-13	1432-1434	se	_	_	_	_	_	
+10-14	1435-1445	oblikujejo	_	_	_	_	_	
+10-15	1446-1448	na	_	_	_	HAS\_LOCATION[51]	_	
+10-16	1449-1455	ravnem	_	_	_	HAS\_LOCATION[51]	_	
+10-17	1456-1466	kompaktnem	_	_	_	HAS\_LOCATION[51]	_	
+10-18	1467-1474	skalnem	_	_	_	HAS\_LOCATION[51]	_	
+10-19	1475-1482	površju	_	_	_	HAS\_LOCATION[51]	_	
+10-20	1483-1485	in	_	_	_	_	_	
+10-21	1486-1494	potekajo	_	_	_	_	_	
+10-22	1495-1496	v	_	_	_	_	_	
+10-23	1497-1502	smeri	_	_	_	_	_	
+10-24	1503-1513	največjega	_	_	_	_	_	
+10-25	1514-1521	naklona	_	_	_	_	_	
+
+#Text=Erozijski jarki nastanejo s kanaliziranjem površinskega toka, predvsem tam, kjer so že reliefno (naravno) zasnovane linije odtoka, pa tudi ob raznih antropogenih oblikah (npr. izkopih, njivskih brazdah, mejah parcel, poteh in cestah).
+11-1	1523-1532	Erozijski	_	A.1 Surface landform[6]	DEFINIENDUM[25]	_	_	
+11-2	1533-1538	jarki	_	A.1 Surface landform[6]	DEFINIENDUM[25]	_	_	
+11-3	1539-1548	nastanejo	_	_	_	HAS\_CAUSE[52]	frame\_CAUSE[66]	
+11-4	1549-1550	s	_	_	_	HAS\_CAUSE[52]	frame\_CAUSE[66]	
+11-5	1551-1565	kanaliziranjem	_	B. Process	_	HAS\_CAUSE[52]	_	
+11-6	1566-1578	površinskega	_	_	_	HAS\_CAUSE[52]	_	
+11-7	1579-1583	toka	_	_	_	HAS\_CAUSE[52]	_	
+11-8	1583-1584	,	_	_	_	_	_	
+11-9	1585-1593	predvsem	_	_	_	_	_	
+11-10	1594-1597	tam	_	_	_	_	_	
+11-11	1597-1598	,	_	_	_	_	_	
+11-12	1599-1603	kjer	_	_	_	_	_	
+11-13	1604-1606	so	_	_	_	_	_	
+11-14	1607-1609	že	_	_	_	_	_	
+11-15	1610-1618	reliefno	_	_	_	HAS\_LOCATION[53]	_	
+11-16	1619-1620	(	_	_	_	HAS\_LOCATION[53]	_	
+11-17	1620-1627	naravno	_	_	_	HAS\_LOCATION[53]	_	
+11-18	1627-1628	)	_	_	_	HAS\_LOCATION[53]	_	
+11-19	1629-1638	zasnovane	_	_	_	HAS\_LOCATION[53]	_	
+11-20	1639-1645	linije	_	_	_	HAS\_LOCATION[53]	_	
+11-21	1646-1652	odtoka	_	_	_	HAS\_LOCATION[53]	_	
+11-22	1652-1653	,	_	_	_	_	_	
+11-23	1654-1656	pa	_	_	_	_	_	
+11-24	1657-1661	tudi	_	_	_	_	_	
+11-25	1662-1664	ob	_	_	_	HAS\_LOCATION[54]	_	
+11-26	1665-1671	raznih	_	_	_	HAS\_LOCATION[54]	_	
+11-27	1672-1684	antropogenih	_	_	_	HAS\_LOCATION[54]	_	
+11-28	1685-1692	oblikah	_	_	_	HAS\_LOCATION[54]	_	
+11-29	1693-1694	(	_	_	_	HAS\_LOCATION[54]	_	
+11-30	1694-1697	npr	_	_	_	HAS\_LOCATION[54]	_	
+11-31	1697-1698	.	_	_	_	HAS\_LOCATION[54]	_	
+11-32	1699-1706	izkopih	_	_	_	HAS\_LOCATION[54]	_	
+11-33	1706-1707	,	_	_	_	HAS\_LOCATION[54]	_	
+11-34	1708-1716	njivskih	_	_	_	HAS\_LOCATION[54]	_	
+11-35	1717-1724	brazdah	_	_	_	HAS\_LOCATION[54]	_	
+11-36	1724-1725	,	_	_	_	HAS\_LOCATION[54]	_	
+11-37	1726-1731	mejah	_	_	_	HAS\_LOCATION[54]	_	
+11-38	1732-1738	parcel	_	_	_	HAS\_LOCATION[54]	_	
+11-39	1738-1739	,	_	_	_	HAS\_LOCATION[54]	_	
+11-40	1740-1745	poteh	_	D.1 Abiotic	_	HAS\_LOCATION[54]	_	
+11-41	1746-1748	in	_	_	_	HAS\_LOCATION[54]	_	
+11-42	1749-1755	cestah	_	D.1 Abiotic	_	HAS\_LOCATION[54]	_	
+11-43	1755-1756	)	_	_	_	HAS\_LOCATION[54]	_	
+11-44	1756-1757	.	_	_	_	HAS\_LOCATION[54]	_	
+
+#Text=Veter je gibanje zraka, ki nastane zaradi razlik v zračnem tlaku.
+12-1	1759-1764	Veter	_	D.1 Abiotic	DEFINIENDUM	_	_	
+12-2	1765-1767	je	_	_	DEFINITOR	_	_	
+12-3	1768-1775	gibanje	_	B. Process	GENUS[26]	_	_	
+12-4	1776-1781	zraka	_	D.1 Abiotic	GENUS[26]	_	_	
+12-5	1781-1782	,	_	_	_	_	_	
+12-6	1783-1785	ki	_	_	_	_	_	
+12-7	1786-1793	nastane	_	_	_	HAS\_CAUSE[55]	_	
+12-8	1794-1800	zaradi	_	_	_	HAS\_CAUSE[55]	_	
+12-9	1801-1807	razlik	_	_	_	HAS\_CAUSE[55]	_	
+12-10	1808-1809	v	_	_	_	HAS\_CAUSE[55]	_	
+12-11	1810-1817	zračnem	_	A.4 Other[7]	_	HAS\_CAUSE[55]	_	
+12-12	1818-1823	tlaku	_	A.4 Other[7]	_	HAS\_CAUSE[55]	_	
+12-13	1823-1824	.	_	_	_	_	_	
+
+#Text=Tlačna trdnost je odpornost proti tlačni obremenitvi, ki jo kamnina prenese, preden se zdrobi.
+13-1	1826-1832	Tlačna	_	D.3 Property[8]	DEFINIENDUM[27]	_	_	
+13-2	1833-1840	trdnost	_	D.3 Property[8]	DEFINIENDUM[27]	_	_	
+13-3	1841-1843	je	_	_	DEFINITOR	_	_	
+13-4	1844-1853	odpornost	_	_	GENUS[28]	DEFINED\_AS[56]	_	
+13-5	1854-1859	proti	_	_	GENUS[28]	DEFINED\_AS[56]	_	
+13-6	1860-1866	tlačni	_	_	GENUS[28]	DEFINED\_AS[56]	_	
+13-7	1867-1878	obremenitvi	_	_	GENUS[28]	DEFINED\_AS[56]	_	
+13-8	1878-1879	,	_	_	_	DEFINED\_AS[56]	_	
+13-9	1880-1882	ki	_	_	_	DEFINED\_AS[56]	_	
+13-10	1883-1885	jo	_	_	_	DEFINED\_AS[56]	_	
+13-11	1886-1893	kamnina	_	D.1 Abiotic	_	DEFINED\_AS[56]	_	
+13-12	1894-1901	prenese	_	_	_	DEFINED\_AS[56]	_	
+13-13	1901-1902	,	_	_	_	DEFINED\_AS[56]	_	
+13-14	1903-1909	preden	_	_	_	DEFINED\_AS[56]	_	
+13-15	1910-1912	se	_	_	_	DEFINED\_AS[56]	_	
+13-16	1913-1919	zdrobi	_	_	_	DEFINED\_AS[56]	_	
+13-17	1919-1920	.	_	_	_	_	_	
+
+#Text=Po prvi definiciji je spodmol prostor pod previsom v skalovju, po drugi pa kratka vodoravna jama pod previsno steno.
+14-1	1922-1924	Po	_	_	DEFINITOR[29]	_	_	
+14-2	1925-1929	prvi	_	_	DEFINITOR[29]	_	_	
+14-3	1930-1940	definiciji	_	_	DEFINITOR[29]	_	_	
+14-4	1941-1943	je	_	_	DEFINITOR[29]	_	_	
+14-5	1944-1951	spodmol	_	A.1 Surface landform	DEFINIENDUM	_	frame\_LOCATION	
+14-6	1952-1959	prostor	_	_	GENUS[30]	HAS\_LOCATION[57]	_	
+14-7	1960-1963	pod	_	_	GENUS[30]	HAS\_LOCATION[57]	_	
+14-8	1964-1972	previsom	_	_	GENUS[30]	HAS\_LOCATION[57]	_	
+14-9	1973-1974	v	_	_	_	HAS\_LOCATION[57]	_	
+14-10	1975-1983	skalovju	_	D.1 Abiotic	_	HAS\_LOCATION[57]	_	
+14-11	1983-1984	,	_	_	_	_	_	
+14-12	1985-1987	po	_	_	_	_	_	
+14-13	1988-1993	drugi	_	_	_	_	_	
+14-14	1994-1996	pa	_	_	_	_	_	
+14-15	1997-2003	kratka	_	_	_	HAS\_LOCATION[58]|HAS\_SIZE[59]	_	
+14-16	2004-2013	vodoravna	_	_	GENUS[31]	HAS\_LOCATION[58]	_	
+14-17	2014-2018	jama	_	A.2 Underground landform	GENUS[31]	HAS\_LOCATION[58]	_	
+14-18	2019-2022	pod	_	_	_	HAS\_LOCATION[58]	_	
+14-19	2023-2031	previsno	_	A.1 Surface landform[9]	_	HAS\_LOCATION[58]	_	
+14-20	2032-2037	steno	_	A.1 Surface landform[9]	_	HAS\_LOCATION[58]	_	
+14-21	2037-2038	.	_	_	_	_	_	
+
+#Text=Večji ali manjši del kraškega polja je ravnica, običajno obdelana zemlja, ki je največkrat na naplavini ali debeli prsti.
+15-1	2040-2045	Večji	_	_	_	_	_	
+15-2	2046-2049	ali	_	_	_	_	_	
+15-3	2050-2056	manjši	_	_	_	_	_	
+15-4	2057-2060	del	_	_	_	_	_	
+15-5	2061-2069	kraškega	_	A.1 Surface landform[10]	_	_	_	
+15-6	2070-2075	polja	_	A.1 Surface landform[10]	_	_	_	
+15-7	2076-2078	je	_	_	DEFINITOR	_	_	
+15-8	2079-2086	ravnica	_	A.1 Surface landform	DEFINIENDUM	_	_	
+15-9	2086-2087	,	_	_	_	_	_	
+15-10	2088-2096	običajno	_	_	_	_	_	
+15-11	2097-2105	obdelana	_	_	_	_	_	
+15-12	2106-2112	zemlja	_	_	GENUS	_	_	
+15-13	2112-2113	,	_	_	_	_	_	
+15-14	2114-2116	ki	_	_	_	_	_	
+15-15	2117-2119	je	_	_	_	_	_	
+15-16	2120-2130	največkrat	_	_	_	_	_	
+15-17	2131-2133	na	_	_	_	HAS\_LOCATION[60]	_	
+15-18	2134-2143	naplavini	_	A.1 Surface landform	_	HAS\_LOCATION[60]	_	
+15-19	2144-2147	ali	_	_	_	HAS\_LOCATION[60]	_	
+15-20	2148-2154	debeli	_	_	_	HAS\_LOCATION[60]	_	
+15-21	2155-2160	prsti	_	D.2 Biotic	_	HAS\_LOCATION[60]	_	
+15-22	2160-2161	.	_	_	_	_	_	
+
+#Text=Odlaganje sige je proces, ki je ravno nasproten koroziji.
+16-1	2163-2172	Odlaganje	_	B. Process[11]	DEFINIENDUM[32]	_	_	
+16-2	2173-2177	sige	_	B. Process[11]	DEFINIENDUM[32]	_	_	
+16-3	2178-2180	je	_	_	DEFINITOR	_	_	
+16-4	2181-2187	proces	_	_	GENUS	DEFINED\_AS[61]	_	
+16-5	2187-2188	,	_	_	_	DEFINED\_AS[61]	_	
+16-6	2189-2191	ki	_	_	_	DEFINED\_AS[61]	_	
+16-7	2192-2194	je	_	_	_	DEFINED\_AS[61]	_	
+16-8	2195-2200	ravno	_	_	_	DEFINED\_AS[61]	_	
+16-9	2201-2210	nasproten	_	_	_	DEFINED\_AS[61]	_	
+16-10	2211-2219	koroziji	_	B. Process	_	DEFINED\_AS[61]	_	
+16-11	2219-2220	.	_	_	_	DEFINED\_AS[61]	_	
+
+#Text=Glaciologija je raziskava in preučevanje ledenikov, ledenih plošč, morskega ledu, sezonskega snega, zamrznjenih tal in vseh drugih naravnih pojavov, ki vključujejo led in njegove učinke na okolje.
+17-1	2222-2234	Glaciologija	_	E.2 Method	DEFINIENDUM	_	_	
+17-2	2235-2237	je	_	_	DEFINITOR	_	_	
+17-3	2238-2247	raziskava	_	_	_	_	_	
+17-4	2248-2250	in	_	_	_	_	_	
+17-5	2251-2262	preučevanje	_	_	GENUS	_	_	
+17-6	2263-2272	ledenikov	ledenik	A.1 Surface landform	_	STUDIES[62]	_	
+17-7	2272-2273	,	_	_	_	STUDIES[62]	_	
+17-8	2274-2281	ledenih	_	_	_	STUDIES[62]	_	
+17-9	2282-2287	plošč	_	_	_	STUDIES[62]	_	
+17-10	2287-2288	,	_	_	_	STUDIES[62]	_	
+17-11	2289-2297	morskega	_	A.3 Hydrological form[12]	_	STUDIES[62]	_	
+17-12	2298-2302	ledu	_	A.3 Hydrological form[12]	_	STUDIES[62]	_	
+17-13	2302-2303	,	_	_	_	STUDIES[62]	_	
+17-14	2304-2314	sezonskega	_	A.3 Hydrological form[13]	_	STUDIES[62]	_	
+17-15	2315-2320	snega	_	A.3 Hydrological form[13]	_	STUDIES[62]	_	
+17-16	2320-2321	,	_	_	_	STUDIES[62]	_	
+17-17	2322-2333	zamrznjenih	_	A.1 Surface landform[14]	_	STUDIES[62]	_	
+17-18	2334-2337	tal	_	A.1 Surface landform[14]	_	STUDIES[62]	_	
+17-19	2338-2340	in	_	_	_	STUDIES[62]	_	
+17-20	2341-2345	vseh	_	_	_	STUDIES[62]	_	
+17-21	2346-2352	drugih	_	_	_	STUDIES[62]	_	
+17-22	2353-2361	naravnih	_	_	_	STUDIES[62]	_	
+17-23	2362-2369	pojavov	_	_	_	STUDIES[62]	_	
+17-24	2369-2370	,	_	_	_	STUDIES[62]	_	
+17-25	2371-2373	ki	_	_	_	STUDIES[62]	_	
+17-26	2374-2385	vključujejo	_	_	_	STUDIES[62]	_	
+17-27	2386-2389	led	_	A.3 Hydrological form	_	STUDIES[62]	_	
+17-28	2390-2392	in	_	_	_	STUDIES[62]	_	
+17-29	2393-2400	njegove	_	_	_	STUDIES[62]	_	
+17-30	2401-2407	učinke	_	_	_	STUDIES[62]	_	
+17-31	2408-2410	na	_	_	_	STUDIES[62]	_	
+17-32	2411-2417	okolje	_	_	_	STUDIES[62]	_	
+17-33	2417-2418	.	_	_	_	_	_	
+
+#Text=Podkategorija te znanosti je astroglaciologija, ki je nastala po odkritju vodnega ledu na Luni, Evropi, Marsu in Plutonu.
+18-1	2420-2433	Podkategorija	_	_	_	_	_	
+18-2	2434-2436	te	_	_	_	_	_	
+18-3	2437-2445	znanosti	_	E.2 Method	GENUS	_	_	
+18-4	2446-2448	je	_	_	DEFINITOR	_	_	
+18-5	2449-2466	astroglaciologija	_	A.4 Other	DEFINIENDUM	_	_	
+18-6	2466-2467	,	_	_	_	_	_	
+18-7	2468-2470	ki	_	_	_	_	_	
+18-8	2471-2473	je	_	_	_	_	_	
+18-9	2474-2481	nastala	_	_	_	_	_	
+18-10	2482-2484	po	_	_	_	_	_	
+18-11	2485-2493	odkritju	_	_	_	HAS\_CAUSE[63]	_	
+18-12	2494-2501	vodnega	_	_	_	HAS\_CAUSE[63]	_	
+18-13	2502-2506	ledu	_	_	_	HAS\_CAUSE[63]	_	
+18-14	2507-2509	na	_	_	_	HAS\_CAUSE[63]	_	
+18-15	2510-2514	Luni	_	D.3.1 Geolocation	_	HAS\_CAUSE[63]	_	
+18-16	2514-2515	,	_	_	_	HAS\_CAUSE[63]	_	
+18-17	2516-2522	Evropi	_	D.3.1 Geolocation	_	HAS\_CAUSE[63]	_	
+18-18	2522-2523	,	_	_	_	HAS\_CAUSE[63]	_	
+18-19	2524-2529	Marsu	_	D.3.1 Geolocation	_	HAS\_CAUSE[63]	_	
+18-20	2530-2532	in	_	_	_	HAS\_CAUSE[63]	_	
+18-21	2533-2540	Plutonu	_	D.3.1 Geolocation	_	HAS\_CAUSE[63]	_	
+18-22	2540-2541	.	_	_	_	_	_	
+
+#Text=Spodmol je definiran tudi kot previs na morski, redkeje jezerski obali, ki ga ustvari erozijsko delovanje valov in kot kraška jama.
+19-1	2543-2550	Spodmol	_	A.2 Underground landform	DEFINIENDUM	_	_	
+19-2	2551-2553	je	_	_	DEFINITOR[33]	_	_	
+19-3	2554-2563	definiran	_	_	DEFINITOR[33]	_	_	
+19-4	2564-2568	tudi	_	_	DEFINITOR[33]	_	_	
+19-5	2569-2572	kot	_	_	DEFINITOR[33]	_	_	
+19-6	2573-2579	previs	_	A.1 Surface landform	GENUS	_	_	
+19-7	2580-2582	na	_	_	_	HAS\_LOCATION[64]	_	
+19-8	2583-2589	morski	_	_	_	HAS\_LOCATION[64]	_	
+19-9	2589-2590	,	_	_	_	HAS\_LOCATION[64]	_	
+19-10	2591-2598	redkeje	_	_	_	HAS\_LOCATION[64]	_	
+19-11	2599-2607	jezerski	_	_	_	HAS\_LOCATION[64]	_	
+19-12	2608-2613	obali	_	_	_	HAS\_LOCATION[64]	_	
+19-13	2613-2614	,	_	_	_	_	_	
+19-14	2615-2617	ki	_	_	_	_	_	
+19-15	2618-2620	ga	_	_	_	_	_	
+19-16	2621-2628	ustvari	_	_	_	_	_	
+19-17	2629-2638	erozijsko	_	B. Process[15]	_	HAS\_CAUSE[65]	_	
+19-18	2639-2648	delovanje	_	B. Process[15]	_	HAS\_CAUSE[65]	_	
+19-19	2649-2654	valov	_	B. Process[15]	_	HAS\_CAUSE[65]	_	
+19-20	2655-2657	in	_	_	_	_	_	
+19-21	2658-2661	kot	_	_	_	_	_	
+19-22	2662-2668	kraška	_	A.2 Underground landform[16]	_	_	_	
+19-23	2669-2673	jama	_	A.2 Underground landform[16]	_	_	_	
+19-24	2673-2674	.	_	_	_	_	_	
