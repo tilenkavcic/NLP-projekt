@@ -3,23 +3,24 @@ import pandas as pd
 import json
 import re
 
-DATA_PATH = "../data/Annotated/EN/TERM_CAT_GEN_SENT_REL.csv"
-# SEM_EVAL_FILE = "../HRL-RE-master/data/Karst/test.json"
-SEM_EVAL_TRAIN = "../HRL-RE-master/data/Karst/test.json"
-SEM_EVAL_TEST = "../HRL-RE-master/data/Karst/train.json"
+DATA_PATH = "../../Data/Annotated/EN/TERM_CAT_GEN_SENT_REL.csv"
+
+SEM_EVAL_TRAIN = "./data/Karst/test.json"
+SEM_EVAL_TEST = "./data/Karst/train.json"
 
 df = pd.read_csv(DATA_PATH)
 
 
 def get_relations(d_index, definendium, genuses, relations, sentence, type):
     for r in genuses:
+        r = r.lower()
         relation = {}
         r_index = sentence.find(r)
         if r_index < 0:
             continue
 
-        relation["rtext"] = type
-        # relation["rtext"] = "/location/location/contains"
+        # relation["rtext"] = type
+        relation["rtext"] = "/location/location/contains"
 
         d_i = 0 if d_index == 0 else len(sentence[:d_index - 1].split(" "))
         r_i = 0 if r_index == 0 else len(sentence[:r_index - 1].split(" "))
@@ -49,14 +50,12 @@ def get_relations(d_index, definendium, genuses, relations, sentence, type):
             for i in range(1, len(r.split(" "))):
                 tags[r_i + i] = 2
 
-
-
-
         relation["tags"] = tags
         relations.append(relation)
 
 
 def makeJson(sentence, definendium, genuses, locations, sizes):
+    definendium = definendium.lower()
     dat = {}
     sentence = re.sub('([.,!?()])', r' \1 ', sentence)
     sentence = re.sub('\s{2,}', ' ', sentence)
@@ -65,10 +64,11 @@ def makeJson(sentence, definendium, genuses, locations, sizes):
     d_index = sentence.find(definendium)
     if d_index < 0:
         return None
+    sentence = sentence.lower()
     dat["sentext"] = sentence
     ent = genuses + locations + sizes
     ent.append(definendium)
-    dat["entities"] = ent
+    dat["entities"] = [a.lower() for a in ent]
 
     relations = []
     get_relations(d_index, definendium, genuses, relations, sentence, "genus")
