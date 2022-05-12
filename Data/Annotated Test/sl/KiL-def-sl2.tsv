@@ -1,0 +1,390 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Canonicalform|Canonical
+#T_SP=webanno.custom.Category|Category
+#T_SP=webanno.custom.Definitionelement|Def_element
+#T_SP=webanno.custom.Relation|Relation
+#T_SP=webanno.custom.Relation_definitor|Rel_verb_frame
+
+
+#Text=Tafon in niša (spodmoli) sta dve različni reliefni obliki, čeprav naj bi obe obliki nastali z votlinastim preperevanjem. Po drugi strani imamo avtorje, ki spodmole enačijo s tafoni.
+1-1	0-5	Tafon	_	A.1 Surface landform	DEFINIENDUM	_	_	
+1-2	6-8	in	_	_	_	_	_	
+1-3	9-13	niša	_	A.1 Surface landform	DEFINIENDUM	_	_	
+1-4	14-15	(	_	_	_	_	_	
+1-5	15-23	spodmoli	_	A.1 Surface landform	_	_	_	
+1-6	23-24	)	_	_	_	_	_	
+1-7	25-28	sta	_	_	_	_	_	
+1-8	29-32	dve	_	_	_	_	_	
+1-9	33-41	različni	_	_	_	_	_	
+1-10	42-50	reliefni	_	_	GENUS[26]	_	_	
+1-11	51-57	obliki	_	_	GENUS[26]	_	_	
+1-12	57-58	,	_	_	_	_	_	
+1-13	59-65	čeprav	_	_	_	_	_	
+1-14	66-69	naj	_	_	_	_	_	
+1-15	70-72	bi	_	_	_	_	_	
+1-16	73-76	obe	_	_	_	_	_	
+1-17	77-83	obliki	_	_	_	_	_	
+1-18	84-91	nastali	_	_	_	_	frame\_CAUSE	
+1-19	92-93	z	_	_	_	_	_	
+1-20	94-105	votlinastim	_	B. Process[2]	_	HAS\_CAUSE[46]	_	
+1-21	106-119	preperevanjem	_	B. Process[2]	_	HAS\_CAUSE[46]	_	
+1-22	119-120	.	_	_	_	_	_	
+1-23	121-123	Po	_	_	_	_	_	
+1-24	124-129	drugi	_	_	_	_	_	
+1-25	130-136	strani	_	_	_	_	_	
+1-26	137-142	imamo	_	_	_	_	_	
+1-27	143-150	avtorje	_	_	_	_	_	
+1-28	150-151	,	_	_	_	_	_	
+1-29	152-154	ki	_	_	_	_	_	
+1-30	155-163	spodmole	_	A.1 Surface landform	_	_	_	
+1-31	164-171	enačijo	_	_	_	_	_	
+1-32	172-173	s	_	_	_	_	_	
+1-33	174-180	tafoni	_	A.1 Surface landform	_	_	_	
+1-34	180-181	.	_	_	_	_	_	
+
+#Text=Geomorfologija je veda, ki razlaga odnose med geomorfnimi procesi in reliefnimi oblikami.
+2-1	183-197	Geomorfologija	_	E.2 Method	DEFINIENDUM	_	_	
+2-2	198-200	je	_	_	DEFINITOR	_	_	
+2-3	201-205	veda	_	E.2 Method	GENUS	_	_	
+2-4	205-206	,	_	_	_	_	_	
+2-5	207-209	ki	_	_	_	_	_	
+2-6	210-217	razlaga	_	_	_	HAS\_FUNCTION[47]	_	
+2-7	218-224	odnose	_	_	_	HAS\_FUNCTION[47]	_	
+2-8	225-228	med	_	_	_	HAS\_FUNCTION[47]	_	
+2-9	229-240	geomorfnimi	_	B. Process[3]	_	HAS\_FUNCTION[47]	_	
+2-10	241-248	procesi	_	B. Process[3]	_	HAS\_FUNCTION[47]	_	
+2-11	249-251	in	_	_	_	HAS\_FUNCTION[47]	_	
+2-12	252-262	reliefnimi	_	A.1 Surface landform[4]	_	HAS\_FUNCTION[47]	_	
+2-13	263-271	oblikami	_	A.1 Surface landform[4]	_	HAS\_FUNCTION[47]	_	
+2-14	271-272	.	_	_	_	_	_	
+
+#Text=Dinarski kras je kompletno razvit kras, katerega značilnost so velike kraške depresije ali z drugimi besedami kraška polja.
+3-1	274-282	Dinarski	_	C. Geome[5]	DEFINIENDUM[27]	_	_	
+3-2	283-287	kras	_	C. Geome[5]	DEFINIENDUM[27]	_	_	
+3-3	288-290	je	_	_	DEFINITOR	_	_	
+3-4	291-300	kompletno	_	_	_	_	_	
+3-5	301-307	razvit	_	_	_	_	_	
+3-6	308-312	kras	_	C. Geome	GENUS	_	_	
+3-7	312-313	,	_	_	_	_	_	
+3-8	314-322	katerega	_	_	_	_	frame\_CONTAINS[69]	
+3-9	323-333	značilnost	_	_	_	_	frame\_CONTAINS[69]	
+3-10	334-336	so	_	_	_	_	frame\_CONTAINS[69]	
+3-11	337-343	velike	_	_	_	_	_	
+3-12	344-350	kraške	_	A.1 Surface landform[6]	_	CONTAINS[48]	_	
+3-13	351-360	depresije	_	A.1 Surface landform[6]	_	CONTAINS[48]	_	
+3-14	361-364	ali	_	_	_	_	_	
+3-15	365-366	z	_	_	_	_	_	
+3-16	367-374	drugimi	_	_	_	_	_	
+3-17	375-383	besedami	_	_	_	_	_	
+3-18	384-390	kraška	_	A.1 Surface landform[7]	_	CONTAINS[49]	_	
+3-19	391-396	polja	_	A.1 Surface landform[7]	_	CONTAINS[49]	_	
+3-20	396-397	.	_	_	_	_	_	
+
+#Text=Zoogena breča je značilna kamnina tega obdobja, ki je nastala predvsem iz ostankov favnističnega izvora.
+4-1	399-406	Zoogena	_	D.1 Abiotic[8]	DEFINIENDUM[28]	_	_	
+4-2	407-412	breča	_	D.1 Abiotic[8]	DEFINIENDUM[28]	_	_	
+4-3	413-415	je	_	_	DEFINITOR	_	_	
+4-4	416-424	značilna	_	_	_	_	_	
+4-5	425-432	kamnina	_	D.1 Abiotic	GENUS	_	_	
+4-6	433-437	tega	_	_	_	_	_	
+4-7	438-445	obdobja	_	_	_	_	_	
+4-8	445-446	,	_	_	_	_	_	
+4-9	447-449	ki	_	_	_	_	_	
+4-10	450-452	je	_	_	_	_	frame\_CAUSE[70]	
+4-11	453-460	nastala	_	_	_	_	frame\_CAUSE[70]	
+4-12	461-469	predvsem	_	_	_	_	frame\_CAUSE[70]	
+4-13	470-472	iz	_	_	_	_	frame\_CAUSE[70]	
+4-14	473-481	ostankov	_	_	_	HAS\_CAUSE[50]	_	
+4-15	482-495	favnističnega	_	_	_	HAS\_CAUSE[50]	_	
+4-16	496-502	izvora	_	_	_	HAS\_CAUSE[50]	_	
+4-17	502-503	.	_	_	_	_	_	
+
+#Text=Jarkovna erozija je globinska erozija, pri kateri na primer z zdruèvanjem erozijskih žlebičev nastajajo več metrov globoko in več deset metrov dolgi erozijski jarki.
+5-1	505-513	Jarkovna	_	B. Process[9]	DEFINIENDUM[29]	_	_	
+5-2	514-521	erozija	_	B. Process[9]	DEFINIENDUM[29]	_	_	
+5-3	522-524	je	_	_	DEFINITOR	_	_	
+5-4	525-534	globinska	_	B. Process[10]	GENUS[30]	_	_	
+5-5	535-542	erozija	_	B. Process[10]	GENUS[30]	_	_	
+5-6	542-543	,	_	_	_	_	_	
+5-7	544-547	pri	_	_	_	_	_	
+5-8	548-554	kateri	_	_	_	_	_	
+5-9	555-557	na	_	_	_	_	_	
+5-10	558-564	primer	_	_	_	_	_	
+5-11	565-566	z	_	_	_	_	_	
+5-12	567-578	zdruèvanjem	_	_	_	_	_	
+5-13	579-589	erozijskih	_	A.1 Surface landform[11]	_	_	_	
+5-14	590-598	žlebičev	_	A.1 Surface landform[11]	_	_	_	
+5-15	599-608	nastajajo	_	_	_	_	frame\_RESULT	
+5-16	609-612	več	_	_	_	_	_	
+5-17	613-619	metrov	_	_	_	_	_	
+5-18	620-627	globoko	_	_	_	_	_	
+5-19	628-630	in	_	_	_	_	_	
+5-20	631-634	več	_	_	_	_	_	
+5-21	635-640	deset	_	_	_	_	_	
+5-22	641-647	metrov	_	_	_	_	_	
+5-23	648-653	dolgi	_	_	_	_	_	
+5-24	654-663	erozijski	_	A.1 Surface landform[12]	_	HAS\_RESULT[51]	_	
+5-25	664-669	jarki	_	A.1 Surface landform[12]	_	HAS\_RESULT[51]	_	
+5-26	669-670	.	_	_	_	_	_	
+
+#Text=Plazovitost je skladnost med usmerjenostjo pobočij in vpadom kamninskih plasti.
+6-1	672-683	Plazovitost	_	D.3 Property	DEFINIENDUM	_	_	
+6-2	684-686	je	_	_	DEFINITOR	_	_	
+6-3	687-696	skladnost	_	D.3 Property	GENUS	_	_	
+6-4	697-700	med	_	_	_	_	_	
+6-5	701-714	usmerjenostjo	_	_	_	HAS\_CAUSE[52]	_	
+6-6	715-722	pobočij	_	_	_	HAS\_CAUSE[52]	_	
+6-7	723-725	in	_	_	_	HAS\_CAUSE[52]	_	
+6-8	726-732	vpadom	_	_	_	HAS\_CAUSE[52]	_	
+6-9	733-743	kamninskih	_	_	_	HAS\_CAUSE[52]	_	
+6-10	744-750	plasti	_	_	_	HAS\_CAUSE[52]	_	
+6-11	750-751	.	_	_	_	_	_	
+
+#Text=Spodmoli so vdolbine v navpičnih stenah pod previsi, ki navadno ne dosegajo dimenzij jam, njihova širina pa je večja od globine.
+7-1	753-761	Spodmoli	_	A.1 Surface landform	DEFINIENDUM	_	_	
+7-2	762-764	so	_	_	DEFINITOR	_	_	
+7-3	765-773	vdolbine	_	A.1 Surface landform	GENUS	_	_	
+7-4	774-775	v	_	_	_	HAS\_LOCATION[53]	_	
+7-5	776-785	navpičnih	_	_	_	HAS\_LOCATION[53]	_	
+7-6	786-792	stenah	_	_	_	HAS\_LOCATION[53]	_	
+7-7	793-796	pod	_	_	_	HAS\_LOCATION[53]	_	
+7-8	797-804	previsi	_	A.1 Surface landform	_	HAS\_LOCATION[53]	_	
+7-9	804-805	,	_	_	_	_	_	
+7-10	806-808	ki	_	_	_	_	_	
+7-11	809-816	navadno	_	_	_	HAS\_SIZE[54]	_	
+7-12	817-819	ne	_	_	_	HAS\_SIZE[54]	_	
+7-13	820-828	dosegajo	_	_	_	HAS\_SIZE[54]	_	
+7-14	829-837	dimenzij	_	_	_	HAS\_SIZE[54]	_	
+7-15	838-841	jam	_	_	_	HAS\_SIZE[54]	_	
+7-16	841-842	,	_	_	_	_	_	
+7-17	843-850	njihova	_	_	_	_	_	
+7-18	851-857	širina	_	_	_	_	_	
+7-19	858-860	pa	_	_	_	_	_	
+7-20	861-863	je	_	_	_	_	_	
+7-21	864-869	večja	_	_	_	_	_	
+7-22	870-872	od	_	_	_	_	_	
+7-23	873-880	globine	_	_	_	_	_	
+7-24	880-881	.	_	_	_	_	_	
+
+#Text=Dolci so v Sloveniji značilni za dolomitna površja, njihova morfogeneza pa je vezana na delovanje fluviokraških procesov.
+8-1	883-888	Dolci	_	A.1 Surface landform	DEFINIENDUM	_	_	
+8-2	889-891	so	_	_	_	_	_	
+8-3	892-893	v	_	_	_	_	_	
+8-4	894-903	Sloveniji	_	D.3.1 Geolocation	_	_	_	
+8-5	904-912	značilni	_	_	_	_	_	
+8-6	913-915	za	_	_	_	_	_	
+8-7	916-925	dolomitna	_	C. Geome[13]	_	HAS\_LOCATION[55]	_	
+8-8	926-933	površja	_	C. Geome[13]	_	HAS\_LOCATION[55]	_	
+8-9	933-934	,	_	_	_	_	_	
+8-10	935-942	njihova	_	_	_	_	_	
+8-11	943-954	morfogeneza	_	B.4 Transformation	_	_	_	
+8-12	955-957	pa	_	_	_	_	_	
+8-13	958-960	je	_	_	_	_	_	
+8-14	961-967	vezana	_	_	_	_	_	
+8-15	968-970	na	_	_	_	_	_	
+8-16	971-980	delovanje	_	_	_	HAS\_CAUSE[56]	_	
+8-17	981-994	fluviokraških	_	B. Process[14]	_	HAS\_CAUSE[56]	_	
+8-18	995-1003	procesov	_	B. Process[14]	_	HAS\_CAUSE[56]	_	
+8-19	1003-1004	.	_	_	_	_	_	
+
+#Text=Dolci, tudi dolki, so plitve dolinaste reliefne oblike brez površinskega vodnega pretakanja.
+9-1	1006-1011	Dolci	_	A.1 Surface landform	DEFINIENDUM	_	_	
+9-2	1011-1012	,	_	_	_	_	_	
+9-3	1013-1017	tudi	_	_	_	_	_	
+9-4	1018-1023	dolki	_	A.1 Surface landform	DEFINIENDUM	_	_	
+9-5	1023-1024	,	_	_	_	_	_	
+9-6	1025-1027	so	_	_	DEFINITOR	_	_	
+9-7	1028-1034	plitve	_	_	_	HAS\_SIZE	_	
+9-8	1035-1044	dolinaste	_	_	_	HAS\_FORM	_	
+9-9	1045-1053	reliefne	_	A.1 Surface landform[15]	GENUS[31]	_	_	
+9-10	1054-1060	oblike	_	A.1 Surface landform[15]	GENUS[31]	_	_	
+9-11	1061-1065	brez	_	_	_	_	_	
+9-12	1066-1078	površinskega	_	_	_	_	_	
+9-13	1079-1086	vodnega	_	_	_	_	_	
+9-14	1087-1097	pretakanja	_	B. Process	_	_	_	
+9-15	1097-1098	.	_	_	_	_	_	
+
+#Text=Dolec je značilna oblika dolomitnega površja.
+10-1	1100-1105	Dolec	_	A.1 Surface landform	DEFINIENDUM	_	_	
+10-2	1106-1108	je	_	_	DEFINITOR	_	_	
+10-3	1109-1117	značilna	_	_	_	_	_	
+10-4	1118-1124	oblika	_	_	GENUS	_	_	
+10-5	1125-1136	dolomitnega	_	C. Geome[16]	_	_	_	
+10-6	1137-1144	površja	_	C. Geome[16]	_	_	_	
+10-7	1144-1145	.	_	_	_	_	_	
+
+#Text=Dolek oziroma dolec je geomorfološka oblika, ki je zelo sorodna suhi dolini in se od nje razlikuje zgolj po velikosti.
+11-1	1147-1152	Dolek	_	A.1 Surface landform	DEFINIENDUM	_	_	
+11-2	1153-1160	oziroma	_	_	_	_	_	
+11-3	1161-1166	dolec	_	A.1 Surface landform	DEFINIENDUM	_	_	
+11-4	1167-1169	je	_	_	DEFINITOR	_	_	
+11-5	1170-1183	geomorfološka	_	_	GENUS[32]	_	_	
+11-6	1184-1190	oblika	_	_	GENUS[32]	_	_	
+11-7	1190-1191	,	_	_	_	_	_	
+11-8	1192-1194	ki	_	_	_	_	_	
+11-9	1195-1197	je	_	_	_	_	_	
+11-10	1198-1202	zelo	_	_	_	_	_	
+11-11	1203-1210	sorodna	_	_	_	HAS\_FORM[57]	_	
+11-12	1211-1215	suhi	_	A.1 Surface landform[17]	_	HAS\_FORM[57]	_	
+11-13	1216-1222	dolini	_	A.1 Surface landform[17]	_	HAS\_FORM[57]	_	
+11-14	1223-1225	in	_	_	_	_	_	
+11-15	1226-1228	se	_	_	_	_	_	
+11-16	1229-1231	od	_	_	_	_	_	
+11-17	1232-1235	nje	_	_	_	_	_	
+11-18	1236-1245	razlikuje	_	_	_	_	_	
+11-19	1246-1251	zgolj	_	_	_	_	_	
+11-20	1252-1254	po	_	_	_	_	_	
+11-21	1255-1264	velikosti	_	_	_	_	_	
+11-22	1264-1265	.	_	_	_	_	_	
+
+#Text=V kraški hidrologiji pomeni piezometrični nivo oziroma nivo podzemne vode v krasu navidezno višino vode v kanalih, ki vodijo proti izviru.
+12-1	1267-1268	V	_	_	_	_	_	
+12-2	1269-1275	kraški	_	E.2 Method[18]	_	_	_	
+12-3	1276-1287	hidrologiji	_	E.2 Method[18]	_	_	_	
+12-4	1288-1294	pomeni	_	_	_	_	_	
+12-5	1295-1308	piezometrični	_	_	DEFINIENDUM[33]	_	_	
+12-6	1309-1313	nivo	_	_	DEFINIENDUM[33]	_	_	
+12-7	1314-1321	oziroma	_	_	_	_	_	
+12-8	1322-1326	nivo	_	_	DEFINIENDUM[34]	_	_	
+12-9	1327-1335	podzemne	_	_	DEFINIENDUM[34]	_	_	
+12-10	1336-1340	vode	_	_	DEFINIENDUM[34]	_	_	
+12-11	1341-1342	v	_	_	_	_	_	
+12-12	1343-1348	krasu	_	C. Geome	_	_	_	
+12-13	1349-1358	navidezno	_	_	GENUS[35]	DEFINED\_AS[58]	_	
+12-14	1359-1365	višino	_	_	GENUS[35]	DEFINED\_AS[58]	_	
+12-15	1366-1370	vode	_	_	GENUS[35]	DEFINED\_AS[58]	_	
+12-16	1371-1372	v	_	_	_	DEFINED\_AS[58]	_	
+12-17	1373-1380	kanalih	_	_	_	DEFINED\_AS[58]	_	
+12-18	1380-1381	,	_	_	_	DEFINED\_AS[58]	_	
+12-19	1382-1384	ki	_	_	_	DEFINED\_AS[58]	_	
+12-20	1385-1391	vodijo	_	_	_	DEFINED\_AS[58]	_	
+12-21	1392-1397	proti	_	_	_	DEFINED\_AS[58]	_	
+12-22	1398-1404	izviru	_	A.3 Hydrological form	_	DEFINED\_AS[58]	_	
+12-23	1404-1405	.	_	_	_	_	_	
+
+#Text=Abrazija je destrukcijsko delo morskih in jezerskih valov.
+13-1	1407-1415	Abrazija	_	B. Process	DEFINIENDUM	_	_	
+13-2	1416-1418	je	_	_	DEFINITOR	_	_	
+13-3	1419-1432	destrukcijsko	_	B. Process[19]	GENUS[36]	_	_	
+13-4	1433-1437	delo	_	B. Process[19]	GENUS[36]	_	_	
+13-5	1438-1445	morskih	_	_	_	HAS\_CAUSE[59]	_	
+13-6	1446-1448	in	_	_	_	HAS\_CAUSE[59]	_	
+13-7	1449-1458	jezerskih	_	_	_	HAS\_CAUSE[59]	_	
+13-8	1459-1464	valov	_	_	_	HAS\_CAUSE[59]	_	
+13-9	1464-1465	.	_	_	_	_	_	
+
+#Text=Erozija prsti je oznaka za proces, ki povečini prizadene prst.
+14-1	1467-1474	Erozija	_	B. Process	DEFINIENDUM[37]	_	_	
+14-2	1475-1480	prsti	_	_	DEFINIENDUM[37]	_	_	
+14-3	1481-1483	je	_	_	DEFINITOR[38]	_	_	
+14-4	1484-1490	oznaka	_	_	DEFINITOR[38]	_	_	
+14-5	1491-1493	za	_	_	DEFINITOR[38]	_	_	
+14-6	1494-1500	proces	_	B. Process	GENUS	_	_	
+14-7	1500-1501	,	_	_	_	_	_	
+14-8	1502-1504	ki	_	_	_	_	_	
+14-9	1505-1513	povečini	_	_	_	_	_	
+14-10	1514-1523	prizadene	_	_	_	HAS\_RESULT[60]	_	
+14-11	1524-1528	prst	_	_	_	HAS\_RESULT[60]	_	
+14-12	1528-1529	.	_	_	_	_	_	
+
+#Text=Premikanje preperine oziroma preperinski tok povzroči nagubanje sklenjene travne ruše, zaradi česar je na površju viden grbinast relief.
+15-1	1531-1541	Premikanje	_	B.1 Movement	DEFINIENDUM[39]	_	_	
+15-2	1542-1551	preperine	_	D.1 Abiotic	DEFINIENDUM[39]	_	_	
+15-3	1552-1559	oziroma	_	_	_	_	_	
+15-4	1560-1571	preperinski	_	B. Process[20]	DEFINIENDUM[40]	_	_	
+15-5	1572-1575	tok	_	B. Process[20]	DEFINIENDUM[40]	_	_	
+15-6	1576-1584	povzroči	_	_	_	_	frame\_RESULT	
+15-7	1585-1594	nagubanje	_	B.4 Transformation	_	HAS\_RESULT[61]	_	
+15-8	1595-1604	sklenjene	_	_	_	HAS\_RESULT[61]	_	
+15-9	1605-1611	travne	_	_	_	HAS\_RESULT[61]	_	
+15-10	1612-1616	ruše	_	_	_	HAS\_RESULT[61]	_	
+15-11	1616-1617	,	_	_	_	_	_	
+15-12	1618-1624	zaradi	_	_	_	_	_	
+15-13	1625-1630	česar	_	_	_	_	_	
+15-14	1631-1633	je	_	_	_	_	_	
+15-15	1634-1636	na	_	_	_	_	_	
+15-16	1637-1644	površju	_	_	_	_	_	
+15-17	1645-1650	viden	_	_	_	_	_	
+15-18	1651-1659	grbinast	_	_	_	HAS\_RESULT[62]	_	
+15-19	1660-1666	relief	_	_	_	HAS\_RESULT[62]	_	
+15-20	1666-1667	.	_	_	_	_	_	
+
+#Text=Bruhalniki so kraški izviri, ki obdobno bruhajo vodo na površje.
+16-1	1669-1679	Bruhalniki	_	A.3 Hydrological form	DEFINIENDUM	_	_	
+16-2	1680-1682	so	_	_	DEFINITOR	_	_	
+16-3	1683-1689	kraški	_	A.3 Hydrological form[21]	GENUS[41]	_	_	
+16-4	1690-1696	izviri	_	A.3 Hydrological form[21]	GENUS[41]	_	_	
+16-5	1696-1697	,	_	_	_	_	_	
+16-6	1698-1700	ki	_	_	_	_	_	
+16-7	1701-1708	obdobno	_	_	_	_	_	
+16-8	1709-1716	bruhajo	_	_	_	HAS\_FUNCTION[63]	_	
+16-9	1717-1721	vodo	_	D.1 Abiotic	_	HAS\_FUNCTION[63]	_	
+16-10	1722-1724	na	_	_	_	HAS\_FUNCTION[63]	_	
+16-11	1725-1732	površje	_	_	_	HAS\_FUNCTION[63]	_	
+16-12	1732-1733	.	_	_	_	_	_	
+
+#Text=Korozija je posledica večje količine vode v nižjih legah.
+17-1	1735-1743	Korozija	_	B. Process	DEFINIENDUM	_	_	
+17-2	1744-1746	je	_	_	DEFINITOR	_	frame\_CAUSE[71]	
+17-3	1747-1756	posledica	_	_	_	_	frame\_CAUSE[71]	
+17-4	1757-1762	večje	_	_	_	HAS\_CAUSE[64]	_	
+17-5	1763-1771	količine	_	_	_	HAS\_CAUSE[64]	_	
+17-6	1772-1776	vode	_	_	_	HAS\_CAUSE[64]	_	
+17-7	1777-1778	v	_	_	_	HAS\_CAUSE[64]	_	
+17-8	1779-1785	nižjih	_	_	_	HAS\_CAUSE[64]	_	
+17-9	1786-1791	legah	_	_	_	HAS\_CAUSE[64]	_	
+17-10	1791-1792	.	_	_	_	_	_	
+
+#Text=Erozijski jarki so stalna reliefna oblika, pogosta na strmih pobočjih.
+18-1	1794-1803	Erozijski	_	A.1 Surface landform[22]	DEFINIENDUM[42]	_	_	
+18-2	1804-1809	jarki	_	A.1 Surface landform[22]	DEFINIENDUM[42]	_	_	
+18-3	1810-1812	so	_	_	DEFINITOR	_	_	
+18-4	1813-1819	stalna	_	_	_	_	_	
+18-5	1820-1828	reliefna	_	A.1 Surface landform[23]	GENUS[43]	_	_	
+18-6	1829-1835	oblika	_	A.1 Surface landform[23]	GENUS[43]	_	_	
+18-7	1835-1836	,	_	_	_	_	_	
+18-8	1837-1844	pogosta	_	_	_	_	_	
+18-9	1845-1847	na	_	_	_	HAS\_LOCATION[65]	_	
+18-10	1848-1854	strmih	_	_	_	HAS\_LOCATION[65]	_	
+18-11	1855-1863	pobočjih	_	_	_	HAS\_LOCATION[65]	_	
+18-12	1863-1864	.	_	_	_	_	_	
+
+#Text=Mikrožlebiči so vzporedne, ravno potekajoče podolgovate vdolbine, ki se pojavljajo na bolj nagnjeni goli skalni površini.
+19-1	1866-1878	Mikrožlebiči	_	A.1 Surface landform	DEFINIENDUM	_	_	
+19-2	1879-1881	so	_	_	DEFINITOR	_	_	
+19-3	1882-1891	vzporedne	_	_	_	HAS\_FORM	_	
+19-4	1891-1892	,	_	_	_	_	_	
+19-5	1893-1898	ravno	_	_	_	HAS\_FORM[66]	_	
+19-6	1899-1909	potekajoče	_	_	_	HAS\_FORM[66]	_	
+19-7	1910-1921	podolgovate	_	_	_	HAS\_FORM	_	
+19-8	1922-1930	vdolbine	_	_	GENUS	_	_	
+19-9	1930-1931	,	_	_	_	_	_	
+19-10	1932-1934	ki	_	_	_	_	_	
+19-11	1935-1937	se	_	_	_	_	frame\_LOCATION[72]	
+19-12	1938-1948	pojavljajo	_	_	_	_	frame\_LOCATION[72]	
+19-13	1949-1951	na	_	_	_	_	frame\_LOCATION[72]	
+19-14	1952-1956	bolj	_	_	_	_	_	
+19-15	1957-1965	nagnjeni	_	_	_	HAS\_LOCATION[67]	_	
+19-16	1966-1970	goli	_	_	_	HAS\_LOCATION[67]	_	
+19-17	1971-1977	skalni	_	_	_	HAS\_LOCATION[67]	_	
+19-18	1978-1986	površini	_	_	_	HAS\_LOCATION[67]	_	
+19-19	1986-1987	.	_	_	_	_	_	
+
+#Text=Korozijske stopničke so polkrožne kraške reliefne oblike, ki se pojavljajo predvsem na golem skalnem površju.
+20-1	1989-1999	Korozijske	korozijska stopnička[1]	A.1 Surface landform[24]	DEFINIENDUM[44]	_	_	
+20-2	2000-2009	stopničke	korozijska stopnička[1]	A.1 Surface landform[24]	DEFINIENDUM[44]	_	_	
+20-3	2010-2012	so	_	_	DEFINITOR	_	_	
+20-4	2013-2022	polkrožne	_	_	_	HAS\_FORM	_	
+20-5	2023-2029	kraške	_	_	_	_	_	
+20-6	2030-2038	reliefne	_	A.1 Surface landform[25]	GENUS[45]	_	_	
+20-7	2039-2045	oblike	_	A.1 Surface landform[25]	GENUS[45]	_	_	
+20-8	2045-2046	,	_	_	_	_	_	
+20-9	2047-2049	ki	_	_	_	_	_	
+20-10	2050-2052	se	_	_	_	_	frame\_LOCATION[73]	
+20-11	2053-2063	pojavljajo	_	_	_	_	frame\_LOCATION[73]	
+20-12	2064-2072	predvsem	_	_	_	_	frame\_LOCATION[73]	
+20-13	2073-2075	na	_	_	_	_	frame\_LOCATION[73]	
+20-14	2076-2081	golem	_	_	_	HAS\_LOCATION[68]	_	
+20-15	2082-2089	skalnem	_	_	_	HAS\_LOCATION[68]	_	
+20-16	2090-2097	površju	_	_	_	HAS\_LOCATION[68]	_	
+20-17	2097-2098	.	_	_	_	_	_	

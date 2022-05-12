@@ -1,0 +1,1624 @@
+REL_LABEL,REL_TOK,REL_FRAME
+HAS_FUNCTION,ločuje matično kamnino od speleofaktov,ločuje
+HAS_LOCATION,v speleogenetskem prostoru,v
+HAS_FORM,Ploskev,
+DEFINED_AS,Poleg sedimentacije in rušenja vključuje tudi diagenezo,
+CONTAINS,Polnilo v fosiliziranem kanalu se obnaša kot kompaktna kamnina,
+DEFINED_AS,Preoblikovanje kanala,
+HAS_LOCATION,v prežeti ali neprežeti coni,v
+HAS_FORM,Značilna sta elipsast ali lečast prečni presek,Značilna sta
+HAS_CAUSE,"Njegov prostorski potek se ne ravna po vodoravni smeri , temveč po smeri inicialnih struktur",
+HAS_LOCATION,nastal v prežeti coni,v
+HAS_CAUSE,ob preskoku kanala z enega začetnega horizonta v drugega,ob
+HAS_FORM,so v prečnem ( približno vodoravnem ) prerezu elipsasta in podobna kaminom,podobna
+HAS_CAUSE,se ravna približno po padnici inicialne strukture,
+HAS_LOCATION,ki nastane v prežeti coni,v
+HAS_CAUSE,ko ponikalnica z nekraškega površja vnaša prod,
+HAS_LOCATION,je značilen za kras na nizvodnem stiku z nekrasom,na
+HAS_RESULT,se plavje odlaga v globljih delih svežnja,
+HAS_LOCATION,in teče po lastnem nasipu vzdolž gladine podtalnice,||
+HAS_RESULT,Dejansko to pomeni vdor tluvialnih razmer v kraško podzemlje,Dejansko to pomeni
+HAS_POSITION,na Slovenskem,na
+HAS_CAUSE,Ker pretok in transportna moč vode nista popolnoma enakomerna,
+HAS_RESULT,voda končno izoblikuje tunelski rov vzdolž gladine podtalnice,končno|vzdolž
+HAS_CAUSE,"To prisili vodo , da ubira pota po kanalih , ki so vse bliže piezometrični gladini",
+HAS_RESULT,torej nastanejo tunelski rovi,torej nastanejo
+HAS_POSITION,v Planinski jami,
+HAS_RESULT,niže ležeči kanali niso vedno zasuti,
+HAS_CAUSE,"ko voda prenaša prod , ki nastaja v samem kraškem podzemlju",
+HAS_ATTRIBUTE,lahko tudi prosto pada,
+HAS_FUNCTION,zapolni kanale,zapolni
+HAS_ATTRIBUTE,ne le da ima prosto gladino,ima
+HAS_LOCATION,ki se skozi neprežeto cono spušča malone navpično proti prežeti coni,ki se skozi
+HAS_RESULT,oblikuje posebne tipe kraških votlin,
+HAS_LOCATION,med slano podtalnico in sladkovodno lečo na morskih grebenih in atolih,med|na
+HAS_RESULT,Zaradi stika obeh voda se poveča agresivnost vode,se poveča
+HAS_ATTRIBUTE,kjer vladajo značilni režimi obnašanja podzemske vode,kjer vladajo
+HAS_FORM,Zakraseli,
+HAS_LOCATION,nad gladino podtalnice,nad
+HAS_LOCATION,pod njo,pod
+CONTAINS,obsega zakraseli del speleogenetskega prostora,obsega
+HAS_CAUSE,nastal zaradi delovanja hidrotermalnih voda,nastal zaradi
+HAS_SIZE,"globoka in široka več centimetrov ali decimetrov , izjemoma nekaj metrov",globoka in široka
+HAS_FORM,"ravnega dna in strmih , celo previsnih sten",
+HAS_LOCATION,v območju plimovanja a1i valovanja,v območju
+CONTAINS,jo obdobno zapolnjuje morska voda,zapolnjuje|jo
+CONTAINS,ki jo prekriva zemlja ( prst,ki jo prekriva
+HAS_FORM,Škavnici podobna,podobna
+HAS_CAUSE,ki ji je obod prerezal odvodni žleb,
+HAS_FORM,s predrtim dnom,
+CONTAINS,brez stoječe vode,brez
+CONTAINS,"ločijo vmesni noži , grebeni , hrbti , poličke",
+HAS_SIZE,Nekaj centimetrov do vec decimetrov in metrov razsežna,razsežna
+HAS_LOCATION,v skalnem površju,
+HAS_FORM,smer določuje biološka linija najmanjšega odpora,
+HAS_FUNCTION,brez vzdolžnega pretakanja,
+HAS_CAUSE,izjedenina,
+HAS_LOCATION,v jami,v
+HAS_CAUSE,ki nastane z agresivno prenikajočo vodo,ki nastane z
+HAS_CAUSE,zaradi pršavice ( abrazije valov,zaradi
+COMPOSITION_MEDIUM,ki nastaja na golih skalnih tleh,ki nastaja na
+HAS_LOCATION,na morski ali jezerski obali,na
+HAS_FORM,V raznih smereh zluknjana in izjedena,
+HAS_LOCATION,izpostavljena,
+HAS_CAUSE,Nastala ob leziki,Nastala ob
+HAS_FORM,v obliki navpicnih lukenj in raz,v obliki
+HAS_SIZE,"Nekaj decimetrov , do nekaj metrov globoka",globoka
+HAS_FORM,z vidnim dnom,
+COMPOSITION_MEDIUM,skalna,
+HAS_FORM,ki jih razdvaja priostren vmesni skalni grebenček,ki jih razdvaja
+HAS_LOCATION,", ob kateri se je razvila na poklino",|
+HAS_FORM,ki kaže v obliki še tesno navezanost na poklino,ki kaže v obliki
+HAS_CAUSE,Nastane s porušitvijo hrbtov med škrapljami,Nastane s
+HAS_LOCATION,"pod tankim , neprepustnim sedimentnim pokrovom",pod
+HAS_FORM,katerega oblike se le delno odražajo na površju,na
+HAS_ATTRIBUTE,Je lahko fosilni ali recentni kras ali oboje hkrati,
+HAS_LOCATION,Pod vodoprepustnimi ( kvartarnimi ) naplavinami,Pod
+CONTAINS,da je brez površinskih kraških pojavov,je brez
+COMPOSITION_MEDIUM,ki je prekrit z neprepustnimi sedimenti do tolike mere,je prekrit
+HAS_FORM,se odraža tudi v površinskih oblikah,
+HAS_LOCATION,ob morski ali jezerski obali,ob
+CONTAINS,"opazna linearna razvrstitev depresijskih oblik , reber ali večjih vzpetinic",
+HAS_LOCATION,sredi nekraške okolice,sredi
+HAS_FORM,Izolirani ali vsaj od treh strani obdani in zajezeni,
+HAS_FUNCTION,v katerem vzdržujejo sosednje neprepustne kamnine ali lokalna erozijska baza ( Vorfluter ) globoko freatično cono,v katerem vzdržujejo
+STUDIES,"združuje fizično speleologijo , biospeleologijo , geografijo krasa",
+STUDIES,ki preučuje kras,preučuje
+HAS_RESULT,voda istega toka javlja v dveh kraških izvirih,javlja v
+HAS_RESULT,se višje vode iz iste kotanje izlivajo v drugo smer kot nižje,izlivajo v
+HAS_LOCATION,Na krasu,Na
+HAS_FORM,Z vseh strani zaprta,
+CONTAINS,z izviri na eni in ponori na drugi strani,z
+HAS_LOCATION,na krasu,na
+HAS_LOCATION,na krasu,na
+HAS_RESULT,"Zunanji znak intenzivne kraške erozije prsti so kamni , ki na obdelovalnih zemljišcih pogledajo na površje",
+HAS_CAUSE,pri kateri se zaradi spiranja,zaradi spiranja
+HAS_RESULT,zniža raven prsti,zniža raven
+HAS_LOCATION,v kraško notranjost,v
+HAS_FORM,na podstavku leži,|na
+HAS_FUNCTION,ki je zašlitila apneniško podlago pred zniževanjem in zato leži,zašlitila|leži
+DEFINED_AS,Opis kraških vodnih razmer,Opis
+STUDIES,Veda o kraškem vodovju,Veda o
+CONTAINS,v kateri nastopajo kraški pojavi,
+HAS_LOCATION,v kraško podzemlje,v
+HAS_FUNCTION,ponikne,
+HAS_LOCATION,v odprtino,v
+COMPOSITION_MEDIUM,večidel prekrito z naplavino,
+HAS_FUNCTION,ponikanje vodnega toka,
+HAS_LOCATION,kamor se izgublja voda,kamor se izgublja
+HAS_FUNCTION,v kateri ponika voda,v kateri ponika
+HAS_SIZE,večja,
+HAS_FORM,vodoravna,
+HAS_FUNCTION,v katero teče potok ali reka,v
+HAS_SIZE,Večja,
+HAS_FUNCTION,v katerega teče voda iz jezera,
+HAS_LOCATION,na obali ali jezerski kotanji,na
+HAS_LOCATION,v skalnem koritu,v
+HAS_LOCATION,Mesto izgubljanja vode v kraško podzemlje,Mesto
+HAS_FUNCTION,ki požira vodo,ki požira
+HAS_FORM,"Po podobnosti z geometrijskimi liki ločimo okroglasti , sodasti , pravokotniški , kvadratasti , trapezasti , kupolasti ( svodasti ) , lečasti , špranjasti ( itd . ) prečni profil",Po podobnosti z geometrijskimi liki ločimo
+HAS_FORM,Oblika jamskega rova v prečnem preseku,v prečnem preseku
+HAS_FORM,"Zanj so značilne stene , ravno dno in svodast strop",
+CONTAINS,". stene , ravno dno in svodast strop",||||||
+HAS_FUNCTION,oblikuje gravitacijski prečni profil,oblikuje
+HAS_FORM,značilne okroglaste oblike,značilne okroglaste oblike
+HAS_CAUSE,nastali s pretokom vode pod tlakom,
+HAS_FUNCTION,oblikuje eforacijski prečni profil,oblikuje
+OCCURS_IN_TIME,"Doba v razvoju površja pred začetkom zakrasevanja , ko je vladal na površju rečni ( normalni ) relief",pred začetkom
+STUDIES,Določujejo jo z izgubljanjem vode v določenem časovnem razmaku in pod določenim pritiskom na meter dolžine vrtine v kraški kamnini,Določujejo jo z
+DEFINED_AS,Stopnja prepustnosti kraške kamnine,
+HAS_FUNCTION,ki se občasno presuši,
+HAS_FORM,Vrtačasta,
+COMPOSITION_MEDIUM,v nekarbonatni kamnini,v
+COMPOSITION_MEDIUM,"v nekarbonatnih kamninah ( lavi , soli )",v
+COMPOSITION_MEDIUM,v nekarbonatni kamnini,v
+HAS_LOCATION,Del jame ali brezna,Del
+HAS_FORM,cevast,
+HAS_FORM,neglede na dimenzije in oblike,
+HAS_SIZE,enakomerno širok,
+STUDIES,ki prikazuje kompleksno podobo reliefa nekega območja,ki prikazuje
+HAS_ATTRIBUTE,kopučaste teksture,
+HAS_CAUSE,biogena,
+OCCURS_IN_TIME,miocenska ( badenijska ),
+HAS_CAUSE,nastala z biokemičnimi procesi,nastala z
+OCCURS_IN_TIME,iz badenijskega obdobja srednjega miocena,iz|obdobja
+HAS_CAUSE,suspendira iz poplavnih vod,suspendira iz
+HAS_CAUSE,korozijski ostanek sredi korozijske uravnave,
+HAS_FUNCTION,"v poletnem času , ko turloughi presahnejo so pomembni za pašo drobnice",
+HAS_FUNCTION,pomemben habitat za floro in favno,pomemben|za
+HAS_FORM,podolgovat zaobljen grič,
+COMPOSITION_MEDIUM,iz drobirja talne morene,iz
+HAS_FORM,razpotegnjen v smeri premikanja nekdanjega ledenika,
+HAS_LOCATION,v reki,
+DEFINED_AS,Raztekanje voda z istega območja v različna porečja in povodja,
+HAS_LOCATION,ob izstopu iz ozkih gorskih grap v široko glavno ravnino,
+HAS_FORM,stožčasto,
+HAS_FORM,s precejšnjim strmcem in prečnim profilom v obliki črke V,
+HAS_LOCATION,na pobočju,na
+HAS_FUNCTION,"Voda po njej teče le v majhnih količinah in le občasno , ob nalivih lahko v njih nastanejo siloviti hudourniki",
+HAS_CAUSE,"nastanek povezujemo s točkastim vertikalnim odnašanjem kamnine v podzemlje , bodisi z nenadnimi udori nad jamskimi prostori , bodisi s postopnim odnašanjem kamnine nad aktivnimi jamskimi rovi",
+HAS_FORM,različnih oblik,
+HAS_SIZE,različnih,
+HAS_SIZE,velikosti,
+HAS_ATTRIBUTE,kraška hidrologija,
+HAS_SIZE,najmanj pol kilometra široka uravnava z višjim obodom,široka
+HAS_SIZE,obsežnim,
+HAS_FORM,sklenjen obod nad razmeroma uravnanim obsežnim dnom,
+HAS_LOCATION,podzemeljsko,
+HAS_FUNCTION,prehodno,
+HAS_FORM,ki je lahko vodoravna ali navpična,
+HAS_FORM,"nasprotno od brezna , ki je navpično",
+HAS_FORM,pretežno horizontalna,
+HAS_LOCATION,podzemna,
+HAS_FUNCTION,prehodna,
+HAS_CAUSE,kemično denudacijo karbonatne podlage na območjih vršajev,
+HAS_LOCATION,kontaktnega krasa,
+HAS_CAUSE,nastanejo s postopno denudacijo flišne naplavine,
+HAS_LOCATION,na območjih vršajev,||
+COMPOSITION_MEDIUM,"na apnencih , na dolomitih jih navadno ni , razvijejo se tudi na pleistocenskih in oligocenskih konglomeratih",
+HAS_LOCATION,manj pogosto pojavljajo na strmih pobočjih,
+HAS_LOCATION,se pogosto nahajajo na karbonatih in evaporitih,
+HAS_FORM,"deli na skledaste , lijakaste , kotlaste in vodnjakaste",
+HAS_CAUSE,"jih ločimo na korozijske , udorne , sufozijske in posedne",
+HAS_RESULT,"do te mere , da se razvijejo   kraški vodonosniki   oziroma jame",
+HAS_FUNCTION,površinsko tekoča voda izginja v podzemlje,
+HAS_FORM,lijakasta,
+HAS_LOCATION,v tleh zakraselega območja,
+CONTAINS,"se na njem ne pojavljajo največje kraške oblike , kot so kraška polja , uvale in daljši jamski sistemi",
+CONTAINS,"Tu najdemo manjše kraške pojave , vrtače , kotliče , manjše ponikalnice in manjše jame",
+CONTAINS,"površinske oblike   slepe doline in ponorni zatrepi ( Mihevc , 1991 ) , suhe doline , skupine udornic v kraškem zaledju večjih ponorov ( Stepišnik , 2010 ) in reliktni vršaji",
+HAS_ATTRIBUTE,poseben tip   oblikovanosti in delovanja površja,
+HAS_LOCATION,"na območjih , kjer vode pritekajo iz fluvialnega geomorfnega sistema v kraškega ali obratno",
+COMPOSITION_MEDIUM,kontaktnega krasa,
+HAS_CAUSE,"ki jo oblikujejo fluvialni procesi ,",
+HAS_LOCATION,"kjer reka , ki je dolino izdolbla , ponika v jamski sistem",
+HAS_CAUSE,"ki nastane na območju izvirov , kjer vode pritekajo iz kraške kamnine",
+HAS_CAUSE,akumulacijo,
+HAS_CAUSE,postopnega preoblikovanja te oblike z denudacijo alohtonih nanosov v obliko na karbonatni podlagi,
+HAS_CAUSE,prekinitve fluvialne akumulacije alohtonega materiala,
+HAS_FUNCTION,poteka v vodonosniku tudi napajanje z vodo in njeno odtekanje,
+HAS_FUNCTION,"masa apnenca , ki zadržuje vodo , ki se steka s kraškega površja v podzemlje",
+COMPOSITION_MEDIUM,na karbonatnih kamninah,na
+HAS_ATTRIBUTE,prevladuje površinski odtok vode,prevladuje
+HAS_ATTRIBUTE,"temperatura zraka z višino narašča , namesto da bi padala",
+HAS_SIZE,se dvigujejo od nekaj 10 do 200 m nad okoliško površje,m nad okoliško površje|se dvigujejo
+HAS_FORM,so v tlorisu okroglaste oblike,so v tlorisu
+HAS_FORM,Kopaste,
+HAS_FORM,kjer se osamljeno dvigajo več deset ali sto metrov visoke vzpetine,kjer se osamljeno dvigajo
+CONTAINS,vrtače,
+HAS_POSITION,na Dinarskem krasu,na
+HAS_LOCATION,je prevladujoč tip kraškega površja v zmernotoplem pasu,je prevladujoč tip
+HAS_FORM,združuje kraške oblike in hidrologijo s podedovanimi ledeniškimi oblikami,združuje
+HAS_CAUSE,je rezultat delovanja poledenitve na kraški geomorfni sistem,je rezultat
+HAS_ATTRIBUTE,dobra ohranjenost ledeniških geomorfoloških oblik,
+HAS_CAUSE,kemična denudacija površja in vertikalni odtok padavinske vode v podzemlje,
+CONTAINS,ledeniških geomorfoloških oblik,||
+HAS_CAUSE,je kraško površje lokalno preoblikovano zaradi delovanja površinsko tekočih vod,zaradi
+COMPOSITION_MEDIUM,na dolomitu,
+HAS_CAUSE,vezane tudi na močno zakrasevanje apnencev v podlagi,vezane tudi na
+DEFINED_AS,Meja med nezasičenim in zasičenim območjem,
+OCCURS_IN_TIME,ko vzdolž celotnega segmenta od ponorov do izvirov laminarni tok preide v turbulentnega,ko
+HAS_CAUSE,litoloških značilnosti kamnine,
+HAS_CAUSE,posledica tektonskega razvoja kamninskega masiva,posledica
+HAS_FORM,Sistem freatičnih rovov in skokov,
+COMPOSITION_MEDIUM,ga tvorijo vzporedno tekoče plasti vode,ga tvorijo
+HAS_LOCATION,v inicialnih kanalih,v
+HAS_LOCATION,Zgornji del te cone predstavlja,Zgornji del
+COMPOSITION_MEDIUM,tanka prst,
+HAS_CAUSE,je rezultat razmerja med dinamiko premeščanja mase v dno in iz dna,je rezultat
+HAS_RESULT,s katerim nastajajo manjše udornice,
+HAS_LOCATION,na kraškem površju,na
+CONTAINS,"stena , melišče , pobočje z blagimi pobočnimi procesi , ki jih v nadaljevanju imenujem aktivna pobočja , ter uravnoteženo pobočje",
+HAS_LOCATION,vzporedno s pobočjem navzdol,|||
+HAS_FUNCTION,kjer so aktivni pobočni procesi polzenja tal oziroma prepereline vzporedno s pobočjem navzdol,kjer so aktivni
+HAS_SIZE,Večje,
+HAS_FORM,ki naj bi bile v tlorisu bolj nepravilnih oblik,v tlorisu
+HAS_CAUSE,je najstarejša razlaga nastanka,
+HAS_SIZE,Večje globeli od uval,od|Večje
+HAS_CAUSE,pri katerem se z enim udorom oblikuje celotna oblika,
+HAS_FORM,ki jih prekrivajo ledeniki,
+COMPOSITION_MEDIUM,Sigova tvorba,
+CONTAINS,majhni stalaktiti,
+HAS_FORM,v obliki diska ali palete,v obliki
+HAS_LOCATION,pritrjena na jamsko steno ali na strop,pritrjena na
+COMPOSITION_MEDIUM,sigova tvorba,
+HAS_FORM,Vodnemu slapu podobna,podobna
+HAS_SIZE,večje širine,
+HAS_LOCATION,na strmi ali navpični steni,na
+HAS_LOCATION,na rahlo položnih ali strmih pobočjih,
+HAS_SIZE,Do nekaj centimetrov široka,široka
+HAS_FORM,stopnička,
+COMPOSITION_MEDIUM,"iz kalcita , huntita ali magnezija",iz
+HAS_FORM,"Mokro je pastozno , suho pa krhko",
+CONTAINS,zapolnjena s stoječo vodo,zapolnjena s
+COMPOSITION_MEDIUM,iz sige,iz
+HAS_FORM,navpično do gladine vode segajočo steno na odtočni strani,
+OCCURS_IN_TIME,stalno ali obdobno,
+HAS_FORM,tanka,
+HAS_FORM,zvijugana sigova skorja,
+HAS_LOCATION,na previsu,na
+HAS_FORM,Podolgovata,
+COMPOSITION_MEDIUM,Sigove tvorbe,
+HAS_LOCATION,zrasle na jamski steni ali jamskem stropu,zrasle na
+HAS_FORM,"okroglaste , čebuli podobne oblike",oblike
+HAS_FORM,Stoječa ali viseča,
+HAS_CAUSE,nastala z izločanjem sige iz kapljajoče vode,nastala z
+HAS_FORM,oblike cevčiče oziroma slame,oblike
+HAS_FORM,Stoječi,
+HAS_FORM,"po obliki lahko stožcast , valjast , kijast",po obliki
+HAS_FORM,"Po obliki cevast , korenast , kijast , svedrast",Po obliki
+HAS_FORM,Viseči,
+HAS_CAUSE,do dna zrasli stalaktit,
+HAS_CAUSE,do stropa zrasli stalagmit,
+HAS_CAUSE,Zraščena stalagmit in stalaktit,
+HAS_SIZE,Drobna,
+HAS_CAUSE,zaradi kapilarne vode,zaradi
+HAS_FORM,zraste v raznih smereh,zraste v
+HAS_LOCATION,visi cez podlago,visi cez
+COMPOSITION_MEDIUM,Sigova tvorba,
+HAS_FORM,"jo navadno sestavlja niz stalaktitov , zraslih deloma v sigov klobuk",
+HAS_CAUSE,"katerega oblika ni pogojena z gravitacijo , temveč z drugimi ( kristalnimi itd . ) silami",pogojena z
+HAS_FORM,Nenavadno zavit,
+DEFINED_AS,deformacija razpoklinskega prevodnika,
+HAS_RESULT,tako da inicialne strukture preraščajo v kanale,preraščajo v
+DEFINED_AS,Delež praznega prostora v določeni prostomini kamnine,v
+HAS_LOCATION,v določeni prostomini kamnine,|||
+COMPOSITION_MEDIUM,"ki ga prispevajo razpoke , Jezike in kraške votline",ki ga prispevajo
+OCCURS_IN_TIME,traja laminarni tok od začetja do preboja,traja
+HAS_CAUSE,"nastane , kadar je Reynoldsovo število < 2000",nastane
+HAS_LOCATION,V jamskih kanalih,V
+HAS_SIZE,"možno samo pri majhnih hitrostih , do 10 · 3 mis",
+HAS_FUNCTION,pri katerem so tokovnice ves čas vzporedne,
+DEFINED_AS,"je kombinacija štirih parametrov ( premera kanala , gostote , hitrost in viskoznosti tekoči ­ ne",je kombinacija
+HAS_LOCATION,kije nastal vzdolž lezike in ji popolnoma sledi,vzdolž
+CONTAINS,Vključuje epi - in endokraške pojave,Vključuje
+HAS_CAUSE,nastal zaradi delovanja padavinskih voda na kraške kamni ne,nastal zaradi
+HAS_LOCATION,nad gladino podtalnice,nad
+HAS_FUNCTION,Prevaja preniklo padavinsko vodo in jo oddaja prežeti coni,Prevaja
+HAS_FUNCTION,Prevaja tudi vode invazijskih jam,Prevaja
+HAS_RESULT,vzdolž katere je nastal pomemben del svežnja,vzdolž katere
+HAS_LOCATION,v kamnini,|
+HAS_SIZE,a se ne razteza na večje razdalje,razteza
+HAS_FUNCTION,Speleogenetsko pomembna nezveznost v kamnini,v
+HAS_LOCATION,ki je v okviru natančnosti opazovanj vzporedna pravim lezikam,vzporedna
+HAS_RESULT,bistveno zavre nadaljnje korozijsko večanje,zavre
+HAS_RESULT,"Dimenzija kanala , pri kateri netopno plavje prekrije stene",
+HAS_LOCATION,"v smeri , kjer stene oz . dno niso prevlečene s plavjem",v smeri
+HAS_RESULT,"Razdalja , do katere zaradi reakcije s prikamnino prenikujoči vodi agresivnost upade na 10% začetne vrednosti",do katere zaradi
+HAS_RESULT,ki lahko ob primernih pogojih prerastejo v kraške votline,prerastejo v
+HAS_CAUSE,nastale kot posledica medplastovnih zdrsov,nastale kot posledica
+CONTAINS,kamor visoko nad gladino podtalnice vteka že oblikovan vodotok,vteka
+HAS_LOCATION,neprežete cone,
+HAS_FORM,Značilen je profil ključavnice,Značilen je
+HAS_SIZE,naj bi bila vsaj 10 m dolga ali globoka,dolga|globoka
+HAS_SIZE,prehodna človeku,
+HAS_LOCATION,v krasu,v
+HAS_CAUSE,naravna,
+HAS_LOCATION,ki jih najdemo v kraških votlinah,v
+HAS_CAUSE,"avtohtone , ki nastajajo iz komponent poljubnega izvora v specifično jamskih razmerah",ki nastajajo iz
+HAS_CAUSE,"alohtone , ki so zunanjega izvora in lahko s krasom sploh nimajo zveze",izvora|ki so
+HAS_CAUSE,paravtohtone ki so presedimentirani iz matične kamnine,
+HAS_FORM,kot zapletenejšo jamo,
+HAS_FUNCTION,"kot skupnost vseh nezveznosti v kamnini , ki "" obratujejo "" kraško",
+HAS_LOCATION,pri opisovanju podzemskega krasa,
+STUDIES,kot sistem v smislu teorije sistemov,
+DEFINED_AS,kot skupnost več jam skupnega nastanka,
+HAS_FORM,Kristali ditrigonalno skalenoedrično,
+HAS_CAUSE,kristali neposredno iz vode,neposredno iz
+HAS_FORM,Najbolj običajna kristalna oblika je romboeder,oblika
+HAS_CAUSE,nastane tudi s kalcitizacijo aragonitnih ogrodij nekaterih organizmov,nastane tudi s
+COMPOSITION_MEDIUM,"Kalcit je osnovna sestavina običajne sige , med kamninami apnenca , delno marmorja in karbonatitov",osnovna sestavina
+CONTAINS,mineral z največ znanimi kristalnimi ploskvami,z največ znanimi
+HAS_FORM,Navpična,
+HAS_FORM,Vodoravni preseki manjših kaminov se ravnajo pretežno po inicialnih strukturah,
+HAS_LOCATION,značilna za neprežeto cono,značilna za
+HAS_FORM,Prostorski potek kamina se ravna po navpičnici,
+HAS_RESULT,"Ko denudacija kamin odpre s površja , mu pravimo brezno",
+HAS_CAUSE,Delo prosto padajoče prenikle vode,Delo
+HAS_FORM,za večje je značilen elipsast presek,
+DEFINED_AS,"Niz strukturnih segmentov , ki ( je ) prevaja isti tok",ki ( je ) prevaja
+HAS_FUNCTION,ki ( je ) prevaja isti tok,||||||
+HAS_FUNCTION,Osnovni gradnik svežnja,
+HAS_SIZE,"vendar slednji predvideva antropogeno najmanjšo dimenzijo , medtem ko pri kanalu te omejitve ni",
+DEFINED_AS,Hipotetični blok kraške kamnine,
+STUDIES,ki služi pri teoretskih razglabljanjih kot vzorčni izsek celotnega speleogenetskega prostora,ki služi
+HAS_CAUSE,vertikalen odtok padavinskih voda s površja,
+COMPOSITION_MEDIUM,sorazmerno hitro in enakomerno topna matična kamnina ( kraške kamnine ),
+HAS_CAUSE,zanemarljiva akumulacija,
+HAS_CAUSE,Značilno je odnašanje snovi v raztopini,Značilno je
+HAS_CAUSE,dovolj obilne padavine,
+HAS_CAUSE,možnost nastajanja zveznih podzemskih kanalov,
+HAS_RESULT,se odraža v oblikovanju zaprtih globeli in kopastih vrhov ter v opazni kanalski poroznosti,
+HAS_CAUSE,Ena materializacij eksogenega preoblikovanja kontinentalne zemeljske skorje,
+HAS_LOCATION,Eden predelov na Zemlji,na
+HAS_SIZE,daljše ali globlje od 10 m,globlje|daljše
+HAS_POSITION,na Zemlji,|
+CONTAINS,kjer najdemo človeku prehodne votline,kjer najdemo
+HAS_RESULT,Posamezni kraški fazi naj bi ustrezal en sveženj,
+OCCURS_IN_TIME,zakrasevanja v sorazmerno stabilnih hidrogeoloških razmerah med dvema regionalnima tektonskima dogodkoma,dogodkoma
+HAS_ATTRIBUTE,V območju svežnja tedaj vladajo stabilni pogoji,
+COMPOSITION_MEDIUM,v določeni prostornini kamnine,v
+HAS_LOCATION,"tam , kjer je kamnina močno zakrasela",kjer je
+HAS_CAUSE,kadar imajo kanali ( odtod sinonim kanalska poroznost ) bistven vpliv na način in količino pojavljanja vode v kamnini,vpliv
+HAS_SIZE,v primerjavi z razpoklinsko poroznostjo majhna,
+HAS_SIZE,je pa večja od dimenzije preboja,večja
+HAS_CAUSE,"nastala s procesi , ki jih definiramo kot kraške",nastala s
+HAS_FORM,Poljubno oblikovana,
+OCCURS_IN_TIME,da so regionalno zaznavno topne med dvema regionalnima tektonskima dogodkoma,dogodkoma
+HAS_RESULT,na katerih se ob izpolnitvi drugih potrebnih pogojev lahko razvije kras,lahko razvije
+HAS_ATTRIBUTE,da ne prihaja do Zogovicevega efekta,
+CONTAINS,"so marmorji , pogojno kvarciti",
+CONTAINS,"karbonati ( apnenci , dolomiti in njihovi klastiti ) , sulfati , haloidi , v posebnih razmerah kremenovi peščenjaki",
+HAS_ATTRIBUTE,so topne brez ostanka,
+HAS_FORM,v obliki nosu,v obliki
+HAS_LOCATION,Iz skalne stene ali poševnega pobočja moleča izboklina,Iz
+HAS_CAUSE,Domnevno ostanki žlebičastih reber,
+HAS_FORM,ostra,
+HAS_LOCATION,štrli v jamski prostor,štrli v
+HAS_CAUSE,ostanek izvotljevanja,ostanek
+HAS_FORM,Noževemu rezilu podobna,podobna
+COMPOSITION_MEDIUM,na apnencu,
+HAS_FORM,se slepo končuje,
+CONTAINS,ponori,
+DEFINED_AS,Nastanek jame,
+STUDIES,ki se bavi s preučevanjem jam,se bavi s
+STUDIES,veda o kraškem podzemlju ali krasu,veda o
+STUDIES,veda o kraških jamah,veda o
+STUDIES,Ugotavlja fizikalne in kemijske zakonitosti v podzemlju,Ugotavlja
+HAS_FORM,horizontalna jama s širokim vhodom,
+HAS_SIZE,Krajša,
+HAS_FUNCTION,zračno slabo komunicira z zunanjim zrakom in so v njej zračne razmere statične,
+OCCURS_IN_TIME,pozimi in poleti,
+OCCURS_IN_TIME,"komunicira z zunanjim zrakom v eni sezoni , medtem ko je v ostalem letu statična",||||||||||||||
+HAS_FUNCTION,"živahno komunicira z zunanjim zrakom v eni sezoni , medtem ko je v ostalem letu statična",
+HAS_LOCATION,izpod ruše ali krovnih sedimentov,izpod
+HAS_RESULT,Spiranje gmote,
+COMPOSITION_MEDIUM,po tekoči vodi,po
+HAS_FUNCTION,brez stalnega površinskega vodnega toka,
+HAS_FORM,Dolinasta oblika,
+HAS_LOCATION,na krasu,na
+OCCURS_IN_TIME,trajno in obdobno suhe doline,
+HAS_FORM,Dolinasta oblika,
+CONTAINS,s površinskim vodnim tokom v delu doline,
+CONTAINS,v kateri se občasno pojavlja površinski vodni tok,v kateri
+HAS_LOCATION,"ob mejah parcel , ob poteh ali kot škarpa na spodnji strani njiv in vinogradov",
+COMPOSITION_MEDIUM,"iz kamnov , ki niso vezani z malto ali s cementom",
+HAS_CAUSE,ki so ga sezidali iz otrebljenega kamenja,
+OCCURS_IN_TIME,ki ob nizki vodi presiha,
+OCCURS_IN_TIME,ki ni nastal v današnjih razmerah,
+HAS_CAUSE,"morska voda , ki teče v požiralnik na obali , ponekod namreč žene mlinsko kolo",
+HAS_LOCATION,"nahaja se na nadmorski višini , na kateri sta akumulacija in ablacija ledu v ravnovesju",nahaja se na
+DEFINED_AS,"navidezna meja na ledeniku , vzdolž katere je masna bilanca enaka nič",
+MEASURES,"s katero izračunamo količino akumulacije , ki je potrebna za ohranjanje ledenikov",|||||||||||
+MEASURES,"s katero izračunamo količino akumulacije , ki je potrebna za ohranjanje ledenikov , posredno pa izračunamo tudi količino padavin v času poledenitve .",izračunamo|izračunamo
+MEASURES,posredno pa izračunamo tudi količino padavin v času poledenitve,||||||||
+HAS_FORM,ki imajo v dnu dostop do podzemnih prostorov,ki imajo
+HAS_FORM,"ločil od koliševk , ki so brez dostopa do podzemnih prostorov",
+HAS_FORM,Topografske razvodnice vrtač imajo poligonalen vzorec,|||||
+DEFINED_AS,Topografske razvodnice vrtač imajo poligonalen vzorec in tak kras,
+MEASURES,"hidravlični gradient , ki je vektor , katerega dolžina je enaka spremembi hidravličnega potenciala na enoto dolžine in ima smer proti največjemu naraščanju hidravličnega potenciala",
+HAS_FORM,z ravnim dnom,z
+HAS_LOCATION,v kraškem reliefu,v
+HAS_FORM,zaprto,
+HAS_SIZE,dolgo,
+CONTAINS,"pretežno zapolnjeno s klastičnimi sedimenti ( Radinja , 1967 , b ) , to je gruščem , prodom , ilovico ipd",pretežno zapolnjeno s
+HAS_ATTRIBUTE,ki nimajo aktivnega procesa sedimentacije rečnih nanosov,
+HAS_LOCATION,na svojem površju,na
+HAS_LOCATION,na krasu,na
+HAS_ATTRIBUTE,"se na njih vzpostavi ravnovesje med intenziteto sil , ki delujejo na maso vzporedno s pobočjem navzdol , in silami , ki zavirajo to premikanje",
+HAS_FUNCTION,kjer pobočni procesi niso več prisotni in na njih prevladuje kemična denudacija,
+DEFINED_AS,kjer je gledano za obdobje enega leta akumulacija snega enaka njegovi ablaciji,
+HAS_LOCATION,na ledenikih,na
+HAS_FUNCTION,cilj je pojasniti neposredne ali posredne povezave med današnjim reliefom in strukturo Zemljine notranjosti,povezave|cilj je
+STUDIES,neposredne ali posredne povezave med današnjim reliefom in strukturo Zemljine notranjosti,||||||||||
+CONTAINS,v kateri so najdeni sledovi zadrževanja predzgodovinskega človeka,v kateri so
+HAS_FUNCTION,ki je izkoriščal jame kot pribežališce ali bivališce,je izkoriščal
+HAS_FORM,obrušen kamen,
+HAS_CAUSE,obrača in brusi nanj kapljajoča voda in ( ali ) debeli s koncentričnimi skorjami sige,
+HAS_LOCATION,v mirujoči vodi,
+HAS_FORM,delček sige,
+HAS_SIZE,Droben,
+MEASURES,dokumentacija o raziskanih jamah,
+HAS_CAUSE,izdelan na osnovi meritev,na osnovi
+MEASURES,Načrt ali profil jame,
+HAS_LOCATION,v jamski steni ali stropu,v
+HAS_FUNCTION,ki na koncu jame onemogoča prehod,onemogoča
+HAS_RESULT,s katerim se jamski prostor odpre na površje,
+HAS_FORM,ki je mnogo bolj razvita veni smeri,
+HAS_CAUSE,avtohtonega ali alohtonega porekla,porekla
+HAS_LOCATION,v jami,v
+HAS_FORM,Razvejan in povezan splet jamskih prostorov,
+HAS_SIZE,večjih dimenzij,
+HAS_FUNCTION,skozi katero seva nebo,
+HAS_LOCATION,v jamskem stropu,v
+HAS_LOCATION,Značilna za submediteranski in mediteranski kras,
+HAS_FORM,Rdečkasta,
+HAS_CAUSE,v glavnem netopni ostanek karbonatov,ostanek
+HAS_FORM,vrtača,
+CONTAINS,z vodo napolnjena,napolnjena
+HAS_ATTRIBUTE,z nepropustnim dnom,
+HAS_SIZE,Večja,
+OCCURS_IN_TIME,navadno trajno ali vsaj večji del leta,
+HAS_FUNCTION,osnovno gradivo apnenca,
+HAS_FORM,ki kristalizira heksagonalno,
+DEFINED_AS,prepojitev snovi s kalcijevim karbonatom,
+DEFINED_AS,Zamenjava primarnih trdnih snovi v živalskih ali rastlinskih ostankih s kalcijevim karbonatom,
+HAS_SIZE,"Tanka , nekaj milimetrov ali cm debela",milimetrov
+HAS_ATTRIBUTE,svetle barve,
+COMPOSITION_MEDIUM,rekristaliziranega apnenca,
+HAS_LOCATION,"ki navadno moli iz jamske stene ali stropa za nekaj milimetrov , pa tudi centimetrov",moli iz
+HAS_LOCATION,v jamskem stropu,v
+HAS_SIZE,ji običajno ne vidimo konca,
+HAS_ATTRIBUTE,Nedostopen,
+HAS_LOCATION,v freatični coni,
+HAS_FORM,bogato zakapana votlinica,
+HAS_SIZE,Večja,
+HAS_FORM,zaokrožena,
+COMPOSITION_MEDIUM,ki jo v glavnem sestavljajo soli ogljikove kisline,ki jo v glavnem sestavljajo
+HAS_FUNCTION,napravljena cesto v vojne namene,
+HAS_SIZE,manjšo,
+HAS_FORM,ki jo sestavlja ena sama manjša votlina,ki jo sestavlja
+COMPOSITION_MEDIUM,v klastičnih kamninah,v
+HAS_CAUSE,je udornega postanka,
+HAS_FORM,"običajno s skalnim , prepadnim pobočjem , z vidnim dnom",
+HAS_SIZE,Več deset metrov globoka in široka,metrov
+OCCURS_IN_TIME,nastala v osnovi domnevno v terciarni dobi,nastala v
+HAS_FORM,Kopasta holmasta,
+HAS_LOCATION,Oblika fosilnega krasa,
+HAS_LOCATION,"na jamskih stenah ali stropu , navadno na mestu mešanja toplejšega in hladnejšega zraka",na mestu
+HAS_CAUSE,ki se zaradi kondenzacije nabira v kapljicah,
+HAS_LOCATION,Glaciokraška,
+HAS_FORM,običajno skledaste oblike,oblike
+HAS_FORM,Mnogokrat širša kot globlja,
+HAS_SIZE,več deset ali sto metrov dolga in široka,metrov
+HAS_CAUSE,Širjenje votline ( rova ) zaradi izpraznjenja jamskih sedimentov,
+HAS_RESULT,konvakuacijska votlina,
+HAS_CAUSE,"s posredovanjem vode , ki vsebuje ogljikovo kislino",s posredovanjem
+DEFINED_AS,odnašanje raztopljenih snovi,
+DEFINED_AS,kemično ali v manjši meri fizikalno raztapljanje kraške kamnine,
+HAS_FORM,podolgovata,
+HAS_FORM,dolu podobna,podobna
+CONTAINS,Sestavljajo jo zraščene razsežne vrtače,Sestavljajo jo
+HAS_FORM,ki se kot odsekana končuje na pobočju,
+HAS_LOCATION,Na krasu,Na
+HAS_FUNCTION,iz katere stalno ali obdobno piha,iz katere
+DEFINED_AS,"Nivo površinske kraške vode , ki ga določuje morska ali jezerska gladina v zaledju",
+DEFINED_AS,"Delež , ki odpade na votline",
+HAS_LOCATION,v kraškem podzemlju,v
+HAS_FORM,podzemeljski prostor,
+HAS_SIZE,Večji,
+HAS_FORM,in je bolj široka kot globoka,
+HAS_SIZE,navadno globoka več metrov,globoka
+HAS_FORM,V prečnem profilu je podobna skledi .,je podobna
+HAS_FORM,pobočja pa se navzgor odpirajo,
+HAS_FORM,Je brez ravnega dna,brez
+HAS_FORM,Ima strme stene,Ima
+HAS_FORM,in ravnejše dno,
+HAS_SIZE,Globoka,
+HAS_FORM,s strmimi stenami,s
+HAS_CAUSE,nastala v naplavinah,nastala v
+COMPOSITION_MEDIUM,katere dno in pobočje je skalnato,
+HAS_LOCATION,na planotastem nizkem reliefu,na
+CONTAINS,z redkimi drugimi kraškimi pojavi na površju,z
+CONTAINS,s suhimi dolinami,s
+HAS_CAUSE,ki nastaja v pogojih sredozemske klime,ki nastaja v
+HAS_POSITION,v Sredozemlju in v njegovem obodu,v|v
+HAS_CAUSE,sneg kot očitni morfogenetski dejavnik,morfogenetski dejavnik
+HAS_LOCATION,v višinskem ali subarktičnem pasu,
+HAS_LOCATION,pod nivalnim krasom,pod
+HAS_CAUSE,kjer je v glacialnih dobah nastal nivalni kras,kjer je
+OCCURS_IN_TIME,skopni le čez poletje,
+HAS_CAUSE,nastal v subpolarni ( subarktični ) klimi,nastal v
+HAS_CAUSE,nastal v trajno ali sezonsko vlažni tropski klimi,nastal v
+CONTAINS,"Značilne zanj so strme vzpetine ( stogi , stolpi )",Značilne
+DEFINED_AS,ozemlje brez zelenja ali kamnito ozemlje brez zelenja,
+COMPOSITION_MEDIUM,katerega površje je po veliki večini kamnito,
+COMPOSITION_MEDIUM,katerega površje po veliki večini pokriva zemlja oz . preperelina,pokriva
+CONTAINS,se prepletajo gole in pokrite kraške površine,
+DEFINED_AS,Prehodna oblika med golim in pokritim krasom,
+CONTAINS,kjer so lašti ( gl . lašt ) značilne površinske oblike,značilne|so
+HAS_FORM,"kjer molijo na površje čokati kamni , visoki do enega metra in več",kjer molijo na površje
+CONTAINS,s tako gostimi vrtačami,
+HAS_ATTRIBUTE,"da spominja na kožo človeka , ki je prebolel koze",
+HAS_FORM,"kjer so kraške kotanje , nastale z zraščanjem vrtač , iz zraka vidne kot poligonalna mreža",
+HAS_CAUSE,Pogojen je s “ parketnim ” razporedom tektonskih prepok,Pogojen je
+HAS_LOCATION,Pogost v tropskem krasu,v
+HAS_CAUSE,"katerega površje je izoblikoval fluvialni proces ( erozija , denudacija )",je izoblikoval
+CONTAINS,kras kraških polj in podolijl,
+CONTAINS,kjer so kraška polja in povezane suhe doline - podolja - poglavitne kraške značilnosti površja,
+HAS_FORM,kjer molijo na površje podolgovati kamni rebraste oblike do enega metra in več,molijo na površje
+COMPOSITION_MEDIUM,cela odpornejših skladov,
+CONTAINS,"z značilnimi , do 100 in več metrov visokimi vzpetinami , podobnimi stolpom oziroma vitkim piramidam",z značilnimi
+HAS_FORM,s širokim portalom,
+HAS_FUNCTION,ki ga je lahko izkoriščal človek za zavetje,ga je lahko izkoriščal
+CONTAINS,"ki vsebuje nevezano ogljikovo , humozno , dušikovo ali druge kisline",vsebuje
+HAS_FUNCTION,ki je sposobna korodirati,je sposobna
+HAS_FUNCTION,je še sposobna raztapljati karbonatno kamnino,je še sposobna
+COMPOSITION_MEDIUM,sestavljena pretežno iz kalcijevega karbonata,sestavljena pretežno iz
+STUDIES,V ožjem smislu veda o jamskem pračloveku,
+STUDIES,ki preučuje zveze med človekom in jamo,preučuje
+HAS_FORM,V naših jamah običajno nastopa v obliki igličastih kristalov,v obliki
+COMPOSITION_MEDIUM,Navadno vsebuje manjšo primes stroncija SrCO3,Navadno vsebuje
+HAS_FORM,le da kristalizira rombično,
+COMPOSITION_MEDIUM,iste sestave kot kalcit,iste sestave kot
+COMPOSITION_MEDIUM,iz kamna ali kosti,iz
+DEFINED_AS,Kos predhistoričnega orodja,
+HAS_CAUSE,"V ožjem smislu obarvanje ponirajoče vode z namenom , da bi ugotovili njen ponovni iztok",
+DEFINED_AS,"vsako določevanje podzemeljskih vodnih zvez s kemičnimi , biološkimi in fizikalnimi sredstvi",
+DEFINED_AS,Določevanje sklenjenosti kraške vode,
+STUDIES,"o živih bitjih v jamah , v širšem smislu v podzemlju sploh .",
+HAS_LOCATION,v jamah,|
+HAS_LOCATION,v podzemlju,|
+COMPOSITION_MEDIUM,sestavljena v pretežni meri iz aluminijevih hidroksidov,sestavljena v pretežni meri iz
+HAS_LOCATION,v vlažni tropski ali subtropski klimi,v
+HAS_CAUSE,Ta aluminijeva ruda je rezultat preperevanja apnenca,je rezultat
+HAS_FORM,"ki se ji ne vidi dna , “ brez dna ”",
+HAS_FORM,bolj globoka kot široka,
+HAS_FORM,Navpična ali strma,
+HAS_FUNCTION,v katerega ponika voda,v katerega ponika
+HAS_FUNCTION,Iz njega voda izvira,
+HAS_FUNCTION,v katerem vodna gladina koleba skladno s širšo gladino ( nivojem ) kraške vode in je zato njen kazalec,koleba skladno s
+HAS_FORM,Je podobno lijaku in se navzdol oži,Je podobno
+HAS_FUNCTION,"v katerem z uvajanjem posebne gmote zapolnijo votline v kraškem podzemlju in ga napravijo neprepustnega , da preprečuje vodni odtok iz vodnega bazena .",
+HAS_FORM,Navpični sloj,
+HAS_CAUSE,zaradi jamskih podorov in drugih oblik rušenja skalovja,zaradi
+HAS_FORM,pretežno horizontalna podzemeljska votlina,
+HAS_FUNCTION,prehodna,
+HAS_FORM,vodoravna ali navpična,
+CONTAINS,jo v velji meri zapolnjuje stojela voda,
+HAS_FUNCTION,ki ima stalni ali obdobni vodni tok,
+HAS_FUNCTION,"brez stalnega ali obdobnega vodnega toka , ne glede na prenikajočo vodo",
+HAS_FUNCTION,iz katere teče potok ali reka,
+HAS_POSITION,Modra špilja na Biševu,
+CONTAINS,tako da jo delno ali v celoti zaliva morska voda,
+HAS_POSITION,Grotta azzurra pri Capriju,
+HAS_CAUSE,nastala na obali zaradi abrazije,zaradi|nastala
+HAS_LOCATION,Leži na obali v nivoju morske gladine,Leži na
+OCCURS_IN_TIME,se dolgo v poletje zadržuje v jamo zapadli sneg,
+HAS_LOCATION,Cesto se odpira pod strmim pobočjem,
+CONTAINS,sneg,
+HAS_CAUSE,Zato lahko priteka pozimi vanjo hladnejši zunanji zrak,Zato
+HAS_FORM,Navadno je žepaste oblike tipa hladnice,oblike
+CONTAINS,njej se velji del leta ali trajno zadržujejo ledene gmote,zadržujejo
+HAS_FORM,z vhodom iznad glavne votline,
+HAS_FORM,žepaste oblike,
+CONTAINS,kjer se javljajo na oko vidni kristali kot pomembna sigova tvorba,
+CONTAINS,za katero so kapniki značilen množični pojav,
+CONTAINS,"tvorbami ( kapniki , ježki ipd . ) iz aragonita",
+HAS_CAUSE,nastala pretežno z mehaničnim delovanjem tekoče vode ( erozijo ),nastala pretežno z
+HAS_CAUSE,Nastala pretežno s korozijskim procesom,Nastala pretežno s
+HAS_FUNCTION,kjer ne delujejo niti evakuacijski niti akumulacijski procesi,
+HAS_CAUSE,nastanejo s podiranjem stropa,nastanejo s
+HAS_LOCATION,površinske,
+OCCURS_IN_TIME,se zniža gladina podzemne vode,se zniža
+HAS_LOCATION,v podzemnih jamah z aktivnim vodnim tokom,v
+HAS_CAUSE,nastanejo z udori stropov,nastanejo z
+HAS_LOCATION,nad podzemnimi votlinami,nad
+HAS_SIZE,različnih dimenzij,
+HAS_FORM,oblik,
+HAS_CAUSE,so nastale z udori stropov,so nastale z
+HAS_FORM,zaprte,
+HAS_LOCATION,nad podzemnimi votlinami,nad
+HAS_FORM,različnih,
+HAS_CAUSE,so nastale zaradi rušenja stropa,so nastale zaradi
+AFFECTS,zato imajo strma pobočja,
+HAS_SIZE,večje,
+HAS_LOCATION,površinske,
+HAS_CAUSE,so nastale s spelogenetskimi procesi,so nastale s
+HAS_CAUSE,ima svoj izvor v podzemnem dogajanju,ima svoj izvor v
+HAS_LOCATION,površinska,
+HAS_SIZE,velikosti,
+HAS_FORM,različnih oblik,
+HAS_SIZE,različnih,
+HAS_CAUSE,"nastanek povezujemo s točkastim vertikalnim odnašanjem kamnine v podzemlje , bodisi z nenadnimi udori nad jamskimi prostori , bodisi s postopnim odnašanjem kamnine nad aktivnimi jamskimi rovi",bodisi z|bodisi s
+HAS_LOCATION,na krasu,na
+HAS_FORM,zaprte,
+HAS_FORM,centrične,
+HAS_ATTRIBUTE,kraška hidrologija,
+HAS_FORM,sklenjen obod nad razmeroma uravnanim obsežnim dnom,
+HAS_FORM,najmanj pol kilometra široka uravnava z višjim obodom,
+HAS_CAUSE,korozijska,
+HAS_SIZE,s premerom večjim od 5 – 15 milimetrov,s premerom
+HAS_CAUSE,jih je izoblikovala tekoča voda s procesom korozije,jih je izoblikovala
+HAS_LOCATION,podzemni,
+HAS_LOCATION,podzemni,
+HAS_CAUSE,jih je naredila skozi kras tekoča voda,jih je naredila
+HAS_CAUSE,"nastala kot neposredna ali posredna posledica nadomeščanja trdne faze s tekočo in posledično lete s tekočo , plinasto ali sekundarno trdno fazo",nastala kot
+HAS_CAUSE,"ki nastane z odnašanjem matične kamnine , ob delovanju procesov , kijih definiramo kot kraške",nastane z
+HAS_CAUSE,"v katerem vladajo v svežnju oz . kanalih stalne hidrodinamske razmere , na katere se oblikovanje kanala odziva na značilen način",
+HAS_FUNCTION,v katerem lahko nastanejo ali so že nastale kraške votline,
+DEFINED_AS,"Sinonim za individualno , človeku prehodno kraško votlino , modrejši izraz ja jamo",
+DEFINED_AS,"Produkt kateregakoli procesa , ki dovaja trdno fazo v kraško votlino in nadomešča speleogen",
+HAS_LOCATION,v epifreatični coni,v
+HAS_FORM,ki po obliki spominja na predor,po obliki spominja na
+HAS_CAUSE,"Nastane za ponori večjih alogenih tokov , v manjšem obsegu kot učinek Gospo­daričevega efekta v avtigenem okolju",Nastane
+HAS_FORM,pri katerem se tokovnice prepletajo,
+HAS_FORM,Vrtinčast,
+HAS_CAUSE,"To se dogaja pri hitrostih , večjih od 10 · 3 m / s",To se dogaja
+HAS_LOCATION,Navadno se pojavi v kanalih večjih od 51 O mm,Navadno se pojavi v
+HAS_ATTRIBUTE,"Turbulentni tok traja od preboja do paragenetskega praga , pa tudi onkraj njega",traja od
+DEFINED_AS,način pretakanja tekočine,
+OCCURS_IN_TIME,"Kaže , da se začetje mnogokrat izvrši že v času diageneze",izvrši že v času
+DEFINED_AS,"Najzgodnejša speleogenetska faza , ko se "" zapiše "" prihodnji potek kanala ( ov )",
+HAS_CAUSE,"Bistveni faktorji začetja še niso povsem znani , zdi pa se , da odločajo večje liološke razlike med skladoma ( transbedding contrast ) , navzočnost pelitov ali navzočnost pirita oz . organske snovi",odločajo
+HAS_LOCATION,Praviloma se začetje odvije ob leziki,ob
+HAS_FUNCTION,"Tedaj nastane med časom / krajem , kjer doslej ni bilo speleogenetske aktivnosti , laminaren tok",Tedaj nastane
+HAS_FUNCTION,kjer se lahko ( ali se je že ) izvrši ( lo ) začetje,izvrši
+HAS_FORM,"Terenske raziskave kažejo , da so to jasno določljive lezike , redkeje oblične ploskve",
+HAS_LOCATION,v kamninski skladovnici,v
+HAS_LOCATION,v navpični steni,v
+HAS_FORM,ki nima povezave z mrežo jamskih kanalov,
+HAS_LOCATION,med dvema plastema oziroma znotraj plasti,med|znotraj
+HAS_CAUSE,Predvsem korozijska,
+HAS_LOCATION,v zgornjem delu neprežete cone,
+HAS_FORM,Ob stiku z epikrasom so zbirni kanali večkrat spužvasti ( anastomozni ),
+HAS_SIZE,manjših dimenzij,
+HAS_FUNCTION,"Še razpršeno preniklo ( padavinsko ) vodo zbirajo v večje curke , ki lahko prosto padejo in oblikujejo kamine",zbirajo
+HAS_CAUSE,z raztapljanjem ( korozijo ) povsem ali delno strjenega apnenca,
+HAS_LOCATION,Zgodnjediagenetski kras nastane vrh sladkovodne leče oz . vzdolž haloklinale v morskih grebenih in atolih,vzdolž|nastane vrh
+OCCURS_IN_TIME,nastane v času zgodnje diageneze,
+CONTAINS,"Votline zapolni mlajši karbonatni material ( karbonatno blato ) , sparitni kalcit ( kokardne teksture ) , glineni material , pa tudi breče , ki nastanejo s porušenjem stropov teh jam",
+HAS_CAUSE,To je lahko posledica nepopolne dolomitizacije apnenca ali pa mehanske neodpornosti dolomita na tektonske poškodbe,je lahko posledica
+HAS_CAUSE,"Lastnost dolomita ( kamnine ) , da se v gotovih razmerah ne raztaplja frontalno , temveč parcialno",
+HAS_RESULT,po zadnji ledeni dobi sčasoma relativno dvignili nad okolico,
+HAS_FUNCTION,so zaščitili apneniško podlago pod sabo pred dežjem in korozijo in,
+CONTAINS,"vil , divjih žena , ajdov , velikanov , pritlikavcev , divjakov in podobno",
+HAS_FORM,Manjše votline,
+HAS_FORM,vodoravno votlino,
+HAS_FORM,ki se poglablja navzdol,
+HAS_FORM,ki se širi navzdol,
+HAS_FORM,kotlasto ali lijakasto,
+COMPOSITION_MEDIUM,v apnencu,v
+HAS_SIZE,s premerom do enega kilometra širine in globino od nekaj do več sto metrov,s premerom
+MEASURES,katastrofalno visoke vode,
+MEASURES,spodnjo pa določa gladina vode ob izredni suši,določa
+DEFINED_AS,Pas med najvišjo in najnižjo piezometrično vodno gladino,
+HAS_LOCATION,je območje aktivnega hidrološkega stika med fluvialnim in kraškim geomorfnim sistemom,
+HAS_FORM,vodoravne,
+HAS_LOCATION,približno na višini gladine podzemne vode,približno na
+HAS_FORM,daljše,
+HAS_CAUSE,Rezultat parageneze so,Rezultat
+COMPOSITION_MEDIUM,iz kalcijevega karbonata,iz
+HAS_SIZE,velike od nekaj milimetrov do nekaj metrov,velike
+HAS_ATTRIBUTE,brez vonja in barve,brez
+DEFINED_AS,"je proces nastajanja , razvoja in izginjanja jam",
+HAS_FUNCTION,predstavlja hrbtenico jamskega sistema,
+HAS_FORM,se slepo konča,
+HAS_FORM,ki se cepi od glavnega rova ali od dvorane,se cepi od
+HAS_FUNCTION,povezuje dve ali več votlin,povezuje
+HAS_FORM,značilno obliko,
+HAS_CAUSE,je nastala s pretokom vode pod pritiskom ( tlakom ),nastala
+HAS_FORM,značilne oblike,
+HAS_CAUSE,ki je nastal s pretokom vode s prosto ( nepritisnjeno ) gladino - z gravitacijskim tokom,je nastal s
+HAS_LOCATION,na kraškem površju,na
+HAS_FORM,"Osamljena , izrazita skala",
+HAS_FUNCTION,loči skupaj spadajoče jamske dele,loči
+HAS_LOCATION,kjer sega skalni strop v vodo,kjer sega
+HAS_LOCATION,v sifonskem koritu,v
+HAS_SIZE,Vecja,
+CONTAINS,stoječe vode,
+HAS_FORM,"Del stropa , ki moli v sifon",ki moli v
+COMPOSITION_MEDIUM,kalcijevega karbonata iz zasičene jamske vode,
+HAS_ATTRIBUTE,ki se zrači,
+HAS_CAUSE,nastal iz tekoče ali mirujoče vode,nastal iz
+COMPOSITION_MEDIUM,iz sige,iz
+COMPOSITION_MEDIUM,s kalcitno skorjo,
+HAS_CAUSE,nastal v stoječi jamski vodi,nastal v
+HAS_LOCATION,Odpira se v jami,v
+DEFINED_AS,na krasu navadno pokrit vodnjak,
+HAS_FUNCTION,Povezuje dva dela jame,Povezuje
+HAS_FUNCTION,v katerega se steka voda s strehe ( kapnica ),v katerega se steka
+HAS_FUNCTION,Večji rezervoar pitne vode,
+HAS_FORM,s cementnimi stenami in dnom,s
+HAS_LOCATION,na jamskih stenah ali stropu,na
+COMPOSITION_MEDIUM,Pretežno ilovnate,
+HAS_FORM,"Delijo jih tudi na točkaste , pasaste , leopardaste , tigraste itd .",
+HAS_FORM,"proge , lise , pege in druge razkrojene oblike",
+HAS_FORM,podobne črvičastim ekskrementom,podobne
+DEFINED_AS,Delovanje kapljajoče vode,
+HAS_CAUSE,dolbenje kapnice v sigo ali skalo,
+HAS_LOCATION,V jamah,V
+HAS_CAUSE,odstranjevanje kalcija iz predmeta ali prsti,
+HAS_FORM,pri čemer se zunanja oblika gmote ne izpremeni,
+DEFINED_AS,"Odstranjevanje ( izluževanje ) , izpiranje kalcija",
+HAS_FUNCTION,"ki so jo zaprli , da bi držala vodo za napajanje drobnice ( ovac )",da bi držala
+HAS_SIZE,pomeni meter ali bolj široko,
+HAS_FORM,odprto,
+HAS_FORM,"ki seka več skladov kamnine , ki obakraj nje niso premaknjeni",
+DEFINED_AS,Ozka,
+HAS_FUNCTION,iz katerega piha pozimi topel zrak iz kraškega podzemlja,iz katerega piha
+HAS_FORM,Opazen je zlasti kot luknja ali kopno mesto v snežni odeji,
+HAS_CAUSE,ki nastaja ob določenem vremenu zaradi mešanja hladnejšega zunanjega in toplejšega jamskega zraka,ki nastaja
+CONTAINS,z meglo ob vhodu,z
+HAS_FORM,Ožji,
+HAS_LOCATION,v jamskem stropu,v
+HAS_FORM,ki ima zvezo s površjem,
+HAS_ATTRIBUTE,ki je vse leto dobro prezračena,
+CONTAINS,"Navadno ima dva vhoda v neenaki višini , kar omogoča prepih vse leto",
+HAS_FUNCTION,ker vse leto živahno komunicira z zunanjim zrakom,živahno komunicira z
+HAS_FORM,navadno v smeri največje strmine na pobočju,navadno v smeri
+HAS_FORM,odprta,
+COMPOSITION_MEDIUM,pogosta zlasti na dolomitih in dolomitiziranih apnencih,
+HAS_SIZE,Plitva,
+HAS_SIZE,do nekaj metrov globoka,
+COMPOSITION_MEDIUM,"ki jo sestavlja magnezijev karbonat ( MgCO3 ) , navadno s primesjo kalcita",ki jo sestavlja
+HAS_ATTRIBUTE,Zaradi krušljivosti ga ponekod imenujejo tudi grintovec,
+DEFINED_AS,"za različne površinske vdolbine ( suho dolino , kraško polje ) na Dinarskem krasu",||
+HAS_POSITION,Lj . na Dinarskem krasu,
+DEFINED_AS,Je internacionalni termin za vrtačo,
+HAS_ATTRIBUTE,kaplja z jamskega stropa,
+HAS_ATTRIBUTE,počasi premika skozi vodoprepustne skalne gmote,
+HAS_LOCATION,v aeracijski coni,v
+HAS_LOCATION,je ujeta v kotanjah,
+HAS_CAUSE,jo je od navzdolžnega prenikanja odklonil vododržni vložek,
+OCCURS_IN_TIME,po upadu vodne gladine,po
+DEFINED_AS,Je vsakokratna predpostavljena ploskev,
+HAS_LOCATION,v kraškem podzemlju v sistemu veznih posod,v|v
+DEFINED_AS,"nivo , od katerega se pretežno vodoravno in prosto pretaka kraška voda proti izvirom ali stoji ( stoječa voda ) v slepih kanalih",
+HAS_CAUSE,oscilirata v odvisnosti od vodostaja,v odvisnosti od
+HAS_ATTRIBUTE,vlažna,
+OCCURS_IN_TIME,periodično,
+HAS_FUNCTION,ne sega do stropa in ima prosto gladino,
+HAS_CAUSE,se pretaka gravitacijsko,
+HAS_LOCATION,v kanalih,
+HAS_LOCATION,v kraškem podzemlju,
+CONTAINS,v kateri voda trajno zapolnjuje votline,v kateri
+HAS_CAUSE,prevladuje pa tlačno pretakanje,
+HAS_FUNCTION,Zapolnjuje votline,Zapolnjuje
+HAS_LOCATION,v freatični coni,v
+HAS_LOCATION,pod piezometričnim nivojem ( nivojem kraške vode,pod
+HAS_FUNCTION,stagnira v slepih ali nepovezanih kanalih,
+HAS_LOCATION,v freatični coni,v
+HAS_LOCATION,v globoki freatični coni,v
+HAS_FUNCTION,zapolnjuje vodoprehodne votline pod piezometričnim nivojem,
+HAS_FUNCTION,ki razdvaja porečji ali zajezuje podzemeljski vodni tok,razdvaja|zajezuje
+HAS_FORM,v obliki vložka,v obliki
+HAS_LOCATION,v kraškem ozemlju,v
+HAS_FUNCTION,Neprepustna,
+HAS_FUNCTION,tako da se v njej zadržuje zimski hlad,zadržuje
+HAS_ATTRIBUTE,nadpovprečno hladna,
+OCCURS_IN_TIME,poleti,
+HAS_CAUSE,ker je žepaste oblike,
+HAS_FORM,z enim vhodom iznad votline,
+HAS_ATTRIBUTE,po katerem je hoja razmeroma lahka,
+HAS_SIZE,enakomerno širok,
+HAS_SIZE,visok,
+HAS_FORM,osamljeno vzpetinico,
+HAS_FORM,grič na ravnini,
+HAS_LOCATION,na dnu kraškega polja,na dnu
+HAS_ATTRIBUTE,osamljen,
+HAS_CAUSE,korozijsko-erozijsko-denudacijski ostanek višjega reliefa,
+HAS_LOCATION,v ilovnatem jamskem dnu,
+HAS_SIZE,Nekaj centimetrov ali decimetrov visoke,visoke
+HAS_CAUSE,ki jih je izdelala kapljajoča voda,ki jih je izdelala
+HAS_CAUSE,zaradi vplivov talne odeje v sedanjosti ali preteklosti .,zaradi
+HAS_FORM,z zaobljenimi žlebovi in vmesnimi hrbti,
+HAS_FORM,Z neprepustnimi sedimenti prekrita,prekrita
+HAS_ATTRIBUTE,ki ni v skladu s procesi v novem okolju .,
+CONTAINS,gosto s škrapljami posejano,
+HAS_FORM,"Zvegano , kraškemu površju podobno",podobno
+HAS_LOCATION,"v vrhnjem sloju nad trajno zmrlo podlago ( permafrostom , merzloto ) .",
+HAS_LOCATION,na stalno zmrznjenih tleh ( permafrostu ),na
+HAS_CAUSE,nastaja zaradi neenakomernega sezonskega odtajanja in zmrzovanja vode,nastaja zaradi
+DEFINED_AS,količina raztopljenih soli v enem litru vode,
+DEFINED_AS,vsota kalcijevih in magnezijevih ionov v enem litru vode .,
+DEFINED_AS,"delež magnezijevih in kalcijevih ionov , ki so vezani na ogljikovo kislino",
+HAS_FUNCTION,za varno oranje,za
+DEFINED_AS,Odbijanje in odstranjevanje kamnov,
+HAS_LOCATION,na travnih površinah v gladini prsti,na
+HAS_LOCATION,na ornih zemljiščih v globini lemeža,na
+HAS_FUNCTION,za košnjo,za
+HAS_LOCATION,ki živi le v podzemlju,v
+HAS_LOCATION,ki živi obdobno na zemeljskem površju ( npr . netopir,na
+HAS_LOCATION,"se v jamo samo zateče , biva v njej le obdobno",v
+CONTAINS,s tekočo vodo na dnu,s
+HAS_FORM,Udorna vrtača,
+HAS_CAUSE,z očitno udornim nastankom,nastankom|z
+HAS_LOCATION,nad votlino,nad
+HAS_CAUSE,da je nastala ali se poglobila z ugrezanjem,je nastala
+HAS_LOCATION,v sipkih sedimentih,
+HAS_FORM,depresija,
+HAS_SIZE,manjša,
+HAS_FORM,Skledasta,
+HAS_SIZE,navadno manjša od kraškega polja in večja od vrtače,manjša od|večja od
+HAS_FORM,"z neravnim , običajno z vrtacami razčlenjenim dnom",
+HAS_CAUSE,pod vplivom organizmov,pod vplivom
+HAS_CAUSE,"mešanice temperaturno ali kemično neenakih vod , ki je postala po mešanju ponovno agresivna",
+HAS_RESULT,ki jih poglablja,
+HAS_LOCATION,značilna za prepustna dna kraških polj in slepih dolin,značilna za
+HAS_CAUSE,"ki nastane zaradi premikanja vode skozi aluvialno odejo , bogato z ogljikovim dioksidom",nastane zaradi
+COMPOSITION_MEDIUM,karbonatne podlage,
+COMPOSITION_MEDIUM,karbonatne kamnine,
+HAS_LOCATION,neposredno pod prstjo,neposredno pod
+COMPOSITION_MEDIUM,karbonatne kamnine,
+HAS_RESULT,"Robna korozija razširja kraška polja , slepe doline , vrtače in druge kotanje z naplavljenim dnom",razširja
+HAS_LOCATION,ob robu neprepustne naplavine,ob robu
+HAS_RESULT,zaradi katere so stene kotanj ali kraških polj na kraju ponikanja korozijsko izpodžrte,zaradi katere so
+HAS_RESULT,enakomerno znižuje površje,znižuje
+HAS_ATTRIBUTE,ki enakomerno učinkuje na površje,
+HAS_RESULT,ustvarja gladke skalne ploskve,ustvarja
+HAS_RESULT,lahko ustvarja kotanje,ustvarja
+HAS_RESULT,ki lokalno hitreje poglablja površje,poglablja
+HAS_RESULT,ki deluje linearno,ki deluje
+HAS_RESULT,ustvarja linearne ( to je v določeni smeri razporejene ) depresijske površinske oblike,ustvarja
+HAS_SIZE,Do nekaj centimetrov ali decimetrov široka in globoka,
+HAS_CAUSE,nastala zaradi različnih vrst korozije,nastala zaradi
+COMPOSITION_MEDIUM,skalna,
+HAS_FORM,Pod preperino je širša in plitvejša,
+HAS_FORM,ovalna,
+COMPOSITION_MEDIUM,v apneniški skali,v
+HAS_LOCATION,"pod prstjo ( zemljo , preperino )",pod
+HAS_SIZE,Nekaj dm široka in globoka,
+HAS_LOCATION,na skalnem površju,na
+HAS_FORM,skoraj vodoravne ploskve,
+HAS_CAUSE,Nastanejo z retrogradno ploskovno korozija,Nastanejo z
+HAS_LOCATION,visokogorskega ( subnivalnega ) krasa,
+HAS_SIZE,nekaj dm ali metrov široke,
+HAS_FORM,zato so obicajno navzgor omejene s strmo stopnjo,
+HAS_LOCATION,na jamskem stropu,na
+HAS_CAUSE,S selektivno korozijo nastali,nastali
+HAS_FORM,skalni izrastki,
+HAS_LOCATION,pogosti v tropski klimi,
+HAS_FORM,podobna odtisu pete,podobna
+HAS_LOCATION,"ki je specifičen pojav razčlenjenih golih , največkrat visokogorskih skalnatih površin",
+HAS_CAUSE,Nastaja z omejeno retrogradno ploskovno korozijo,Nastaja z
+HAS_FORM,Polkrožna,
+HAS_CAUSE,nastal s prevladujočim korozijskim procesom,nastal s
+CONTAINS,so zanj značilne korozijske reliefne oblike,so zanj značilne
+HAS_FORM,Okroglasta,
+HAS_FORM,gladkih sten,
+HAS_SIZE,s premerom nekaj centimetrov ali decimetrov,s premerom
+HAS_LOCATION,"v stropu , na steni ali dnu jame",na|v
+HAS_LOCATION,globlje v vodonosnik,globlje v
+HAS_CAUSE,zaradi znižanja in razčlenjevanja kraškega površja,|||||
+HAS_FORM,ki so zaradi znižanja in razčlenjevanja kraškega površja razkrite ali presekane,
+HAS_CAUSE,ki jo je denudacijsko spuščanje površja razgalilo na površje,
+CONTAINS,lahko vsebuje alohtone ter / ali avtohtone sedimente,lahko vsebuje
+HAS_FORM,plitva,
+HAS_LOCATION,na kraških tleh,na
+HAS_FUNCTION,kjer se zaradi nepropustnega dna in pobočij zbira deževnica,kjer se
+HAS_CAUSE,zaradi nepropustnega dna in pobočij,||||
+STUDIES,razlaga izvora in nastanka jam,
+HAS_FUNCTION,je proces spiranja gradiva izpod ruše ali krovnih usedlin s pomočjo tekoče vode,
+HAS_FUNCTION,"kjer vlada zaradi poklinske prepustnosti kamnine podzemeljsko , kraško , pretakanje vode , učinkovito kemično raztapljanje kamnin",zaradi
+CONTAINS,kjer so lahko razvite tudi značilne površinske in podzemeljske oblike,so lahko razvite
+HAS_LOCATION,nad gozdno mejo,nad
+CONTAINS,ki je širši kot izraza nivalni ali glacialni kras,
+HAS_LOCATION,"ki je na območjih , kjer vode pritekajo iz fluvialnega geomorfnega sistema v kraškega ali obratno",kjer
+HAS_CAUSE,je posledica popolne ali delne prekinitve dotoka vodnih tokov in nanašanja flišne naplavine na območje vršajev,je posledica
+HAS_ATTRIBUTE,ki nimajo aktivnega procesa sedimentacije rečnih nanosov,ki nimajo
+HAS_CAUSE,je zasipavanje dna rova s sedimenti in iztiskanje toka ter s tem tudi korozijskega procesa pod strop rova,
+HAS_FORM,bodisi dolaste ali vrtačaste,
+HAS_CAUSE,ki po stari Cvijićevi ( 1918 ) opredelitvi tvorijo v genetskem pogledu prehod od vrtač h kraškim poljem kot najvišjo obliko razvoja kraških globeli,
+HAS_FORM,je lahko vodoravna ali navpična,
+HAS_LOCATION,podzemeljsko,
+HAS_FUNCTION,prehodno,
+HAS_LOCATION,v kamnini,v
+HAS_SIZE,je vsaj 10 m dolga ali globoka,
+COMPOSITION_MEDIUM,v kamnini,v
+HAS_LOCATION,podzemna,
+HAS_CAUSE,naravna,
+HAS_SIZE,"je dovolj velika , da je prehodna za človeka","je dovolj velika , da"
+HAS_ATTRIBUTE,naravno,
+HAS_FUNCTION,je prehodna človeku,je prehodna
+HAS_SIZE,je vsaj deset metrov dolga ali globoka,
+HAS_ATTRIBUTE,naravna,
+HAS_LOCATION,v kamnini,v
+HAS_FUNCTION,je prehodna človeku,
+HAS_LOCATION,podzemna,
+HAS_FUNCTION,prehodna,
+HAS_FORM,"nasprotno od brezna , ki je navpično",nasprotno od
+HAS_FORM,pretežno horizontalna,
+HAS_FUNCTION,za človeka prehodna,
+HAS_LOCATION,v kraški kamnini,v
+HAS_CAUSE,"Glede na nastanek ločimo brezstropo , korozijsko , tektonsko , fosilno , obpobočno in podpobočno jamo",Glede na nastanek ločimo
+HAS_FORM,na površju dajejo videz plitvih in podolgovatih kotanj,
+CONTAINS,so velikokrat zapolnjeni z avtohtonimi ali alohtonimi sedimenti,
+HAS_ATTRIBUTE,zadnji stadij razvoja jam,
+HAS_CAUSE,Površinska denudacija razgali nekdanje jamske rove,razgali
+HAS_CAUSE,"ki nastane , ko površje zaradi denudacije prereže podzemno votlino",
+HAS_SIZE,največje,
+HAS_FORM,"podolgovato , uravnano dno z jasno izraženim prehodom v višji obod",
+HAS_ATTRIBUTE,kraška hidrologija,
+HAS_FORM,sklenjen obod nad razmeroma uravnanim obsežnim dnom,
+COMPOSITION_MEDIUM,v živoskalni podlagi,v
+HAS_FORM,"uravnano , tudi terasirano dno",
+HAS_FUNCTION,kraški odtok ; površinske vode na polju ponikajo,ponikajo
+HAS_FORM,zaokrožena depresija s strmo vzpenjajočim se obodom,
+COMPOSITION_MEDIUM,v nesortiranih naplavinah,v
+HAS_LOCATION,vsaj na eni strani polja,vsaj na
+HAS_LOCATION,v krasu,v
+HAS_FORM,otoke fluvialnega reliefa,
+HAS_SIZE,večje,
+HAS_FORM,jasno zaokrožene,
+HAS_FORM,uravnane depresije s posebnimi pritočnimi in odtočnimi značilnostmi,
+CONTAINS,"ki ima razvite vse tipične kraške oblike , vključno s kraškimi polji",ima razvite
+HAS_ATTRIBUTE,ki je odvisen od temperature,je odvisen
+HAS_LOCATION,kras v kredi,
+HAS_LOCATION,moravski kras,
+HAS_FORM,Nekatere novejše tipologije po analogiji delijo kras na nižji in valovit srednjeevropski ter bolje razvit sredozemski kras,
+HAS_POSITION,v južni Angliji in severni Franciji,
+HAS_ATTRIBUTE,molekule vode se gibljejo vzporedno v smeri gibanja vodnega toka,
+HAS_FORM,pri katerem so tokovnice ves čas vzporedne,
+HAS_FORM,brez mešanja oziroma pravokotne komponente premikanja,brez
+HAS_CAUSE,"ni vezan na kraške procese , ampak je rezultat neenakomernega taljenja permafrosta poleti in zmrzovanja pozimi",je rezultat
+HAS_FUNCTION,ki je neprepustna oziroma ni zmožna hraniti ali prevajati pomembnejših količin vode,ki je
+HAS_FUNCTION,"ki lahko vsebujejo pomembnejše količine vode , prepojene z vodo pa vode ne prevajajo",ki lahko vsebujejo
+MEASURES,v katerih se meri višino podzemne vode v vodonosnikih,v katerih se meri
+HAS_FUNCTION,da prevaja tekočine,
+MEASURES,hidravlična prevodnost,
+HAS_LOCATION,Zgornji del vadozne cone predstavlja,predstavlja
+HAS_LOCATION,Prehodno cono med vadozno in freatično cono,
+HAS_LOCATION,Najnižja cona kraškega vodonosnika,Najnižja cona
+HAS_FUNCTION,kjer površinske vode odtekajo v podzemlje,odtekajo|kjer
+HAS_ATTRIBUTE,ki se napajajo predvsem z alogenimi tokovi,se napajajo
+HAS_CAUSE,ki nastane z neposrednim delovanjem tekoče vode,nastane
+HAS_CAUSE,naravni,
+HAS_CAUSE,posledica delovanja kondenzne vode na kamnino,posledica
+HAS_FUNCTION,"ki zadržuje vodo , ki se steka s kraškega površja v podzemlje",zadržuje
+CONTAINS,"so žlebovi in žlebiči , kotlice in vdolbinice , štrline in odlomi ter odkruški",
+DEFINED_AS,"suh , hladen , padajoč in sunkovit SV veter",
+HAS_SIZE,okoli 500 km2 velika,velika
+COMPOSITION_MEDIUM,apneniška,
+HAS_POSITION,v jugozahodni Sloveniji,v
+HAS_FUNCTION,ki omogoča kemično raztapljanje karbonatov,omogoča
+HAS_FORM,z ravnim dnom,z
+HAS_CAUSE,korozijske,
+HAS_SIZE,velike od nekaj cm2 do nekaj m2,velike
+HAS_LOCATION,bodisi na površju ali subkutano,
+HAS_CAUSE,korozijske,
+HAS_CAUSE,ki nastajajo s korozijo vode,nastajajo
+HAS_FORM,"Manjše , poklinaste",
+HAS_SIZE,Manjše,
+HAS_CAUSE,nastanejo pa ob manjših nezveznostih v kamnini,nastanejo pa ob
+HAS_SIZE,lahko globlje od 50 cm in dolge nekaj metrov,lahko globlje
+HAS_FORM,polkrožne,
+HAS_CAUSE,ki nastanejo po strmcu kamninskega bloka navzdol,nastanejo
+HAS_POSITION,"med Tržaškim zalivom in Vipavsko dolino v regiji , ki jo imenujemo Kras",med
+HAS_FORM,je bolj široka kot globoka,
+HAS_SIZE,navadno globoka več metrov,navadno globoka
+HAS_LOCATION,kjer je dinamika odlaganja večja od dinamike raztapljanja karbonatov,kjer je
+HAS_LOCATION,do katere se karbonati še odlagajo,do katere se|odlagajo
+HAS_CAUSE,sedimentna,
+COMPOSITION_MEDIUM,ki jo sestavljata minerala dolomit ( več kot 50 utežnih odstotkov ) in kalcit,jo sestavljata
+HAS_ATTRIBUTE,na površini izdanjajo v manjši meri kakor karbonati,
+HAS_LOCATION,ki so prisotne pod približno 25 odstotki celinskega površja,ki so prisotne pod
+HAS_CAUSE,ki so nastale z izločanjem mineralov iz prenasičene solne raztopine zaradi popolne ali le delne evaporacije vode,ki so nastale z
+HAS_ATTRIBUTE,saj se najhitreje izloči iz vode,
+HAS_ATTRIBUTE,ki se pri evaporaciji prvi izloči iz vode,
+HAS_CAUSE,ki nastane z metamorfozo apnencev in dolomitov pri povišanih tlakih in temperaturi,ki nastane z
+HAS_LOCATION,v kamnini,v
+HAS_CAUSE,ki nastanejo zaradi delovanja napetosti,ki nastanejo zaradi
+HAS_CAUSE,kemično preperevanje oziroma raztapljanje,
+HAS_LOCATION,predvsem v sušnejših klimatskih okoljih,predvsem v
+HAS_POSITION,na Zemljinem površju,na
+COMPOSITION_MEDIUM,v čisti vodi,v
+CONTAINS,"sestavljeno iz zaporednih vertikalnih stopenj , ki jih povezujejo police ali zvezni rovi",sestavljeno iz
+HAS_FORM,V prečnem profilu je rov špranjast,V prečnem profilu je
+HAS_FORM,Podobno je vodnjaku,Podobno je
+HAS_FORM,Ima gladke stene in enakomerno širino,Ima
+HAS_FORM,Navzdol se razširja v obliki zvona,Navzdol se razširja v obliki
+CONTAINS,V njem se večji del leta ali trajno zadržujejo večje ledene gmote,zadržujejo
+HAS_FUNCTION,"Lj . tudi ledenik , ker so iz dostopnih ledenih brezen nekdaj izvažali led",
+CONTAINS,Večji del leta se v njem zadržuje sneg ali pa ga sneg celo zapolnjuje,
+DEFINED_AS,Oblika podtalnega krasa,
+CONTAINS,zapolnjeno z ilovico,zapolnjeno z
+CONTAINS,"pretežno zapolnjeno s klastičnimi sedimenti , to je gruščem , prodom , ilovico in pod",pretežno zapolnjeno s
+HAS_CAUSE,Nastane z udorom nad votlino,Nastane z
+HAS_CAUSE,Nastalo je s tektonskim odmikom skladov in ga drugi procesi niso bistveno preoblikovali,Nastalo je s
+HAS_FORM,ima stene vidno korozijsko razčlenjene,ima
+HAS_CAUSE,Nastalo je pretežno s korozijskim delovanjem vode,Nastalo je pretežno s
+CONTAINS,in ima jasne erozijske oblike,in ima
+HAS_CAUSE,Nastalo je pretežno z mehaničnim delovanjem tekoče vode,Nastalo je pretežno z
+HAS_CAUSE,Oblikovali so ga različni procesi,Oblikovali so ga
+HAS_FUNCTION,"Po nekaterih razlagah je zatrpano in mrtvo , po drugih pa se spričo drugačnih speleogenetskih procesov v sedanjosti ne spreminja",
+HAS_CAUSE,nastalo v preteklih geoloških dobah,nastalo v
+HAS_FORM,Odpira se v stropu in sega na površje ali v višjo votlino,Odpira se v
+HAS_FORM,večji uravnani deli,
+HAS_LOCATION,na strmih pobočjih,
+HAS_FORM,je v tlorisu bolj ali manj okrogle oblike,oblike
+HAS_FORM,vodoravna,
+HAS_FUNCTION,v katero teče potok ali reka,v katero teče
+HAS_SIZE,večja,
+HAS_LOCATION,v skalnem koritu,v
+HAS_FUNCTION,ki požira vodo,
+COMPOSITION_MEDIUM,v kraškem ozemlju,v
+HAS_FORM,s sklenjenim višjim obodom in ravnim dnom,
+HAS_CAUSE,nastali z odmikom pobočja nad ponori,nastali z
+HAS_FORM,strmi ali navpični,
+HAS_CAUSE,je rezultat litološke in tektonske zgradbe ter njenega dosedanjega geomorfološkega preoblikovanja,je rezultat
+CONTAINS,površinske in podzemne reliefne oblike,
+HAS_CAUSE,zaradi razpoklinske prepustnosti in topnosti kamnin,
+HAS_CAUSE,so nastale kot posledica kemičnega in mehanskega delovanja vode,so nastale kot posledica
+COMPOSITION_MEDIUM,"v karbonatnih kamninah , v apnencu in dolomitu",v
+HAS_FORM,"okroglaste oblike , ki se začne poglabljati v površje z vidnim prelomom strmine",oblike
+HAS_CAUSE,podzemsko spiranje prepereline in drobirja ( lahko pomembno prispevajo k denudaciji ),
+HAS_CAUSE,"preperevanje ( prvotni geomorfni proces , ki lahko preoblikuje površje brez stalnih površinskih vodnih tokov )",
+HAS_CAUSE,"erozija ( pomembna tam , kjer rastje ne varuje podlage )",
+HAS_CAUSE,polzenje,
+HAS_CAUSE,akumulacija ( gradivo se odlaga na stiku pobočja in dna dolca ter v dnu dolca ),
+HAS_CAUSE,denudacija ( ki lahko preko trenja med preperelino in podlago pomaga oblikovati začetno obliko dolca,
+HAS_FORM,je bolj plitva kot je dolga,
+HAS_FORM,brez površinskega vodnega pretakanja,brez
+HAS_FORM,plitva dolinasta,
+HAS_ATTRIBUTE,najpogostejši tip kraške vzpetine,
+HAS_FORM,višji deli kraškega reliefa,
+HAS_FORM,"je v veliki meri razrezano z dolinami , večina katerih ima svoje začetne dele na krasu",
+CONTAINS,dolinami,
+HAS_LOCATION,na pobočju,
+HAS_FORM,plitva dolinasta reliefna oblika,oblika
+HAS_ATTRIBUTE,brez površinskega vodnega pretakanja,brez
+HAS_LOCATION,se pojavljajo med različnimi depresijskimi oblikami,se pojavljajo med
+HAS_FORM,ki je razrezano z rečnimi dolinami,
+HAS_LOCATION,večina njihovih začetnih delov pa je na krasu,
+COMPOSITION_MEDIUM,na stiku kraških in nekraških kamnin,na stiku
+HAS_ATTRIBUTE,kjer se prepletata fluvialni in kraški geomorfni sistem,se prepletata
+CONTAINS,se prepletata fluvialni in kraški geomorfni sistem,||||||
+HAS_LOCATION,površinska oblika,
+COMPOSITION_MEDIUM,kontaktnega krasa,
+HAS_LOCATION,ki nastane na območju izvirov,nastane na območju
+HAS_CAUSE,kjer vode pritekajo iz kraške kamnine,
+HAS_LOCATION,končni del zatrepne doline,
+COMPOSITION_MEDIUM,stik med kraškimi in nekraškimi kamninami,stik med
+HAS_FORM,vidnih le malo kraških potez,vidnih
+HAS_CAUSE,jo izoblikujejo ponikalnice v krasu,jo izoblikujejo
+CONTAINS,predvsem kraški ponor in dobro prevodni kanali,
+COMPOSITION_MEDIUM,so se razvile na rečnih naplavinah,so se razvile na
+HAS_CAUSE,ki nastane pred čelom mirujočega ledenika,nastane
+HAS_FORM,stožčaste oblike,
+COMPOSITION_MEDIUM,prodno-peščena,
+HAS_LOCATION,na kontaktnem   krasu,na
+HAS_LOCATION,površinske,
+HAS_LOCATION,na   krasu,na  
+HAS_LOCATION,na območjih vršajev,na območjih
+HAS_CAUSE,nastanejo s postopno denudacijo flišne naplavine in kemično denudacijo karbonatne podlage,nastanejo s
+HAS_FORM,Njihovi podolžni profili so izrazito konkavni v zgornjih delih,
+HAS_FORM,v osrednjih in spodnjih delih pa imajo značilno konveksno obliko,
+HAS_FORM,v tlorisu pahljačaste oblike,v tlorisu
+COMPOSITION_MEDIUM,v spodaj ležeči karbonatni matični podlagi,v
+OCCURS_IN_TIME,se sedimentacija vršaja prekine,
+HAS_CAUSE,zaradi neenakomerne denudacije kraškega površja,zaradi
+HAS_LOCATION,na karbonatni podlagi,na
+HAS_CAUSE,do prekinitve fluvialne akumulacije alohtonega materiala ter postopnega preoblikovanja te oblike z denudacijo alohtonih nanosov v obliko,
+HAS_CAUSE,"Po nastanku pa jih ločimo na korozijske , udorne , sufozijske in posedne ( Ford , Williams , 2007 )",Po nastanku pa jih ločimo na
+HAS_LOCATION,na apnencih,na
+HAS_LOCATION,na dolomitih jih navadno ni,na
+HAS_FORM,"Po obliki jih   Slovenska kraška terminologija   ( Gams in sod . , 1973 ) deli na skledaste , lijakaste , kotlaste in vodnjakaste",deli na|Po obliki jih
+HAS_LOCATION,na karbonatih in evaporitih,na
+HAS_LOCATION,na pleistocenskih in oligocenskih konglomeratih,na
+HAS_FORM,je bolj široka kot globoka,
+HAS_SIZE,navadno globoka več metrov,
+HAS_LOCATION,v podzemlje,v
+HAS_LOCATION,v tleh zakraselega območja,v
+HAS_FORM,lijakasta,
+HAS_CAUSE,"Pojavi se šele tedaj , ko so kanali dovolj veliki , da jih plavje ob upadu hitrosti vode ne zadela",ko so kanali dovolj veliki
+HAS_CAUSE,"Erozija s pomočjo plavja , predvsem peska in proda",s pomočjo
+HAS_CAUSE,"V profilu "" ključavnice "" je zgornji , okrogli do elipsasti del izdolbla čista voda , spodnji , debrski paje abrazijski",izdolbla
+HAS_SIZE,zbrane v sorazmerno večje tokove,
+HAS_CAUSE,Zato nastajajo najopaznejše kraške oblike,nastajajo
+HAS_LOCATION,"v krasu , ki tja priteče z nekrasa",v|z
+HAS_RESULT,dolbejo invazijske jame,
+HAS_LOCATION,na vtokih alogene vode,na
+HAS_LOCATION,z nekraškega obrobja,z
+HAS_ATTRIBUTE,korozijsko sposobnost,
+HAS_LOCATION,s talečega se ledenika,s
+OCCURS_IN_TIME,V času snovanja,
+HAS_LOCATION,vzdolž lezik,vzdolž
+HAS_CAUSE,Nastane ob laminarnem toku,Nastane ob
+HAS_FORM,Preplet drobnih kanalov,
+COMPOSITION_MEDIUM,v kamninah z veliko medzemsko poroznostjo,v
+HAS_RESULT,znane pa so tudi popolnoma anastomotske jame z večjimi prostori,
+HAS_RESULT,V fazi rasti se običajno izoblikuje manjše število kanalov,
+HAS_LOCATION,v prežeti coni,v
+HAS_FORM,trodimenzionalni,
+HAS_SIZE,prostornina nenačete kamnine manjša od prostornine votlin,
+HAS_LOCATION,V območju anastomoze,V
+HAS_FORM,kot planarni sklopi votlin,
+HAS_FUNCTION,cepijo in spajajo,
+HAS_LOCATION,v krasu,v
+HAS_CAUSE,ki se napaja izključno s preniklih krajevnih padavin,ki se napaja izključno s
+HAS_CAUSE,"glede na to , ali je voda , ki jih obliva , agresivna , ali sigotvorna",
+HAS_CAUSE,"Sigotvorna voda , obratno , ogladi izbočene površine in oblikuje rebra na previsnih",
+HAS_CAUSE,Agresivna voda ogladi previsne površine in vreže žlebove v izbočene,
+HAS_FORM,previsnih oz . izbočenih površin,
+COMPOSITION_MEDIUM,če bi bila vsa kontinentalna zemeljska skorja izključno iz kraških kamnin,iz
+HAS_LOCATION,ki stoji pravokotno na tokovnice,ki stoji pravokotno na
+HAS_FORM,Obroč faznih meja,
+COMPOSITION_MEDIUM,Kalcijevomagnezijev,
+HAS_FORM,"Kristali ditrigonalno skalenoedrično , najbolj razširjena oblika je romboeder",oblika
+HAS_CAUSE,Nastanejo z dolomitizacijo v času zgodnje ali pome diageneze,Nastanejo z
+HAS_FUNCTION,"deluje dolomit v gotovih razmerah kot kraška , v drugih pa kot nekraška kamnina",kot|deluje
+HAS_CAUSE,nastane neposredno s sedimentacij o v posebnih razmerah,nastane
+COMPOSITION_MEDIUM,ki jo sestavljata minerala dolomit ( > 90 % ) in kalcit,ki jo sestavljata
+HAS_LOCATION,ki nastanejo na stiku med kraško kamnin o in ozračjem,na
+CONTAINS,Skupnost vseh kraških oblik,Skupnost
+HAS_LOCATION,ki nastanejo v neprežeti in prežeti coni,v
+CONTAINS,Skupnost vseh kraških oblik,Skupnost
+CONTAINS,Skupnost vseh kraških oblik,Skupnost
+HAS_LOCATION,ki nastanejo na stiku med kraško kamnino in tajno odejo,na
+OCCURS_IN_TIME,ki naj bi po večjih padavinah nastalo,po
+HAS_POSITION,V Sloveniji,
+HAS_LOCATION,v tleh tik nad zakraselo kamnino,v|nad
+HAS_RESULT,Zato naj bi bile vse jame neprežete cone do neke mere invazijske,
+HAS_CAUSE,Padavinska voda naj bi se zbrala že v tem območju in v neprežeto cono vtekala v obliki posameznih curkov,
+HAS_FUNCTION,ki ni več sposobna korodirati,ni več sposobna
+HAS_LOCATION,vglobljena v jamsko steno,vglobljena v
+HAS_FORM,oglata,
+HAS_SIZE,Manjša,
+HAS_FORM,z ravnim ali položnim dnom,
+HAS_LOCATION,skozi kraško gmoto do vecjih žil,
+HAS_FUNCTION,ki tvori glavnino recnega pretoka po daljši suši,tvori glavnino
+HAS_FUNCTION,ki se počasi preceja,
+HAS_FORM,ravna,
+HAS_FORM,v notranjosti se dvigajoča,v notranjosti
+HAS_FUNCTION,v kateri je pozimi ujet toplejši zrak,
+HAS_ATTRIBUTE,Topla,
+HAS_FUNCTION,ki obdobno presiha,
+HAS_LOCATION,Visokogorski,
+COMPOSITION_MEDIUM,s skalnim površjem,
+HAS_LOCATION,z znaki podiranja na stropu in dnu,na stropu|dnu
+HAS_LOCATION,v jami,v
+HAS_FORM,Stožčast,
+HAS_LOCATION,na dnu vhodnih brezen,na dnu
+COMPOSITION_MEDIUM,kup skalovja,
+HAS_SIZE,Večja,
+HAS_LOCATION,jamska,
+HAS_POSITION,raztekanje Loškega potoka v izvire Rinže - Kolpe in Krke,v
+DEFINED_AS,"da se enotni podzemski tok v podzemlju vilici , razteka in izvira v dveh oddaljenih krajih , v dveh porečjih ali morjih",v
+HAS_LOCATION,v podzemlju,|
+OCCURS_IN_TIME,"stalno , periodično ali obdobno",
+COMPOSITION_MEDIUM,z vodo zalitih votlin,
+HAS_LOCATION,v kraškem podzemlju .,v
+HAS_LOCATION,v kraškem podzemlju,v
+HAS_LOCATION,v kraškem podzemlju,v
+HAS_FORM,z majhnim vhodom,
+HAS_FORM,linearne oblike,
+HAS_CAUSE,"ki nastanejo zaradi gravitacije , ki povzroči gibanje vode po strmcu navzdol",ki nastanejo zaradi
+HAS_SIZE,Najmanjšo obliko,
+HAS_CAUSE,naravni,
+HAS_RESULT,"ki kamnino v času razkroji na delce , iz katerih je sestavljena",razkroji
+HAS_RESULT,"zaradi gojitve ali obnove , pomlajevanja gozdov",zaradi
+HAS_LOCATION,na določenem zemljišču,na
+HAS_POSITION,v zaledju Tržaškega zaliva .,v
+DEFINED_AS,ki je dobil ime po pokrajini Kras,
+HAS_LOCATION,v podzemlje,v
+HAS_LOCATION,v tropskih geografskih širinah,v
+HAS_CAUSE,so intenzivna evapotranspiracija in zanemarljivo mehansko preperevanje,
+COMPOSITION_MEDIUM,iz razpadlega kamenja,iz
+HAS_SIZE,Večje,
+HAS_LOCATION,značilno za polgoli in goli kras,
+HAS_FORM,gruščnato,
+HAS_SIZE,Večje,
+HAS_FORM,v tlorisu bolj nepravilnih oblik,tlorisu
+DEFINED_AS,rušenje jamskih stropov do površja,
+HAS_RESULT,Osnovni mehanizem nastanka udornic,
+DEFINED_AS,kotanje podobne arenam za petelinje boje,
+DEFINED_AS,proces spiranja drobnega materiala krovnine,
+HAS_LOCATION,v kraške kanale,v
+HAS_LOCATION,vstran od njega,vstran od
+HAS_POSITION,"Škratovka , Lijak",
+HAS_LOCATION,neposredno nad stalnejšim izvirom,nad
+HAS_POSITION,Krška jama,
+HAS_CAUSE,ki deluje ob višji vodi,deluje
+HAS_LOCATION,ko nižji stalnejši izvir ne zmore vse iz podzemlja pritekajoče vode,ko
+HAS_FORM,s strmimi ali navpičnimi pobočji,
+HAS_SIZE,nekaj metrov širok,
+HAS_LOCATION,vzdolž razpok,vzdolž
+HAS_POSITION,na Portoriku,
+HAS_LOCATION,v visokogorskem krasu,v
+HAS_FORM,globok premočrten jarek,
+DEFINED_AS,"morfoloških , hidroloških ali drugih značilnosti , ki predstavljajo kras",
+DEFINED_AS,celokupnost kraških značilnosti ali sinonim za kras,
+CONTAINS,ki ga lahko razčlenjujejo drobne in srednjevelike kraške kotanje,
+HAS_FORM,uravnano,
+HAS_LOCATION,"v robnih apnencih ob vododržnih kamninah , s katerih priteka agresivna voda",ob|v
+CONTAINS,kjer nastopajo značilne površinske kraške oblike,
+HAS_POSITION,Notranjsko podolje .,
+CONTAINS,tudi niz nižjega kraškega sveta,niz
+CONTAINS,"kraških polj , uval , suhih dolin",
+HAS_FORM,Podolžni,
+CONTAINS,"celokupnost votlin , zlasti jam in brezen",
+HAS_FUNCTION,vodnoprepustna,
+HAS_FORM,Prevotljena,
+HAS_LOCATION,kraškega ozemlja,ozemlja
+CONTAINS,kraškim odtokom,
+HAS_FORM,z ravnim dnom,
+HAS_SIZE,Največja,
+CONTAINS,ima ponikalnico in strm obod,ima
+HAS_FORM,s trajnim ali skoraj trajnim jezerom v dnu ali delu dna,v dnu ali delu dna
+HAS_POSITION,Planinsko polje,
+OCCURS_IN_TIME,letno nastopajo poplave,
+HAS_POSITION,Planinsko polje,
+HAS_FUNCTION,dno polja predstavlja jez za podzemeljske kraške pretoke,predstavlja jez za
+COMPOSITION_MEDIUM,Iz vodonepropustnih ali slabo prepustnih kamnin sestavljeno,sestavljeno
+CONTAINS,v katerem ni površinskega trajnega ali periodičnega vodnega toka ali poplav,
+HAS_LOCATION,na stiku med vododržnimi in vodoprepustnimi kamninami,na stiku med
+HAS_LOCATION,na robnih karbonatnih kamninah na stiku z večjim kompleksom neprepustnih kamnin,na stiku z|na
+HAS_CAUSE,nastala s korozijo,nastala s
+HAS_FORM,"Sestavljena iz iz dveh sosednjih vrtač , ki prehajata ena v drugo",Sestavljena iz iz
+HAS_RESULT,v kateri so nastale sekundarne vrtače,so nastale
+HAS_LOCATION,Nastala v primarni vrtači,v
+HAS_CAUSE,Nastala je z udorom,Nastala je z
+CONTAINS,Z vodoneprepustnimi sedimenti zapolnjena,Z
+HAS_ATTRIBUTE,ki je zastala v razvoju,
+COMPOSITION_MEDIUM,v sipskem gradivu,v
+HAS_CAUSE,ki je nastala s sufozijo ( to je spiranjem pod rušo ),je nastala s
+HAS_FUNCTION,ki tvorijo dolinasto depresijo,ki tvorijo
+DEFINED_AS,Proces nastajanja krasa,
+OCCURS_IN_TIME,Pričetek kraškega razvoja po odstranitvi neprepustnega pokrova,
+HAS_CAUSE,"Kras nastaja s kraškimi procesi , med katerimi je v ospredju korozija",nastaja s
+HAS_FORM,"ki se na zgornjem koncu , često ob izviru potoka , slepo konča s strmim zaključkom",
+HAS_LOCATION,na krasu,na
+HAS_FORM,Žlebaste,
+HAS_FORM,s polkrožnim prečnim prerezom,
+HAS_FORM,potekajoče po smeri največjega strmca po kompaktni kamnini,potekajoče po
+HAS_LOCATION,na jamskem dnu ali steni,na
+HAS_FORM,z okroglastimi previsnimi stenami,z
+HAS_FORM,v obliki korita,v obliki
+HAS_CAUSE,ki je posledica nekdanje zapolnjenosti s humusom,je posledica
+HAS_FORM,Zaviti,
+HAS_LOCATION,navadno na zložnejšem pobočju,navadno na
+HAS_FORM,podobni zvijugani tokavi,podobni
+HAS_LOCATION,Na vrhu golih skalnih reber začenjajoči se,Na vrhu
+HAS_SIZE,drobni,
+HAS_FORM,često meandrast,
+HAS_SIZE,večji,
+HAS_LOCATION,na jamskem stropu,na
+HAS_FORM,ki imajo zaobljene vmesne hrbte,
+CONTAINS,z gostimi žlebiči,z
+COMPOSITION_MEDIUM,Skalno,
+CONTAINS,z značilnimi vzpetinicami v obliki stožcev ( stogov ),z
+DEFINED_AS,Posebna oblika tropskega krasa,Posebna oblika
+CONTAINS,mu dajejo vrtace znacilen izgled,
+HAS_ATTRIBUTE,Nasprotje od merokrasa,
+HAS_SIZE,globoki,
+CONTAINS,"z vsemi kraškimi pojavi , vključno polji",z|vključno
+HAS_LOCATION,za srednjeevropski kras,
+HAS_ATTRIBUTE,"delni , nepopolni",
+HAS_CAUSE,ki le delno podlegajo zakrasevanju,podlegajo
+COMPOSITION_MEDIUM,"v kamninah , kot je dolomit",
+CONTAINS,z neizrazitimi kraškimi oblikami,z
+HAS_LOCATION,"pod zemeljskim površjem , oziroma pod zemljo ( prstjo )",pod|pod
+HAS_LOCATION,v gorah nad gozdno mejo,v|nad
+HAS_LOCATION,na sticišču prepustnih in vodno neprepustnih kamnin,na sticišču
+HAS_LOCATION,na morski ali jezerski obali,na
+HAS_SIZE,z več sto metrov debelo cono vertikalnega kraškega pretakanja,z
+HAS_FORM,kjer najgloblje reliefne depresije ne dosegajo freatične cone,ne dosegajo
+COMPOSITION_MEDIUM,z več sto metrov debelimi kraškimi kamninami ne glede na globino piezometra,z
+COMPOSITION_MEDIUM,s plitvimi kraškimi ( vodoprepustnimi ) kamninami,
+HAS_SIZE,v katerem je cona vertikalnega pretakanja plitva,v katerem
+HAS_FORM,Globlje reliefne depresije segajo do freatične cone,segajo do
+HAS_ATTRIBUTE,ki niso v skladu z recentnim zakrasevanjem,niso v skladu z
+HAS_CAUSE,"katerih razvoj je v recentni dobi povsem zastal ( prim . fosilna jama , fosilno brezno , mrtva jama )",zastal|je
+HAS_CAUSE,je nastal z zanj tipičnimi oblikami v drugačnih klimatskih in drugih pogojih v geološki preteklosti in je zastal v razvoju,je zastal|nastal
+HAS_LOCATION,Na Dinarskem krasu,Na
+CONTAINS,kjer se osamljeno dvigajo več deset ali sto metrov visoke vzpetine kopaste oblike,se osamljeno dvigajo
+CONTAINS,"Makrooblike so fosilnega postanka , mikrooblike pa so lahko že recentne",
+HAS_FORM,s katerega je bila odstranjena vododržna odeja,je bila odstranjena
+HAS_CAUSE,Kot paleokras ( fosilni kras ) nastali,nastali
+COMPOSITION_MEDIUM,v apnencu,v
+HAS_LOCATION,v podzemlju,v
+HAS_LOCATION,neposredno pod prstjo ( zemljo,pod
+HAS_LOCATION,nekatere pa najdemo samo pod prstjo,pod
+HAS_FORM,so podobne površinskim,
+HAS_LOCATION,"ki je na območjih , kjer vode pritekajo iz fluvialnega geomorfnega sistema v kraškega ali obratno",
+HAS_LOCATION,na krasu,na
+HAS_FUNCTION,ki nimajo aktivnega procesa sedimentacije rečnih nanosov,
+HAS_SIZE,navadno globoka več metrov,globoka
+HAS_FORM,je bolj široka kot globoka,
+HAS_CAUSE,Kemično preperevanje oziroma raztapljanje kraških kamnin imenujemo,
+HAS_RESULT,Posledica korozije je prevotljenost podzemlja z jamami,je|Posledica
+HAS_RESULT,"na površju pa se oblikujejo različne površinske oblike , za katere je pomembna kombinacija dobro topnih kamnin , njihova razpokanost in zadostna količina meteorne vode",se oblikujejo
+CONTAINS,zadenjske rečne erozije,
+CONTAINS,korozije pod naplavino,
+CONTAINS,vključuje kombinacijo vertikalnega raztapljanja s padavinami,vključuje
+HAS_RESULT,ki povzroča nastanek uravnav,ki povzroča
+CONTAINS,bočne korozije morfološko vzpetih delov,
+HAS_LOCATION,na območjih vršajev,
+HAS_CAUSE,kemično denudacijo karbonatne podlage,
+HAS_CAUSE,ki nastanejo s postopno denudacijo flišne naplavine,ki nastanejo s
+COMPOSITION_MEDIUM,ki oblikujejo udornice v dinamičnem kraškem površju,v
+HAS_CAUSE,je rezultat ravnovesja med različnimi procesi v udornici,je rezultat
+HAS_FORM,ki so dodatno poglobljene zaradi zakrasevanja,
+HAS_POSITION,za Južne Alpe in Dinarsko gorstvo,
+DEFINED_AS,"kjer jo na južnem delu Dinarskega gorstva krajevno imenujejo do , na severnem delu pa navadno konta",krajevno imenujejo
+HAS_CAUSE,večjo agresivnost ali erozivnost vodnih tokov,
+HAS_CAUSE,vezana na specifične hidrološke procese na območjih koncentriranih podzemskih tokov,vezana na
+HAS_CAUSE,nihanja piezometričnega nivoja v podzemlju,
+HAS_CAUSE,je rezultat součinkovanja mnogih geomorfnih procesov,je rezultat
+HAS_CAUSE,so posledica razpada površinske rečne mreže,so posledica
+HAS_FORM,Daljše razvejane rove,
+HAS_LOCATION,pas med najvišjo in najnižjo piezometrično vodno gladino,
+HAS_FUNCTION,"ob naraščanju vode deluje kot bruhalnik , ob upadanju pa kot požiralnik",deluje
+COMPOSITION_MEDIUM,dolomitnega reliefa,
+HAS_FORM,kamnito ozemlje,
+HAS_FORM,v obliki skledaste vdolbine,v obliki
+HAS_LOCATION,na zemeljskem površju,na
+HAS_CAUSE,nastala zaradi kemičnega delovanja vode,nastala zaradi
+COMPOSITION_MEDIUM,izjedena v trdi kamnini ( apnencu ali drugih karbonatnih kamninah ),izjedena v
+HAS_SIZE,dolga od nekaj centimetrov do več decimetrov in metrov,dolga
+HAS_LOCATION,na krasu,na
+HAS_ATTRIBUTE,brez stalnega površinskega vodnega toka,brez
+HAS_CAUSE,nastanejo zaradi korozije vode na površju ali subkutano,nastanejo zaradi
+HAS_FORM,"pravilnih žlebastih oblik , ki potekajo v smeri največjega strmca stene",oblik
+HAS_CAUSE,ki jih je naredila skozi kras tekoča voda,ki jih je naredila
+HAS_CAUSE,nastal pretežno s korozijskimi procesi,nastal
+COMPOSITION_MEDIUM,Skalnata,
+HAS_FORM,"okroglaste , podolgovate ali oglate oblike",
+HAS_SIZE,premerom nekaj metrov,premerom
+CONTAINS,"s strmimi stenami in snegom , ki se zadržuje v dnu večino leta",s
+HAS_LOCATION,visokogorski kras,
+HAS_ATTRIBUTE,s posredovanjem avstrijske strokovne literature je postala v obliki karst mednarodni termin,
+HAS_ATTRIBUTE,Beseda je predindoevropskega izvora ( carra = kamen ) in je bila do srede 19 . stol . samo pokrajinsko ime,
+HAS_FUNCTION,"kjer vlada zaradi razpoklinske prepustnosti kamnine podzemeljsko ( kraško ) pretakanje vode , učinkovito kemično raztapljanje kamnin",
+CONTAINS,kjer so lahko razvite tudi značilne površinske in podzemeljske oblike,so lahko razvite
+HAS_POSITION,za regijo Kras med Tržaškim zalivom in Vipavsko dolino,
+HAS_POSITION,"med Tržaškim zalivom in Vipavsko dolino v regiji , ki jo imenujemo Kras",
+HAS_ATTRIBUTE,prešlo v krasoslovno terminologijo kot geomorfološki termin,
+CONTAINS,ozemlje z izrazitimi kraškimi pojavi,ozemlje z
+HAS_ATTRIBUTE,kraške značilnosti so bile prvič strokovno opisane .,
+HAS_POSITION,"med Trstom , Kvarnerskim zalivom in Postojno",med
+COMPOSITION_MEDIUM,v apnencu,v
+COMPOSITION_MEDIUM,v dolomitu,v
+COMPOSITION_MEDIUM,v klasticnih kamninah,v
+COMPOSITION_MEDIUM,v kamnini kredi,v
+COMPOSITION_MEDIUM,v puhlici,v
+COMPOSITION_MEDIUM,v soli,v
+COMPOSITION_MEDIUM,v sadri,v
+HAS_CAUSE,ki je nastal ob delovanju kraških in glacialnih procesov,je nastal
+HAS_CAUSE,Nastal je v aridni ( sušni ) klimi,Nastal je
+HAS_CAUSE,Nastal v nivalni ( snežni ) klimi ob vidnem učinkovanju snežnice,Nastal
+HAS_LOCATION,V Jugoslaviji danes omejen na visokogorski kras,omejen na
+HAS_RESULT,od koder se stekajo vode proti različnim izvirom,
+HAS_CAUSE,posledica delovanja površinskih tokov in erozije ter denudacije,posledica delovanja
+CONTAINS,"brez površinskih depresijskih oblik , vrtač ni oziroma jih je manj",brez
+COMPOSITION_MEDIUM,na stičišču prepustnih in za vodo neprepustnih kamnin,na
+OCCURS_IN_TIME,v kateri se občasno pojavlja površinski vodni tok,kateri se občasno
+HAS_CAUSE,so posledica razpada površinske rečne mreže,so posledica
+HAS_LOCATION,"so značilne oblike tako za normalni oziroma fluvialni relief , kot tudi za kraški relief",so značilne oblike tako za
+HAS_CAUSE,rušenje jamskih stropov do površja oziroma udor,
+HAS_CAUSE,lahko delujeta tako kraški kot fluvialni geomorfni sistem,
+HAS_CAUSE,kjer prevladuje odnašanje materiala s pobočij in akumuliranje materiala v kraških kotanjah,kjer prevladuje
+HAS_CAUSE,pritekajo vode iz fluvialnega geomorfnega sistema v kraškega ( ali obratno ) oz . je kras preoblikovan pod vplivom alogenih vodotokov,pod vplivom
+HAS_CAUSE,ki jih na kraško matično podlago nanesejo občasni alogeni tokovi,
+HAS_ATTRIBUTE,voda pa na robovih odteka v kras,
+HAS_LOCATION,na kontaktnem krasu,na
+HAS_ATTRIBUTE,kjer je proces akumulacije naplavine intenzivnejši od korozije,kjer je
+HAS_LOCATION,Najvišja plast zgornjega akvifuga,
+HAS_CAUSE,"zmrzovanje in taljenje , dežno-snežna erozija , soliflukcija in nivacija",
+DEFINED_AS,"kateri se odražajo klimatske oz . mikroklimatske lastnosti kraških kotanj ( npr . klima kraških polj ) , kraških tal ( posebnosti v geotermični stopnji ) in jam ( jamska klima )",
+STUDIES,se ukvarja s površinskimi kraškimi oblikami,se ukvarja
+STUDIES,o površinskih in podzemeljskih oblikah krasa,
+COMPOSITION_MEDIUM,kraške kamnine,
+HAS_RESULT,omogoča razvoj krasa,
+HAS_CAUSE,zaradi vodne prepustnosti,zaradi
+HAS_FORM,kanjonske oblike,oblike
+HAS_SIZE,večja,
+COMPOSITION_MEDIUM,dolastih vrtač,
+HAS_FORM,kot bivši rečni kanjon,
+HAS_SIZE,Dolga,
+HAS_LOCATION,skozi kraško podzemlje,skozi
+HAS_CAUSE,s pretočitvijo sosednjega površinskega vodnega toka,s pretočitvijo
+HAS_LOCATION,kraškega ozemlja,
+HAS_FUNCTION,ki se pretaka iznad nivoja kraških izvirov,se pretaka
+HAS_LOCATION,v kanalih v coni kolebanja gladine kraške vode,v
+HAS_CAUSE,ki se je nabrala s kraškega ozemlja,se je nabrala
+HAS_LOCATION,kraškega podzemlja,
+HAS_FORM,naravni,
+HAS_LOCATION,na površju,na
+HAS_FUNCTION,ki ob visoki vodi bruha vecje količine vode,bruha
+OCCURS_IN_TIME,Občasni,
+HAS_FUNCTION,ki v določenem časovnem razmaku narašča in upada ter Iahko obdobno tudi presiha,
+HAS_LOCATION,pod morsko gladino ali gladino plime,pod
+COMPOSITION_MEDIUM,sladke ali brakične vode,
+HAS_LOCATION,"na stiku vodno prepustnih kamnin , ki so navadno v krovnini , in neprepustnih kamnin",na stiku
+HAS_LOCATION,v jami,v
+HAS_SIZE,Večji,
+HAS_LOCATION,iz brezna,iz
+HAS_ATTRIBUTE,Močan,
+HAS_LOCATION,v vznožju stene,v
+HAS_FORM,Skupinski,
+HAS_FUNCTION,v katerem voda ob visoki vodi vre,
+HAS_LOCATION,med skalovjem na nagnjenem površju,med
+HAS_ATTRIBUTE,katerega vode pritekajo na dan razpršeno,
+HAS_ATTRIBUTE,Močan,
+HAS_SIZE,Večji,
+HAS_FORM,razširjeni,
+HAS_CAUSE,ki ga je izoblikoval vodni tok pod tlakom ( eforacijski tok ),ki ga je izoblikoval
+HAS_FORM,in ima v prečnem prerezu zaokrožen ( eforacijski ) profil,ima
+DEFINED_AS,Kraški vodni objekt,
+HAS_FUNCTION,ob upadanju pa funkcijo ponora ( požiralnika ),
+HAS_FUNCTION,Ob visoki vodi ima funkcijo izvira,ima funkcijo
+HAS_FUNCTION,ki obdobno požira morsko vodo,ki obdobno požira
+HAS_FUNCTION,obdobno pa bruha brakično vodo,obdobno pa bruha
+HAS_SIZE,Nekaj cm ali dm dolga,
+HAS_FORM,"Globlja in strmejša je na strani , iz katere je pritekla voda , ki je faseto izdelala",
+HAS_FORM,ovalna,
+HAS_LOCATION,v jamski steni ali dnu rova,v
+HAS_FUNCTION,Po tem znaku so fasete indikatorji smeri vodnega toka,
+HAS_CAUSE,"ki je zastal v razvoju zaradi zatrpanosti s pleistocenskimi sedimenti , navadno z morenskim gradivom",ki je zastal v razvoju zaradi
+STUDIES,"Panoga geografije , ki se ukvarja z naravnimi osnovami in socialnim valoriziranjem krasa",se ukvarja z
+CONTAINS,z globokimi žepi ilovice ali alohtonega gradiva,z
+DEFINED_AS,Oblika podtalnega krasa,
+HAS_LOCATION,v razjedeni kraški kamnini,v
+HAS_FORM,s širokim skalnatim vhodom,s
+HAS_FUNCTION,kjer se zadržujejo golobi,
+HAS_SIZE,večjo,
+HAS_FORM,Visok,
+HAS_POSITION,Velika gora v Postojnski jami .,
+HAS_LOCATION,v večjem jamskem prostoru,v
+DEFINED_AS,kup nakopičenega gradiva,
+COMPOSITION_MEDIUM,iz razpadlega kamenja,iz
+HAS_SIZE,Večje,
+COMPOSITION_MEDIUM,"kamnito , gruščnato",
+HAS_FORM,Nerazpadla kamnita podlaga je bolj ali manj prekrita,
+HAS_LOCATION,značilno za polgoli in goli kras,značilno za
+COMPOSITION_MEDIUM,Akumulacija ekskrementov živali v jami,
+HAS_LOCATION,Značilen hidrološki sloj v vertikalni razčlenitvi kraške gmote,
+HAS_LOCATION,"Pretaka se po kanalih , ki so večinoma zapolnjeni z zrakom ( odtod ime areacijska cona )",Pretaka se po
+HAS_ATTRIBUTE,Stalno suha cona,
+HAS_FUNCTION,kjer padavinska voda pretežno navzdol premika,voda pretežno navzdol premika
+DEFINED_AS,"Po nekaterih pojmovanjih pomenita vadozna cona in vadozna voda najnižjo aeracijsko cono , ki jo ob visokem vodostaju preplavlja voda iz freatične cone",
+HAS_FUNCTION,in se obdobno in lokalno zbira v vodne curke,se obdobno in lokalno zbira v
+HAS_LOCATION,vrhnja,
+HAS_LOCATION,v določeni prostomini kamnine,|||
+DEFINED_AS,Delež praznega prostora v določeni prostomini kamnine,v
+HAS_LOCATION,največkrat med dvema prelomoma ter na zunanji strani zdrobljene cone,največkrat med
+COMPOSITION_MEDIUM,tektonsko pretrtih kamnin,
+HAS_LOCATION,Krajevno,
+HAS_ATTRIBUTE,učinkovitejša,
+HAS_RESULT,katere učinki se pokažejo kot izrazite površinske ali podzemske reliefue oblike,katere učinki
+HAS_RESULT,ko vzdolž celotne sekvence od ponora do izvira laminarni tok preide v turbulentnega,
+MEASURES,Čas,
+OCCURS_IN_TIME,med začetjem in prebojem,
+OCCURS_IN_TIME,ko je paragenetski prag prekoračen,ko je
+HAS_LOCATION,pod gladino podtalnice,pod
+HAS_FUNCTION,Prevaja s soseščine doteklo freatično vodo,Prevaja
+HAS_FUNCTION,zbira krajevne dotoke padavinske vode skozi neprežeto cono,zbira
+OCCURS_IN_TIME,med prebojem in paragenetskim pragom,med
+HAS_FORM,ploskev,
+HAS_CAUSE,Mehansko nastala,
+HAS_LOCATION,v kamnini,|
+DEFINED_AS,ploskev nezveznosti v kamnini,v
+HAS_RESULT,ob kateri je prišlo le do neznatnih premikov,
+HAS_LOCATION,v določeni prostomini kamnine,|||
+HAS_CAUSE,ki ga prispevajo odprte razpoke in lezike,ki ga prispevajo
+DEFINED_AS,Delež praznega prostora v določeni prostomini kamnine,v|Delež
+HAS_ATTRIBUTE,Premiki ob razpokah so neznatni,
+HAS_SIZE,do več 10O m širok,širok
+HAS_FORM,usmerjen sistem razpok,
+HAS_FORM,Bolj ali manj gost,
+HAS_FORM,brez izrazitih prepadnih odsekov,brez
+HAS_SIZE,prehoden človeku,
+HAS_FORM,Kolenasta,
+HAS_LOCATION,"jamskega dna , kjer naj bi na krajšo razdaljo podzemska reka tekla ob pritisnjeni gladini",kjer|naj bi
+HAS_ATTRIBUTE,je tok skozi kanal laminaren,
+OCCURS_IN_TIME,med začetjem in prebojem,med
+HAS_FUNCTION,"se , danes ne oblikuje več",
+HAS_CAUSE,preteklih geoloških razdobjih nastala,
+CONTAINS,s podornim skalovjem,
+HAS_CAUSE,so jo podori bistveno preoblikovali,
+HAS_CAUSE,Nastala s podiranjem,Nastala s
+HAS_CAUSE,Nastala neposredno s tektonskimi procesi,Nastala neposredno s
+HAS_FUNCTION,po kateri teče reka ali potok,
+HAS_CAUSE,ki jo je izoblikoval vodni tok,ki jo je izoblikoval
+HAS_CAUSE,ki kaže jasne znake nastanka ob leziki,
+HAS_LOCATION,na stiku različnih kamnin,na stiku
+HAS_FORM,ki jih lahko povezujejo brezna ali skoki,
+HAS_FORM,ki ima rove vidno razvrščene v dveh ali več nadstropjih,
+HAS_RESULT,iz katere so po starinskem verovanju prihajale nevihte s točo,iz katere so
+HAS_FUNCTION,ki je opremljena za splošni obisk turistov in ima organizirano vodniško službo,je opremljena za
+HAS_FORM,ki predira vzpetino od enega pobočja do drugega,
+CONTAINS,v kateri so zadušni plini,v kateri so
+STUDIES,"ki odkriva , obiskuje in opisuje jame iz neturističnih namenov",
+STUDIES,na področju speleologije,
+HAS_CAUSE,"Po nastanku avtohtona ( nastala na licu mesta ) , paravtohtona ( premeščena znotraj jame ) ali alohtona ( prinesena od zunaj )",
+HAS_LOCATION,v jami,v
+STUDIES,raziskuje klimatske ( meteorološke ) razmere v podzemeljskih votlinah,raziskuje
+HAS_FORM,s prekinjenim obodom na eni strani,na eni strani
+HAS_FORM,oblika mediteranskega krasa,
+CONTAINS,zapolnjeno z neprepustnimi sedimenti,zapolnjeno z
+HAS_CAUSE,ki mu je reka predrla obod,predrla obod
+HAS_CAUSE,ki je v osnovi nastalo v subtropski klimi,je v osnovi nastalo
+HAS_FORM,navadno brez vecjega ravnega dna,
+HAS_FORM,oblika med uvalo in kraškim poljem,
+HAS_SIZE,manjših dimenzij,
+OCCURS_IN_TIME,periodično,
+CONTAINS,s kraškim odtokom in ( ali ) kraškim pritokom,
+HAS_FORM,kriptodepresijsko,
+HAS_LOCATION,v kraškem podzemlju,v
+HAS_SIZE,Večja,
+CONTAINS,s stoječo vodo,s
+HAS_FUNCTION,Porozna,
+HAS_FORM,drobnozrnata,
+COMPOSITION_MEDIUM,pretežno iz skeletov mikroorganizmov,pretežno iz
+OCCURS_IN_TIME,v kredni dobi nastala,nastala
+HAS_SIZE,večja,
+HAS_FORM,"z enakim strmčem , kot ga imajo skladi",
+HAS_LOCATION,ki visi ali stoji v jami,v
+HAS_FORM,Sigovim kapnikom podobna,
+HAS_FUNCTION,porozen,
+HAS_LOCATION,"se useda ( inkrustira ) v dnu ali v gladini kraških voda , često na rastline",v dnu|v gladini
+HAS_ATTRIBUTE,Lahek,
+HAS_LOCATION,Stik dveh skladov,
+HAS_LOCATION,medskladovna ( medslojna,
+HAS_FORM,navadno zavit,
+HAS_SIZE,prehoden s plazenjem po vseh štirih,
+HAS_SIZE,Ožji,
+HAS_FUNCTION,ki povezuje večje podzemeljske prostore,ki povezuje
+COMPOSITION_MEDIUM,skalnega površja,
+HAS_SIZE,Drobne,
+HAS_CAUSE,ki ga poganja tok morske vode,poganja
+HAS_LOCATION,v strugi proti morskemu požiralniku,v strugi proti
+HAS_LOCATION,V nivoju morske gladine ležeči,V nivoju
+HAS_FUNCTION,kamor teče morska voda,kamor teče
+COMPOSITION_MEDIUM,"ostanek skladov , običajno ostanek jamskega stropovja .",
+HAS_LOCATION,v skalnem koritu,v
+HAS_FUNCTION,ki požira vodo,požira
+HAS_LOCATION,na površju,|
+CONTAINS,kjer na površju delujeta tako kraški kot fluvialni geomorfni sistem,kjer
+DEFINED_AS,ki preprosto pomeni požiralnik oziroma ponor,ki preprosto pomeni
+HAS_FUNCTION,od koder se stekajo vode proti različnim izvirom,se stekajo
+OCCURS_IN_TIME,občasni,
+OCCURS_IN_TIME,"ki je aktiven ob visokih vodostajih , ko nižji , običajno stalnejši izvir ne zmore prevajati vse vode , ki priteka iz kraškega vodonosnika",ko|ki je aktiven ob
+OCCURS_IN_TIME,ko se vzdolž celega kanala pojavi turbulenten način pretakanja vode,pojavi|ko se
+HAS_LOCATION,na jamskih stenah,na
+HAS_ATTRIBUTE,Najpogostejše oblike,
+HAS_LOCATION,kjer vode iz nekraškega površja tečejo v kras,kjer|tečejo
+HAS_FUNCTION,vode iz nekraškega površja tečejo v kras,||||||
+HAS_LOCATION,Območja na stiku kraških in nekraških kamnin,na
+HAS_RESULT,so daljše vodoravne jame,so
+HAS_LOCATION,približno na višini gladine podzemne vode,približno na višini
+HAS_RESULT,Rezultat,Rezultat
+HAS_LOCATION,v epifreatični ali vadozni coni,v
+HAS_RESULT,so rezultat vrezovanja ob spuščanju gladine podzemne vode,so rezultat
+HAS_POSITION,na slovenskem krasu,na
+COMPOSITION_MEDIUM,večinoma kalcitne sestave,
+HAS_ATTRIBUTE,Najpogostejši kemogeni sediment,
+HAS_LOCATION,v jamah,v
+HAS_CAUSE,nastane pa zaradi porušenega dinamičnega ravnotežja v raztopini,nastane
+HAS_LOCATION,ki zrastejo na tleh,
+HAS_CAUSE,iz kapljajoče vode,
+HAS_SIZE,do kilometer široke in do 100 metrov globoke,globoke|široke
+HAS_SIZE,Večje,
+HAS_FORM,Zvezdasta tlorisna oblika,
+HAS_CAUSE,ki se centripetalno stekajo s pobočij v dna kotanj,
+HAS_LOCATION,na krasu,
+HAS_FUNCTION,Pomemben dejavnik pri oblikovanju polj,pri oblikovanju
+HAS_FORM,uravnane,
+HAS_SIZE,Večje,
+HAS_LOCATION,višji deli kraškega reliefa,
+HAS_FORM,z bolj strmimi pobočji,
+HAS_LOCATION,na kraških poljih,na
+HAS_ATTRIBUTE,"redki , a zelo značilni za kras",
+HAS_LOCATION,sredi ravnega dna kraškega polja,sredi
+HAS_CAUSE,saj je kamnina v tem delu zaradi različnih vzrokov bolj odporna na raztapljanje,saj je
+OCCURS_IN_TIME,ki so razporejene neenakomerno v obliki močnih in kratkotrajnih nalivov,ki so razporejene
+HAS_ATTRIBUTE,je majhna količina padavin,
+HAS_ATTRIBUTE,prepletanja procesov fluvialnega in kraškega geomorfnega sistema,prepletanja procesov
+HAS_LOCATION,na stiku kraških in nekraških kamnin,na stiku
+HAS_LOCATION,ki so vezana na poledenela območja,so vezana na
+HAS_LOCATION,"pa se nahajajo na območjih , ki so bila ledeniško preoblikovana",se nahajajo
+HAS_ATTRIBUTE,s sledovi bivanja v paleolitiku,s sledovi
+HAS_CAUSE,ki najverjetneje nastanejo s točkastim odtekanjem podledeniških tokov v njihovih dneh,nastanejo
+HAS_LOCATION,v območjih poledenitve,v

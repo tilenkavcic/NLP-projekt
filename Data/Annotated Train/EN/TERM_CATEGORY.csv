@@ -1,0 +1,3154 @@
+TERM,CATEGORY
+volcanic and permafrost areas,C. Geome
+carbonate rocks,D.1 Abiotic
+landscape,C. Geome
+Karst,C. Geome
+dissolution,B.2 Loss
+continental land masses,C. Geome
+sea level,D.1 Abiotic
+Karst,C. Geome
+processes,B. Process
+solution channel ( secondary ) porosity,B.2 Loss
+rock solubility,D.3 Property
+hydrology,D.1 Abiotic
+rock,D.1 Abiotic
+landforms,D.1 Abiotic
+Karst,C. Geome
+terrain,C. Geome
+underground water systems,C. Geome
+soluble rocks,D.1 Abiotic
+limestone,D.1 Abiotic
+gypsum,D.1 Abiotic
+landscape,C. Geome
+caves,A.2 Underground landform
+Karst,C. Geome
+marble,D.1 Abiotic
+Karst conduit networks,C. Geome
+karst massif,C. Geome
+conduits,D.1 Abiotic
+Karst depression,A.1 Surface landform
+dolines,A.1 Surface landform
+uvalas,A.1 Surface landform
+poljes,A.1 Surface landform
+soluble bedrock,D.1 Abiotic
+Karst topography,C. Geome
+landscape,C. Geome
+dissolution,B.4 Transformation
+bedrock,D.1 Abiotic
+karst topography,C. Geome
+Kras,D.3.1 Geolocation
+underground cavern,A.2 Underground landform
+karst windows,A.1 Surface landform
+exposing,B.4 Transformation
+collapse,B.4 Transformation
+river,D.1 Abiotic
+valleys,D.1 Abiotic
+karstifiable rocks,D.1 Abiotic
+karstosphere,C. Geome
+closed karst depression,A.1 Surface landform
+Pleistocene glaciation,B.4 Transformation
+konta,A.1 Surface landform
+doline,A.1 Surface landform
+remodelled,B.4 Transformation
+calcium carbonate ( CaCO3 ),D.1 Abiotic
+aragonite,D.1 Abiotic
+Limestone,D.1 Abiotic
+calcite,D.1 Abiotic
+losing streamflow,A.3 Hydrological form
+surface stream,D.1 Abiotic
+groundwater system,D.1 Abiotic
+water,D.1 Abiotic
+contributes,B.3 Addition
+losing streamflow,A.3 Hydrological form
+open stream,D.1 Abiotic
+loses water,B.2 Loss
+water,D.1 Abiotic
+river,D.1 Abiotic
+Joints,D.1 Abiotic
+beds,D.1 Abiotic
+conduits,D.1 Abiotic
+soluble rocks,D.1 Abiotic
+Intrastratal karstification,B.4 Transformation
+gypsum bed,D.1 Abiotic
+dissolution,B.2 Loss
+bed,D.1 Abiotic
+dolomite,D.1 Abiotic
+karst features,A. Landform
+surface,D.1 Abiotic
+Exokarst,C. Geome
+residual clays,D.1 Abiotic
+permeable sediments,D.1 Abiotic
+periglacial deposits,D.1 Abiotic
+karst forms,D.1 Abiotic
+till,D.1 Abiotic
+soil,D.1 Abiotic
+Cryptokarst,C. Geome
+corrosion-induced subsidence,B.1 Movement
+pseudokarst,C. Geome
+dissolution,B.2 Loss
+collapse,B.1 Movement
+thawing of ground ice,B.4 Transformation
+ground ice,D.1 Abiotic
+Thermokarst,C. Geome
+depressions,D.1 Abiotic
+pure karst,C. Geome
+rocks,D.1 Abiotic
+Holokarst,C. Geome
+limestones,D.1 Abiotic
+Concentrated inflows of water,D.1 Abiotic
+swallow holes,A.3 Hydrological form
+sink underground,B.4 Transformation
+stream-sinks,A.3 Hydrological form
+ponors,A.3 Hydrological form
+swallets,A.3 Hydrological form
+travertine,D.1 Abiotic
+layered,D.3 Property
+lustrous,D.3 Property
+crystalline,D.1 Abiotic
+calcite,D.1 Abiotic
+softer porous material,D.1 Abiotic
+Tufa,A.1 Surface landform
+deposition,B.3 Addition
+cave,A.2 Underground landform
+evaporation,B.2 Loss
+cave pearls,A.2 Underground landform
+spheres,D.1 Abiotic
+gypsum speleothems,A.2 Underground landform
+fine-grained silica,D.1 Abiotic
+cristobalite,D.1 Abiotic
+Opal,D.1 Abiotic
+static cave,A.2 Underground landform
+air drainage,B.1 Movement
+hole,A.2 Underground landform
+air,D.1 Abiotic
+deposition of the rock,B.3 Addition
+primary porosity,D.3 Property
+secondary porosity,D.3 Property
+diagenesis,B.4 Transformation
+blue holes,A.3 Hydrological form
+flooded,B.3 Addition
+depressions,D.1 Abiotic
+physical downwashing,B.2 Loss
+karstified bedrock,A.1 Surface landform
+chemical solution,B.2 Loss
+evacuated,B.1 Movement
+fines,D.1 Abiotic
+pipes,D.1 Abiotic
+Suffosion,B.2 Loss
+calcareous mudstone,D.1 Abiotic
+limestone,D.1 Abiotic
+dolomite,D.1 Abiotic
+calcilutite,D.1 Abiotic
+limestone,D.1 Abiotic
+calcirudite,D.1 Abiotic
+calcium carbonate,D.1 Abiotic
+CaCOs,D.1 Abiotic
+calcite,D.1 Abiotic
+limestone,D.1 Abiotic
+aragonite,D.1 Abiotic
+mineral,D.1 Abiotic
+gas bubble,D.1 Abiotic
+calcite bubble,A.2 Underground landform
+sphere,D.1 Abiotic
+crystals,D.1 Abiotic
+calcite,D.1 Abiotic
+cave formation,A.2 Underground landform
+shawls,A.2 Underground landform
+canopy,A.2 Underground landform
+flowstone,D.1 Abiotic
+stalactites,A.2 Underground landform
+ravine,D.1 Abiotic
+gorge,D.1 Abiotic
+water,D.1 Abiotic
+chasm,D.1 Abiotic
+canyon,A.1 Surface landform
+karst valley,A.1 Surface landform
+collapse,B.1 Movement
+canyon,A.1 Surface landform
+cave,A.2 Underground landform
+valley,D.1 Abiotic
+fluvial deposits,D.1 Abiotic
+capillary stalagmite,A.2 Underground landform
+karst water,D.1 Abiotic
+Cuba,D.3.1 Geolocation
+stalagmite,A.2 Underground landform
+aragonite,D.1 Abiotic
+cave,A.2 Underground landform
+carbonate minerals,D.1 Abiotic
+limestone,D.1 Abiotic
+carbonate,D.1 Abiotic
+rock,D.1 Abiotic
+dolomite,D.1 Abiotic
+limestone,D.1 Abiotic
+passages,D.1 Abiotic
+solution,B.2 Loss
+cave,A.2 Underground landform
+room,D.1 Abiotic
+cave breakdown,B.1 Movement
+rock masses,D.1 Abiotic
+cave system,A.2 Underground landform
+fall,B.1 Movement
+Heaps of rock,D.1 Abiotic
+cave breccia,D.1 Abiotic
+cave breakdown,D.1 Abiotic
+collapsed,B.1 Movement
+fragments of rock,D.1 Abiotic
+solution breccia,D.1 Abiotic
+cave earth,D.1 Abiotic
+cave breccia,D.1 Abiotic
+cave,A.2 Underground landform
+cemented,D.3 Property
+dripstone,D.1 Abiotic
+growth of calcite,B. Process
+coral formation,A.2 Underground landform
+cave coral,A.2 Underground landform
+calcite,D.1 Abiotic
+knobstone,A.2 Underground landform
+coral,D.1 Abiotic
+cave,A.2 Underground landform
+"cave earth ,",D.1 Abiotic
+fine sand deposits,D.1 Abiotic
+cave passage,A.2 Underground landform
+cave fill,D.1 Abiotic
+silt,D.1 Abiotic
+clay,D.1 Abiotic
+filling,B.3 Addition
+clay,D.1 Abiotic
+gravel,D.1 Abiotic
+sand,D.1 Abiotic
+silt,D.1 Abiotic
+flooring,B. Process
+aquifer,C. Geome
+rock,D.1 Abiotic
+water,D.1 Abiotic
+CaCO3,D.1 Abiotic
+Aragonite,D.1 Abiotic
+diagenesis,B.3 Addition
+calcite,D.1 Abiotic
+artesian aquifer,C. Geome
+aquifer,C. Geome
+bedding-plane cave,A.2 Underground landform
+passage,A.2 Underground landform
+tube,A.2 Underground landform
+canyon,A.1 Surface landform
+cave,A.2 Underground landform
+closed depressions,A.1 Surface landform
+Glacial cirques,A.1 Surface landform
+cirque-dolines,A.1 Surface landform
+solution,B.4 Transformation
+confining bed,D.1 Abiotic
+aquiclude,C. Geome
+aquifer,C. Geome
+rock,D.1 Abiotic
+aquitard,C. Geome
+groundwater,D.1 Abiotic
+river flow,B.1 Movement
+contact karst,C. Geome
+Karst,C. Geome
+rock,D.1 Abiotic
+limestone,D.1 Abiotic
+karstified,B.4 Transformation
+Dolomite,D.1 Abiotic
+dissolves,B.2 Loss
+drawdown,B. Process
+Dry valley,A.1 Surface landform
+valley,A.1 Surface landform
+stream,A.3 Hydrological form
+internal ( telluric ) energy,D. Entity/Element/Property
+lithostatic pressure,D. Entity/Element/Property
+rock mass,D.1 Abiotic
+karst,C. Geome
+Endokarst,C. Geome
+karstosphere,C. Geome
+epikarst,C. Geome
+rock,D.1 Abiotic
+karstification,B.4 Transformation
+fissuring,B.4 Transformation
+permeability,D.3 Property
+subcutaneous zone,C. Geome
+epikarst,C. Geome
+swallow hole,A.3 Hydrological form
+estavelle,A.3 Hydrological form
+hole,A.2 Underground landform
+Jura,D.3.1 Geolocation
+spring,A.3 Hydrological form
+Halb-kugel,A.1 Surface landform
+limestone,D.1 Abiotic
+Cupole,A.1 Surface landform
+cupola,A.1 Surface landform
+hill,D.1 Abiotic
+limestone surfaces,A.1 Surface landform
+current marking,A.2 Underground landform
+hollows,D.1 Abiotic
+waterflow,D.1 Abiotic
+scallop,A.2 Underground landform
+blanket,A.2 Underground landform
+drapery,A.2 Underground landform
+cave,A.2 Underground landform
+flowstone,D.1 Abiotic
+curtain,A.2 Underground landform
+resonant,D.3 Property
+bacon,A.2 Underground landform
+translucent,D.3 Property
+sheet,D.1 Abiotic
+phosphate deposits,D.1 Abiotic
+limestone,D.1 Abiotic
+cutter,A.1 Surface landform
+crevice,D.1 Abiotic
+subsoil Karren,A.1 Surface landform
+soil,D.1 Abiotic
+Karren,A.1 Surface landform
+cutter,A.1 Surface landform
+groove,D.1 Abiotic
+dead cave,A.2 Underground landform
+precipitation,D.3 Property
+cave,A.2 Underground landform
+solution,B.1 Movement
+solution dolines,A.1 Surface landform
+collapse dolines,A.1 Surface landform
+basins,D.1 Abiotic
+collapse,B.1 Movement
+limestone,D.1 Abiotic
+hollow,D.1 Abiotic
+doline,A.1 Surface landform
+karst lake,A.3 Hydrological form
+doline lake,A.3 Hydrological form
+doline,A.1 Surface landform
+calcium magnesium carbonate,D.1 Abiotic
+dolomite,D.1 Abiotic
+mineral,D.1 Abiotic
+dolomite,D.1 Abiotic
+dolostone,D.1 Abiotic
+Rock,D.1 Abiotic
+dolomite,D.1 Abiotic
+magnesium carbonate,D.1 Abiotic
+calcium carbonate,D.1 Abiotic
+limestone,D.1 Abiotic
+dolomite,D.1 Abiotic
+dolomitization,B. Process
+drapery,A.2 Underground landform
+bacon,A.2 Underground landform
+dripstone,D.1 Abiotic
+blanket,A.2 Underground landform
+sheet,D.1 Abiotic
+curtain,A.2 Underground landform
+clay,D.1 Abiotic
+Hole,D.1 Abiotic
+rock,D.1 Abiotic
+driphole,A.2 Underground landform
+water,D.1 Abiotic
+precipitated material,D.1 Abiotic
+Hollow space,D.1 Abiotic
+driphole,A.2 Underground landform
+space,D.1 Abiotic
+stalactite,A.2 Underground landform
+Calcium carbonate deposited,D.1 Abiotic
+rock shelter,A.4 Other
+rock shelter,A.1 Surface landform
+Calcium carbonate,D.1 Abiotic
+aragonite,D.1 Abiotic
+flowstone,D.1 Abiotic
+gypsum,D.1 Abiotic
+stalagmites,A.2 Underground landform
+dripstone,D.1 Abiotic
+water,D.1 Abiotic
+stalactites,A.2 Underground landform
+speleothems,A.2 Underground landform
+cave,A.2 Underground landform
+dry cave,A.2 Underground landform
+running stream,D.1 Abiotic
+dead cave,A.2 Underground landform
+cave,A.2 Underground landform
+stream,D.1 Abiotic
+outflow cave,A.2 Underground landform
+surface,D.1 Abiotic
+cave,A.2 Underground landform
+stream,D.1 Abiotic
+flows,B.1 Movement
+lithified cave fills,D.1 Abiotic
+fossil ' karst,C. Geome
+karst features,D.3 Property
+deposits,D.1 Abiotic
+karstification,B. Process
+cave,D.3 Property
+breccias,D.1 Abiotic
+palaeokarst,C. Geome
+dog-tooth spar,D.1 Abiotic
+stalactite,A.2 Underground landform
+pendulite,A.2 Underground landform
+drumstick,D.1 Abiotic
+percolation water,D.1 Abiotic
+vadose zone,C. Geome
+cracks,D.1 Abiotic
+fissures,D.1 Abiotic
+water,D.1 Abiotic
+pores,D.1 Abiotic
+moving,B.1 Movement
+permeability,D.3 Property
+rock,D.1 Abiotic
+soil,D.1 Abiotic
+water,D.1 Abiotic
+phreatic water,D.1 Abiotic
+water,D.1 Abiotic
+level,D.3 Property
+rock,D.1 Abiotic
+voids,D.1 Abiotic
+phreatic zone,C. Geome
+water,D.1 Abiotic
+zone,D.1 Abiotic
+rock,D.1 Abiotic
+voids,D.1 Abiotic
+bedrock column,D.1 Abiotic
+rock,D.1 Abiotic
+pillar,A.2 Underground landform
+karst rocks,D.1 Abiotic
+gravel,D.1 Abiotic
+pipe,A.1 Surface landform
+breccia,D.1 Abiotic
+earth,D.1 Abiotic
+sand,D.1 Abiotic
+cavity,D.1 Abiotic
+plunge pool,D.1 Abiotic
+waterfall,D.1 Abiotic
+swirlhole,D.1 Abiotic
+rapid,D.1 Abiotic
+closed depression,D.1 Abiotic
+flat floor,D.1 Abiotic
+perennial stream,D.1 Abiotic
+intermittent,A.3 Hydrological form
+floor,D.1 Abiotic
+draining,D.3 Property
+lake,D.1 Abiotic
+slopes,D.1 Abiotic
+depression,D.1 Abiotic
+stream,D.1 Abiotic
+polje,A.1 Surface landform
+flood,B.3 Addition
+polygonal karst,C. Geome
+pitted by,D.3 Property
+karst,C. Geome
+depressions,D.1 Abiotic
+rock,D.1 Abiotic
+voids,D.1 Abiotic
+particles,D.1 Abiotic
+soil,D.1 Abiotic
+porosity,D.3 Property
+terrain,D.1 Abiotic
+landforms,D.1 Abiotic
+pseudokarst,C. Geome
+karst,C. Geome
+deposition of speleothems,B.3 Addition
+skeletal deposits,B.3 Addition
+cave forms,A.2 Underground landform
+relict karst,C. Geome
+geomorphic processes,B. Process
+sediments,B.3 Addition
+karstification,B. Process
+swallow holes,A.3 Hydrological form
+K,D.3 Property
+fractures,D.1 Abiotic
+EPIK system,E.2 Method
+karst,C. Geome
+steep limestone hills,A.1 Surface landform
+fengcong karst,C. Geome
+fenglin,A. Landform
+karst,C. Geome
+cave system,C. Geome
+paleocave system,C. Geome
+karst system,C. Geome
+karst-related cavernous porosity,D.3 Property
+paleocave hydrocarbon reservoir,C. Geome
+cave-collapse-related interclast,D.3 Property
+fracture porosity,D.3 Property
+reservoir,D.1 Abiotic
+stream water,D.1 Abiotic
+phreatic zone,C. Geome
+hyporheic zone,C. Geome
+aquifer,C. Geome
+arêtes,A.1 Surface landform
+spires,D.1 Abiotic
+ridges,D.1 Abiotic
+karren,A.1 Surface landform
+Microrills,A.1 Surface landform
+hollows,A.1 Surface landform
+Rainpits,A.1 Surface landform
+moss clumps,D.2 Biotic
+Decantation runnels,A.1 Surface landform
+snow banks,D.1 Abiotic
+water,D.1 Abiotic
+rainfall,B. Process
+overspilling,B. Process
+rills,A.1 Surface landform
+soil cover,D.1 Abiotic
+grike,A.1 Surface landform
+grike,A.1 Surface landform
+cutters,A.1 Surface landform
+solution channel ( secondary ) porosity,D.3 Property
+rock solubility,D.3 Property
+Karst,C. Geome
+terrain,D.1 Abiotic
+cave,A.2 Underground landform
+mineral,D.1 Abiotic
+speleothem,A.2 Underground landform
+calcite,D.1 Abiotic
+Aragonite,D.1 Abiotic
+seeping water speleothems,A.2 Underground landform
+dripping water speleothems,A.2 Underground landform
+crusts,A.2 Underground landform
+Halite,D.1 Abiotic
+stalagmites,A.2 Underground landform
+cotton,A.2 Underground landform
+stalactites,A.2 Underground landform
+hair,A.2 Underground landform
+flowers,A.2 Underground landform
+"Lechuguilla Cave , New Mexico",D.3.1 Geolocation
+chandelier ” stalactites,A.2 Underground landform
+gypsum,D.1 Abiotic
+limestone pavement,D.1 Abiotic
+solution pans,A.1 Surface landform
+limestone,D.1 Abiotic
+blocks,D.1 Abiotic
+live cave,A.2 Underground landform
+river action,B.4 Transformation
+active cave,A.2 Underground landform
+deposition,B.3 Addition
+Cave,A.2 Underground landform
+speleothems,A.2 Underground landform
+lost river,A.3 Hydrological form
+karst region,C. Geome
+stream,D.1 Abiotic
+studying ground-water movement,E.2 Method
+lycopodium spores,E.1 Instrument
+karst areas,C. Geome
+lycopodium claratum,D.2 Biotic
+Spores,D.2 Biotic
+color,D.3 Property
+label,E.1 Instrument
+cave stream,A.3 Hydrological form
+meander niche,A.2 Underground landform
+arcuate curve,D.1 Abiotic
+lateral shifting,B.1 Movement
+meander,A.2 Underground landform
+cave,A.2 Underground landform
+wall of a cave,A.2 Underground landform
+lateral erosion,B.2 Loss
+meander niche,A.2 Underground landform
+downward,B.2 Loss
+opening,D.1 Abiotic
+karst topography,C. Geome
+dry valleys,D.1 Abiotic
+surface drainage,B.1 Movement
+limestone,D.1 Abiotic
+merokarst,C. Geome
+Karst topography,C. Geome
+microkarst,C. Geome
+partial pressure,D.3 Property
+carbon dioxide,D.1 Abiotic
+Dissolving,B.2 Loss
+Mischungskorrosion,B.4 Transformation
+limestone,D.1 Abiotic
+mixing,B. Process
+water,D.1 Abiotic
+Sierra de los Organos,D.3.1 Geolocation
+karst inselberg,A.1 Surface landform
+alluviated plains,A.1 Surface landform
+residual hills,A.1 Surface landform
+hill,D.1 Abiotic
+limestone,D.1 Abiotic
+Tropics,D.3.1 Geolocation
+Cuba,D.3.1 Geolocation
+mogote,A.1 Surface landform
+cave deposit,D.1 Abiotic
+moon milk,D.1 Abiotic
+huntite,D.1 Abiotic
+calcite,D.1 Abiotic
+magnesite,D.1 Abiotic
+sandy clay,D.1 Abiotic
+mud stalagmite,A.2 Underground landform
+clay,D.1 Abiotic
+Stalagmite,A.2 Underground landform
+Karst topography,C. Geome
+bare karst,C. Geome
+naked karst,C. Geome
+bedrock,D.1 Abiotic
+natural arch,A.1 Surface landform
+rock arch,D.1 Abiotic
+tunnel,D.1 Abiotic
+rock bridge,D.1 Abiotic
+natural bridge,A.1 Surface landform
+ravine,D.1 Abiotic
+natural tunnel,A. Landform
+cave,A.2 Underground landform
+rocky surfaces,D.1 Abiotic
+illuminated areas,D.1 Abiotic
+artificial materials,D.1 Abiotic
+Lampenflora,D.2 Biotic
+organisms,D.2 Biotic
+Trieste Bay,D.3.1 Geolocation
+Adriatic Sea,D.3.1 Geolocation
+limestone plateau,C. Geome
+Kras,D.3.1 Geolocation
+epikarst aquifer,C. Geome
+infiltrated water,D.1 Abiotic
+karst,C. Geome
+epikarst,C. Geome
+zone,D.1 Abiotic
+Dry valleys,A.1 Surface landform
+watercourse,D.1 Abiotic
+signal processing methods,E.2 Method
+Time series analysis,E. Instrument or method
+karst systems,C. Geome
+hydrological behaviour,D.3 Property
+mass-transfer process,B. Process
+aggressiveness,D.3 Property
+circulation,B.1 Movement
+Speleogenesis,B. Process
+groundwater,D.1 Abiotic
+chemical potential,D.3 Property
+rock,D.1 Abiotic
+Aggressiveness,B.1 Movement
+groundwater,D.1 Abiotic
+Tafoni geomorphology,A.1 Surface landform
+coastal carbonates,D.1 Abiotic
+hollow shape,D.1 Abiotic
+erosion,B.2 Loss
+littoral caves,A.2 Underground landform
+wave action,B.1 Movement
+Sea caves,A.2 Underground landform
+cave,A.2 Underground landform
+spring mounds,D.2 Biotic
+biological activity,B. Process
+hot beds,D.2 Biotic
+desert environments,C. Geome
+PCO2,D.1 Abiotic
+soils,D.1 Abiotic
+syngenesis,B. Process
+epigenesis,B. Process
+Hypogene karstification,B. Process
+karst,C. Geome
+valley,D.1 Abiotic
+areas,D.1 Abiotic
+doline,A.1 Surface landform
+crystal growth processes,B. Process
+Caves,A.2 Underground landform
+phreatic environment,C. Geome
+cave passages,A.2 Underground landform
+vadose environment,C. Geome
+sediment,D.1 Abiotic
+pitted plain,A.1 Surface landform
+closed depressions,A.1 Surface landform
+Plain,D.1 Abiotic
+cavity,D.1 Abiotic
+cave,A.2 Underground landform
+pocket,A.2 Underground landform
+closed depression,A.1 Surface landform
+interior valley,A.1 Surface landform
+karst topography,C. Geome
+polje,A.1 Surface landform
+limestone,D.1 Abiotic
+alluvium,D.1 Abiotic
+limestone,D.1 Abiotic
+tropical cone-karst terrain,C. Geome
+temperate doline-karst terrain,C. Geome
+closed depressions,A.1 Surface landform
+karst area,C. Geome
+polygonal karst,C. Geome
+polygonal network,D.1 Abiotic
+closed depression,A.1 Surface landform
+Hole,D.1 Abiotic
+channel,D.1 Abiotic
+ponor,A.3 Hydrological form
+water,D.1 Abiotic
+pool deposit,D.1 Abiotic
+Crystalline material,D.1 Abiotic
+cave,A.2 Underground landform
+Mineral matter,D.1 Abiotic
+pore deposit,D.1 Abiotic
+cave,A.2 Underground landform
+cave,A.2 Underground landform
+opening,D.1 Abiotic
+cave,A.2 Underground landform
+porthole,A.2 Underground landform
+sea level,D.1 Abiotic
+pothole,D.1 Abiotic
+gravel,D.1 Abiotic
+sand,D.1 Abiotic
+streambed,D.1 Abiotic
+waterfall,D.1 Abiotic
+hole,D.1 Abiotic
+rock,D.1 Abiotic
+stones,D.1 Abiotic
+limestone,D.1 Abiotic
+pothole,D.1 Abiotic
+shaft,D.1 Abiotic
+lava stalactites,A.2 Underground landform
+lava stalagmites,A.2 Underground landform
+lava tubes,A.2 Underground landform
+lava tunnels,A.2 Underground landform
+terrain,D.1 Abiotic
+dissolving,B.4 Transformation
+pseudokarst,C. Geome
+calcium carbonate,D.1 Abiotic
+residual clay,D.1 Abiotic
+sandy clay,D.1 Abiotic
+removal,B.2 Loss
+Clay,D.1 Abiotic
+solution,B.4 Transformation
+underground stream,D.1 Abiotic
+surface stream,D.1 Abiotic
+resurgence,A.3 Hydrological form
+rice paddy,A.3 Hydrological form
+pool,D.1 Abiotic
+rimstone,A.2 Underground landform
+cave,A.2 Underground landform
+cave passage,A.2 Underground landform
+rift,A.2 Underground landform
+faults,D.1 Abiotic
+joints,D.1 Abiotic
+radon,D.1 Abiotic
+atmosphere,D.1 Abiotic
+Exhalation,D.3 Property
+proportion,D.3 Property
+fine grinding,B.4 Transformation
+fine-grained filler,D.1 Abiotic
+Whiting,D.1 Abiotic
+relict sea caves,A.2 Underground landform
+present coastlines,D.1 Abiotic
+former coastlines,D.1 Abiotic
+Littoral caves,A.2 Underground landform
+sea caves,A.2 Underground landform
+world,D.1 Abiotic
+Slabs,A.1 Surface landform
+bed,D.1 Abiotic
+microbiological reactions,B. Process
+precipitate,D.1 Abiotic
+Moonmilk,A.2 Underground landform
+position of the cave,D.3 Property
+high ground,D.1 Abiotic
+position,D.3 Property
+flank,D.3 Property
+island,D.1 Abiotic
+margin,D.3 Property
+medical treatment,E.2 Method
+microclimate,D.1 Abiotic
+environments,D.1 Abiotic
+Speleotherapy,E.2 Method
+autogenic aquifers,C. Geome
+karst surface,C. Geome
+exsurgences,A.3 Hydrological form
+discharge,B.2 Loss
+Springs,A.3 Hydrological form
+recharge,B.3 Addition
+Open anchialine pools,A.3 Hydrological form
+cave corridors,A.2 Underground landform
+coastal pools,A.1 Surface landform
+sea,D.1 Abiotic
+organic detritus,D.2 Biotic
+extracellular enzymes,D.2 Biotic
+caves,A.2 Underground landform
+Fungi,D.2 Biotic
+calcite flakes,D.1 Abiotic
+Glaciokarstic varves,D.1 Abiotic
+sediments,D.1 Abiotic
+open vertical volcanic conduits,A.2 Underground landform
+lava tube caves,A.2 Underground landform
+volcanic rocks,D.1 Abiotic
+caves,A.2 Underground landform
+Vulcanospeleology,E.2 Method
+brackish water,D.1 Abiotic
+salt,D.1 Abiotic
+anchialine,A.3 Hydrological form
+pools,D.1 Abiotic
+sea,D.1 Abiotic
+surface erosion,B.2 Loss
+caves,A.2 Underground landform
+Entrances,A.1 Surface landform
+rocky hills,D.1 Abiotic
+limestone,D.1 Abiotic
+peaks,D.1 Abiotic
+fengcong,A.1 Surface landform
+volcanic rocks,D.1 Abiotic
+volcanic rocks,D.1 Abiotic
+mineral,D.1 Abiotic
+Sanidine,D.1 Abiotic
+Kožuf,D.3.1 Geolocation
+acidic weathering,B.4 Transformation
+volcaniclastic material,D.1 Abiotic
+clay mineral,D.1 Abiotic
+Smectite,D.1 Abiotic
+montmorillonite,D.1 Abiotic
+epiphreatic tube passages,A.2 Underground landform
+Živovska Propast,D.3.1 Geolocation
+Pešti Cave,D.3.1 Geolocation
+Aramiska Peštera,D.3.1 Geolocation
+Input caves,A.2 Underground landform
+vadose canyons,A.1 Surface landform
+Dragoželska Propast,D.3.1 Geolocation
+Garnikovska Propast,D.3.1 Geolocation
+Mala Peštera,D.3.1 Geolocation
+shafts,A.2 Underground landform
+juvenile pattern,D.3 Property
+soluble rocks,D.1 Abiotic
+impermeable cover,D.1 Abiotic
+uplift,B.1 Movement
+removal,B.2 Loss
+passage diameter,D.3 Property
+caves,A.2 Underground landform
+microforms,A.2 Underground landform
+passage,A.2 Underground landform
+karst formation,B. Process
+solution,D.1 Abiotic
+ions,D.1 Abiotic
+step-wise calibration,E.2 Method
+hydrologic processes,B. Process
+procedure,E.2 Method
+streamflow,D.1 Abiotic
+chemical composition of water,D.3 Property
+concentration of suspended particles,D.3 Property
+water discharge,D.3 Property
+water levels,D.3 Property
+temperature,D.3 Property
+velocity,D.3 Property
+Karst,C. Geome
+microorganisms,D.2 Biotic
+secondary porosity,D.3 Property
+carbonate rocks,D.1 Abiotic
+underground system,C. Geome
+flows into,B.1 Movement
+Gravitational water,D.1 Abiotic
+water,D.1 Abiotic
+gravity,D.3 Property
+penetrates,B.1 Movement
+change in the water quantity,B. Process
+Specific yield,D.3 Property
+aquifer,D.1 Abiotic
+flow,B.1 Movement
+water,D.1 Abiotic
+reservoir,D.1 Abiotic
+Surface karst forms,A.1 Surface landform
+dry valleys,A.1 Surface landform
+sinkholes,A.1 Surface landform
+poljes,A.1 Surface landform
+dolines,A.1 Surface landform
+karren,A.1 Surface landform
+speleothem,A.2 Underground landform
+helictite,A.2 Underground landform
+axis,D.3 Property
+growth,B.3 Addition
+scientific study,E.2 Method
+hydrology,E.2 Method
+water,D.1 Abiotic
+ice cave,A.2 Underground landform
+ice,D.1 Abiotic
+cave,A.2 Underground landform
+inflow cave,A.3 Hydrological form
+stream,D.1 Abiotic
+cave,A.2 Underground landform
+surface,D.1 Abiotic
+rock,D.1 Abiotic
+surface,D.1 Abiotic
+solution,B.2 Loss
+karst,C. Geome
+drainage,D.3 Property
+solubility,D.3 Property
+karst,C. Geome
+landforms,D.1 Abiotic
+tereain,D.1 Abiotic
+karst window,A.1 Surface landform
+polje,A.1 Surface landform
+stream,D.1 Abiotic
+depression,D.1 Abiotic
+keyhole,A.2 Underground landform
+opening,D.1 Abiotic
+passage,D.1 Abiotic
+cave,A.2 Underground landform
+flow of liquid lava,D.3 Property
+open channel,D.1 Abiotic
+lava flow,D.1 Abiotic
+lava-cave,A.2 Underground landform
+roofing,B. Process
+tunnel,D.1 Abiotic
+lava,D.1 Abiotic
+cave,A.2 Underground landform
+tube,D.1 Abiotic
+calcium carbonate,D.1 Abiotic
+sedimentary rock,D.1 Abiotic
+limestone,D.1 Abiotic
+live cave,A.2 Underground landform
+cave,A.2 Underground landform
+stream,D.1 Abiotic
+meander niche,A.2 Underground landform
+cave,A.2 Underground landform
+stream,D.1 Abiotic
+calcite,D.1 Abiotic
+moonmilk,A.2 Underground landform
+hydromagnesite,D.1 Abiotic
+hydrocalcite,D.1 Abiotic
+huntite,D.1 Abiotic
+speleothem,A.2 Underground landform
+natural arch,D.1 Abiotic
+arch,D.1 Abiotic
+rock,D.1 Abiotic
+weathering,B.4 Transformation
+natural bridge,D.1 Abiotic
+valley,D.1 Abiotic
+rock,D.1 Abiotic
+bridge,D.1 Abiotic
+ravine,D.1 Abiotic
+Jelar Breccia,D.1 Abiotic
+carbonate rock,D.1 Abiotic
+dry valleys,A.1 Surface landform
+collapsed dolines,A.1 Surface landform
+relief features,D.1 Abiotic
+uvalas,A.1 Surface landform
+dolines,A.1 Surface landform
+caves,A.2 Underground landform
+soluble rock,D.1 Abiotic
+dissolution features,D.1 Abiotic
+surfaces rock,D.1 Abiotic
+Karren,A.1 Surface landform
+corrosion,B.4 Transformation
+rillenkarren,A.1 Surface landform
+Karst poljes,A.1 Surface landform
+depressions,D.1 Abiotic
+karst,C. Geome
+karst depressions,A.1 Surface landform
+Uvalas,A.1 Surface landform
+Dinaric karst,D.3.1 Geolocation
+depression,D.1 Abiotic
+uvala,A.1 Surface landform
+cave roof collapse,B.1 Movement
+equilibrium,D.3 Property
+ceiling,D.1 Abiotic
+doline,A.1 Surface landform
+walls,D.1 Abiotic
+process,B. Process
+breaking,B.1 Movement
+collapse,B.1 Movement
+karst drainage system,C. Geome
+Caves,A.2 Underground landform
+dissolution of rock,B.2 Loss
+process,B. Process
+dissolution,B.2 Loss
+karst,C. Geome
+pinnacle karst,C. Geome
+Shilin,C. Geome
+limestone,D.1 Abiotic
+karst landscape,C. Geome
+karst plateau,A.1 Surface landform
+limestone columns,D.1 Abiotic
+Stone forest,A.1 Surface landform
+calcium carbonate deposit,D.1 Abiotic
+lake water,D.1 Abiotic
+travertine,D.1 Abiotic
+spring,D.1 Abiotic
+tufa,D.1 Abiotic
+river,D.1 Abiotic
+cave passage,A.2 Underground landform
+tube,A.2 Underground landform
+surface,D.1 Abiotic
+vesicular calcium carbonate,D.1 Abiotic
+lake waters,D.1 Abiotic
+spring,D.1 Abiotic
+tufa,D.1 Abiotic
+river,D.1 Abiotic
+twilight zone,A.2 Underground landform
+daylight,D.1 Abiotic
+cave,A.2 Underground landform
+depressions,A.1 Surface landform
+uvala,A.1 Surface landform
+depression,A.1 Surface landform
+vadose zone,C. Geome
+descends,B.1 Movement
+zone,D.1 Abiotic
+rock,D.1 Abiotic
+voids,D.1 Abiotic
+air,D.1 Abiotic
+gravity,D.3 Property
+water,D.1 Abiotic
+vauclusian spring,A.3 Hydrological form
+spring,D.1 Abiotic
+pool,D.1 Abiotic
+passage,D.1 Abiotic
+cave surfaces,D.1 Abiotic
+vermiculation,A.2 Underground landform
+coatings,D.1 Abiotic
+day,D.1 Abiotic
+silt,D.1 Abiotic
+ground air,D.1 Abiotic
+phreatic water,D.1 Abiotic
+water table,D.1 Abiotic
+the,D.1 Abiotic
+water,D.1 Abiotic
+voids,D.1 Abiotic
+surface,D.1 Abiotic
+voids,D.1 Abiotic
+water tracing,E.2 Method
+cave floor,A.2 Underground landform
+hole,D.1 Abiotic
+well,A.3 Hydrological form
+karst,C. Geome
+running stream,D.1 Abiotic
+active cave,A.2 Underground landform
+Cave,A.2 Underground landform
+active cave,A.2 Underground landform
+live cave,A.2 Underground landform
+Cave,A.2 Underground landform
+speleothems,A.2 Underground landform
+aggressive water,D.1 Abiotic
+carbon dioxide,D.1 Abiotic
+limestone,D.1 Abiotic
+rocks,D.1 Abiotic
+dissolve,B.4 Transformation
+acids,D.1 Abiotic
+Water,D.1 Abiotic
+dolomite,D.1 Abiotic
+solution - sculptured rock,A.1 Surface landform
+tubular passages,D.1 Abiotic
+holes,D.1 Abiotic
+anastomosis,A.2 Underground landform
+network,D.3 Property
+passages,D.1 Abiotic
+cave,A.2 Underground landform
+labryrinth,D.1 Abiotic
+cave flower,A.2 Underground landform
+cave formation,A.2 Underground landform
+aragonite,D.1 Abiotic
+anthodite,A.2 Underground landform
+gypsum,D.1 Abiotic
+masses,D.1 Abiotic
+crystals,D.1 Abiotic
+limestone cliffs,A.1 Surface landform
+apron,D.1 Abiotic
+flowstone,D.1 Abiotic
+caves,A.2 Underground landform
+rock,D.1 Abiotic
+ground-water,D.1 Abiotic
+spring,D.1 Abiotic
+well,D.1 Abiotic
+aquifer,C. Geome
+water,D.1 Abiotic
+reservoir,D.1 Abiotic
+calcium carbonate,D.1 Abiotic
+aragonite,D.1 Abiotic
+mineral,D.1 Abiotic
+CaCO2,D.1 Abiotic
+pinnacle karst,C. Geome
+New Guinea,D.3.1 Geolocation
+relief,D.1 Abiotic
+ridges,D.1 Abiotic
+corridors,D.1 Abiotic
+slopes,D.1 Abiotic
+landscape,D.1 Abiotic
+arete,C. Geome
+depressions,A.1 Surface landform
+water level,D.3 Property
+rising,B.3 Addition
+cave,A.2 Underground landform
+backflooding,B. Process
+discharge,D.1 Abiotic
+passage,D.1 Abiotic
+flowstone,D.1 Abiotic
+caves,D.1 Abiotic
+roofs,D.1 Abiotic
+walls,D.1 Abiotic
+drapery,A.2 Underground landform
+bands,D.1 Abiotic
+bacon,A.2 Underground landform
+curtain,A.2 Underground landform
+blanket,A.2 Underground landform
+projection,D.1 Abiotic
+persons,D.2 Biotic
+balcony,A.2 Underground landform
+cave,A.2 Underground landform
+wall,D.1 Abiotic
+sand grains,D.1 Abiotic
+beach standstone,D.1 Abiotic
+calcium carbonate,D.1 Abiotic
+minerals,D.1 Abiotic
+rock,D.1 Abiotic
+beds,D.1 Abiotic
+beachrock,D.1 Abiotic
+bedding plane,D.1 Abiotic
+bedding-plane cave,A.2 Underground landform
+beds,D.1 Abiotic
+corrosion,B.4 Transformation
+passage,A.2 Underground landform
+cave,A.2 Underground landform
+floor,D.1 Abiotic
+bridge,D.3 Property
+blade,A.2 Underground landform
+projection,D.1 Abiotic
+roof,D.1 Abiotic
+partition,D.3 Property
+wall,D.1 Abiotic
+tectonic depression,D.1 Abiotic
+karst processes,B. Process
+tecto-karstic hollow,A.1 Surface landform
+basin,D.1 Abiotic
+closed depressions,A.1 Surface landform
+karst terrains,C. Geome
+Poljes,A.1 Surface landform
+steep slopes,D.1 Abiotic
+karst depression,A.1 Surface landform
+polje,A.1 Surface landform
+centrifugal stream network,A.3 Hydrological form
+peripheral polje,A.1 Surface landform
+impermeable rocks,D.1 Abiotic
+depression,A.1 Surface landform
+vertical oscillations,B.1 Movement
+base-level polje,A.1 Surface landform
+water table,D.1 Abiotic
+karst rocks,D.1 Abiotic
+inundated,B.4 Transformation
+polje,A.1 Surface landform
+littoral cave,A.2 Underground landform
+tides,D.1 Abiotic
+cave,A.2 Underground landform
+wave erosion,B.2 Loss
+coastal areas,C. Geome
+Sea caves,A.2 Underground landform
+exposed bedrock,D.1 Abiotic
+caves,A.2 Underground landform
+flank margin caves,A.2 Underground landform
+oval rooms,A.2 Underground landform
+freshwater lens,D.1 Abiotic
+thinning margin,D.3 Property
+chambers,A.2 Underground landform
+Earth ’ s surface,C. Geome
+Blue holes,A.2 Underground landform
+subsurface voids,A.2 Underground landform
+cave passages,A.2 Underground landform
+tidally-influenced waters,D.1 Abiotic
+iron oxides,D.1 Abiotic
+hydroxides,D.1 Abiotic
+Limonite,D.1 Abiotic
+quartz sand,D.1 Abiotic
+sandstone,D.1 Abiotic
+erosion,B.2 Loss
+rock,D.1 Abiotic
+solutional processes,B.2 Loss
+solutional processes,B.4 Transformation
+Karst forms,A. Landform
+carbonate rocks,D.1 Abiotic
+Dinaric karst,D.3.1 Geolocation
+Collapse dolines,A.1 Surface landform
+caves,A.2 Underground landform
+karst water drainage,B.1 Movement
+solutional processes,B.2 Loss
+Karst poljes,A.1 Surface landform
+depressions,A.1 Surface landform
+old river streams,D.1 Abiotic
+dry valleys,A.1 Surface landform
+karst,C. Geome
+sediment,D.1 Abiotic
+breccia,D.1 Abiotic
+rock,D.1 Abiotic
+canopy,A.2 Underground landform
+flowstone,D.1 Abiotic
+speleothem,A.2 Underground landform
+stalactites,A.2 Underground landform
+karst area,C. Geome
+canyon,A.1 Surface landform
+karst,C. Geome
+valley,D.1 Abiotic
+river,D.1 Abiotic
+rocks,D.1 Abiotic
+cave passage,A.2 Underground landform
+water,D.1 Abiotic
+canyon,A.2 Underground landform
+roof,D.1 Abiotic
+cave,A.2 Underground landform
+rock,D.1 Abiotic
+cavity,D.1 Abiotic
+cave,A.2 Underground landform
+sediment,D.1 Abiotic
+cave blister,A.2 Underground landform
+calcite,D.1 Abiotic
+cave coral,A.2 Underground landform
+speleothems,A.2 Underground landform
+cave earth,D.1 Abiotic
+sand,D.1 Abiotic
+cave,A.2 Underground landform
+humus,D.1 Abiotic
+cave organisms,D.2 Biotic
+cave ecology,E.2 Method
+climatic influences,D.3 Property
+energy,D.3 Property
+interaction,B. Process
+study,E.2 Method
+cave fill,D.1 Abiotic
+bedrock floor,D.1 Abiotic
+cave,A.2 Underground landform
+block,B. Process
+sand,D.1 Abiotic
+day,D.1 Abiotic
+silt,D.1 Abiotic
+gravel,D.1 Abiotic
+cave pearl,A.2 Underground landform
+hollows,D.1 Abiotic
+speleothem,A.2 Underground landform
+drips,B.1 Movement
+water,D.1 Abiotic
+cave spring,A.3 Hydrological form
+cave,A.2 Underground landform
+sediment,D.1 Abiotic
+rock,D.1 Abiotic
+cave system,A.2 Underground landform
+passages,D.1 Abiotic
+caves,A.2 Underground landform
+chambers,D.1 Abiotic
+passages,D.1 Abiotic
+cavern,A.2 Underground landform
+chamber,D.1 Abiotic
+cave,A.2 Underground landform
+doline,A.1 Surface landform
+cenote,A.1 Surface landform
+half tube,D.1 Abiotic
+ceiling tube,A.2 Underground landform
+cave,A.2 Underground landform
+cave roof,D.1 Abiotic
+water tabl,D.1 Abiotic
+well,D.1 Abiotic
+Yucatan,D.3.1 Geolocation
+collapse,D.1 Abiotic
+cenote,A.1 Surface landform
+floating microorganisms,D.2 Biotic
+calcite,D.1 Abiotic
+chalk,D.1 Abiotic
+limestone,D.1 Abiotic
+cave system,A.2 Underground landform
+cavity,D.1 Abiotic
+chamber,A.2 Underground landform
+cave,A.2 Underground landform
+earth's surface,D.1 Abiotic
+gorge,D.1 Abiotic
+canyon,A.1 Surface landform
+abyss,D.1 Abiotic
+chasm,A.1 Surface landform
+dome pit,A.2 Underground landform
+aven,A.2 Underground landform
+chimney,A.2 Underground landform
+cave,A.2 Underground landform
+shaft,D.1 Abiotic
+cave passage,A.2 Underground landform
+rock,D.1 Abiotic
+chockstone,A.2 Underground landform
+cave fill,D.1 Abiotic
+Rock debris,D.1 Abiotic
+choke,D.1 Abiotic
+passage,A.2 Underground landform
+cave,A.2 Underground landform
+trough,D.1 Abiotic
+channel,D.1 Abiotic
+chute,A.2 Underground landform
+wet clay,D.1 Abiotic
+clay fill,D.1 Abiotic
+cave passage,A.2 Underground landform
+Dry,D.1 Abiotic
+deposition of flowstone,B.3 Addition
+phreatic solution,B.2 Loss
+time interval,D.3 Property
+clay filling,B. Process
+cave,A.2 Underground landform
+clint,A.1 Surface landform
+Flachkarren,A.1 Surface landform
+bedding,D.1 Abiotic
+limestone,D.1 Abiotic
+pavement,D.1 Abiotic
+topographic basin,D.1 Abiotic
+closed depression,A.1 Surface landform
+drainage,D.3 Property
+closed depressions,A.1 Surface landform
+Cockpits,A.1 Surface landform
+floor,D.1 Abiotic
+depression,D.1 Abiotic
+cockpit,A.1 Surface landform
+Kegelkarst,C. Geome
+Halbkugel - karst,C. Geome
+cone karst,C. Geome
+tower karst,C. Geome
+cockpit karst,C. Geome
+karst topography,C. Geome
+Spitzkegelkarst,C. Geome
+Kegelkarst,C. Geome
+hills,D.1 Abiotic
+depressions,D.1 Abiotic
+semiarid areas,C. Geome
+limestone,D.1 Abiotic
+arid,C. Geome
+rill,A.1 Surface landform
+groove,D.1 Abiotic
+rock surface,D.1 Abiotic
+grooves,D.1 Abiotic
+Rillenstein,A.1 Surface landform
+pitting,D.1 Abiotic
+rimstone,D.1 Abiotic
+deposits,D.1 Abiotic
+basins,D.1 Abiotic
+caves,A.2 Underground landform
+rimstone dam,D.1 Abiotic
+rimstone barrier,D.1 Abiotic
+rimstone barrage,D.1 Abiotic
+deposit,D.1 Abiotic
+caves,A.2 Underground landform
+springs,A.3 Hydrological form
+gour,D.1 Abiotic
+rimstone pool,A.3 Hydrological form
+Pool,D.1 Abiotic
+Spring,D.1 Abiotic
+rise,A.3 Hydrological form
+mass of bedrock,D.1 Abiotic
+rock pillar,A.2 Underground landform
+cave,A.2 Underground landform
+rock pinnacle,A.2 Underground landform
+cave,A.2 Underground landform
+bedrock,D.1 Abiotic
+rock shelter,A.2 Underground landform
+streams,D.1 Abiotic
+sand,D.1 Abiotic
+cave,A.2 Underground landform
+abrasion,B.2 Loss
+roof crust,A.2 Underground landform
+Flowstone,D.1 Abiotic
+caves,A.2 Underground landform
+water,D.1 Abiotic
+cave system,A.2 Underground landform
+passage,A.2 Underground landform
+chamber,A.2 Underground landform
+room,A.2 Underground landform
+sand stalagmite,A.2 Underground landform
+stalagmite,A.2 Underground landform
+sand,D.1 Abiotic
+sandstone,D.1 Abiotic
+calcite,D.1 Abiotic
+scaling chip,D.1 Abiotic
+limestone,D.1 Abiotic
+eave,A.2 Underground landform
+impure limestone,D.1 Abiotic
+scaling plate,D.1 Abiotic
+rock,D.1 Abiotic
+cave,A.2 Underground landform
+scallop,A.2 Underground landform
+streambeds,D.1 Abiotic
+caves,A.2 Underground landform
+flutes,A.2 Underground landform
+hollow,D.1 Abiotic
+sea cave,A.3 Hydrological form
+cleft,D.1 Abiotic
+cave,A.2 Underground landform
+bedding plane,D.1 Abiotic
+struga,A.1 Surface landform
+corridor,D.1 Abiotic
+subjacent karst,C. Geome
+noncarbonate rocks,D.1 Abiotic
+Karst landscape,C. Geome
+beds of lava,D.1 Abiotic
+cavernous limestone,D.1 Abiotic
+submarine spring,A.3 Hydrological form
+emergence,D.1 Abiotic
+collapse of caves,B.1 Movement
+subterranean solution,B.4 Transformation
+subsidence,B.4 Transformation
+Lowering,B.4 Transformation
+subterranean river,A.3 Hydrological form
+stream,D.1 Abiotic
+sump,A.2 Underground landform
+water loss,D.3 Property
+swallow hole,A.3 Hydrological form
+swallow hole,A.3 Hydrological form
+blind valley,A.1 Surface landform
+closed depression,A.1 Surface landform
+swallet,A.3 Hydrological form
+productior of karst phenomena,B.4 Transformation
+eolian calcarenite,D.1 Abiotic
+syngenetic karst,C. Geome
+lithification,B.4 Transformation
+Karst,C. Geome
+terraced flowstone,D.1 Abiotic
+pools,D.1 Abiotic
+cave system,A.2 Underground landform
+threshold,D.3 Property
+light,D.1 Abiotic
+through cave,A.2 Underground landform
+Durchgangshohle,A.2 Underground landform
+stream,D.1 Abiotic
+Cave,A.2 Underground landform
+doline .,A.1 Surface landform
+closed depression,A.1 Surface landform
+torca,A.1 Surface landform
+torricellian chamber,A.2 Underground landform
+atmospheric pressure,D.1 Abiotic
+water,D.1 Abiotic
+cave,A.2 Underground landform
+chamber,D.1 Abiotic
+limestone,D.1 Abiotic
+buttes,D.1 Abiotic
+tourelle,A.1 Surface landform
+pitons,A.1 Surface landform
+tower karst,C. Geome
+Karst topography,C. Geome
+limestone hills,D.1 Abiotic
+Turmkarst,C. Geome
+cedar trees,D.2 Biotic
+Limestone pavement,D.1 Abiotic
+glade,A.4 Other
+limestone pavement,D.1 Abiotic
+solution,B.2 Loss
+Kluftkarren,A.1 Surface landform
+fissure,D.1 Abiotic
+gryke,A.1 Surface landform
+grike,A.1 Surface landform
+cave,A.2 Underground landform
+grotto,A.2 Underground landform
+cave system,A.2 Underground landform
+grotto,A.2 Underground landform
+closed depression,A. Landform
+stream,D.1 Abiotic
+gulf,A.1 Surface landform
+calcium sulfate,D.1 Abiotic
+mineral,D.1 Abiotic
+gypsum,D.1 Abiotic
+Tropical karst topography,C. Geome
+Kegelkarst,C. Geome
+Halbkugelkarst,C. Geome
+depressions,D.1 Abiotic
+hills,D.1 Abiotic
+Kugelkarst,C. Geome
+Blind valley,A.1 Surface landform
+swallow hole,A.3 Hydrological form
+half-blind valley,A.1 Surface landform
+stream,D.1 Abiotic
+half tube,A.2 Underground landform
+roof,D.1 Abiotic
+cave,A.2 Underground landform
+hall,A.2 Underground landform
+cave,A.2 Underground landform
+chamber,A.2 Underground landform
+hanging blade,A.2 Underground landform
+blade,A.2 Underground landform
+haystack hill,A.1 Surface landform
+mogote,A.1 Surface landform
+hill,D.1 Abiotic
+solution,B.2 Loss
+calcium carbonate,D.1 Abiotic
+eccentric stalactite,A.2 Underground landform
+helictite,A.2 Underground landform
+heligmite,A.2 Underground landform
+stalagmite,A.2 Underground landform
+deposits of limestone,D.1 Abiotic
+Dinaric Karst,D.3.1 Geolocation
+cave systems,A.2 Underground landform
+deep ponors,A.3 Hydrological form
+bare surfaces,D.1 Abiotic
+Karren,A.1 Surface landform
+holokarst,C. Geome
+poljes,A.1 Surface landform
+dolines,A.1 Surface landform
+Slovenia,D.3.1 Geolocation
+uvalas,A.1 Surface landform
+Karst inselberg,A.1 Surface landform
+mogote,A.1 Surface landform
+limestone,D.1 Abiotic
+poljes,A.1 Surface landform
+hum,A.1 Surface landform
+perennial ice,D.1 Abiotic
+ice cave,A.2 Underground landform
+lava,D.1 Abiotic
+limestone,D.1 Abiotic
+near-surface evaporation,B.2 Loss
+water table,D.1 Abiotic
+carbonate deposits,D.1 Abiotic
+arid lands,D.1 Abiotic
+groundwater,D.1 Abiotic
+Calcretes,D.1 Abiotic
+troglobiotic species,D.2 Biotic
+wave action,B. Process
+sea coast,D.1 Abiotic
+marginal cave,A.2 Underground landform
+salinity,D.3 Property
+limnic,D.3 Property
+halocline,D.1 Abiotic
+polyhaline,D.3 Property
+glacier,D.1 Abiotic
+snow,D.1 Abiotic
+Glaciers,D.1 Abiotic
+buries,B.4 Transformation
+solution porosity,D.3 Property
+Denuded karst,C. Geome
+intrastratal karst,C. Geome
+soluble rock,D.1 Abiotic
+Open karst,C. Geome
+soluble rock,D.1 Abiotic
+intrastratal karstification,B.4 Transformation
+karst,C. Geome
+exposure,B.1 Movement
+Gypsum needles,A.1 Surface landform
+crystals,D.1 Abiotic
+caves,A.2 Underground landform
+tens of centimeters,D.3 Property
+hundreds of micrometers,D.3 Property
+cave cotton,D.1 Abiotic
+porous media aquifers,C. Geome
+pores,D.1 Abiotic
+water,D.1 Abiotic
+storage,D.3 Property
+bulk rock,D.1 Abiotic
+Porosity,D.3 Property
+pores,D.1 Abiotic
+conduit systems,C. Geome
+Karst springs,A.3 Hydrological form
+outlets,A. Landform
+draining,B.1 Movement
+hypogene karst,C. Geome
+Hydrothermal karst,C. Geome
+soluble rocks,D.1 Abiotic
+Network caves,A.2 Underground landform
+fractures,D.1 Abiotic
+widening,B.4 Transformation
+passages,D.1 Abiotic
+opaque ice,D.1 Abiotic
+ice stalagmite,A.2 Underground landform
+ice knobs,D.1 Abiotic
+bamboo,A.2 Underground landform
+thermoindicator,A.2 Underground landform
+Longitudinal rills,A.1 Surface landform
+flows down,B.1 Movement
+rock face,D.1 Abiotic
+water film,D.1 Abiotic
+grooves,D.1 Abiotic
+flutes,A.1 Surface landform
+( CH O ) n,D.1 Abiotic
+geological processes,B. Process
+Karst process,B. Process
+organic carbon,D.1 Abiotic
+lithosphere,C. Geome
+hydrosphere,C. Geome
+HCO,D.1 Abiotic
+transformation,B.4 Transformation
+CaCO,D.1 Abiotic
+atmosphere,C. Geome
+CO,D.1 Abiotic
+biosphere,C. Geome
+CO3,D.1 Abiotic
+carbon,D.1 Abiotic
+MgCO,D.1 Abiotic
+CH,D.1 Abiotic
+movement,B.1 Movement
+Karst springs,A.3 Hydrological form
+ecotones,D.1 Abiotic
+boundaries,D.3 Property
+calcite dissolution,B.4 Transformation
+carbonate reactions,B. Process
+carbonate formation,B.4 Transformation
+karst regions,C. Geome
+tufa formation,B.4 Transformation
+Gypsum crusts,A.1 Surface landform
+snottites,D.2 Biotic
+biofilms,D.2 Biotic
+substrate,D.1 Abiotic
+corrosion,B.4 Transformation
+secondary porosity,B.4 Transformation
+hydraulic conductivity,D.3 Property
+silicification,B.4 Transformation
+volume,D.3 Property
+dolomitization,B. Process
+epigenic karst systems,C. Geome
+vadose critical zone,C. Geome
+subsurface environments,D.1 Abiotic
+boundary,D.3 Property
+epikarst,C. Geome
+surface,D.1 Abiotic
+river - alluvial aquifer system,C. Geome
+river - alluvial aquifer system,A.3 Hydrological form
+hyporheic zone,C. Geome
+surface water,D.1 Abiotic
+lateral extent,D.3 Property
+groundwater,D.1 Abiotic
+zone,D.1 Abiotic
+thickness,D.3 Property
+organic matter,D.2 Biotic
+hyporheic zone,C. Geome
+animals,D.2 Biotic
+flux,B.1 Movement
+zone,D.1 Abiotic
+processing,B. Process
+cave sediment,A.4 Other
+quartz grains,D.1 Abiotic
+Sand,A.4 Other
+iron minerals,D.1 Abiotic
+springs,D.1 Abiotic
+mineral,D.1 Abiotic
+precipitate,D.1 Abiotic
+oxidation,B.4 Transformation
+Goethite,D.1 Abiotic
+marshes,D.1 Abiotic
+condensed water,D.1 Abiotic
+flowstone,D.1 Abiotic
+coatings,D.1 Abiotic
+canopies,D.1 Abiotic
+waterfalls,D.1 Abiotic
+karstified section,C. Geome
+Lowland,C. Geome
+hills,D.1 Abiotic
+fluvial karst forms,A.1 Surface landform
+land,D.1 Abiotic
+mesoforms,A.1 Surface landform
+dolines,A.1 Surface landform
+shallow niches,D.1 Abiotic
+eddies,A.3 Hydrological form
+Scallops,A.2 Underground landform
+eddies,B.1 Movement
+shaft,A.2 Underground landform
+passage,D.1 Abiotic
+cave,A.2 Underground landform
+shake,A.1 Surface landform
+shakehole,A.1 Surface landform
+doline,A.1 Surface landform
+subsidence,B.4 Transformation
+shakehole,A.1 Surface landform
+shake,A.1 Surface landform
+alluvium,D.1 Abiotic
+compaction,B.4 Transformation
+Hole,D.1 Abiotic
+subsidence,B.4 Transformation
+solution,B.4 Transformation
+water .,D.1 Abiotic
+calcium carbonate,D.1 Abiotic
+walls,D.1 Abiotic
+benches,D.1 Abiotic
+shawl,A.2 Underground landform
+curtain,A.2 Underground landform
+terraces,D.1 Abiotic
+sheet,D.1 Abiotic
+shield,A.2 Underground landform
+speleothem,A.2 Underground landform
+closed depressions,A.1 Surface landform
+sink,A.1 Surface landform
+sinkhole,A.1 Surface landform
+closed depressions,A.1 Surface landform
+sinkhole plain,C. Geome
+drainage,D.3 Property
+Plain,D.1 Abiotic
+closed depression,A.1 Surface landform
+clay floor,D.1 Abiotic
+sinkhole pond,A.3 Hydrological form
+water table,D.1 Abiotic
+depression,A.1 Surface landform
+lake,D.1 Abiotic
+limestone,D.1 Abiotic
+sinking creek,A.3 Hydrological form
+stream,D.1 Abiotic
+mineral spring,D.1 Abiotic
+mineral precipitate,D.1 Abiotic
+calcium carbonate,D.1 Abiotic
+silica,D.1 Abiotic
+sinter,D.1 Abiotic
+cave passage,A.2 Underground landform
+water surface,D.1 Abiotic
+water,D.1 Abiotic
+siphon,A.2 Underground landform
+ceiling,D.1 Abiotic
+cave floor,D.1 Abiotic
+slump pit,D.1 Abiotic
+hollow,D.1 Abiotic
+erosion,B.2 Loss
+bare limestone,D.1 Abiotic
+solution pan,A.1 Surface landform
+Opferkessel,A.1 Surface landform
+Kamenitza,A.1 Surface landform
+tinajita,A.1 Surface landform
+basin,D.1 Abiotic
+panhole,A.1 Surface landform
+solution pipe,A.1 Surface landform
+hole,D.1 Abiotic
+solution,B.4 Transformation
+debris,D.1 Abiotic
+limestone,D.1 Abiotic
+shafts,D.1 Abiotic
+cave,A.2 Underground landform
+sotano,A.2 Underground landform
+natural well,A.3 Hydrological form
+limestone,D.1 Abiotic
+shaft,D.1 Abiotic
+cave system,A.2 Underground landform
+network,A.2 Underground landform
+erosion,B.2 Loss
+nip,A.4 Other
+solution,B.2 Loss
+outflow cave,A.2 Underground landform
+effluent cave,A.2 Underground landform
+Cave,A.2 Underground landform
+rock,D.1 Abiotic
+sediments,D.1 Abiotic
+paleokarst,C. Geome
+calcium carbonate,D.1 Abiotic
+solution,B.4 Transformation
+palette,A.2 Underground landform
+partition,A.2 Underground landform
+pepino hill,A.1 Surface landform
+karst action,B. Process
+hill,D.1 Abiotic
+phreatic water,A.3 Hydrological form
+phreas,A.3 Hydrological form
+water,D.1 Abiotic
+phreatic zone,C. Geome
+solution,B.2 Loss
+pillar,A. Landform
+stalactitestalagmite,A.2 Underground landform
+column,A.2 Underground landform
+pillar,A.2 Underground landform
+roof of a cave,A.2 Underground landform
+stalagmite,A.2 Underground landform
+pillar,A.2 Underground landform
+water,D.1 Abiotic
+piping,B. Process
+pit,A.2 Underground landform
+circular,D.3 Property
+piton,A.1 Surface landform
+karst spring,A.3 Hydrological form
+limestone,D.1 Abiotic
+karst topography,C. Geome
+karst valley,A.1 Surface landform
+karst valley,A.1 Surface landform
+collapse,B.1 Movement
+subterranean river,A.3 Hydrological form
+karst window,A.1 Surface landform
+karst window,A.1 Surface landform
+dolines,A.1 Surface landform
+karstification,B.4 Transformation
+shafts,A.2 Underground landform
+Karren,A.1 Surface landform
+caves,A.2 Underground landform
+mogotes,A.1 Surface landform
+karstland,C. Geome
+katavothron,A.1 Surface landform
+karst valleys,A.1 Surface landform
+Kegelkarst,C. Geome
+cave,A.2 Underground landform
+keyhole,A.2 Underground landform
+cave coral,A.2 Underground landform
+Speleothem,A.2 Underground landform
+knobstone,A.2 Underground landform
+kras,C. Geome
+krš,C. Geome
+level,A.2 Underground landform
+passages,D.1 Abiotic
+level,D.3 Property
+light hole,A.1 Surface landform
+calcium carbonate,D.1 Abiotic
+limestone,D.1 Abiotic
+cave,A.2 Underground landform
+cavity,D.1 Abiotic
+chamber,A.2 Underground landform
+cave,A.2 Underground landform
+fill,D.1 Abiotic
+debris,D.1 Abiotic
+choke,D.1 Abiotic
+column,A.2 Underground landform
+speleothem,A.2 Underground landform
+bedrock,D.1 Abiotic
+stalagmite,A.2 Underground landform
+stalactite,A.2 Underground landform
+hydrostatic pressure,D.3 Property
+stream course,D.1 Abiotic
+water,D.1 Abiotic
+conduit,A.3 Hydrological form
+passage,D.1 Abiotic
+wearing away,B.2 Loss
+corrosion,B.2 Loss
+bedrock,D.1 Abiotic
+sediment,D.1 Abiotic
+water,D.1 Abiotic
+resonant,D.3 Property
+speleothem,A.2 Underground landform
+curtain,A.2 Underground landform
+translucent,D.3 Property
+dark zone,D.3 Property
+cave,A.2 Underground landform
+extracting energy,B. Process
+bacteria,D.2 Biotic
+decomposers,D.2 Biotic
+fungi,D.2 Biotic
+"conical ,",D.3 Property
+cylindrical,D.3 Property
+doline,A.1 Surface landform
+draining,B. Process
+dish-shaped,D.3 Property
+depression,D.1 Abiotic
+karst,C. Geome
+bowl,D.3 Property
+double carbonate,D.1 Abiotic
+magnesium,D.1 Abiotic
+dolomite,D.1 Abiotic
+mineral,D.1 Abiotic
+calcium,D.1 Abiotic
+salt weathering,B.4 Transformation
+hollow,D.1 Abiotic
+breakdown,B.1 Movement
+dome,A.2 Underground landform
+cave,A.2 Underground landform
+cave floor,A.2 Underground landform
+driphole,A.2 Underground landform
+water,D.1 Abiotic
+hole,D.1 Abiotic
+drips,B.1 Movement
+cave,A.2 Underground landform
+dripline,A.2 Underground landform
+cave roofs,A.2 Underground landform
+dripstone,D.1 Abiotic
+calcite,D.1 Abiotic
+deposit,D.1 Abiotic
+dead cave,A.2 Underground landform
+dry cave,A.2 Underground landform
+cave,A.2 Underground landform
+stream,A.3 Hydrological form
+movement of sediments,B.1 Movement
+Colluvial transport,B.1 Movement
+water,D.1 Abiotic
+cave,A.2 Underground landform
+ceiling,D.1 Abiotic
+Stalactites,A.2 Underground landform
+Stalagmitic flowstones,A.2 Underground landform
+stalactites,A.2 Underground landform
+stalagmite,A.2 Underground landform
+Soda straws,A.2 Underground landform
+axial feeding,B.3 Addition
+speleothems,A.2 Underground landform
+growth,B.3 Addition
+stalactite,A.2 Underground landform
+Stalagmites,A.2 Underground landform
+surface water,D.1 Abiotic
+drainage,B.1 Movement
+solution,B.4 Transformation
+bedrock,D.1 Abiotic
+sinkhole,A.1 Surface landform
+swallow holes,A.3 Hydrological form
+sinking stream,A.3 Hydrological form
+ponors,A.3 Hydrological form
+underground channelóin,D.1 Abiotic
+stream bed,D.1 Abiotic
+Swallow holes,A.3 Hydrological form
+sinkholes,A.1 Surface landform
+karstic terrain,C. Geome
+large plain,D.1 Abiotic
+poljes,A.1 Surface landform
+polje,A.1 Surface landform
+Slovenia,D.3.1 Geolocation
+field,D.1 Abiotic
+tower,A.1 Surface landform
+cone,A.1 Surface landform
+piton,A.1 Surface landform
+hum,A.1 Surface landform
+turm,A.1 Surface landform
+mogote,A.1 Surface landform
+pepino,A.1 Surface landform
+Breccia pipes,A.1 Surface landform
+interstratal dissolution,B.2 Loss
+gypsum karst,C. Geome
+stoping,B.1 Movement
+Gypsum tumuli,A.1 Surface landform
+hollow domes,D.1 Abiotic
+gypsum,D.1 Abiotic
+bubbles,A.1 Surface landform
+tents,A.1 Surface landform
+Clasts,D.1 Abiotic
+microrills,A.1 Surface landform
+rillensteine,D.1 Abiotic
+Solution runnels,A.1 Surface landform
+Hortonian channels,D.1 Abiotic
+carbonate rocks,D.1 Abiotic
+Solution dolines,A.1 Surface landform
+"Mount Kaijende , New Guinea",D.3.1 Geolocation
+small-scale landform,D.1 Abiotic
+Gunung Api,D.3.1 Geolocation
+Pinnacle karst,A.1 Surface landform
+subtropics,D.3.1 Geolocation
+tropics,D.3.1 Geolocation
+Mulu,D.3.1 Geolocation
+Caves,A.2 Underground landform
+sediments,D.1 Abiotic
+deposits,D.1 Abiotic
+carbonate rock,D.1 Abiotic
+vertical openings,D.1 Abiotic
+Blue holes,A.2 Underground landform
+sea-level fluctuations,B.1 Movement
+carbonate deposition,B.3 Addition
+Blue holes,A.2 Underground landform
+dissolution,B.2 Loss
+Earth ’ s surface,D.3.1 Geolocation
+carbonate banks,D.1 Abiotic
+blue hole,A.2 Underground landform
+subsurface voids,D.1 Abiotic
+cave passages,A.2 Underground landform
+islands,D.1 Abiotic
+aqueous solution,D.1 Abiotic
+Carbon dioxide,D.1 Abiotic
+limestone,D.1 Abiotic
+solution,B.2 Loss
+solution,B.2 Loss
+precipitation,B.3 Addition
+speleothems,A.2 Underground landform
+carbonate mud,D.1 Abiotic
+initially unconsolidated,D.3 Property
+compaction,B.4 Transformation
+cementation,B.4 Transformation
+Diagenesis,B.4 Transformation
+debris,D.1 Abiotic
+diagenesis,B.4 Transformation
+Dolostone,D.1 Abiotic
+inflow cave,A.2 Underground landform
+influent cave,A.2 Underground landform
+Cave,A.2 Underground landform
+stream,D.1 Abiotic
+abime,A.2 Underground landform
+jama,A.2 Underground landform
+France,D.3.1 Geolocation
+pothole,A.2 Underground landform
+England,D.3.1 Geolocation
+joint-plane cave,A.2 Underground landform
+cavity,D.1 Abiotic
+planes,D.1 Abiotic
+solution,B.4 Transformation
+furrows,D.1 Abiotic
+Karren,A.1 Surface landform
+Channels,D.1 Abiotic
+Karren,A.1 Surface landform
+Rillenkarren,A.1 Surface landform
+Rinnenkarren,A.1 Surface landform
+Karren,A.1 Surface landform
+Kluftkarren,A.1 Surface landform
+Karren,A.1 Surface landform
+Karren,A.1 Surface landform
+Spitzkarren,A.1 Surface landform
+Meanderkarren,A.1 Surface landform
+Karren,A.1 Surface landform
+Rundkarren,A.1 Surface landform
+Karren,A.1 Surface landform
+Fachkarren,A.1 Surface landform
+Karren,A.1 Surface landform
+Bodenkarren,A.1 Surface landform
+Karren,A.1 Surface landform
+Karrenfeld,A.1 Surface landform
+limestone,D.1 Abiotic
+Kegel - karst,C. Geome
+Spitz - kegelkarst,C. Geome
+tower karst,C. Geome
+buried karst,C. Geome
+naked karst,C. Geome
+exhumed karst,C. Geome
+syngenetic karst,C. Geome
+cone karst,C. Geome
+subjacent karst,C. Geome
+covered karst,C. Geome
+thermokarst,C. Geome
+dissolving,B.4 Transformation
+holokarst,C. Geome
+paleokarst,C. Geome
+Halbkugelkarst,C. Geome
+merokarst,C. Geome
+microkarst,C. Geome
+pseudokarst,C. Geome
+karst,C. Geome
+karst barre,C. Geome
+karst,C. Geome
+karst base level,D.1 Abiotic
+karstification,B. Process
+karst bridge,A.1 Surface landform
+karst fens,A.1 Surface landform
+karst lake,A.3 Hydrological form
+limestone,D.1 Abiotic
+water,D.1 Abiotic
+karst margin plain,A.1 Surface landform
+surface drainage,B.1 Movement
+limestone,D.1 Abiotic
+plain,D.1 Abiotic
+karst plain,A.1 Surface landform
+subterranean drainage,B.1 Movement
+karst pond,A.3 Hydrological form
+karst river,A.3 Hydrological form
+karst spring,A.3 Hydrological form
+"Calcium carbonate , CaCO2",D.1 Abiotic
+cave onyx,D.1 Abiotic
+onyx marble,D.1 Abiotic
+spring deposit,D.1 Abiotic
+calcareous tufa,D.1 Abiotic
+calcareous sinter,D.1 Abiotic
+travertine,D.1 Abiotic
+solution,B.4 Transformation
+cave passage,A.2 Underground landform
+tube,A.2 Underground landform
+limestone,D.1 Abiotic
+turlough,A.1 Surface landform
+closed depression,A.1 Surface landform
+compound doline,A.1 Surface landform
+depression,D.1 Abiotic
+coalesence,B.4 Transformation
+dolines,A.1 Surface landform
+uvala,A.1 Surface landform
+zone of saturation,C. Geome
+zone of aeration,C. Geome
+vadose water,D.1 Abiotic
+aeration,B.1 Movement
+saturation,B.1 Movement
+Water,D.1 Abiotic
+valley sink,A.1 Surface landform
+depression,D.1 Abiotic
+gushing spring,A.3 Hydrological form
+vauclusian spring,A.3 Hydrological form
+underground river,D.1 Abiotic
+limestone,D.1 Abiotic
+exsurgence,D.1 Abiotic
+spring,D.1 Abiotic
+block of rock,D.1 Abiotic
+wall slab,D.1 Abiotic
+cave,A.2 Underground landform
+limestone,D.1 Abiotic
+water trap,A.2 Underground landform
+chamber,A.2 Underground landform
+water,D.1 Abiotic
+water,D.1 Abiotic
+hole,D.1 Abiotic
+oil,D.1 Abiotic
+shaft,D.1 Abiotic
+minerals,D.1 Abiotic
+well,D.1 Abiotic
+gas,D.1 Abiotic
+earth,D.1 Abiotic
+closed depression,A.1 Surface landform
+shaft,D.1 Abiotic
+hole,D.1 Abiotic
+cave,A.2 Underground landform
+well,D.1 Abiotic
+passage,A.2 Underground landform
+window,A.2 Underground landform
+room,A.2 Underground landform
+natural bridge,D.1 Abiotic
+opening,D.1 Abiotic
+window,A.1 Surface landform
+Puerto Pico,D.3.1 Geolocation
+solution,B.4 Transformation
+limestone,D.1 Abiotic
+zanjon,A.1 Surface landform
+trench,D.1 Abiotic
+zone of aeration,C. Geome
+vadose water,D.1 Abiotic
+permeable soil,D.1 Abiotic
+zone,D.1 Abiotic
+rock,D.1 Abiotic
+Zwischenhohle,A.2 Underground landform
+Cave,A.2 Underground landform
+spring,A.3 Hydrological form
+resurgence,A.3 Hydrological form
+stream,D.1 Abiotic
+salt solutions,D.1 Abiotic
+salt weathering,B. Process
+growth,B. Process
+crystals,D.1 Abiotic
+detachment,B.4 Transformation
+wave attack,B. Process
+sea cave,A.2 Underground landform
+cave,A.2 Underground landform
+solution,B.4 Transformation
+cavity,D.1 Abiotic
+shaft,A.2 Underground landform
+curtain,D.1 Abiotic
+shawl,A.2 Underground landform
+show cave,A.2 Underground landform
+cave,A.2 Underground landform
+passage,D.1 Abiotic
+siphon,A.2 Underground landform
+solution,B. Process
+water,D.1 Abiotic
+bedrock,D.1 Abiotic
+change,B.4 Transformation
+solution flute,A.1 Surface landform
+solution hollow,D.1 Abiotic
+width,D.3 Property
+depth,D.3 Property
+slope,D.1 Abiotic
+rock,D.1 Abiotic
+organic remains,D.2 Biotic
+solution pan,A.1 Surface landform
+rock fragments,D.1 Abiotic
+silt,D.1 Abiotic
+rock,D.1 Abiotic
+depression,D.1 Abiotic
+clay,D.1 Abiotic
+solution hollow,A.1 Surface landform
+solution flute,A.1 Surface landform
+solution runnel,A.1 Surface landform
+depth,D.3 Property
+rock,D.1 Abiotic
+width,D.3 Property
+length,D.3 Property
+rock pendants,A.2 Underground landform
+current markings,A.2 Underground landform
+cave feature,A.2 Underground landform
+speleogen,A.2 Underground landform
+scallop,A.2 Underground landform
+weathering,B. Process
+scientific study,E.2 Method
+exploration,E.2 Method
+description,E.2 Method
+speleology,E.2 Method
+mineral deposit,D.1 Abiotic
+speleothem,A.2 Underground landform
+caves,A.2 Underground landform
+calcite,D.1 Abiotic
+splash cup,A.2 Underground landform
+shallow cavity,D.1 Abiotic
+stalagmite,A.2 Underground landform
+igneous rocks,D.1 Abiotic
+carbonate minerals,D.1 Abiotic
+Carbonatites,D.1 Abiotic
+calcite,D.1 Abiotic
+rocks,D.1 Abiotic
+Pit caves,A.2 Underground landform
+shafts,A.2 Underground landform
+blanket sands,D.1 Abiotic
+karst towers,A.1 Surface landform
+Mogotes,A.1 Surface landform
+tectonic uplift,B.1 Movement
+alluviation,B.3 Addition
+karst,C. Geome
+dissolution,B.2 Loss
+Fenglin,A.1 Surface landform
+solution dolines,A.1 Surface landform
+karst landforms,C. Geome
+filled with,B.3 Addition
+Vertical shafts,A.2 Underground landform
+shattered rock,D.1 Abiotic
+truncated,B.2 Loss
+underground,C. Geome
+glaciation,B.4 Transformation
+sediment,D.1 Abiotic
+Dolines,A.1 Surface landform
+sinkholes,A.1 Surface landform
+in North America,D.3.1 Geolocation
+swallow hole,A.3 Hydrological form
+in Europe,D.3.1 Geolocation
+depressions,D.1 Abiotic
+sinkhole,A.1 Surface landform
+stream-sink,A.3 Hydrological form
+ponor,A.3 Hydrological form
+dolines,A.1 Surface landform
+bouldery deposits,D.1 Abiotic
+Shakehole,A.1 Surface landform
+depressions,D.1 Abiotic
+limestone,D.1 Abiotic
+movement of the ground,B.1 Movement
+gradual movement,B.1 Movement
+subsidence,B.1 Movement
+Collapse,B.1 Movement
+brown-greyish,D.3 Property
+floor,D.1 Abiotic
+Fovals,D.1 Abiotic
+walls,D.1 Abiotic
+caves,A.2 Underground landform
+Glacier pseudokarst,C. Geome
+kettle holes,A.1 Surface landform
+closed depressions,D.1 Abiotic
+pseudokarst hillocks,A.1 Surface landform
+hummocky moraine,A.1 Surface landform
+debris,D.1 Abiotic
+sinking streams,A.3 Hydrological form
+resurgences,A.3 Hydrological form
+aquifers,C. Geome
+springs,A.3 Hydrological form
+springs,A.3 Hydrological form
+aquifers,C. Geome
+exsurgences,A.3 Hydrological form
+Jamas,A.2 Underground landform
+carbonate,D.1 Abiotic
+shafts,A.2 Underground landform
+sinking,B.1 Movement
+zone of vertical circulation,C. Geome
+circulates,B.1 Movement
+joints,D.1 Abiotic
+rock bursts,D.3 Property
+roof collapse,D.3 Property
+bedrock,D.1 Abiotic
+spalling,D.3 Property
+hazards,D.3 Property
+Mineral deposits,D.1 Abiotic
+speleothems,A.2 Underground landform
+stalagmites,A.2 Underground landform
+stalactites,A.2 Underground landform
+flowstone,A.2 Underground landform
+sinking streams,A.3 Hydrological form
+springs,A.3 Hydrological form
+conduits,A.3 Hydrological form
+limestone,D.1 Abiotic
+pathways,D.1 Abiotic
+outlets,A.3 Hydrological form
+sinkholes,A.1 Surface landform
+solid rock,D.1 Abiotic
+aeolian cave,A.2 Underground landform
+carved in,B. Process
+chamber,D.1 Abiotic
+Lava conduits,A.2 Underground landform
+tubes,A.2 Underground landform
+channels,A.2 Underground landform
+pyroducts,A.2 Underground landform
+tunnels,A.2 Underground landform
+volcanoes,D.1 Abiotic
+crusting,B.4 Transformation
+inflation,B.4 Transformation
+sulfidic caves,A.2 Underground landform
+cave-wall biofilms,D.2 Biotic
+microbial draperies,D.2 Biotic
+snottites,D.2 Biotic
+Biofilms,D.2 Biotic
+fluvial valleys,A.1 Surface landform
+karst dolines,A.1 Surface landform
+blind valleys,A.1 Surface landform
+dry valleys,A.1 Surface landform
+poljes,A.1 Surface landform
+doline,A.1 Surface landform
+hollows,A.1 Surface landform
+uvalas,A.1 Surface landform
+channels,A.1 Surface landform
+collapse doline,A.1 Surface landform
+tiankeng,A.1 Surface landform
+coastal karst belts,C. Geome
+submerged cavities,A.2 Underground landform
+water table,D.1 Abiotic
+collapse doline,A.1 Surface landform
+cenotes,A.1 Surface landform
+collapse,B.1 Movement
+depressions,A.1 Surface landform
+Subsidence dolines,A.1 Surface landform
+subsiding,B.1 Movement
+depressions,A.1 Surface landform
+topographic surface,C. Geome
+chemical erosion,B.2 Loss
+cave system,A.2 Underground landform
+Intersection dolines,A.1 Surface landform
+sediments,D.1 Abiotic
+lowering,B.2 Loss
+compound hollow,A.1 Surface landform
+fusion,B.3 Addition
+morphogenetic process,B. Process
+polygenetic sink,A.1 Surface landform
+closed depression,A.1 Surface landform
+karst process,B.4 Transformation
+mass of rock,D.1 Abiotic
+collapse breccia,D.1 Abiotic
+solution breccia,D.1 Abiotic
+dolomite,D.1 Abiotic
+cave,A.2 Underground landform
+collapse,B.1 Movement
+limestone,D.1 Abiotic
+roof,D.1 Abiotic
+ledge,D.1 Abiotic
+collapse sink,A.1 Surface landform
+closed depression,A.1 Surface landform
+collapse,B.1 Movement
+cave,A.2 Underground landform
+doline,A.1 Surface landform
+roof,D.1 Abiotic
+flowstone formation,D.1 Abiotic
+stalactite,A.2 Underground landform
+pillar,A.2 Underground landform
+column,A.2 Underground landform
+stalagmite,A.2 Underground landform
+stream course,D.1 Abiotic
+hydrostatic pressure,D.3 Property
+conduit,A.3 Hydrological form
+siphon,A.3 Hydrological form
+water,D.1 Abiotic
+cone karst,C. Geome
+karst topography,C. Geome
+cockpit karst,C. Geome
+depressions,D.1 Abiotic
+hills,D.1 Abiotic
+Kegelkarst,C. Geome
+tropicr,D.1 Abiotic
+constructive waterfall,A.3 Hydrological form
+rimstone dam,A.3 Hydrological form
+surface stream,D.1 Abiotic
+dam,D.1 Abiotic
+conical depression,D.1 Abiotic
+calcite lining,D.1 Abiotic
+speleothem,A.2 Underground landform
+cave,A.2 Underground landform
+conulite,A.2 Underground landform
+mud,D.1 Abiotic
+water,D.1 Abiotic
+calcite,D.1 Abiotic
+erosion,B.2 Loss
+depression,D.1 Abiotic
+corridor,A.2 Underground landform
+passage,D.1 Abiotic
+cave,A.2 Underground landform
+surface,D.1 Abiotic
+zanjon,A.1 Surface landform
+corridor,A.1 Surface landform
+struga,A.1 Surface landform
+land,A.4 Other
+bogaz,A.1 Surface landform
+depressions,D.1 Abiotic
+chemical action,B.4 Transformation
+corrasion,B. Process
+solution,B.2 Loss
+corrosion,B. Process
+Erosion,B.2 Loss
+limestone plateaus,A.1 Surface landform
+karst valley,A.1 Surface landform
+limestone,D.1 Abiotic
+cove,A.1 Surface landform
+plateaus,D.1 Abiotic
+naked karst,C. Geome
+buried karst,C. Geome
+solution features,D.1 Abiotic
+karst features,A.1 Surface landform
+covered karst,C. Geome
+limestone,D.1 Abiotic
+terrain,D.1 Abiotic
+meander niche,A.2 Underground landform
+niche,D.1 Abiotic
+crawl,A.2 Underground landform
+crawlway,A.2 Underground landform
+passage,D.1 Abiotic
+crevice karst,C. Geome
+New Guinea,D.3.1 Geolocation
+crevice system,D.1 Abiotic
+lowland,C. Geome
+solution,B.4 Transformation
+Crevices,D.1 Abiotic
+rivers,D.1 Abiotic
+crust stone,D.1 Abiotic
+Kentucky caves,D.3.1 Geolocation
+caves,A.2 Underground landform
+crust,D.1 Abiotic
+flowstone,D.1 Abiotic
+crystal cave,A.2 Underground landform
+crystals,D.1 Abiotic
+cave,A.2 Underground landform
+crystal pool,A.3 Hydrological form
+caves,A.2 Underground landform
+pool,D.1 Abiotic
+crystals,D.1 Abiotic
+overflow,B.1 Movement
+dead end,A.2 Underground landform
+cul-de-sac,A.2 Underground landform
+passage,D.1 Abiotic
+Dissolutional potholes,A.1 Surface landform
+stream beds,D.1 Abiotic
+basins,D.1 Abiotic
+Scallops,A.2 Underground landform
+hollows,D.1 Abiotic
+veins of a leaf,D.2 Biotic
+interweaving channels,D.1 Abiotic
+anastamose,A.2 Underground landform
+caves,A.2 Underground landform
+pattern,D.3 Property
+passage ceilings,D.1 Abiotic
+dimension,D.3 Property
+Pendants,A.2 Underground landform
+forms,D.1 Abiotic
+thermal caves,A.2 Underground landform
+Cupolas,A.2 Underground landform
+cavernous karren,A.1 Surface landform
+cross section,D.3 Property
+acidic soil,D.1 Abiotic
+pinnacles,A.1 Surface landform
+grike,A.1 Surface landform
+cutter,A.1 Surface landform
+sinkhole plains,C. Geome
+closed depressions,A.1 Surface landform
+surface streams,D.1 Abiotic
+doline karst,C. Geome
+landform,D.1 Abiotic
+conduit systems,C. Geome
+fissures,A.2 Underground landform
+Caves,A.2 Underground landform
+cavities,A.2 Underground landform
+Aragonite,D.1 Abiotic
+calcite,D.1 Abiotic
+crystals,D.1 Abiotic
+twinned,D.3 Property
+manganese oxides,D.1 Abiotic
+composite mixtures,D.1 Abiotic
+wad,D.1 Abiotic
+initial aperture,D.3 Property
+fracture aperture,D.3 Property
+calcium flux,D.3 Property
+function,E.2 Method
+sudden drop,B.2 Loss
+water table,D.1 Abiotic
+Knickpoints,D.1 Abiotic
+waterfalls,D.1 Abiotic
+changes,B. Process
+rapids,D.1 Abiotic
+irregular in shape,D.3 Property
+intersect,D.3 Property
+circular,D.3 Property
+rooms,A.2 Underground landform
+passages,A.2 Underground landform
+passage,A.2 Underground landform
+room,A.2 Underground landform
+oval,D.3 Property
+vadose passage,A.2 Underground landform
+Pits,A.2 Underground landform
+cave passages,A.2 Underground landform
+crested forms,D.1 Abiotic
+flute,A.2 Underground landform
+flat limestone surfaces,D.1 Abiotic
+limestone towers,D.1 Abiotic
+peaks,D.1 Abiotic
+fenglin,A.1 Surface landform
+Radiolocation,E.2 Method
+technique,E.2 Method
+residual hills,D.1 Abiotic
+peak forest,C. Geome
+bedrock base,D.1 Abiotic
+peak cluster,C. Geome
+tower karst,C. Geome
+Turmkarst,A.1 Surface landform
+tourelles,A.1 Surface landform
+towers,A.1 Surface landform
+pitons,A.1 Surface landform
+fengcong,C. Geome
+towers,D.1 Abiotic
+haystacks,A.1 Surface landform
+pepinos,A.1 Surface landform
+mogotes,A.1 Surface landform
+fenglin,C. Geome
+artificial underground reservoir,D.1 Abiotic
+stored water,D.1 Abiotic
+aquifer,C. Geome
+polygonal karst,C. Geome
+pitted,D.3 Property
+Valleys,A.1 Surface landform
+dolines,A.1 Surface landform
+Pocket valleys,A.1 Surface landform
+blind valleys,A.1 Surface landform
+closed land surface depressions,D.1 Abiotic
+karst environments,C. Geome
+dolines,A.1 Surface landform
+Sinkholes,A.1 Surface landform
+drainage,D.3 Property
+karst depressions,A.1 Surface landform
+uvalas,A.1 Surface landform
+dolines,A.1 Surface landform
+undulating floors,D.1 Abiotic
+doline,A.1 Surface landform
+hollows,D.1 Abiotic
+Uvalas,A.1 Surface landform
+dry valleys,A.1 Surface landform
+uvala,A.1 Surface landform
+sinkholes,A.1 Surface landform
+poljes,A.1 Surface landform
+bottom,D.1 Abiotic
+sinkhole,A.1 Surface landform
+karst terrain,C. Geome
+Paleokarst,C. Geome
+sediments,D.1 Abiotic
+filtration basins,D.1 Abiotic
+pollutants,D.1 Abiotic
+sedimentation,D.1 Abiotic
+Basins,D.1 Abiotic
+sediments,D.1 Abiotic
+The exokarstic storey,C. Geome
+karstosphere,C. Geome
+earth's crust,C. Geome
+fractures,D.1 Abiotic
+faults,D.1 Abiotic
+rocks,D.1 Abiotic
+movement,B.1 Movement
+radiogenic method of age estimation,E.2 Method
+Fission-track method,E.2 Method
+accumulation,B.3 Addition
+calcium carbonate,D.1 Abiotic
+Flowstone,D.1 Abiotic
+minerals,D.1 Abiotic
+subsurface conduit piracy,B. Process
+surface streams,D.1 Abiotic
+karst landscape,C. Geome
+fluviokarst,C. Geome
+valleys,A.1 Surface landform
+karst system,C. Geome
+"epikarst ,",C. Geome
+karstifiable rock,D.1 Abiotic
+Kluftkarren,A.1 Surface landform
+grikes,A.1 Surface landform
+fissures,D.1 Abiotic
+formation of caves,B.4 Transformation
+hydrostatic pressure,D. Entity/Element/Property
+Hypogene karst,C. Geome
+caves,A.2 Underground landform
+water,D.1 Abiotic
+amplitude of the secondary field,D.3 Property
+inphase component,E.2 Method
+dissolution features,A.1 Surface landform
+rock,D.1 Abiotic
+Karren,A.1 Surface landform
+dissolution,B.4 Transformation
+solution channels,A.1 Surface landform
+kluftkarren,A.1 Surface landform
+Karren,A.1 Surface landform
+process of interaction,B.4 Transformation
+Earth's surface,C. Geome
+soluble rocks,D.1 Abiotic
+underground,C. Geome
+karst,C. Geome
+process,B. Process
+differential chemical and mechanical erosion,B.2 Loss
+soluble bodies of rock,D.1 Abiotic
+Earth ’ s surface,C. Geome
+geologic process,B. Process
+dolomite,D.1 Abiotic
+gypsum,D.1 Abiotic
+Karstification,B.4 Transformation
+limestone,D.1 Abiotic
+water,D.1 Abiotic
+salt,D.1 Abiotic
+soluble rocks,D.1 Abiotic
+chemical solution,B.4 Transformation
+surface water,D.1 Abiotic
+ground water,D.1 Abiotic
+karst,C. Geome
+dissolution,B.4 Transformation
+dissolving action,B.2 Loss
+soluble bedrock,D.1 Abiotic
+karst,C. Geome
+marble,D.1 Abiotic
+dolostone,D.1 Abiotic
+water,D.1 Abiotic
+limestone,D.1 Abiotic
+halite,D.1 Abiotic
+gypsum,D.1 Abiotic
+dissolving of rock,B.2 Loss
+closed depressions,A.1 Surface landform
+sinking streams,A.3 Hydrological form
+sinkholes,A.1 Surface landform
+Karst,C. Geome
+limestone,D.1 Abiotic
+caves,A.2 Underground landform
+dolomite,D.1 Abiotic
+soluble rock,D.1 Abiotic
+gypsum,D.1 Abiotic
+Karst,C. Geome
+dolomite,D.1 Abiotic
+limestone,D.1 Abiotic
+solid contaminants,D.1 Abiotic
+clastic sediment,A.1 Surface landform
+epiphreatic zone,C. Geome
+water table,D.1 Abiotic
+depths,D.3 Property
+Specific karstic ablation,D.3 Property
+surface area,D.1 Abiotic
+volume,D.3 Property
+limestone,D.1 Abiotic
+large-scale agriculture,B. Process
+karst,C. Geome
+Poljes,A.1 Surface landform
+dolines,A.1 Surface landform
+blind valley,A.1 Surface landform
+stream,D.1 Abiotic
+gorge,A.1 Surface landform
+Ghost rock karstification,B. Process
+granites,D.1 Abiotic
+underground water,D.1 Abiotic
+precipitation water,D.1 Abiotic
+Dolines,A.1 Surface landform
+karst aquifer,C. Geome
+unroofed caves,A.2 Underground landform
+hydrological conditions,D.3 Property
+climate,D.3 Property
+geological,D.3 Property
+geomorphological,D.3 Property
+cave,A.2 Underground landform
+Karst waters,A.3 Hydrological form
+ecosystem,C. Geome
+karst poljes,A.1 Surface landform
+outflowing water,D.1 Abiotic
+inflowing,D.1 Abiotic
+volumes,D.3 Property
+Slovenia,D.3.1 Geolocation
+lakes,A.3 Hydrological form
+Karst poljes,A.1 Surface landform
+river basins,D.1 Abiotic
+closed depressions,A.1 Surface landform
+collapse,B.1 Movement
+Equipotential surfaces,D.1 Abiotic
+piezometers,E.1 Instrument
+locations,D.1 Abiotic
+underground cavities,D.1 Abiotic
+Collapse dolines,A.1 Surface landform
+depressions,A.1 Surface landform
+collapsing,B.1 Movement
+slopes,D.1 Abiotic
+karst terrains,C. Geome
+aquatic ecosystems,C. Geome
+terrestrial,C. Geome
+Caves,A.2 Underground landform
+bowlshaped doline,A.1 Surface landform
+dissolution,B.4 Transformation
+point-recharge doline,A.1 Surface landform
+surface streams,D.1 Abiotic
+karst subsurface,C. Geome
+inception doline,A.1 Surface landform
+hydraulic conductivity,D.3 Property
+centripetal convergence,B.1 Movement
+water,D.1 Abiotic
+active cave,A.2 Underground landform
+cave,A.2 Underground landform
+flowing,B.1 Movement
+stream,A.3 Hydrological form
+calcareous sand,D.1 Abiotic
+mollusc shells,D.2 Biotic
+dune sands,D.1 Abiotic
+aeolian calcarenite,D.1 Abiotic
+calcium carbonate,D.1 Abiotic
+redeposition,B.1 Movement
+solution,B.4 Transformation
+limestone,D.1 Abiotic
+calcium carbonate,D.1 Abiotic
+denser,D.3 Property
+orthorhombic,D.3 Property
+aragonite,D.1 Abiotic
+calcite,D.1 Abiotic
+bare karst,C. Geome
+bedrock,D.1 Abiotic
+karst,C. Geome
+phreatic zone,C. Geome
+moving,B.1 Movement
+bathyphreatic,D.3 Property
+water,D.1 Abiotic
+passages,D.1 Abiotic
+depositional layer,D.1 Abiotic
+bedrock,D.1 Abiotic
+sediment,D.1 Abiotic
+bed,D.1 Abiotic
+karst rock,D.1 Abiotic
+solution,B.2 Loss
+bedding-plane,D.1 Abiotic
+bedding plane,D.1 Abiotic
+beds,D.1 Abiotic
+bedding-plane cave,A.2 Underground landform
+a cavity,D.1 Abiotic
+bedding-plane,D.1 Abiotic
+scientific study,E.2 Method
+caves,A.2 Underground landform
+organisms,D.2 Biotic
+biospeleology,E.2 Method
+cave,A.2 Underground landform
+blind valley,A.1 Surface landform
+valley,A.1 Surface landform
+slope,D.1 Abiotic
+cliff,D.1 Abiotic
+sea cave,A.2 Underground landform
+water,D.1 Abiotic
+blowhole,A.1 Surface landform
+roof,D.1 Abiotic
+nullarbor plain,D.3.1 Geolocation
+air,D.1 Abiotic
+hole,D.1 Abiotic
+blowhole,A.1 Surface landform
+blows,B.1 Movement
+ground,D.1 Abiotic
+passages,D.1 Abiotic
+branchwork,A.2 Underground landform
+streams,D.1 Abiotic
+sea-water and freshwater mixing,B. Process
+flank-margin caves,A.2 Underground landform
+carbonate coastlines,C. Geome
+freshwater,D.1 Abiotic
+cave,A.2 Underground landform
+coastlines,D.1 Abiotic
+sea-water,D.1 Abiotic
+Morphometry,E.2 Method
+dissolutional corridors,A.1 Surface landform
+doming,B.4 Transformation
+limestone,D.1 Abiotic
+fractures,D.1 Abiotic
+Antarctica,D.3.1 Geolocation
+continents,D.1 Abiotic
+Paleokarst,C. Geome
+Caves without roofs,A.2 Underground landform
+paleokarst,C. Geome
+underground mining operations,B. Process
+Paleokarst aquifers,C. Geome
+Palynology,E.2 Method
+palynomorphs,D.2 Biotic
+environmental and climatic reconstruction,E.2 Method
+flora,D.2 Biotic
+caves,A.2 Underground landform
+influxes of sediment,B.3 Addition
+cave genesis,B.4 Transformation
+Paragenesis,B.4 Transformation
+Network mazes,A.1 Surface landform
+fissures,D.1 Abiotic
+fractures,D.1 Abiotic
+Spongework mazes,A.2 Underground landform
+cavities,D.1 Abiotic
+steep slope,D.1 Abiotic
+allogenic streams,A.3 Hydrological form
+blind valleys,A.1 Surface landform
+valleys,D.1 Abiotic
+cliff,D.1 Abiotic
+valleys,D.1 Abiotic
+karst,C. Geome
+pre-ponor retention,B.3 Addition
+ponor,A.3 Hydrological form
+accumulation,B.3 Addition
+depression,A.1 Surface landform
+underground spaces,A.2 Underground landform
+Pseudokarstic caves,A.2 Underground landform
+dissolution,B.4 Transformation
+Emanation,D.3 Property
+radium,D.1 Abiotic
+uranium,D.1 Abiotic
+cave,A.2 Underground landform
+drapery,A.2 Underground landform
+dripstone,D.1 Abiotic
+curtain,A.2 Underground landform
+blanket,A.2 Underground landform
+bacon,A.2 Underground landform
+marginal polje,A.1 Surface landform
+half-blind valley,A.1 Surface landform
+blind valley,A.1 Surface landform
+disappears,B.2 Loss
+stream,D.1 Abiotic
+valley,D.1 Abiotic
+blowhole,A.1 Surface landform
+hole,D.1 Abiotic
+land,D.1 Abiotic
+shore,D.1 Abiotic
+waves,D.1 Abiotic
+current of air,D.1 Abiotic
+Nullarbor Plain,D.3.1 Geolocation
+blowing cave,A.2 Underground landform
+hole,D.1 Abiotic
+air,D.1 Abiotic
+force,D.1 Abiotic
+blowhole,A.1 Surface landform
+cave,A.2 Underground landform
+boiling spring,A.3 Hydrological form
+blue hole,A.3 Hydrological form
+rises,B.1 Movement
+emergence,A.3 Hydrological form
+turbulence,D.3 Property
+water,D.1 Abiotic
+blue hole,A.3 Hydrological form
+solution sinkhole,A.1 Surface landform
+chasm,D.1 Abiotic
+limestone,D.1 Abiotic
+bogaz,A.1 Surface landform
+corridor,A.1 Surface landform
+struga,A.1 Surface landform
+solution,B.2 Loss
+kanjon,A.1 Surface landform
+blue hole,A.3 Hydrological form
+boiling spring,A.3 Hydrological form
+spring,D.1 Abiotic
+Cave breccia,D.1 Abiotic
+bone,D.2 Biotic
+bone-breccia,D.1 Abiotic
+breccia,D.1 Abiotic
+grape formation,A.2 Underground landform
+calcium carbonate,D.1 Abiotic
+botryoid,A.2 Underground landform
+deposit,B.3 Addition
+walls,D.1 Abiotic
+clusterite,A.2 Underground landform
+caves,A.2 Underground landform
+dry valley,A.1 Surface landform
+stream,D.1 Abiotic
+bourne,A.3 Hydrological form
+limestone walls,D.1 Abiotic
+gypsum,D.1 Abiotic
+cave,A.2 Underground landform
+calcite,D.1 Abiotic
+blades,D.1 Abiotic
+ceiling,D.1 Abiotic
+boxwork,A.2 Underground landform
+natural bridge,D.1 Abiotic
+cave,A.2 Underground landform
+passage,D.1 Abiotic
+bridge,D.1 Abiotic
+covered karst,C. Geome
+Karst topography,C. Geome
+buried karst,C. Geome
+paleokarst,C. Geome
+sediments,D.1 Abiotic
+shell sand,D.2 Biotic
+Limestone,D.1 Abiotic
+dolomite,D.1 Abiotic
+calcarenite,D.1 Abiotic
+coral,D.2 Biotic
+grains,D.1 Abiotic
+disintegration,B.4 Transformation
+erosion,B.4 Transformation
+green plants,D.2 Biotic
+cave,A.2 Underground landform
+algae,D.2 Biotic
+lampenflora,D.2 Biotic
+fern,D.2 Biotic
+moss,D.2 Biotic
+Visitor capacity,D.3 Property
+environmental parameters,D.3 Property
+cave,A.2 Underground landform
+stream flow,D.1 Abiotic
+Allogeneic waters,D.1 Abiotic
+Base level,D.3 Property
+sea level,D.3 Property
+erosion,B.2 Loss
+cover-collapse sinkhole,A.1 Surface landform
+subsidence sinkhole,A.1 Surface landform
+suffosion dolines,A.1 Surface landform
+depressions,A.1 Surface landform
+sinkhole,A.1 Surface landform
+cave system,A.2 Underground landform
+caves,A.2 Underground landform
+passages,A.2 Underground landform
+Hypogene speleogenesis,B. Process
+recharge,B.3 Addition
+formation,B. Process
+water,D.1 Abiotic
+vertical through structures,A.2 Underground landform
+collapse columns,A.2 Underground landform
+hypogene speleogenesis,B. Process
+breccia pipes,A.2 Underground landform
+geologic organs,A.2 Underground landform
+dissolution,B.4 Transformation
+groundwater,D.1 Abiotic
+Speleogenesis,B.4 Transformation
+minerals,D.1 Abiotic
+calcite,D.1 Abiotic
+Speleothems,A.2 Underground landform
+deposits,D.1 Abiotic
+caves,A.2 Underground landform
+Straw stalactites,A.2 Underground landform
+tubes,D.1 Abiotic
+Helictites,A.2 Underground landform
+Cave pearls,A.2 Underground landform
+speleothem,A.2 Underground landform
+pools,D.1 Abiotic
+water,D.1 Abiotic
+dry valley,A.1 Surface landform
+stream channel,D.1 Abiotic
+valley,D.1 Abiotic
+hydrostatic pressure,D.3 Property
+dynamic phreas,C. Geome
+phreatic zone,C. Geome
+turbulence,B.1 Movement
+water,D.1 Abiotic
+wearing away,B.2 Loss
+moving agents,D.1 Abiotic
+chemical actions,B. Process
+rivers,D.1 Abiotic
+erosion,B.2 Loss
+sediment,D.1 Abiotic
+caves,A.2 Underground landform
+bedrock,D.1 Abiotic
+wind,D.1 Abiotic
+glaciers,D.1 Abiotic
+mechanical,B. Process
+percolation water,D.1 Abiotic
+spring,A.3 Hydrological form
+exsurgence,A.3 Hydrological form
+fault plane,D.1 Abiotic
+cock body,D.1 Abiotic
+fracture,D.1 Abiotic
+fault,D.3 Property
+fault zone,C. Geome
+fault cave,A.2 Underground landform
+cave,A.2 Underground landform
+fault,D.3 Property
+fault plane,D.1 Abiotic
+fault,D.1 Abiotic
+plane,D.1 Abiotic
+crack,D.1 Abiotic
+soil,D.1 Abiotic
+fissure,D.1 Abiotic
+rock,D.1 Abiotic
+floors,D.1 Abiotic
+calcite,D.1 Abiotic
+deposit,D.1 Abiotic
+flowstone,D.1 Abiotic
+trickles,D.1 Abiotic
+walls,D.1 Abiotic
+films,D.1 Abiotic
+water tracing,E.2 Method
+dye gauging,E.2 Method
+fluorometer,E.1 Instrument
+fluorescence,D.3 Property
+water,D.1 Abiotic
+instrument,E.1 Instrument
+glacier cave,A.2 Underground landform
+cave,A.2 Underground landform
+glacier,D.1 Abiotic
+rock outcrop,D.1 Abiotic
+grike,A.1 Surface landform
+solution,B.1 Movement
+cave surface,D.1 Abiotic
+gypsum flower,A.2 Underground landform
+deposit,D.1 Abiotic
+gypsum,D.1 Abiotic
+half-blind valley,A.1 Surface landform
+blind valley,A.1 Surface landform
+water,D.1 Abiotic
+flood,D.1 Abiotic
+streamsink,D.1 Abiotic
+threshold,D.3 Property
+cave surface,D.1 Abiotic
+half-tube,A.2 Underground landform
+recess,D.1 Abiotic
+dry valley,A.1 Surface landform
+southern England,D.3.1 Geolocation
+valley,D.1 Abiotic
+chalk,D.1 Abiotic
+epiphreatic zone,C. Geome
+cave system,A.2 Underground landform
+phreatic zone,C. Geome
+floods,D.1 Abiotic
+zone,D.1 Abiotic
+epiphreas,C. Geome
+swallow hole,A.3 Hydrological form
+rising,D.1 Abiotic
+estavelle,A.3 Hydrological form
+resurgence,D.1 Abiotic
+exsurgence,D.1 Abiotic
+exhumed karst,C. Geome
+strata,D.1 Abiotic
+erosion,B.2 Loss
+fault zone,C. Geome
+fault cave,A.2 Underground landform
+fault,D.1 Abiotic
+cave,A.2 Underground landform
+shaft caves,A.2 Underground landform
+fissure cave,A.2 Underground landform
+cave passage,A.2 Underground landform
+cave,A.2 Underground landform
+wells,A.3 Hydrological form
+fissure,D.1 Abiotic
+Fissures,D.1 Abiotic
+cave passage,A.2 Underground landform
+flattener,A.2 Underground landform
+crawl,A.2 Underground landform
+subterranean pool,D.1 Abiotic
+floe calcite,D.1 Abiotic
+calcium carbonate,D.1 Abiotic
+film,D.1 Abiotic
+water,D.1 Abiotic
+calcium carbonate,D.1 Abiotic
+flowstone,A.2 Underground landform
+dripstone,A.2 Underground landform
+gypsum,D.1 Abiotic
+Deposits,D.1 Abiotic
+fluvial activity,B.1 Movement
+karst landscape,C. Geome
+fluviokarst,C. Geome
+swallow point,D.1 Abiotic
+foiba,A.2 Underground landform
+cavity,D.1 Abiotic
+shaft,D.1 Abiotic
+surface,D.1 Abiotic
+foiba,A.2 Underground landform
+alluvial plain,D.1 Abiotic
+limestone hill,D.1 Abiotic
+mogote,A.1 Surface landform
+fungling,A.1 Surface landform
+cave,A.2 Underground landform
+gallery,A.2 Underground landform
+glaciokarst,C. Geome
+region,D.1 Abiotic
+glade,A.1 Surface landform
+depression,D.1 Abiotic
+basins,D.1 Abiotic
+dome pit,A.2 Underground landform
+cave structure,D.1 Abiotic
+dissolving,B.4 Transformation
+scallop,A.2 Underground landform
+speleogen,A.2 Underground landform
+cave,A.2 Underground landform
+caves,A.2 Underground landform
+speleology,E.2 Method
+cave formation,A.2 Underground landform
+mineral deposit,D.1 Abiotic
+caves,A.2 Underground landform
+stalactite,A.2 Underground landform
+speleothem,A.2 Underground landform
+stalagmite,A.2 Underground landform
+Tropical karst topography,C. Geome
+limestone hills,D.1 Abiotic
+Spitzkegelkarst,C. Geome
+splash cup,A.2 Underground landform
+concavity,D.1 Abiotic
+stalagmite,A.2 Underground landform
+perforation,D.3 Property
+cavities,D.1 Abiotic
+spongework,A.2 Underground landform
+discharge of water,D.1 Abiotic
+spring,D.1 Abiotic
+passage,D.1 Abiotic
+opening,D.1 Abiotic
+squeeze,A.2 Underground landform
+stagmalite,A.2 Underground landform
+stalactite,A.2 Underground landform
+stalagmite,A.2 Underground landform
+deposit of minerals,D.1 Abiotic
+stalactite,A.2 Underground landform
+cave,A.2 Underground landform
+limestone cave,D.1 Abiotic
+calcium carbonate,D.1 Abiotic
+cave,A.2 Underground landform
+stalagmite,A.2 Underground landform
+deposit,D.1 Abiotic
+precipitation,D.3 Property
+valley,D.1 Abiotic
+steephead,A.1 Surface landform
+stream,D.1 Abiotic
+soda straw,A.2 Underground landform
+straw stalactite,A.2 Underground landform
+stalactite,A.2 Underground landform
+stream sink,A.3 Hydrological form
+surface stream,D.1 Abiotic
+cave passage,A.2 Underground landform
+scallops,A.2 Underground landform
+water,D.1 Abiotic
+streamtube,A.2 Underground landform
+oulo - pholite,A.2 Underground landform
+cave flower,A.2 Underground landform
+gypsum flower,A.2 Underground landform
+epsomite,D.1 Abiotic
+gypsum,D.1 Abiotic
+deposit,D.1 Abiotic
+cave formation,A.2 Underground landform
+mineral deposit,D.1 Abiotic
+accumulation,B.3 Addition
+cave,A.2 Underground landform
+dripping,B.1 Movement
+speleothem,A.2 Underground landform
+flowing,B.1 Movement
+cave group,A.2 Underground landform
+cave series,A.2 Underground landform
+cave systems,A.2 Underground landform
+caves,A.2 Underground landform
+cave guano,D.2 Biotic
+mineralized,B.4 Transformation
+bats,D.2 Biotic
+Accumulations,B.3 Addition
+dung,D.2 Biotic
+calcium carbonate dripstone,D.1 Abiotic
+cave ice,A.2 Underground landform
+water,D.1 Abiotic
+freezing,B.4 Transformation
+Ice,D.1 Abiotic
+cave,A.2 Underground landform
+flowstone,D.1 Abiotic
+land surface,D.1 Abiotic
+passage,A.2 Underground landform
+cave-in,B. Process
+collapse,B.1 Movement
+cave,A.2 Underground landform
+ceiling,D.1 Abiotic
+cave marble,A.2 Underground landform
+marble,D.1 Abiotic
+flowstone,D.1 Abiotic
+aragonite,D.1 Abiotic
+deposit,D.1 Abiotic
+calcite,D.1 Abiotic
+cave pearl,A.2 Underground landform
+pisolith,A.2 Underground landform
+precipitation,B.3 Addition
+aragonite,D.1 Abiotic
+calcite,D.1 Abiotic
+pisolite,A.2 Underground landform
+concretion,D.1 Abiotic
+cave group,A.2 Underground landform
+cave series,A.2 Underground landform
+caves,A.2 Underground landform
+group,D.3 Property
+morphology,D.3 Property
+cave spring,A.3 Hydrological form
+cave system,A.2 Underground landform
+spring,D.1 Abiotic
+cave,A.2 Underground landform
+cave spring,A.3 Hydrological form
+chambers,D.1 Abiotic
+cavities,D.1 Abiotic
+passages,D.1 Abiotic
+cavern,A.2 Underground landform
+cave,A.2 Underground landform
+ceiling block,A.2 Underground landform
+ceiling slab,A.2 Underground landform
+cave breakdown,A.2 Underground landform
+block,D.1 Abiotic
+fallen,B.1 Movement
+cave,A.2 Underground landform
+ceiling cavity,A.2 Underground landform
+concavity,D.1 Abiotic
+cave,A.2 Underground landform
+ceiling meander,A.2 Underground landform
+cave ceiling,A.2 Underground landform
+channel,D.1 Abiotic
+piece of rock,D.1 Abiotic
+cave breakdown,A.2 Underground landform
+roof slab,A.2 Underground landform
+ceiling slab,A.2 Underground landform
+ceiling block,A.2 Underground landform
+cave,A.2 Underground landform
+limestone,D.1 Abiotic
+cavities,D.1 Abiotic
+spongework,A.1 Surface landform
+cavities,D.1 Abiotic
+rock,D.1 Abiotic
+spring,D.1 Abiotic
+rock,D.1 Abiotic
+water,D.1 Abiotic
+flow,D.3 Property
+soil,D.1 Abiotic
+stalactite,A.2 Underground landform
+wall,D.1 Abiotic
+speleothem,A.2 Underground landform
+roof,D.1 Abiotic
+cave floor,D.1 Abiotic
+stalagmite,A.2 Underground landform
+precipitation,B. Process
+drips,D.1 Abiotic
+speleothem,A.2 Underground landform
+steephead,A.1 Surface landform
+stream,D.1 Abiotic
+valley,D.1 Abiotic
+karst,C. Geome
+stalactite,A.2 Underground landform
+straw,A.2 Underground landform
+storage capacity,D.3 Property
+subcutaneous zone,C. Geome
+rock,D.1 Abiotic
+soil,D.1 Abiotic
+fissures,A.1 Surface landform
+porosity,D.3 Property
+soluble beds,D.1 Abiotic
+subjacent karst,C. Geome
+karst,C. Geome
+cave passage,D.1 Abiotic
+roof,D.1 Abiotic
+sump,D.3 Property
+water,D.1 Abiotic
+pebble tools,D.1 Abiotic
+swirlhole,A.3 Hydrological form
+sand,D.1 Abiotic
+streambed,D.1 Abiotic
+syngenetic karst,C. Geome
+aeolian calcarenite,D.1 Abiotic
+evolution,B. Process
+lithification,B.4 Transformation
+karst,C. Geome
+tafoni,A.1 Surface landform
+through cave,A.2 Underground landform
+stream course,D.1 Abiotic
+stream,D.1 Abiotic
+passage,D.1 Abiotic
+cave,A.2 Underground landform
+alluvial plains,A.1 Surface landform
+flat-floored depressions,A.1 Surface landform
+tower karst,C. Geome
+towers,A.1 Surface landform
+conekarst,C. Geome
+tracer,E.1 Instrument
