@@ -27,7 +27,12 @@ NEGATIVE_LABEL = 'Other'
 
 # LABEL_TO_ID = {'Other': 0, 'Entity-Destination': 1, 'Cause-Effect': 2, 'Member-Collection': 3, 'Entity-Origin': 4, 'Message-Topic': 5, 'Component-Whole': 6, 'Instrument-Agency': 7, 'Product-Producer': 8, 'Content-Container': 9, 'Entity-Destination-rev': 10, 'Cause-Effect-rev': 11, 'Member-Collection-rev': 12, 'Entity-Origin-rev': 13, 'Message-Topic-rev': 14, 'Component-Whole-rev': 15, 'Instrument-Agency-rev': 16, 'Product-Producer-rev': 17, 'Content-Container-rev': 18} 
 # LABEL_TO_ID = {'Other': 0, 'Entity-Destination': 1, 'Cause-Effect': 2, 'Member-Collection': 3, 'Entity-Origin': 4, 'Message-Topic': 5, 'Component-Whole': 6, 'Instrument-Agency': 7, 'Product-Producer': 8, 'Content-Container': 9}
-LABEL_TO_ID = {"GENUS":0, "HAS_LOCATION":1, "HAS_SIZE":2, "GENUS_rev":3, "HAS_LOCATION_rev": 4, "HAS_SIZE_rev": 5}
+
+# All
+# LABEL_TO_ID = {'AFFECTS': 0, 'AFFECTS_rev': 1, 'COMPOSITION_MEDIUM': 2, 'COMPOSITION_MEDIUM_rev': 3, 'CONTAINS': 4, 'CONTAINS_rev': 5, 'DEFINED_AS': 6, 'DEFINED_AS_rev': 7, 'GENUS': 8, 'GENUS_rev': 9, 'HAS_ATTRIBUTE': 10, 'HAS_ATTRIBUTE_rev': 11, 'HAS_CAUSE': 12, 'HAS_CAUSE_rev': 13, 'HAS_FORM': 14, 'HAS_FORM_rev': 15, 'HAS_FUNCTION': 16, 'HAS_FUNCTION_rev': 17, 'HAS_LOCATION': 18, 'HAS_LOCATION_rev': 19, 'HAS_POSITION': 20, 'HAS_POSITION_rev': 21, 'HAS_RESULT': 22, 'HAS_RESULT_rev': 23, 'HAS_SIZE': 24, 'HAS_SIZE_rev': 25, 'MEASURES': 26, 'MEASURES_rev': 27, 'OCCURS_IN_MEDIUM': 28, 'OCCURS_IN_MEDIUM_rev': 29, 'OCCURS_IN_TIME': 30, 'OCCURS_IN_TIME_rev': 31, 'SPECIES': 32, 'SPECIES_rev': 33, 'STUDIES': 34, 'STUDIES_rev': 35}
+
+# Only selected
+LABEL_TO_ID = {'GENUS':0, 'HAS_FORM':1, 'HAS_LOCATION':2, 'HAS_CAUSE':3, 'COMPOSITION_MEDIUM':4, 'HAS_SIZE':5, 'HAS_FUNCTION':6,'GENUS_rev':7, 'HAS_FORM_rev':8, 'HAS_LOCATION_rev':9, 'HAS_CAUSE_rev':10, 'COMPOSITION_MEDIUM_rev':11, 'HAS_SIZE_rev':12, 'HAS_FUNCTION_rev':13}
 
 INFINITY_NUMBER = 1e12
 

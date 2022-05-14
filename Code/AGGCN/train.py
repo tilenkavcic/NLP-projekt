@@ -148,7 +148,6 @@ for epoch in range(1, opt['num_epoch']):
             print(format_str.format(datetime.now(), global_step, max_steps, epoch,\
                     opt['num_epoch'], loss, duration, current_lr))
 
-
     train_loss = train_loss / train_batch.num_examples * opt['batch_size'] # avg loss per batch
     print("epoch {}: train_loss = {:.6f}".format(epoch,\
         train_loss))

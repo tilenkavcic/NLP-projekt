@@ -1,3 +1,4 @@
+
 """
 A trainer class.
 """
@@ -81,7 +82,6 @@ class GCNTrainer(Trainer):
         self.optimizer.zero_grad()
         logits, pooling_output = self.model(inputs)
         loss = self.criterion(logits, labels)
-
         # l2 decay on all conv layers
         if self.opt.get('conv_l2', 0) > 0:
             loss += self.model.conv_l2() * self.opt['conv_l2']
@@ -89,6 +89,7 @@ class GCNTrainer(Trainer):
         if self.opt.get('pooling_l2', 0) > 0:
             loss += self.opt['pooling_l2'] * (pooling_output ** 2).sum(1).mean()
         loss_val = loss.item()
+
         # backward
         loss.backward()
         torch.nn.utils.clip_grad_norm_(self.model.parameters(), self.opt['max_grad_norm'])
@@ -101,6 +102,7 @@ class GCNTrainer(Trainer):
         # forward
         self.model.eval()
         logits, _ = self.model(inputs)
+
         loss = self.criterion(logits, labels)
         probs = F.softmax(logits, 1).data.cpu().numpy().tolist()
         predictions = np.argmax(logits.data.cpu().numpy(), axis=1).tolist()
