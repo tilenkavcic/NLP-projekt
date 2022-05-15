@@ -1,0 +1,86 @@
+Loading model from saved_models_karst_sl/01/checkpoint_epoch_150.pt
+Finetune all embeddings.
+Vocab size 4528 loaded from file
+Loading data from dataset/karst_sl_all/test.json with batch size 50...
+6 batches created for dataset/karst_sl_all/test.json
+
+Running with the following configs:
+	data_dir : dataset/karst_sl_all
+	vocab_dir : dataset/vocab_karst_sl_all
+	emb_dim : 300
+	pos_dim : 30
+	hidden_dim : 360
+	num_layers : 2
+	input_dropout : 0.5
+	gcn_dropout : 0.3
+	cnn_dropout : 0.5
+	word_dropout : 0.04
+	topn : 10000000000.0
+	lower : False
+	heads : 3
+	sublayer_first : 2
+	sublayer_second : 4
+	conv_l2 : 0
+	pooling : max
+	pooling_l2 : 0
+	mlp_layers : 1
+	no_adj : False
+	rnn : True
+	rnn_hidden : 300
+	rnn_layers : 1
+	rnn_dropout : 0.5
+	lr : 0.5
+	lr_decay : 0.9
+	decay_epoch : 6
+	optim : sgd
+	num_epoch : 150
+	batch_size : 50
+	max_grad_norm : 5.0
+	log_step : 20
+	log : logs.txt
+	save_epoch : 100
+	save_dir : ./saved_models_karst_sl
+	id : 1
+	info : 
+	seed : 1
+	cuda : True
+	cpu : False
+	load : False
+	model_file : None
+	num_class : 36
+	vocab_size : 4528
+	model_save_dir : ./saved_models_karst_sl/01
+
+
+['GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS', 'GENUS']
+Per-relation statistics:
+AFFECTS_rev             P: 100.00%  R:   0.00%  F1:   0.00%  #: 1
+COMPOSITION_MEDIUM      P: 100.00%  R:   0.00%  F1:   0.00%  #: 7
+COMPOSITION_MEDIUM_rev  P: 100.00%  R:   0.00%  F1:   0.00%  #: 1
+CONTAINS                P: 100.00%  R:   0.00%  F1:   0.00%  #: 3
+CONTAINS_rev            P: 100.00%  R:   0.00%  F1:   0.00%  #: 2
+DEFINED_AS              P: 100.00%  R:   0.00%  F1:   0.00%  #: 6
+DEFINED_AS_rev          P: 100.00%  R:   0.00%  F1:   0.00%  #: 1
+GENUS                   P:  27.64%  R: 100.00%  F1:  43.30%  #: 76
+GENUS_rev               P: 100.00%  R:   0.00%  F1:   0.00%  #: 31
+HAS_CAUSE               P: 100.00%  R:   0.00%  F1:   0.00%  #: 19
+HAS_CAUSE_rev           P: 100.00%  R:   0.00%  F1:   0.00%  #: 4
+HAS_FORM                P: 100.00%  R:   0.00%  F1:   0.00%  #: 36
+HAS_FORM_rev            P: 100.00%  R:   0.00%  F1:   0.00%  #: 7
+HAS_FUNCTION            P: 100.00%  R:   0.00%  F1:   0.00%  #: 6
+HAS_LOCATION            P: 100.00%  R:   0.00%  F1:   0.00%  #: 27
+HAS_LOCATION_rev        P: 100.00%  R:   0.00%  F1:   0.00%  #: 4
+HAS_POSITION_rev        P: 100.00%  R:   0.00%  F1:   0.00%  #: 1
+HAS_RESULT              P: 100.00%  R:   0.00%  F1:   0.00%  #: 18
+HAS_RESULT_rev          P: 100.00%  R:   0.00%  F1:   0.00%  #: 3
+HAS_SIZE                P: 100.00%  R:   0.00%  F1:   0.00%  #: 13
+HAS_SIZE_rev            P: 100.00%  R:   0.00%  F1:   0.00%  #: 6
+OCCURS_IN_TIME          P: 100.00%  R:   0.00%  F1:   0.00%  #: 1
+OCCURS_IN_TIME_rev      P: 100.00%  R:   0.00%  F1:   0.00%  #: 2
+
+Final Score:
+Precision (macro): 27.636%
+   Recall (macro): 4.348%
+       F1 (macro): 7.514%
+test set evaluate result: 0.28	0.04	0.08
+Evaluation ended.
