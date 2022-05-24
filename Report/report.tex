@@ -42,10 +42,10 @@
 \PaperTitle{Automatic semantic relation extraction} 
 
 % Authors (student competitors) and their info
-\Authors{Aljoša Koren, Klemen Škrlj, and Tilen Kavčič}
+\Authors{Aljoša Koren, Klemen Škrlj, Tilen Kavčič and Živa Simonišek}
 
 % Advisors
-\affiliation{\textit{Advisors: Slavko Žitnik}}
+\affiliation{\textit{Advisors: Slavko Žitnik, Špela Vintar}}
 
 % Keywords
 \Keywords{Semantic relation extraction, TermFrame knowledge base}
@@ -57,7 +57,7 @@
 %----------------------------------------------------------------------------------------
 
 \Abstract{
-
+Relation extraction is a task that requires automatic detection and classification of semantic relations within a sentence. In this paper we use deep learning approaches to extract relations from TermFrame dataset, which consists of definitions of Karst specific expressions in English and Slovene. We use BERT and AGGCN models for classification of entity pairs in relation. Our best performing model is RoBERTa with F-score of 75,9\% on English corpus and 73\% on Slovene. Automatic relation extraction performs best for "Definiendum" and "Genus" classes while other relations are quite hard for our model. Lastly we include manual evaluation of automatic extraction and reasoning behind successful and unsuccessful predictions.
 }
 
 %----------------------------------------------------------------------------------------
@@ -100,12 +100,9 @@ The state-of-the-art on this relation extraction task is the QA model by Amir DN
 
 \section{Methods}
 \subsection{BERT}
-% TODO: Maybe few sentences on what is Bert, how it works, possible add an image
-\par As for the first method we implemented relation extraction with BERT \cite{BERT:DBLP:journals/corr/abs-1810-04805}. Firstly we marked the continuous words that describe this relationships with special characters. We marked their relationship with one of the chosen relationships and we also marked the position. If the definiendum occurred after the genus, we would mark it with a different class than if it occurred before it. At the end the model had a linear layer predicting 14 classes in total. The sentences were firstly tokenized using pretrained model and the classes were encoded into numbers. The sentences were input into pretrained BERT model and then the output was fed into a linear layer. We used Adam optimizer and a cross entropy loss function. We fine-tuned the pretrained model on the domain dataset and tested the performance. We tried using BERT \cite{BERT:DBLP:journals/corr/abs-1810-04805}, DistilBERT \cite{distiledBert:DBLP:journals/corr/abs-1910-01108} and RoBERTa \cite{roberta:DBLP:journals/corr/abs-1907-11692} and CroSloEngual BERT \cite{ulcar-robnik2020finest}. The main differences between models are that RoBERTa was trained on 10 times more data than BERT, while DistilBERT uses only half the number of parameters. CroSloEngual BERT was trained only on three languages (Croatian, Slovenian and English) and therefore better than a multilingual BERT model on tasks in this three languages. 
+\par As for the first method we implemented relation extraction with BERT  \cite{BERT:DBLP:journals/corr/abs-1810-04805}. BERT is a transformer-based pre-trained model, designed to pre-train bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers. Firstly we marked the continuous words that describe this relationships with special characters. We marked their relationship with one of the chosen relationships and we also marked the position. If the definiendum occurred after the genus, we would mark it with a different class than if it occurred before it. At the end the model had a linear layer predicting 14 classes in total. The sentences were firstly tokenized using pretrained model and the classes were encoded into numbers. The sentences were input into pretrained BERT model and then the output was fed into a linear layer. We used Adam optimizer and a cross entropy loss function. We fine-tuned the pretrained model on the domain dataset and tested the performance. We tried using BERT \cite{BERT:DBLP:journals/corr/abs-1810-04805}, DistilBERT \cite{distiledBert:DBLP:journals/corr/abs-1910-01108} and RoBERTa \cite{roberta:DBLP:journals/corr/abs-1907-11692} and CroSloEngual BERT \cite{ulcar-robnik2020finest}. The main differences between models are that RoBERTa was trained on 10 times more data than BERT, while DistilBERT uses only half the number of parameters. CroSloEngual BERT was trained only on three languages (Croatian, Slovenian and English) and therefore better than a multilingual BERT model on tasks in this three languages. 
 
 \par We also use BERT model for token classification in order to extract relations from un-annotated sentences. For training our model we input tokenized sentences that are POS tagged with the use of Stanza library\textsuperscript{\cite{qi2020stanza}}. Additionally we mark all tokens that we want to classify with their labels. If we look at for example definiendum we mark start token with "B-DEFINIENDUM" and all other tokens that are part of this group with "I-DEFINIENDUM". This is standard way of data representation for our pretrained model. We try different models and training schemes to obtain the best possible results on English and Slovene data. 
-
-% TODO: We could overview BERT sequence tagger here or seperately
 
 
 \subsection{Attention Guided Graph Convolutional Network}
@@ -119,6 +116,7 @@ The state-of-the-art on this relation extraction task is the QA model by Amir DN
     \label{fig:aggcn}
 \end{figure}
 
+\newpage
 \par This model is based on dependency graphs so we need to generate it for each sentence that we want to use. For this we use Stanza library \textsuperscript{\cite{qi2020stanza}}. Additionally we also tokenize each sentence, perform POS tagging and mark which tokens represent object and subject of the relation. Because the given Karst dataset is not perfect, we have to also define some edge cases when we are matching the right object and subject inside given sentence. After that a vocabulary is created. We download GloVe word embedding\textsuperscript{\cite{pennington2014glove}} and find the most possible amount of matches for our vocabulary. This produces 300 dimensional vector for each one of our matched words. Together with previously acquired dependency graphs, POS tags and locations of object/subjects this represents the input to the model. 
 
 
@@ -203,16 +201,11 @@ The state-of-the-art on this relation extraction task is the QA model by Amir DN
     \label{tab:semeval}
 \end{table}
 
+
 \subsection{Performance metrics}
 \par Our main goal for this task is classifying word pairs into proper relation. Because of that we use standard classification performance metrics to evaluate and compare our models. We calculate precision, recall and then F-score which is used as a main metric to evaluate how good the model is. Since this is a multi-classification problem and classes are imbalanced we have to calculate measures for each class separately. And because all the classes are equally important we take the unweighted average over all the scores as our final performance. 
-\par We also need to evaluate relationship extraction. Similarly to word pair classification problem, we can here also use metrics mentioned above. For each word that is tagged as some relation we check if the tag is correct. Based on this precision, recall and F-score are again calculated per tag class and averaged together. % TODO: MOGOČE BI SE NEKAKO TAKO DEFINIRALO "Soft F-Score"
-\par In many cases there are multiple consecutive words that are a part of the same relation in a sentence. Although ideally we would want all of them to be classified correctly, we could also allow some room for error, especially for conjunctions or similar types of words. Based on this we also calculate "Soft F-score" which treats a relation to be correctly classified if there is at least 80\% matching between true positive and prediction block.
+\par We also need to evaluate relationship extraction. Similarly to word pair classification problem, we can here also use metrics mentioned above. For each word that is tagged as some relation we check if the tag is correct. Based on this precision, recall and F-score are again calculated per tag class and averaged together. 
 
-% \subsection{Data Preprocessing}
-% % TODO: PUT PREPROCESSING AS NEW PARAGRAPH NEXT TO WHERE WE OVERVIEW THE MODEL IN METHODS
-% \par We are using models that are already build by the authors of the papers. But before we can use them, we have to transform our data to the shape that they envisioned. In this section we describe our preprocessing pipeline for every used method.
-% \subsubsection{BERT Models}
-% The input into model was a sentence, that had marked sequences of words, that occur in a relation. Sequence was marked at the beginning and at the end with special tokens. The model had a simple linear layer that output the most probable relation between the marked words.  
 
 %------------------------------------------------
 
@@ -264,13 +257,14 @@ The state-of-the-art on this relation extraction task is the QA model by Amir DN
     \begin{tabular}{|c|c|c|c|}
         \hline
         \textbf{Model name} & \textbf{Prec} & \textbf{Rec} & \textbf{F-score} \\ \hline \hline
-        AGGCN        &  0.319  &  0.272  &  0.294 \\ \hline
+        \textbf{AGGCN}        &  \textbf{0.319}  &  \textbf{0.272}  &  \textbf{0.294} \\ \hline
         RoBERTa     &  0.263  &  0.226  &  0.243 \\ \hline
     \end{tabular}
     \caption{Overall results when classifying all TermFrame EN classes}
     \label{tab:karst_all}
 \end{table}
 
+\newpage
 \par When we closely inspect which classes cause the most amount of problems we see the expected results. Some of them are "Affects", "Measures", "Occures in time", etc. This are also the classes that are underrepresented in our training set.
 
 \par This is why we then train and test classification models just on a subset of most frequently occurring classes as seen in Table \ref{tab:karst_classes}. In Table \ref{tab:karst_subset} we can see per class and overall performance of AGGCN classificator on an EN TermFrame corpus. We can see that the test set doesn't include reverse relations so they are omitted from the results. Genus relations are the easiest to classify which is expected since in many sentences there are "is-a" or other similar patterns that connect definiendum and genus. On the other hand, our model has a lot of trouble with false negative predictions of "Has\_function" relation which is shown in very low recall and subsequently low F-score.
@@ -293,7 +287,6 @@ The state-of-the-art on this relation extraction task is the QA model by Amir DN
     \label{tab:karst_subset}
 \end{table}
 
-%TODO: optiona: traine BERT on semeval, test on karst (Cause-Effect = Has_Cause, Entitiy_Origin / Entitiy_Destination = Has_location,... ? )
 
 \par We do the same evaluation by training and testing RoBERTa model on English part of TermFrame dataset and present results in Table \ref{tab:karst_subset_bert}. Genus and Has\_size relations are learned the best while similarly to AGGCN this model also has the most amount of trouble with Has\_function relation.
 
@@ -346,17 +339,23 @@ The state-of-the-art on this relation extraction task is the QA model by Amir DN
     \label{tab:karst_subset2_en_sl}
 \end{table}
 
-
-% TODO: BERT on slovene using all relations
-% TODO: BERT on slovene using only picked relations
-% TODO: BERT trained on english used on slovene ? (zero shot learning)
 We also tried using CroSloEngual as a zero shot learning model. We fine-tuned the model on English TermFrame dataset and then tested it on the Slovenian test set. It achieved the overall precision of 0.685, recall of 0.682 and the F1-score of 0.658. We can see that the model performed worse than when it was also fine-tuned on the Slovenian corpus. However, the results were not the worst. This means that the model learns how the relations are formed which can be transferred in both languages.
-% TODO: optional: BERT trained on english, fine tunned on slovene (few shot learning)
 
 
-% \subsection{BERT Models}
-% The pre-trained DistiledBERT \cite{distiledBert:DBLP:journals/corr/abs-1910-01108} model achieved the accuracy 84.5\%, precision 81.1\%, recall 84.5\% and the F1 score 80.3\% on our Karst English train set. On the same data we achieved quite better results with BERT; accuracy 97.3\%, precision 97.8\%, recall 97.3\% and F1 score 97.3\%. We also tried RoBERTa \cite{roberta:DBLP:journals/corr/abs-1907-11692} that resulted into accuracy 96.2\%, precision 96.7\%, recall 96.2\% and F1 score 96.1\%.
-
+\subsubsection{Visualization of semantic network}
+For the classification task we also made a visualization network. We made connections between pairs of nodes we were classifying. Nodes contain the subsentences that we are classifying, while the links contain the predicted class. If the classifier predicted the wrong class we denoted this link with the red color. In case the classifier predicted the right class we marked the connection with a black color.
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=1\columnwidth]{network_vis.png}
+    \caption{Whole semantic network.}
+    \label{fig:sem_net1}
+\end{figure}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.6\columnwidth]{network_vis2.png}
+    \caption{A part of the semantic network.}
+    \label{fig:sem_net2}
+\end{figure}
 
 
 \subsection{Relation extraction}
@@ -384,26 +383,7 @@ We also tried using CroSloEngual as a zero shot learning model. We fine-tuned th
 \end{table}
 
 
-
-\par For our second pipeline we explore merging of token classification and relation classification. Here we first train similar token classificator as before but this time we only use "DEFINIENDUM" and "SUBJECT" classes. This means that we tag all relations into the same class but still keep information where each of the relations start with "B-" and "I-" tokens. In Table \ref{tab:tagger_objsubj} we see the results. As expected definiendum is quite accurately tagged while results of subject tagging are not as good since is difficult for model to encapsulate all picked relations into one class.
-
-\begin{table}[!ht]
-    \centering
-    \begin{tabular}{|c|c|c|c|}
-        \hline
-        \textbf{Token tag} & \textbf{Prec} & \textbf{Rec} & \textbf{F-score} \\ \hline \hline
-        Definiendum               &  0.81  &  0.86  &  0.83 \\ \hline
-        Subject               &  0.27  &  0.28  &  0.28 \\ \hline
-        \textbf{Overall performance} & 0.54 & 0.57 & 0.55 \\ \hline
-    \end{tabular}
-    \caption{Token classification into Object/Subject on EN TermFrame}
-    \label{tab:tagger_objsubj}
-\end{table}
-
-\par We then use this model to make predictions on the test set and use them as an input to BERT relation classificator. We do this by extracting every object-subject pair and try to predict its relation. Relation classificator has now additional class "Other" for pairs that are some other relations or not a relation at all.
-% TODO: PROBLEM: HOW TO EVALUATE THIS ?? 
-
-\par Similarly as with English, we also train and evaluate BERT Token Classificator on Slovene TermFrame corpus. We see results in Table \ref{tab:tagger_all_slo}.
+\par Similarly as with English, we also train and evaluate BERT Token Classificator on Slovene TermFrame corpus. We see results for all tokens in Table \ref{tab:tagger_all_slo}. In test dataset for Slovene corpus we also have some reverse relations and those were very problematic for our model since it can't identify even one true positive token.
 
 \begin{table}[!ht]
     \centering
@@ -423,7 +403,7 @@ We also tried using CroSloEngual as a zero shot learning model. We fine-tuned th
         Has\_function\_rev        & 0  &   0  &  0 \\ \hline
         Has\_location        &  0.31  &  0.34  &  0.32 \\ \hline
         Has\_location\_rev        &  0  &  0  &  0 \\ \hline
-        Has\_size            & 0.14 &  0.08  &  0.11 \\ \hline \hline
+        Has\_size            & 0.14 &  0.08  &  0.11 \\ \hline
         Has\_size\_rev            & 0 &  0  &  0 \\ \hline \hline
         \textbf{Overall performance} & 0.17 & 0.16 & 0.16 \\ \hline
     \end{tabular}
@@ -432,59 +412,68 @@ We also tried using CroSloEngual as a zero shot learning model. We fine-tuned th
 \end{table}
 
 
-
-% TODO: Compare different techniques
-% TODO: Tagger for english and slovene for picked relations
-% TODO: Tagger into subject/object and then using BERT from before for classification
-
-% \begin{table*}[h]
-%     \centering
-%     \begin{tabular}{|c|c|c|c|}
-%         \hline
-%         \textbf{Measure} & \textbf{All tags} & \textbf{Most popular tags with their reverse} & \textbf{Only subject and object} \\ \hline \hline
-%         Average train loss & 0.271 & 0.23656253942421504 & 0.13977274378495558 \\ \hline
-%         Validation loss & 0.275 & 0.23550498858094215 & 0.1465925918892026 \\ \hline
-%         Validation Accuracy & 0.938 & 0.937298583984375 & 0.942755126953125 \\ \hline
-%         Validation F1-Score & 0.573 & 0.5263157894736843 & 0.5497692814765985 \\ \hline
-%         Accuracy score & 0.771 & 0.7800456389452333 & 0.786130831643002 \\ \hline
-%     \end{tabular}
-%     \caption{Comparison of BERT sequence tagging results on English Karst dataset detecting different types of tags}
-%     \label{tab:aggcn_karst}
-% \end{table*}
-
-
-
-% \begin{table*}[h]
-%     \centering
-%     \begin{tabular}{|c|c|c|c|}
-%         \hline
-%         \textbf{Measure} & \textbf{All tags} & \textbf{Most popular tags with their reverse} & \textbf{Only subject and object} \\ \hline \hline
-%         Average train loss & 0.271 & 0.23656253942421504 & 0.13977274378495558 \\ \hline
-%         Validation loss & 0.275 & 0.23550498858094215 & 0.1465925918892026 \\ \hline
-%         Validation Accuracy & 0.938 & 0.937298583984375 & 0.942755126953125 \\ \hline
-%         Validation F1-Score & 0.573 & 0.5263157894736843 & 0.5497692814765985 \\ \hline
-%         Accuracy score & 0.771 & 0.7800456389452333 & 0.786130831643002 \\ \hline
-%     \end{tabular}
-%     \caption{Comparison of BERT sequence tagging results on Slovenian Karst dataset detecting different types of tags}
-%     \label{tab:aggcn_karst}
-% \end{table*}
-
-% TODO: Pick a Definiendum (e.g. Karst) and vizualize semantic network from our predictions (nodes are words in a relation, edges are relation)
-
-% TODO: Lingust overview of the results
-
 %------------------------------------------------
+
+\subsubsection{Relation extraction manual evaluation}
+Manual evaluation of the results was performed by a linguist. For the manual evaluation, the linguist selected 30 test sentences for Slovene and 30 test sentences for English. The linguist evaluated only the team’s predictions and did not mark recall. It was also taken into account that the model’s prediction is correct in some cases when the linguist team annotated the definition differently.
+
+Each prediction was evaluated from two perspectives: if the predicted tag is correct ("Correct") and if the model correctly identified the whole phrase ("Correct phrase"). If any of the two columns was correct, the linguist marked it with a 1 (incorrect tag was marked with 0). For phrases, only the beginning of the phrase was marked with a 1, meaning that the whole phrase is correct.
+
+The predictions for definienda and genera are more accurate than the predictions for semantic relations. In English, 25 out of 29 predicted definienda and 28 out of 43 predicted genera were marked as correct phrases as seen in detail in Table \ref{tab:linguist_en}. 
+
+\begin{table}[!h]
+    \centering
+    \begin{tabular}{|c|c|c|} \hline
+        \textbf{Relation} & \textbf{\# Predicted} & \textbf{\# Correct}\\ \hline
+        Has\_Location &26 &12  \\ \hline
+        Has\_Size & 8& 8 \\ \hline
+        Has\_Function & 4& 0 \\ \hline
+        Has\_Form & 30& 13 \\ \hline
+        Has\_Cause & 26& 5 \\ \hline
+        Composition\_medium & 12& 0 \\ \hline
+    \end{tabular}
+    \caption{Results on EN corpus after manual check}
+    \label{tab:linguist_en}
+\end{table}
+
+In Slovene, 23 out of 32 predicted definienda and 16 out of 25 predicted genera were marked as correct phrases. In some cases, the definiendum/genus was not recognized or the sentence had no definiendum/genus. Full results are seen in Table \ref{tab:linguist_sl}.
+
+\begin{table}[!h]
+    \centering
+    \begin{tabular}{|c|c|c|} \hline
+        \textbf{Relation} & \textbf{\# Predicted} & \textbf{\# Correct}\\ \hline
+        Has\_Location &19 &11  \\ \hline
+        Has\_Size & 3& 2 \\ \hline
+        Has\_Function & 11& 0 \\ \hline
+        Has\_Form & 19& 8 \\ \hline
+        Has\_Cause & 14& 9 \\ \hline
+        Composition\_medium & 7& 0 \\ \hline
+    \end{tabular}
+    \caption{Results on SL corpus after manual check}
+    \label{tab:linguist_sl}
+\end{table}
+
+The model was most successful in predicting semantic relation HAS\_SIZE in both languages, followed by \\ HAS\_LOCATION in English and HAS\_CAUSE in Slovene.
+
+Only six semantic relations were selected for the model and this resulted in some better predictions. On the other hand, this is also the reason why some relations were predicted incorrectly: \emph{V geologiji je zemeljski plaz definiran kot območje preperine, usedline ali kamnine, ki se je hitro ali počasi premaknila s prvotnega kraja in ima vidno spremenjeno površje.}
+This part \emph{"ima vidno spremenjeno površje"} was previously annotated by the linguist team as HAS\_RESULT. The model predicted this part of the sentence as a mixture of two relations, HAS\_FUNCTION and HAS\_FORM.
+
+There were some sentences where only the preposition was marked as HAS\_LOCATION: \emph{Takšnim meandrom pravimo tudi ujeti meandri in jih najdemo tudi v nekaterih drugih slovenskih pokrajinah.}
+In this sentence, the model has marked the preposition \emph{"v"} as HAS\_LOCATION, which cannot be considered as a correct phrase or a correct tag, as the \emph{"v"} itself has no meaning and does not express a location.
+
+In the next example, the model predicted the semantic relation HAS\_CAUSE (\emph{"dviganju antiklinale vrezal prečno na antiklinalo"}) and did not include the preposition \emph{"ob"}, but the linguist evaluated this as a correct phrase because the omitted preposition does not change the meaning and we can still conclude this is the relation HAS\_CAUSE: \emph{Uporablja se pojem prebojna dolina, kar pa je samo slovenski izraz za antecedentno dolino, to je tisti del rečne doline, ki se je ob dviganju antiklinale vrezal prečno na antiklinalo.}
 
 
 \section{Discussion}
-\par TODO: Comment on the results, draw conclusions ...
-
+\par In relation classification task BERT models and also AGGCN perform with F-score between 0.80 and 0.85 on SemEval dataset, while RoBERTa model outperforms AGGCN for 18\% on the English TermFrame dataset. Both performed worst for the classes which were badly represented in the dataset. This is expected as they do not affect a lost function as much as better represented classes. We can also see that models with more parameters perform better on the same dataset. Models that are specifically trained on one language outperform multilingual models in the trained language.   
+\par Automatic relation extraction works best for definiendum class where we get F-score of 93\% on English and 79\% on Slovene dataset. After that genus relations are also well extracted while other classes are hard for our models. One of the reasons for such results is definitely number of training examples. Almost all definitions have definiendum-genus relation while other relations are mostly just a byproduct. We also observed that other relations are often composed out of many tokens and since our model is evaluated per token this gives more room for error. This is then confirmed by manual evaluation where some annotations had to be evaluated as wrong since they only contained prepositions and not whole relation.
+\par Overall we see that deep learning models can be used as a helping tool to linguists for relation extraction. Currently the best pipeline would be semi-automatic annotation where a model can be used at first and then a human would use predictions as a guide for manual annotation. But with more training examples and better architectures model's reliability can definitely be improved.
 
 
 %------------------------------------------------
 
 \section{Acknowledgments}
-
+We thank assist. prof. dr. Slavko Žitnik from University of Ljubljana, Faculty of Computer and Information Science for providing guidance through our project, we thank prof. dr. Špela Vintar from University of Ljubljana, Faculty of Arts for explaining the Karst corpus and relationship extraction task and we thank our colleague Živa Simonišek from University of Ljubljana Faculty of Arts for providing manual evaluation.
 
 
 %----------------------------------------------------------------------------------------
