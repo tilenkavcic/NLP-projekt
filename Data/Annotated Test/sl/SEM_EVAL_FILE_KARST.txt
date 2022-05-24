@@ -1,0 +1,916 @@
+1	"Vsako obdobje <e1>otoplitve</e1> in s tem zmanjšanje obsega ledenikov imenujemo <e2>medledena doba</e2> ali interglacial."
+Genus(e2,e1)
+Comment:
+
+2	"Vsako obdobje <e1>otoplitve</e1> in s tem zmanjšanje obsega ledenikov imenujemo medledena doba ali <e2>interglacial</e2>."
+Genus(e2,e1)
+Comment:
+
+3	"<e1>Holocen</e1> predstavlja <e2>medledeno dobo</e2>, ki se je začela pred približno 11.000 leti s hitrim zviševanjem morske gladine."
+Genus(e1,e2)
+Comment:
+
+4	"Vse <e1>pojave</e1> premeščanja gradiva, ki nastanejo zaradi vpliva gravitacije in so pomemben dejavnik denudacije površja, imenujemo <e2>pobočni procesi</e2>."
+Genus(e2,e1)
+Comment:
+
+5	"Vse pojave premeščanja gradiva, ki nastanejo zaradi vpliva <e1>gravitacije</e1> in so pomemben dejavnik denudacije površja, imenujemo <e2>pobočni procesi</e2>."
+Has_cause(e2,e1)
+Comment:
+
+6	"Pri izrazu <e1>pobočni procesi</e1> ime pove, da gre za <e2>procese</e2>, ki se dogajajo na pobočjih."
+Genus(e1,e2)
+Comment:
+
+7	"Pri izrazu <e1>pobočni procesi</e1> ime pove, da gre za procese, ki se dogajajo <e2>na pobočjih</e2>."
+Has_location(e1,e2)
+Comment:
+
+8	"<e1>Proces</e1>, v katerem se trdna kompaktna kamnina pod vplivom eksogenih dejavnikov razkraja v manjše in med seboj nepovezane delce, imenujemo <e2>preperevanje</e2>."
+Genus(e2,e1)
+Comment:
+
+9	"Proces, v katerem se trdna kompaktna kamnina pod vplivom <e1>eksogenih dejavnikov</e1> razkraja v manjše in med seboj nepovezane delce, imenujemo <e2>preperevanje</e2>."
+Has_cause(e2,e1)
+Comment:
+
+10	"Pojav prištevamo k <e1>skalnim podorom</e1> in ga v geografiji imenujemo <e2>kamniti zdrs</e2>."
+Genus(e2,e1)
+Comment:
+
+11	"Spodnji del <e1>plazu</e1> imenujemo <e2>čelo</e2>."
+Genus(e2,e1)
+Comment:
+
+12	"<e1>Dejavnike</e1>, ki v sistemu dokončno podrejo ravnovesje imenujemo " <e2>povod</e2> " za nastanek zemeljskih plazov."
+Genus(e2,e1)
+Comment:
+
+13	"Takšnim <e1>meandrom</e1> pravimo tudi <e2>ujeti meandri</e2> in jih najdemo tudi v nekaterih drugih slovenskih pokrajinah."
+Genus(e2,e1)
+Comment:
+
+14	"Takšnim meandrom pravimo tudi <e2><e1>ujeti</e1> meandri</e2> in jih najdemo tudi v nekaterih drugih slovenskih pokrajinah."
+Has_form(e2,e1)
+Comment:
+
+15	"V leksikonu je <e1>spodmol</e1> definiran kot " kratka <e2>votlina</e2> z visoko previsno steno na vhodu " in kot " zaradi delovanja valov izpodjeden previs na morski, jezerski obali ""
+Genus(e1,e2)
+Comment:
+
+16	"V leksikonu je <e1>spodmol</e1> definiran kot " kratka votlina z visoko previsno steno <e2>na vhodu</e2> " in kot " zaradi delovanja valov izpodjeden previs na morski, jezerski obali ""
+Has_location(e1,e2)
+Comment:
+
+17	"V leksikonu je <e1>spodmol</e1> definiran kot " kratka votlina z visoko previsno steno na vhodu " in kot " zaradi delovanja valov <e2>izpodjeden previs</e2> na morski, jezerski obali ""
+Has_form(e1,e2)
+Comment:
+
+18	"V leksikonu je <e1>spodmol</e1> definiran kot " kratka votlina z <e2>visoko</e2> previsno steno na vhodu " in kot " zaradi delovanja valov izpodjeden previs na morski, jezerski obali ""
+Has_form(e1,e2)
+Comment:
+
+19	"V leksikonu je <e1>spodmol</e1> definiran kot " <e2>kratka</e2> votlina z visoko previsno steno na vhodu " in kot " zaradi delovanja valov izpodjeden previs na morski, jezerski obali ""
+Has_form(e1,e2)
+Comment:
+
+20	"V leksikonu je <e1>spodmol</e1> definiran kot " kratka votlina z visoko previsno steno na vhodu " in kot " <e2>zaradi delovanja valov</e2> izpodjeden previs na morski, jezerski obali ""
+Has_cause(e1,e2)
+Comment:
+
+21	"V geologiji je <e1>zemeljski plaz</e1> definiran kot <e2>območje</e2> preperine, usedline ali kamnine, ki se je hitro ali počasi premaknila s prvotnega kraja in ima vidno spremenjeno površje."
+Genus(e1,e2)
+Comment:
+
+22	"V najstarejši literaturi izraz <e1>spodmol</e1> pomeni majhno <e2>izravnavo</e2> na povešenih gorskih hrbtih in slemenih."
+Genus(e1,e2)
+Comment:
+
+23	"V najstarejši literaturi izraz <e1>spodmol</e1> pomeni majhno izravnavo <e2>na povešenih gorskih hrbtih in slemenih</e2>."
+Has_location(e1,e2)
+Comment:
+
+24	"V najstarejši literaturi izraz <e1>spodmol</e1> pomeni <e2>majhno</e2> izravnavo na povešenih gorskih hrbtih in slemenih."
+Has_form(e1,e2)
+Comment:
+
+25	"<e1>Spodmole</e1> opišejo kot vodoravne <e2>vdolbine</e2> / zajede v obliki črke C v navpičnem prerezu, izdolbene na pobočjih in v skalnih stenah. skalnih"
+Genus(e1,e2)
+Comment:
+
+26	"<e1>Spodmole</e1> opišejo kot vodoravne vdolbine / <e2>zajede</e2> v obliki črke C v navpičnem prerezu, izdolbene na pobočjih in v skalnih stenah. skalnih"
+Genus(e1,e2)
+Comment:
+
+27	"<e1>Spodmole</e1> opišejo kot vodoravne vdolbine / zajede v obliki črke C v navpičnem prerezu, izdolbene <e2>na pobočjih in v skalnih stenah</e2>. skalnih"
+Has_location(e1,e2)
+Comment:
+
+28	"<e1>Spodmole</e1> opišejo kot vodoravne vdolbine / zajede <e2>v obliki črke C</e2> v navpičnem prerezu, izdolbene na pobočjih in v skalnih stenah. skalnih"
+Has_form(e1,e2)
+Comment:
+
+29	"<e1>Spodmole</e1> opišejo kot <e2>vodoravne</e2> vdolbine / zajede v obliki črke C v navpičnem prerezu, izdolbene na pobočjih in v skalnih stenah. skalnih"
+Has_form(e1,e2)
+Comment:
+
+30	"<e1>Spodmole</e1> opišejo kot vodoravne vdolbine / zajede v obliki črke C v navpičnem prerezu, <e2>izdolbene</e2> na pobočjih in v skalnih stenah. skalnih"
+Has_form(e1,e2)
+Comment:
+
+31	"<e1>Spodmole</e1> opišejo kot vodoravne vdolbine / zajede v obliki črke C v navpičnem prerezu, izdolbene na pobočjih in v <e2>skalnih</e2> stenah. <e2>skalnih</e2>"
+Composition_medium(e1,e2)
+Comment:
+
+32	"Uporablja se pojem <e1>prebojna dolina</e1>, kar pa je samo slovenski izraz za antecedentno dolino, to je tisti del <e2>rečne doline</e2>, ki se je ob dviganju antiklinale vrezal prečno na antiklinalo."
+Genus(e1,e2)
+Comment:
+
+33	"Uporablja se pojem <e1>prebojna dolina</e1>, kar pa je samo slovenski izraz za antecedentno dolino, to je tisti del rečne doline, ki se je <e2>ob dviganju antiklinale vrezal prečno na antiklinalo</e2>."
+Has_cause(e1,e2)
+Comment:
+
+34	"Uporablja se pojem prebojna dolina, kar pa je samo slovenski izraz za <e1>antecedentno dolino</e1>, to je tisti del <e2>rečne doline</e2>, ki se je ob dviganju antiklinale vrezal prečno na antiklinalo."
+Genus(e1,e2)
+Comment:
+
+35	"Uporablja se pojem prebojna dolina, kar pa je samo slovenski izraz za <e1>antecedentno dolino</e1>, to je tisti del rečne doline, ki se je <e2>ob dviganju antiklinale vrezal prečno na antiklinalo</e2>."
+Has_cause(e1,e2)
+Comment:
+
+36	"Izraz <e1>denudacija</e1> označuje razgaljanje površja oziroma ploskovno <e2>odstranjevanje preperelih snovi</e2> s površja zemlje z eksogenimi procesi. površja preperelih snovi ploskovno"
+Genus(e1,e2)
+Comment:
+
+37	"Izraz <e1>denudacija</e1> označuje <e2>razgaljanje površja</e2> oziroma ploskovno odstranjevanje preperelih snovi s površja zemlje z eksogenimi procesi. površja preperelih snovi ploskovno"
+Genus(e1,e2)
+Comment:
+
+38	"Izraz <e1>denudacija</e1> označuje razgaljanje površja oziroma <e2>ploskovno</e2> odstranjevanje preperelih snovi s površja zemlje z eksogenimi procesi. površja preperelih snovi <e2>ploskovno</e2>"
+Has_form(e1,e2)
+Comment:
+
+39	"Z izrazom <e1>zemeljski plaz</e1> razumejo tako <e2>proces</e2>, to je " … premikanje kamnin ali zemlje po pobočju navzdol pod vplivom gravitacije... "."
+Genus(e1,e2)
+Comment:
+
+40	"Z izrazom <e1>zemeljski plaz</e1> razumejo tako proces, to je " … premikanje kamnin ali zemlje po pobočju navzdol pod vplivom <e2>gravitacije</e2>... "."
+Has_cause(e1,e2)
+Comment:
+
+41	"Tovrstno <e1>izoblikovanost krasa</e1>, kjer se osamljeno dvigajo več deset ali sto metrov visoke vzpetine, imenujemo <e2>kopasti kras</e2>."
+Genus(e2,e1)
+Comment:
+
+42	"Tovrstno izoblikovanost krasa, kjer se osamljeno dvigajo <e1>več deset ali sto metrov</e1> visoke vzpetine, imenujemo <e2>kopasti kras</e2>."
+Has_size(e2,e1)
+Comment:
+
+43	"<e1>Tip kraškega površja</e1>, kjer je prevladujoča oblika vrtače, imenujemo <e2>vrtačasti kras</e2>."
+Genus(e2,e1)
+Comment:
+
+44	"Te razmeroma <e1>zaprte kotanje</e1> z obsežnim, z vrtačami razčlenjenim dnom, imenujemo <e2>uvale</e2>."
+Genus(e2,e1)
+Comment:
+
+45	"Te razmeroma zaprte kotanje z obsežnim, <e1>z vrtačami razčlenjenim dnom</e1>, imenujemo <e2>uvale</e2>."
+Has_form(e2,e1)
+Comment:
+
+46	"Te razmeroma <e1>zaprte</e1> kotanje z obsežnim, z vrtačami razčlenjenim dnom, imenujemo <e2>uvale</e2>."
+Has_form(e2,e1)
+Comment:
+
+47	"Ta <e1>proces</e1> oblikovanja rovov na kontaktnem krasu imenujemo <e2>parageneza</e2>. rovov"
+Genus(e2,e1)
+Comment:
+
+48	"Ta proces oblikovanja rovov <e1>na kontaktnem krasu</e1> imenujemo <e2>parageneza</e2>. rovov"
+Has_location(e2,e1)
+Comment:
+
+49	"Take <e1>jame</e1> imenujemo <e2>paragenetske <e1>jame</e1></e2>, zaradi njihove lege v občasno zaliti coni pa jih lahko imenujemo tudi epifreatične <e1>jame</e1>."
+Genus(e2,e1)
+Comment:
+
+50	"Take jame imenujemo <e1>paragenetske jame</e1>, zaradi njihove lege <e2>v občasno zaliti coni</e2> pa jih lahko imenujemo tudi epifreatične jame."
+Has_location(e1,e2)
+Comment:
+
+51	"Take <e1>jame</e1> imenujemo paragenetske <e1>jame</e1>, zaradi njihove lege v občasno zaliti coni pa jih lahko imenujemo tudi <e2>epifreatične <e1>jame</e1></e2>."
+Genus(e2,e1)
+Comment:
+
+52	"Take jame imenujemo paragenetske jame, zaradi njihove lege <e1>v občasno zaliti coni</e1> pa jih lahko imenujemo tudi <e2>epifreatične jame</e2>."
+Has_location(e2,e1)
+Comment:
+
+53	"Nad kraškim izvirom se pojavlja strm <e1>konec doline</e1>, ki ga imenujemo <e2>zatrep</e2>."
+Genus(e2,e1)
+Comment:
+
+54	"<e1>Nad kraškim izvirom</e1> se pojavlja strm konec doline, ki ga imenujemo <e2>zatrep</e2>."
+Has_location(e2,e1)
+Comment:
+
+55	"Nad kraškim izvirom se pojavlja <e1>strm</e1> konec doline, ki ga imenujemo <e2>zatrep</e2>."
+Has_form(e2,e1)
+Comment:
+
+56	"Oznaka <e1>okno</e1> se v geografiji uporablja za <e2>večjo odprtino</e2>, skozi katero se vidi ozadje."
+Genus(e1,e2)
+Comment:
+
+57	"Oznaka <e1>okno</e1> se v geografiji uporablja za večjo odprtino, skozi katero <e2>se vidi ozadje</e2>."
+Has_function(e1,e2)
+Comment:
+
+58	"<e1>Sloj</e1> med najvišjim in najnižjim nivojem podzemne vode v krasu imenujemo <e2>epifreatična cona</e2>."
+Genus(e2,e1)
+Comment:
+
+59	"Sloj <e1>med najvišjim in najnižjim nivojem podzemne vode</e1> v krasu imenujemo <e2>epifreatična cona</e2>."
+Has_location(e2,e1)
+Comment:
+
+60	"<e1>Gladino vodnega telesa</e1> v freatični coni imenujemo <e2>nivo podzemne vode</e2> v krasu."
+Genus(e2,e1)
+Comment:
+
+61	"<e1>Višina točke</e1>, ki jo imenujemo <e2>raven združevanja</e2>, je sorazmerna meri različnosti med skupinama."
+Genus(e2,e1)
+Comment:
+
+62	"<e1>Enote površja</e1>, v katerih potekajo enaki ali podobni procesi, homogeni po vrsti in intenzivnosti, imenujemo <e2>morfogenetske enote</e2>."
+Genus(e2,e1)
+Comment:
+
+63	"Enote površja, v katerih potekajo enaki ali podobni procesi, <e1>homogeni</e1> po vrsti in intenzivnosti, imenujemo <e2>morfogenetske enote</e2>."
+Has_form(e2,e1)
+Comment:
+
+64	"Zelo <e1>strmo pobočje</e1> z naklonom nad 55 ° ali 65 ° imenujemo stena ali <e2>klif</e2>."
+Genus(e2,e1)
+Comment:
+
+65	"Zelo strmo pobočje z naklonom nad <e1>55 ° ali 65 °</e1> imenujemo stena ali <e2>klif</e2>."
+Has_size(e2,e1)
+Comment:
+
+66	"Zelo <e1>strmo</e1> pobočje z naklonom nad 55 ° ali 65 ° imenujemo stena ali <e2>klif</e2>."
+Has_form(e2,e1)
+Comment:
+
+67	"Zelo <e1>strmo pobočje</e1> z naklonom nad 55 ° ali 65 ° imenujemo <e2>stena</e2> ali klif."
+Genus(e2,e1)
+Comment:
+
+68	"Zelo strmo pobočje z naklonom nad <e1>55 ° ali 65 °</e1> imenujemo <e2>stena</e2> ali klif."
+Has_size(e2,e1)
+Comment:
+
+69	"Zelo <e1>strmo</e1> pobočje z naklonom nad 55 ° ali 65 ° imenujemo <e2>stena</e2> ali klif."
+Has_form(e2,e1)
+Comment:
+
+70	"<e1>Spremembo</e1> Shannonove entropije imenujemo <e2>Kolmogorovova entropija</e2> in je enaka vsoti pozitivnih Lyapunovovih eksponentov."
+Genus(e2,e1)
+Comment:
+
+71	"Samo-podobne <e1>geometrične objekte</e1> imenujemo tudi <e2>fraktali</e2>."
+Genus(e2,e1)
+Comment:
+
+72	"<e1>Fraktalna dimenzija</e1> je tudi <e2>mera</e2> razgibanosti površja."
+Genus(e1,e2)
+Comment:
+
+73	"S preperevanjem apnenca in dolomita nastane iz netopnih ostankov <e1>ilovica</e1>, ki jo skupaj s huminskimi snovmi imenujemo <e2>jerovica</e2>. netopnih"
+Genus(e2,e1)
+Comment:
+
+74	"S preperevanjem apnenca in dolomita nastane iz <e1>netopnih</e1> ostankov ilovica, ki jo skupaj s huminskimi snovmi imenujemo <e2>jerovica</e2>. <e1>netopnih</e1>"
+Has_form(e2,e1)
+Comment:
+
+75	"<e1>S preperevanjem apnenca in dolomita</e1> nastane iz netopnih ostankov ilovica, ki jo skupaj s huminskimi snovmi imenujemo <e2>jerovica</e2>. netopnih"
+Has_cause(e2,e1)
+Comment:
+
+76	"S preperevanjem apnenca in dolomita nastane <e1>iz netopnih ostankov</e1> ilovica, ki jo skupaj s huminskimi snovmi imenujemo <e2>jerovica</e2>. netopnih"
+Composition_medium(e2,e1)
+Comment:
+
+77	"<e1>Jerovica</e1> je povečini <e2>zmes</e2> kremenice, aluminijevih in železovih oksidov."
+Genus(e1,e2)
+Comment:
+
+78	"Kronometrične in inkrementalne <e1>metode datiranja</e1> imenujemo tudi absolutne metode ali <e2>radiometrične metode</e2>."
+Genus(e2,e1)
+Comment:
+
+79	"<e1>Sediment</e1> nastane s trenjem in ga imenujemo <e2>tektonska glina</e2> zaradi velikosti delcev."
+Genus(e2,e1)
+Comment:
+
+80	"Sediment nastane s <e1>trenjem</e1> in ga imenujemo <e2>tektonska glina</e2> zaradi velikosti delcev."
+Has_cause(e2,e1)
+Comment:
+
+81	"Vsako povečanje obsega <e1>poledenitve</e1> imenujemo <e2>ledena doba</e2> ali glacial."
+Genus(e2,e1)
+Comment:
+
+82	"Vsako povečanje obsega <e1>poledenitve</e1> imenujemo ledena doba ali <e2>glacial</e2>."
+Genus(e2,e1)
+Comment:
+
+83	"Ljudsko ime <e1>lašt</e1> izhaja iz območja Julijskih Alp in ponazarja specifično obliko <e2>škrapelj</e2>. Gre za večje skladovne police ali kamnite ploskve z velikimi ravnimi strukturnimi površinami in enakim strmcem."
+Genus(e1,e2)
+Comment:
+
+84	"Ljudsko ime <e1>lašt</e1> izhaja iz območja Julijskih Alp in ponazarja specifično obliko škrapelj. Gre za <e2>večje skladovne police ali kamnite ploskve z velikimi ravnimi strukturnimi površinami in enakim strmcem</e2>."
+Has_form(e1,e2)
+Comment:
+
+85	"Ljudsko ime <e1>lašt</e1> izhaja iz območja Julijskih Alp in ponazarja <e2>specifično obliko škrapelj</e2>. Gre za večje skladovne police ali kamnite ploskve z velikimi ravnimi strukturnimi površinami in enakim strmcem."
+Has_form(e1,e2)
+Comment:
+
+86	"<e1>Uvala</e1> je večja <e2>kraška globel</e2> skledaste oblike z neravnim dnom in sklenjenim višjim obodom. Praviloma je manjša od kraškega polja in večja od vrtače."
+Genus(e1,e2)
+Comment:
+
+87	"<e1>Uvala</e1> je večja kraška globel skledaste oblike z neravnim dnom in sklenjenim višjim obodom. Praviloma je <e2>manjša od kraškega polja</e2> in večja od vrtače."
+Has_size(e1,e2)
+Comment:
+
+88	"<e1>Uvala</e1> je večja kraška globel skledaste oblike z neravnim dnom in sklenjenim višjim obodom. Praviloma je manjša od kraškega polja in <e2>večja od vrtače</e2>."
+Has_size(e1,e2)
+Comment:
+
+89	"<e1>Uvala</e1> je <e2>večja</e2> kraška globel skledaste oblike z neravnim dnom in sklenjenim višjim obodom. Praviloma je manjša od kraškega polja in <e2>večja</e2> od vrtače."
+Has_size(e1,e2)
+Comment:
+
+90	"<e1>Uvala</e1> je večja kraška globel <e2>skledaste oblike z neravnim dnom in sklenjenim višjim obodom</e2>. Praviloma je manjša od kraškega polja in večja od vrtače."
+Has_form(e1,e2)
+Comment:
+
+91	"Slovenska kraška terminologija navaja, da je <e1>vrtača</e1>: <e2>depresijska oblika</e2> okroglaste oblike, navadno globoka več metrov in je bolj široka kot globoka."
+Genus(e1,e2)
+Comment:
+
+92	"Slovenska kraška terminologija navaja, da je <e1>vrtača</e1>: depresijska oblika okroglaste oblike, navadno <e2>globoka več metrov</e2> in je bolj široka kot globoka."
+Has_size(e1,e2)
+Comment:
+
+93	"Slovenska kraška terminologija navaja, da je <e1>vrtača</e1>: depresijska oblika okroglaste oblike, navadno globoka več metrov in je <e2>bolj široka kot globoka</e2>."
+Has_form(e1,e2)
+Comment:
+
+94	"Slovenska kraška terminologija navaja, da je <e1>vrtača</e1>: depresijska oblika <e2>okroglaste oblike</e2>, navadno globoka več metrov in je bolj široka kot globoka."
+Has_form(e1,e2)
+Comment:
+
+95	"<e1>Požiralnik</e1> je definiran kot <e2>špranja</e2> ali brezno v skalnem koritu, ki požira vodo, ponikev kot odprtina, v katero ponika voda in je večinoma prekrita z naplavino, ponor pa kot večja vodoravna odprtina v katero teče potok ali reka"
+Genus(e1,e2)
+Comment:
+
+96	"<e1>Požiralnik</e1> je definiran kot špranja ali <e2>brezno</e2> v skalnem koritu, ki požira vodo, ponikev kot odprtina, v katero ponika voda in je večinoma prekrita z naplavino, ponor pa kot večja vodoravna odprtina v katero teče potok ali reka"
+Genus(e1,e2)
+Comment:
+
+97	"<e1>Požiralnik</e1> je definiran kot špranja ali brezno <e2>v skalnem koritu</e2>, ki požira vodo, ponikev kot odprtina, v katero ponika voda in je večinoma prekrita z naplavino, ponor pa kot večja vodoravna odprtina v katero teče potok ali reka"
+Has_location(e1,e2)
+Comment:
+
+98	"<e1>Požiralnik</e1> je definiran kot špranja ali brezno v skalnem koritu, ki <e2>požira vodo</e2>, ponikev kot odprtina, v katero ponika voda in je večinoma prekrita z naplavino, ponor pa kot večja vodoravna odprtina v katero teče potok ali reka"
+Has_function(e1,e2)
+Comment:
+
+99	"Slovenska kraška terminologija opredeli <e1>hum</e1> kot osamljen korozijsko-erozijsko-denudacijski <e2>ostanek višjega reliefa</e2>, zlasti na dnu kraškega polja."
+Genus(e1,e2)
+Comment:
+
+100	"Slovenska kraška terminologija opredeli <e1>hum</e1> kot osamljen korozijsko-erozijsko-denudacijski ostanek višjega reliefa, zlasti <e2>na dnu kraškega polja</e2>."
+Has_location(e1,e2)
+Comment:
+
+101	"Slovenska kraška terminologija opredeli <e1>hum</e1> kot osamljen <e2>korozijsko-erozijsko-denudacijski</e2> ostanek višjega reliefa, zlasti na dnu kraškega polja."
+Has_cause(e1,e2)
+Comment:
+
+102	"Ford in Williams opišeta <e1>hume</e1> kot eno izmed štirih <e2>tipov stolpičastega krasa</e2>, in sicer kot ostanke vzpetin, ki štrlijo iz izravnanega karbonatnega površja, ki ga prekriva aluvij. karbonatnega"
+Genus(e1,e2)
+Comment:
+
+103	"Ford in Williams opišeta <e1>hume</e1> kot eno izmed štirih tipov stolpičastega krasa, in sicer kot ostanke vzpetin, ki štrlijo iz izravnanega <e2>karbonatnega</e2> površja, ki ga prekriva aluvij. <e2>karbonatnega</e2>"
+Composition_medium(e1,e2)
+Comment:
+
+104	"<e1>Kraška polja</e1> so največje in gospodarsko najpomembnejše <e2>kotanje</e2> v dinarskem krasu."
+Genus(e1,e2)
+Comment:
+
+105	"<e1>Kraška polja</e1> so največje in gospodarsko najpomembnejše kotanje <e2>v dinarskem krasu</e2>."
+Has_location(e1,e2)
+Comment:
+
+106	"<e1>Škavnice</e1> so skledaste <e2>vdolbine</e2> na vodoravni ali rahlo nagnjeni skalni podlagi."
+Genus(e1,e2)
+Comment:
+
+107	"<e1>Škavnice</e1> so skledaste vdolbine <e2>na vodoravni ali rahlo nagnjeni skalni podlagi</e2>."
+Has_location(e1,e2)
+Comment:
+
+108	"<e1>Škavnice</e1> so <e2>skledaste</e2> vdolbine na vodoravni ali rahlo nagnjeni skalni podlagi."
+Has_form(e1,e2)
+Comment:
+
+109	"<e1>Žlebiči</e1> in žlebovi so <e2>žlebaste izjedenine</e2> s polkrožnim prečnim prerezom, ki se oblikujejo na ravnem kompaktnem skalnem površju in potekajo v smeri največjega naklona"
+Genus(e1,e2)
+Comment:
+
+110	"<e1>Žlebiči</e1> in žlebovi so žlebaste izjedenine s polkrožnim prečnim prerezom, ki se oblikujejo <e2>na ravnem kompaktnem skalnem površju</e2> in potekajo v smeri največjega naklona"
+Has_location(e1,e2)
+Comment:
+
+111	"<e1>Žlebiči</e1> in žlebovi so <e2>žlebaste izjedenine s polkrožnim prečnim prerezom</e2>, ki se oblikujejo na ravnem kompaktnem skalnem površju in potekajo v smeri največjega naklona"
+Has_form(e1,e2)
+Comment:
+
+112	"Žlebiči in <e1>žlebovi</e1> so <e2>žlebaste izjedenine</e2> s polkrožnim prečnim prerezom, ki se oblikujejo na ravnem kompaktnem skalnem površju in potekajo v smeri največjega naklona"
+Genus(e1,e2)
+Comment:
+
+113	"Žlebiči in <e1>žlebovi</e1> so žlebaste izjedenine s polkrožnim prečnim prerezom, ki se oblikujejo <e2>na ravnem kompaktnem skalnem površju</e2> in potekajo v smeri največjega naklona"
+Has_location(e1,e2)
+Comment:
+
+114	"Žlebiči in <e1>žlebovi</e1> so <e2>žlebaste izjedenine s polkrožnim prečnim prerezom</e2>, ki se oblikujejo na ravnem kompaktnem skalnem površju in potekajo v smeri največjega naklona"
+Has_form(e1,e2)
+Comment:
+
+115	"<e1>Erozijski jarki</e1> <e2>nastanejo s kanaliziranjem površinskega toka</e2>, predvsem tam, kjer so že reliefno (naravno) zasnovane linije odtoka, pa tudi ob raznih antropogenih oblikah (npr. izkopih, njivskih brazdah, mejah parcel, poteh in cestah)."
+Has_cause(e1,e2)
+Comment:
+
+116	"<e1>Veter</e1> je <e2>gibanje zraka</e2>, ki nastane zaradi razlik v zračnem tlaku."
+Genus(e1,e2)
+Comment:
+
+117	"<e1>Veter</e1> je gibanje zraka, ki <e2>nastane zaradi razlik v zračnem tlaku</e2>."
+Has_cause(e1,e2)
+Comment:
+
+118	"<e1>Tlačna trdnost</e1> je <e2>odpornost proti tlačni obremenitvi</e2>, ki jo kamnina prenese, preden se zdrobi."
+Genus(e1,e2)
+Comment:
+
+119	"Po prvi definiciji je <e1>spodmol</e1> <e2>prostor pod previsom</e2> v skalovju, po drugi pa kratka vodoravna jama pod previsno steno. kratka"
+Genus(e1,e2)
+Comment:
+
+120	"Po prvi definiciji je <e1>spodmol</e1> prostor pod previsom v skalovju, po drugi pa kratka <e2>vodoravna jama</e2> pod previsno steno. kratka"
+Genus(e1,e2)
+Comment:
+
+121	"Po prvi definiciji je <e1>spodmol</e1> prostor pod previsom v skalovju, po drugi pa <e2>kratka vodoravna jama pod previsno steno</e2>. kratka"
+Has_location(e1,e2)
+Comment:
+
+122	"Po prvi definiciji je <e1>spodmol</e1> <e2>prostor pod previsom v skalovju</e2>, po drugi pa kratka vodoravna jama pod previsno steno. kratka"
+Has_location(e1,e2)
+Comment:
+
+123	"Po prvi definiciji je <e1>spodmol</e1> prostor pod previsom v skalovju, po drugi pa <e2>kratka</e2> vodoravna jama pod previsno steno. <e2>kratka</e2>"
+Has_size(e1,e2)
+Comment:
+
+124	"Večji ali manjši del kraškega polja je <e1>ravnica</e1>, običajno obdelana <e2>zemlja</e2>, ki je največkrat na naplavini ali debeli prsti."
+Genus(e1,e2)
+Comment:
+
+125	"Večji ali manjši del kraškega polja je <e1>ravnica</e1>, običajno obdelana zemlja, ki je največkrat <e2>na naplavini ali debeli prsti</e2>."
+Has_location(e1,e2)
+Comment:
+
+126	"<e1>Odlaganje sige</e1> je <e2>proces</e2>, ki je ravno nasproten koroziji."
+Genus(e1,e2)
+Comment:
+
+127	"<e1>Glaciologija</e1> je raziskava in <e2>preučevanje</e2> ledenikov, ledenih plošč, morskega ledu, sezonskega snega, zamrznjenih tal in vseh drugih naravnih pojavov, ki vključujejo led in njegove učinke na okolje."
+Genus(e1,e2)
+Comment:
+
+128	"Podkategorija te <e1>znanosti</e1> je <e2>astroglaciologija</e2>, ki je nastala po odkritju vodnega ledu na Luni, Evropi, Marsu in Plutonu."
+Genus(e2,e1)
+Comment:
+
+129	"<e1>Spodmol</e1> je definiran tudi kot <e2>previs</e2> na morski, redkeje jezerski obali, ki ga ustvari erozijsko delovanje valov in kot kraška jama."
+Genus(e1,e2)
+Comment:
+
+130	"<e1>Spodmol</e1> je definiran tudi kot previs na morski, redkeje jezerski obali, ki ga ustvari <e2>erozijsko delovanje valov</e2> in kot kraška jama."
+Has_cause(e1,e2)
+Comment:
+
+131	"<e1>Škraplje</e1> so ena izmed najbolj tipičnih površinskih <e2>kraških oblik</e2>, ki jih sestavljajo korozijsko razširjene razpoke ter vmesni bloki."
+Genus(e1,e2)
+Comment:
+
+132	"<e1>Škraplje</e1> so ena izmed najbolj tipičnih površinskih kraških oblik, ki jih sestavljajo <e2>korozijsko razširjene razpoke ter vmesni bloki</e2>."
+Has_form(e1,e2)
+Comment:
+
+133	"<e1>Kopasti vrhovi</e1> so najpogostejši tip <e2>kraške vzpetine</e2>. Gre za višje predele kraškega površja, ki navadno ležijo med zaprtimi kraškimi kotanjami različnih dimenzij, kot so uvale, vrtače in druge manjše globeli."
+Genus(e1,e2)
+Comment:
+
+134	"<e1>Kopasti vrhovi</e1> so najpogostejši tip kraške vzpetine. Gre za višje predele kraškega površja, ki navadno <e2>ležijo med zaprtimi kraškimi kotanjami različnih dimenzij</e2>, kot so uvale, vrtače in druge manjše globeli."
+Has_location(e1,e2)
+Comment:
+
+135	"<e1>Kopasti vrhovi</e1> so najpogostejši tip kraške vzpetine. Gre za <e2>višje predele kraškega površja</e2>, ki navadno ležijo med zaprtimi kraškimi kotanjami različnih dimenzij, kot so uvale, vrtače in druge manjše globeli."
+Has_location(e1,e2)
+Comment:
+
+136	"<e1>Kotliči</e1> so skalnate <e2>globeli</e2> okrogle, podolgovate ali oglate oblike s premerom in globino nekaj metrov ter strmimi do navpičnimi stenami."
+Genus(e1,e2)
+Comment:
+
+137	"<e1>Kotliči</e1> so skalnate globeli okrogle, podolgovate ali oglate oblike s premerom in globino <e2>nekaj metrov</e2> ter strmimi do navpičnimi stenami."
+Has_size(e1,e2)
+Comment:
+
+138	"<e1>Kotliči</e1> so skalnate globeli okrogle, podolgovate ali oglate oblike s premerom in globino nekaj metrov ter <e2>strmimi do navpičnimi stenami</e2>."
+Has_form(e1,e2)
+Comment:
+
+139	"<e1>Kotliči</e1> so skalnate globeli okrogle, podolgovate ali <e2>oglate</e2> oblike s premerom in globino nekaj metrov ter strmimi do navpičnimi stenami."
+Has_form(e1,e2)
+Comment:
+
+140	"<e1>Kotliči</e1> so skalnate globeli okrogle, <e2>podolgovate</e2> ali oglate oblike s premerom in globino nekaj metrov ter strmimi do navpičnimi stenami."
+Has_form(e1,e2)
+Comment:
+
+141	"<e1>Kotliči</e1> so skalnate globeli <e2>okrogle</e2>, podolgovate ali oglate oblike s premerom in globino nekaj metrov ter strmimi do navpičnimi stenami."
+Has_form(e1,e2)
+Comment:
+
+142	"<e1>Kotliči</e1> so <e2>skalnate</e2> globeli okrogle, podolgovate ali oglate oblike s premerom in globino nekaj metrov ter strmimi do navpičnimi stenami."
+Composition_medium(e1,e2)
+Comment:
+
+143	"<e1>Jame</e1> so pogosto opredeljene kot naravne <e2>podzemeljske votline</e2>, ki so prehodne za človeka."
+Genus(e1,e2)
+Comment:
+
+144	"<e1>Jame</e1> so pogosto opredeljene kot naravne podzemeljske votline, ki so <e2>prehodne za človeka</e2>."
+Has_function(e1,e2)
+Comment:
+
+145	"<e1>Vrtače</e1> so običajno krožne do polkrožne <e2>reliefne oblike</e2>, ki se razlikujejo v premeru od nekaj m do 1 km."
+Genus(e1,e2)
+Comment:
+
+146	"<e1>Vrtače</e1> so običajno krožne do polkrožne reliefne oblike, ki se razlikujejo <e2>v premeru od nekaj m do 1 km</e2>."
+Has_size(e1,e2)
+Comment:
+
+147	"<e1>Vrtače</e1> so običajno krožne do <e2>polkrožne</e2> reliefne oblike, ki se razlikujejo v premeru od nekaj m do 1 km."
+Has_form(e1,e2)
+Comment:
+
+148	"<e1>Vrtače</e1> so običajno <e2>krožne</e2> do pol<e2>krožne</e2> reliefne oblike, ki se razlikujejo v premeru od nekaj m do 1 km."
+Has_form(e1,e2)
+Comment:
+
+149	"<e1>Vdolbinice</e1> se pojavljajo kot majhne <e2>izjedenine</e2> v skalni podlagi."
+Genus(e1,e2)
+Comment:
+
+150	"<e1>Vdolbinice</e1> se pojavljajo kot <e2>majhne</e2> izjedenine v skalni podlagi."
+Has_size(e1,e2)
+Comment:
+
+151	"<e1>Vdolbinice</e1> se pojavljajo kot majhne izjedenine <e2>v skalni podlagi</e2>."
+Composition_medium(e1,e2)
+Comment:
+
+152	"<e1>Odlaganje sige</e1> je <e2>proces</e2>, ki je ravno nasproten koroziji. Odlaganje"
+Genus(e1,e2)
+Comment:
+
+153	"<e1>Kraška polja</e1> so največje in gospodarsko najpomembnejše <e2>kotanje</e2> v dinarskem krasu."
+Genus(e1,e2)
+Comment:
+
+154	"<e1>Kraška polja</e1> so največje in <e2>gospodarsko najpomembnejše</e2> kotanje v dinarskem krasu."
+Has_function(e1,e2)
+Comment:
+
+155	"<e1>Suho <e2>kraško polje</e2></e1> je tisto <e2>kraško polje</e2>, ki je brez izvirov ali ponorov, zato ni stalnih ali občasnih vodotokov."
+Genus(e1,e2)
+Comment:
+
+156	"<e1>Suho kraško polje</e1> je tisto kraško polje, ki je brez izvirov ali ponorov, zato <e2>ni stalnih ali občasnih vodotokov</e2>."
+Has_form(e1,e2)
+Comment:
+
+157	"<e1>Suho kraško polje</e1> je tisto kraško polje, ki je <e2>brez izvirov ali ponorov</e2>, zato ni stalnih ali občasnih vodotokov."
+Has_form(e1,e2)
+Comment:
+
+158	"Prisotne so tudi večje <e1>kraške oblike</e1>, kot so uvale in številne <e2>vrtače</e2>."
+Genus(e2,e1)
+Comment:
+
+159	"Prisotne so tudi <e1>večje</e1> kraške oblike, kot so uvale in številne <e2>vrtače</e2>."
+Has_size(e2,e1)
+Comment:
+
+160	"Prisotne so tudi večje <e1>kraške oblike</e1>, kot so <e2>uvale</e2> in številne vrtače."
+Genus(e2,e1)
+Comment:
+
+161	"Prisotne so tudi <e1>večje</e1> kraške oblike, kot so <e2>uvale</e2> in številne vrtače."
+Has_size(e2,e1)
+Comment:
+
+162	"<e1>Kemično preperevanje</e1> je <e2>razgrajevanje kamnine</e2> pod vplivom vode in v njej raztopljenih snovi."
+Genus(e1,e2)
+Comment:
+
+163	"<e1>Kemično preperevanje</e1> je razgrajevanje kamnine <e2>pod vplivom vode in v njej raztopljenih snovi</e2>."
+Has_cause(e1,e2)
+Comment:
+
+164	"<e1>Kraška polja</e1> sodijo med največje <e2>kraške kotanje</e2>."
+Genus(e1,e2)
+Comment:
+
+165	"<e1>Kraška polja</e1> sodijo med <e2>največje</e2> kraške kotanje."
+Has_size(e1,e2)
+Comment:
+
+166	"<e1>Vrtača</e1> je manjša oblika <e2>kraške globeli</e2>, ki je bolj široka kot globoka."
+Genus(e1,e2)
+Comment:
+
+167	"<e1>Vrtača</e1> je manjša oblika kraške globeli, ki je <e2>bolj široka kot globoka</e2>."
+Has_size(e1,e2)
+Comment:
+
+168	"<e1>Kraška polja</e1> so največje oblike <e2>kraških kotanj</e2> na krasu."
+Genus(e1,e2)
+Comment:
+
+169	"<e1>Kraška polja</e1> so največje oblike kraških kotanj <e2>na krasu</e2>."
+Has_location(e1,e2)
+Comment:
+
+170	"<e1>Erozijski jarki</e1> so fluvialna <e2>erozijska oblika</e2>, ki je na proučevanih območjih najpogostejša na pobočjih kotanj."
+Genus(e1,e2)
+Comment:
+
+171	"<e1>Erozijski jarki</e1> so fluvialna erozijska oblika, ki je na proučevanih območjih najpogostejša <e2>na pobočjih kotanj</e2>."
+Has_location(e1,e2)
+Comment:
+
+172	"<e1>Erozijski jarki</e1> so <e2>fluvialna</e2> erozijska oblika, ki je na proučevanih območjih najpogostejša na pobočjih kotanj."
+Has_cause(e1,e2)
+Comment:
+
+173	"V literaturi je <e1>kontaktni kras</e1> največkrat definiran kot <e2>stik med nekarbonatnimi in karbonatnimi kamninami</e2>."
+Genus(e1,e2)
+Comment:
+
+174	"V literaturi je <e1>kontaktni kras</e1> največkrat definiran kot stik med ne<e2>karbonatnimi</e2> in <e2>karbonatnimi</e2> kamninami."
+Composition_medium(e1,e2)
+Comment:
+
+175	"<e1>Fluviokras</e1> tuja literatura opredeljuje kot <e2>površje na karbonatnih kamninah</e2>, kjer so prevladujoče oblike na površju doline, ki so jih oblikovale površinske reke."
+Genus(e1,e2)
+Comment:
+
+176	"<e1>Fluviokras</e1> tuja literatura opredeljuje kot površje na <e2>karbonatnih</e2> kamninah, kjer so prevladujoče oblike na površju doline, ki so jih oblikovale površinske reke."
+Composition_medium(e1,e2)
+Comment:
+
+177	"<e1>Fluviokraško površje</e1> je prehodna <e2>oblika kraškega reliefa</e2>, kjer prevladuje odnašanje materiala in se površje mestoma preoblikuje fluvialno."
+Genus(e1,e2)
+Comment:
+
+178	"<e1>Erozijski jarki</e1> so tipična <e2>fluviokraška oblika</e2>, kjer se zaradi lokalne prevlade mehanskega odtoka materiala površje preoblikuje fluvialno."
+Genus(e1,e2)
+Comment:
+
+179	"<e1>Erozijski jarki</e1> so tipična fluviokraška oblika, kjer se zaradi lokalne prevlade <e2>mehanskega odtoka materiala</e2> površje preoblikuje fluvialno."
+Has_cause(e1,e2)
+Comment:
+
+180	"V literaturi so <e1>ponikve</e1> definirane kot vertikalni <e2>odtoki površinske vode</e2> v podzemlje, kjer je površje delno ali povsem prekrito z naplavino."
+Genus(e1,e2)
+Comment:
+
+181	"V literaturi so <e1>ponikve</e1> definirane kot <e2>vertikalni</e2> odtoki površinske vode v podzemlje, kjer je površje delno ali povsem prekrito z naplavino."
+Has_form(e1,e2)
+Comment:
+
+182	"<e1>Slepe doline</e1> so najbolj značilna <e2>oblika</e2> ponornega kontaktnega krasa."
+Genus(e1,e2)
+Comment:
+
+183	"<e1>Paragenezo</e1> razumemo kot <e2>proces erodiranja in korodiranja</e2> jamskega stropa do gladine podzemne vode ter akumulacije alogenega materiala na dno rova."
+Genus(e1,e2)
+Comment:
+
+184	"Tafon in <e1>niša</e1> (spodmoli) sta dve različni <e2>reliefni obliki</e2>, čeprav naj bi obe obliki nastali z votlinastim preperevanjem. Po drugi strani imamo avtorje, ki spodmole enačijo s tafoni."
+Genus(e1,e2)
+Comment:
+
+185	"Tafon in <e1>niša</e1> (spodmoli) sta dve različni reliefni obliki, čeprav naj bi obe obliki nastali z <e2>votlinastim preperevanjem</e2>. Po drugi strani imamo avtorje, ki spodmole enačijo s tafoni."
+Has_cause(e1,e2)
+Comment:
+
+186	"<e1>Tafon</e1> in niša (spodmoli) sta dve različni <e2>reliefni obliki</e2>, čeprav naj bi obe obliki nastali z votlinastim preperevanjem. Po drugi strani imamo avtorje, ki spodmole enačijo s tafoni."
+Genus(e1,e2)
+Comment:
+
+187	"<e1>Tafon</e1> in niša (spodmoli) sta dve različni reliefni obliki, čeprav naj bi obe obliki nastali z <e2>votlinastim preperevanjem</e2>. Po drugi strani imamo avtorje, ki spodmole enačijo s tafoni."
+Has_cause(e1,e2)
+Comment:
+
+188	"<e1>Geomorfologija</e1> je <e2>veda</e2>, ki razlaga odnose med geomorfnimi procesi in reliefnimi oblikami."
+Genus(e1,e2)
+Comment:
+
+189	"<e1>Geomorfologija</e1> je veda, ki <e2>razlaga odnose med geomorfnimi procesi in reliefnimi oblikami</e2>."
+Has_function(e1,e2)
+Comment:
+
+190	"<e1>Dinarski <e2>kras</e2></e1> je kompletno razvit <e2>kras</e2>, katerega značilnost so velike kraške depresije ali z drugimi besedami kraška polja."
+Genus(e1,e2)
+Comment:
+
+191	"<e1>Zoogena breča</e1> je značilna <e2>kamnina</e2> tega obdobja, ki je nastala predvsem iz ostankov favnističnega izvora."
+Genus(e1,e2)
+Comment:
+
+192	"<e1>Zoogena breča</e1> je značilna kamnina tega obdobja, ki je nastala predvsem iz <e2>ostankov favnističnega izvora</e2>."
+Has_cause(e1,e2)
+Comment:
+
+193	"<e1>Jarkovna erozija</e1> je <e2>globinska erozija</e2>, pri kateri na primer z zdruèvanjem erozijskih žlebičev nastajajo več metrov globoko in več deset metrov dolgi erozijski jarki."
+Genus(e1,e2)
+Comment:
+
+194	"<e1>Plazovitost</e1> je <e2>skladnost</e2> med usmerjenostjo pobočij in vpadom kamninskih plasti."
+Genus(e1,e2)
+Comment:
+
+195	"<e1>Plazovitost</e1> je skladnost med <e2>usmerjenostjo pobočij in vpadom kamninskih plasti</e2>."
+Has_cause(e1,e2)
+Comment:
+
+196	"<e1>Spodmoli</e1> so <e2>vdolbine</e2> v navpičnih stenah pod previsi, ki navadno ne dosegajo dimenzij jam, njihova širina pa je večja od globine."
+Genus(e1,e2)
+Comment:
+
+197	"<e1>Spodmoli</e1> so vdolbine <e2>v navpičnih stenah pod previsi</e2>, ki navadno ne dosegajo dimenzij jam, njihova širina pa je večja od globine."
+Has_location(e1,e2)
+Comment:
+
+198	"<e1>Spodmoli</e1> so vdolbine v navpičnih stenah pod previsi, ki <e2>navadno ne dosegajo dimenzij jam</e2>, njihova širina pa je večja od globine."
+Has_size(e1,e2)
+Comment:
+
+199	"<e1>Dolci</e1> so v Sloveniji značilni za <e2>dolomitna površja</e2>, njihova morfogeneza pa je vezana na delovanje fluviokraških procesov."
+Has_location(e1,e2)
+Comment:
+
+200	"<e1>Dolci</e1> so v Sloveniji značilni za dolomitna površja, njihova morfogeneza pa je vezana na <e2>delovanje fluviokraških procesov</e2>."
+Has_cause(e1,e2)
+Comment:
+
+201	"Dolci, tudi <e1>dolki</e1>, so plitve dolinaste <e2>reliefne oblike</e2> brez površinskega vodnega pretakanja."
+Genus(e1,e2)
+Comment:
+
+202	"Dolci, tudi <e1>dolki</e1>, so <e2>plitve</e2> dolinaste reliefne oblike brez površinskega vodnega pretakanja."
+Has_size(e1,e2)
+Comment:
+
+203	"Dolci, tudi <e1>dolki</e1>, so plitve <e2>dolinaste</e2> reliefne oblike brez površinskega vodnega pretakanja."
+Has_form(e1,e2)
+Comment:
+
+204	"<e1>Dolci</e1>, tudi dolki, so plitve dolinaste <e2>reliefne oblike</e2> brez površinskega vodnega pretakanja."
+Genus(e1,e2)
+Comment:
+
+205	"<e1>Dolci</e1>, tudi dolki, so <e2>plitve</e2> dolinaste reliefne oblike brez površinskega vodnega pretakanja."
+Has_size(e1,e2)
+Comment:
+
+206	"<e1>Dolci</e1>, tudi dolki, so plitve <e2>dolinaste</e2> reliefne oblike brez površinskega vodnega pretakanja."
+Has_form(e1,e2)
+Comment:
+
+207	"<e1>Dolec</e1> je značilna <e2>oblika</e2> dolomitnega površja."
+Genus(e1,e2)
+Comment:
+
+208	"Dolek oziroma <e1>dolec</e1> je <e2>geomorfološka oblika</e2>, ki je zelo sorodna suhi dolini in se od nje razlikuje zgolj po velikosti."
+Genus(e1,e2)
+Comment:
+
+209	"Dolek oziroma <e1>dolec</e1> je geomorfološka oblika, ki je zelo <e2>sorodna suhi dolini</e2> in se od nje razlikuje zgolj po velikosti."
+Has_form(e1,e2)
+Comment:
+
+210	"<e1>Dolek</e1> oziroma dolec je <e2>geomorfološka oblika</e2>, ki je zelo sorodna suhi dolini in se od nje razlikuje zgolj po velikosti."
+Genus(e1,e2)
+Comment:
+
+211	"<e1>Dolek</e1> oziroma dolec je geomorfološka oblika, ki je zelo <e2>sorodna suhi dolini</e2> in se od nje razlikuje zgolj po velikosti."
+Has_form(e1,e2)
+Comment:
+
+212	"V kraški hidrologiji pomeni piezometrični nivo oziroma <e1>nivo podzemne vode</e1> v krasu <e2>navidezno višino vode</e2> v kanalih, ki vodijo proti izviru."
+Genus(e1,e2)
+Comment:
+
+213	"V kraški hidrologiji pomeni <e1>piezometrični nivo</e1> oziroma nivo podzemne vode v krasu <e2>navidezno višino vode</e2> v kanalih, ki vodijo proti izviru."
+Genus(e1,e2)
+Comment:
+
+214	"<e1>Abrazija</e1> je <e2>destrukcijsko delo</e2> morskih in jezerskih valov."
+Genus(e1,e2)
+Comment:
+
+215	"<e1>Abrazija</e1> je destrukcijsko delo <e2>morskih in jezerskih valov</e2>."
+Has_cause(e1,e2)
+Comment:
+
+216	"<e1>Erozija prsti</e1> je oznaka za <e2>proces</e2>, ki povečini prizadene prst."
+Genus(e1,e2)
+Comment:
+
+217	"<e1>Bruhalniki</e1> so <e2>kraški izviri</e2>, ki obdobno bruhajo vodo na površje."
+Genus(e1,e2)
+Comment:
+
+218	"<e1>Bruhalniki</e1> so kraški izviri, ki obdobno <e2>bruhajo vodo na površje</e2>."
+Has_function(e1,e2)
+Comment:
+
+219	"<e1>Korozija</e1> je posledica <e2>večje količine vode v nižjih legah</e2>."
+Has_cause(e1,e2)
+Comment:
+
+220	"<e1>Erozijski jarki</e1> so stalna <e2>reliefna oblika</e2>, pogosta na strmih pobočjih."
+Genus(e1,e2)
+Comment:
+
+221	"<e1>Erozijski jarki</e1> so stalna reliefna oblika, pogosta <e2>na strmih pobočjih</e2>."
+Has_location(e1,e2)
+Comment:
+
+222	"<e1>Mikrožlebiči</e1> so vzporedne, ravno potekajoče podolgovate <e2>vdolbine</e2>, ki se pojavljajo na bolj nagnjeni goli skalni površini."
+Genus(e1,e2)
+Comment:
+
+223	"<e1>Mikrožlebiči</e1> so vzporedne, ravno potekajoče podolgovate vdolbine, ki se pojavljajo na bolj <e2>nagnjeni goli skalni površini</e2>."
+Has_location(e1,e2)
+Comment:
+
+224	"<e1>Mikrožlebiči</e1> so vzporedne, <e2>ravno potekajoče</e2> podolgovate vdolbine, ki se pojavljajo na bolj nagnjeni goli skalni površini."
+Has_form(e1,e2)
+Comment:
+
+225	"<e1>Mikrožlebiči</e1> so vzporedne, ravno potekajoče <e2>podolgovate</e2> vdolbine, ki se pojavljajo na bolj nagnjeni goli skalni površini."
+Has_form(e1,e2)
+Comment:
+
+226	"<e1>Mikrožlebiči</e1> so <e2>vzporedne</e2>, ravno potekajoče podolgovate vdolbine, ki se pojavljajo na bolj nagnjeni goli skalni površini."
+Has_form(e1,e2)
+Comment:
+
+227	"<e1>Korozijske stopničke</e1> so polkrožne kraške <e2>reliefne oblike</e2>, ki se pojavljajo predvsem na golem skalnem površju."
+Genus(e1,e2)
+Comment:
+
+228	"<e1>Korozijske stopničke</e1> so polkrožne kraške reliefne oblike, ki se pojavljajo predvsem na <e2>golem skalnem površju</e2>."
+Has_location(e1,e2)
+Comment:
+
+229	"<e1>Korozijske stopničke</e1> so <e2>polkrožne</e2> kraške reliefne oblike, ki se pojavljajo predvsem na golem skalnem površju."
+Has_form(e1,e2)
+Comment:
+
