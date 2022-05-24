@@ -1,0 +1,231 @@
+hydraulic action@Erosion@Genus
+the energy of running water@Erosion@Has_cause
+function@Basin morphometry@Genus
+piece of ice@iceberg@Genus
+that floats in the Ocean@iceberg@Has_location
+that has broken from an ice shelf@iceberg@Has_cause
+process@Abrasion@Genus
+body of rock@aquifer@Genus
+sediment@aquifer@Genus
+that has sufficient permeability to allow water to flow through it@aquifer@Has_function
+rock or unconsolidated sediment@aquifer@Composition_medium
+sandstone@arenite@Genus
+less than 15% silt and clay@arenite@Composition_medium
+place@periglacial environment@Genus
+water body@bay</e1> is a <e2>water body</e2> having a <e1>bay</e1>mouth less than 24 nautical miles wide and an area that is equal to or greater than the area of a semicircle whose diameter is equal to the width of the <e1>bay@Genus
+system</e2></e1> is a <e2>system@isolated <e2>system</e2>@Genus
+cut off from its surroundings@isolated system@Has_form
+fracture@fault</e1> is a <e2>fracture</e2> along which movement associated with an earthquake has taken place, one side of the <e1>fault@Genus
+weathering</e2></e1> is a term used to describe numerous small pits or alveoli, no more than a few centimetres wide and deep, separated by an intricate network of narrow walls and resembling a honeycomb. <e2>weathering@Honeycomb <e2>weathering</e2>@Genus
+no more than a few centimetres wide and deep@Honeycomb weathering@Has_size
+unloading@Tectonic denudation@Genus
+gravity sliding and spreading@Tectonic denudation@Has_cause
+rock@Permafrost@Genus
+soil@Permafrost@Genus
+remains frozen@Permafrost@Has_cause
+blanket@ground moraine@Genus
+beneath a glacier@ground moraine@Has_location
+mixed glacial sediments - mainly tills and other diamictons@ground moraine@Composition_medium
+ridge@coral reef@Genus
+mound@coral reef@Genus
+living coral polyps@coral reef@Genus
+built of the skeletal remains of generations of coral animals@coral reef@Composition_medium
+islands@atoll@Genus
+ring@atoll@Genus
+of coral reef and small sandy islands@atoll@Composition_medium
+process@Weathering@Genus
+mixture@Soil@Genus
+organic matter@Soil@Composition_medium
+fragment@clast@Genus
+rock or mineral@clast@Genus
+landform</e2></e1> refers to any <e2>landform@preglacial <e2>landform</e2>@Genus
+measure@Clast shape@Genus
+comb@profilometer@Genus
+advance or retreat through the housing when depressed against a rough surface@profilometer@Has_location
+is a@Amino-acid geochronology@Genus
+technique@Amino-acid geochronology@Genus
+relative-age dating@Amino-acid geochronology@Genus
+surface@suture@Genus
+zone@suture@Genus
+separating two non-subductable pieces of crust that are juxtaposed@suture@Has_form
+record</e2></e1> is a <e2>record@paleoseismic <e2>record</e2>@Genus
+because geologic evidence of small and moderate-sized earthquakes is rarely created or preserved near the surface@paleoseismic record@Has_location
+masses of ice@Glaciers@Genus
+large@Glaciers@Has_size
+move slowly under their own weight@Glaciers@Has_cause
+compressed snow@Glaciers@Composition_medium
+intrusions@Sills@Genus
+may cross beds to spread along other bedding planes@Sills@Has_location
+sills@Laccoliths@Genus
+masses@Phacoliths@Genus
+seated in anticlinal crests and synclinal troughs@Phacoliths@Has_location
+lens-shaped@Phacoliths@Has_form
+rock rubble@Blockfields@Genus
+large expanses@Blockfields@Genus
+buckets@Grab samplers@Genus
+segments@Grab samplers@Genus
+drive into the sediment layer and enclose and retain a layer@Grab samplers@Has_location
+sections@Ophiolites@Genus
+earth's oceanic crust and the underlying upper mantle@Ophiolites@Has_location
+continental crustal rocks@Ophiolites@Has_location
+uplifted or emplaced and exposed@Ophiolites@Has_cause
+zones@Collisions@Genus
+belts@Volcanic rift zones@Genus
+aligned volcanic vents and associated magma-induced extensional structures@Volcanic rift zones@Genus
+landforms@Landslides@Genus
+map units@Consociations@Genus
+delineate a single geomorphic process or landform@Consociations@Has_form
+of heavy metals with specific location@Placer deposits@Composition_medium
+rock outcrops@Nunataks@Genus
+ranging from less than a kilometre to hundreds of kilometres in size@Nunataks@Has_size
+outbursts@Jökulhlaups@Genus
+meltwater@Jökulhlaups@Genus
+vents@Fumaroles@Genus
+through which volcanic gases are released at the surface@Fumaroles@Has_function
+locations@Karst springs@Genus
+where groundwater emerges from the limestone@Karst springs@Has_location
+flows across the surface@Karst springs@Has_location
+minerals@Zeolites@Genus
+low-grade metamorphism of volcanic rocks@Zeolites@Has_location
+classification@Geomorphic generation@Genus
+due to process overprinting@Geomorphic generation@Has_cause
+equilibria@dynamic metastable equilibrium@Genus
+in which large jumps across thresholds break in upon small-scale fluctuations about a moving mean@dynamic metastable equilibrium@Has_cause
+material@Tephra@Genus
+pyroclastic@Tephra@Composition_medium
+measure@pH@Genus
+step@Carbonation@Genus
+deposits@Laterite@Genus
+iron and aluminium@Laterite@Composition_medium
+force@Friction@Genus
+that acts against gravity and resists movement@Friction@Has_function
+measure@Drainage density@Genus
+rock barrier@riegel@Genus
+hollow@sea cave@Genus
+in a zone of weakness on a cliff@sea cave@Has_location
+excavated by waves@sea cave@Has_cause
+glacier</e2></e1> is a <e2>glacier@tidewater <e2>glacier</e2>@Genus
+that terminates in the sea@tidewater glacier@Has_location
+unit of length@light year@Genus
+material@Moraine@Genus
+transported by a glacier and then deposited@Moraine@Has_cause
+process</e2> whereas epeirogeny is continental building <e2>process@Orogeny@Genus
+method@Morphometric analysis@Genus
+extracting information from published maps@Morphometric analysis@Has_function
+comb@profilometer@Genus
+advance or retreat through the housing when depressed against a rough surface@profilometer@Has_location
+dating technique@Amino-acid geochronology@Genus
+system@anabranching alluvial river@Genus
+system of mul tiple channels@anabranching alluvial river@Genus
+alluvial islands that divide flows at discharges up to bankfull@anabranching alluvial river@Has_form
+oscillation@earthquake@Genus
+vibration@earthquake@Genus
+surface of the earth@earthquake@Has_location
+sudden release of enormous pressure@earthquake@Has_cause
+branch of geomorphology@Coastal geomorphology@Genus
+series of ocean waves@tsunami@Genus
+measure@Accuracy@Genus
+measure@Magnitude@Genus
+column@mantle plume@Genus
+ascends toward the surface from the lowermantle@mantle plume@Has_location
+banks@Tidal flats@Genus
+exposed at low tide@Tidal flats@Has_location
+mud or sand@Tidal flats@Composition_medium
+sandstones@Greywackes@Genus
+rock fragments and clay minerals@Greywackes@Composition_medium
+depression@Caldera@Genus
+crater@Caldera@Genus
+large@Caldera@Has_size
+powerful volcanic explosion@Caldera@Has_cause
+area@Catchment@Genus
+defined by the surrounding watershed@Catchment@Has_location
+drained by a river@Catchment@Has_cause
+channel@Chute@Genus
+furrows produced by avalanches on hill slopes@Chute@Has_cause
+straits between the mainland and islands@Chute@Has_location
+rivers@Chute@Genus
+rock@Coquina@Genus
+carbonate@Coquina@Composition_medium
+boulder@Corestone@Genus
+surrounded by saprolite@Corestone@Composition_medium
+spheroidal@Corestone@Has_form
+sub-surface weathering of a joint block@Corestone@Has_cause
+unweathered rock@Corestone@Composition_medium
+erosion@Corrasion@Genus
+by the impact of moving debris@Corrasion@Has_cause
+karst</e2></e1> is a type of <e2>karst@Corridor <e2>karst</e2>@Genus
+depression@Daya@Genus
+areas underlain by limestone bedrock or calcrete@Daya@Has_location
+landform@De Geer Moraine@Genus
+small ridges oriented perpendicular to the ice flow direction@De Geer Moraine@Has_form
+pebble@Dreikanter@Genus
+surface in desert regions and periglacial areas@Dreikanter@Has_location
+three distinct facets on its upper surface@Dreikanter@Has_form
+wind abrasion@Dreikanter@Has_cause
+ice</e2></e1> is any type of floating <e2>ice@Drift <e2>ice</e2>@Genus
+has drifted from its point of origin@Drift ice@Has_location
+duricrust@Ferricrete@Genus
+iron-pan or near-surface zone of iron sesquioxide cementation@Ferricrete@Has_location
+inlet@Fiard@Genus
+coastal@Fiard@Has_location
+drowning of an undulating landscape of shallow valleys and low interfluves@Fiard@Has_location
+coast@Foreshore@Genus
+between the lowest low-water line and the average high-water mark@Foreshore@Has_location
+rock outcrop@Aiguille@Genus
+peak@Aiguille@Genus
+sharply pointed@Aiguille@Has_form
+intense frost action@Aiguille@Has_cause
+process@Dissolution@Genus
+mound@Dome dune@Genus
+formed where dune height is inhibited by unobstructed strong winds@Dome dune@Has_cause
+end of a river@Estuary@Has_location
+seaward@Estuary@Has_location
+beach</e2></e1> is a <e2>beach</e2> that is artificially widened and nourishes downdrift <e2>beach@Feeder <e2>beach</e2>@Genus
+artificially widened@Feeder beach@Has_form
+nourishes downdrift beaches by natural littoral currents or forces@Feeder beach@Has_cause
+depression@Flash@Genus
+landform@Floodplain@Genus
+flow regime of the present river@Floodplain@Has_cause
+terrace@Terracette@Genus
+along the contours of a hillslope@Terracette@Has_location
+small@Terracette@Has_size
+step on a hillside@Terracette@Genus
+near parallel series@Terracette@Has_form
+particles@Colloids@Genus
+from 1 to 100 nm@Colloids@Has_size
+organic and mineral substances@Colloids@Composition_medium
+channels@Rills@Genus
+hillside@Rills@Has_location
+few centimetres wide and deep@Rills@Has_size
+tiny@Rills@Has_size
+ephemeral rivulets@Rills@Genus
+hollows@Cirques@Genus
+mountainous terrain@Cirques@Has_location
+armchair-shaped@Cirques@Has_form
+fractures@Lunate features@Genus
+shaped like crescents with the concavity facing the direction of ice flow@Lunate features@Has_form
+ridges of till@Geer moraines@Genus
+small@Geer moraines@Has_size
+roughly parallel@Geer moraines@Has_form
+associated with lakes or former lakes@Geer moraines@Has_location
+ridges of till@washboard moraines@Genus
+small@washboard moraines@Has_size
+roughly parallel@washboard moraines@Has_form
+associated with lakes or former lakes@washboard moraines@Has_location
+landform@Eskers@Genus
+infilling of subglacial or englacial channels or by sedimentation in supraglacial channels@Eskers@Has_cause
+created by subglacial meltwater@Eskers@Has_cause
+ice mounds@Icing blisters@Genus
+groundwater injected at high pressure between icing layers@Icing blisters@Has_cause
+terrain@Thermokarst@Genus
+irregular@Thermokarst@Has_form
+process@Solifluction@Genus
+periglacial@Solifluction@Has_location
+sand@Dunes@Genus
+piecemeal by the wind@Dunes@Has_cause
+loose sand@Dunes@Genus
+depressions@Blowouts@Genus
+deflation of loose sand partly bound by plant roots@Blowouts@Has_cause
+ridges@Tombolos@Genus
+connecting islands to the mainland or islands to islands@Tombolos@Has_location
+beach material@Tombolos@Genus
